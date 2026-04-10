@@ -1,6 +1,6 @@
 # 📰 Anthropic ブログダイジェスト
 
-Anthropic社のブログ記事を、非エンジニアでもわかりやすい日本語で自動要約するサイトです。
+Anthropic社のブログ記事を、非エンジニアでもわかりやすい日本語で自動要約する[サイト](https://n-yoshizawa-xendou.github.io/anthropic-blog-digest/)です。
 
 ## 🔧 仕組み
 
