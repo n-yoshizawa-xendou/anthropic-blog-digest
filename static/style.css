@@ -108,6 +108,12 @@ a:hover {
   scrollbar-width: none;
   -ms-overflow-style: none;
   padding: 2px 0;
+  cursor: grab;
+}
+
+.category-scroll.dragging {
+  cursor: grabbing;
+  user-select: none;
 }
 
 .category-scroll::-webkit-scrollbar {

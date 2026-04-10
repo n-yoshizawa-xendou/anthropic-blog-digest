@@ -127,5 +127,25 @@
       <p>内容の正確性は原文をご確認ください。Claude APIを利用して生成しています。</p>
     </div>
   </footer>
+
+  <script>
+    // ドラッグで横スクロール
+    const el = document.querySelector('.category-scroll');
+    if (el) {
+      let isDown = false, startX, scrollLeft;
+      el.addEventListener('mousedown', e => {
+        isDown = true; el.classList.add('dragging');
+        startX = e.pageX - el.offsetLeft;
+        scrollLeft = el.scrollLeft;
+      });
+      el.addEventListener('mouseleave', () => { isDown = false; el.classList.remove('dragging'); });
+      el.addEventListener('mouseup', () => { isDown = false; el.classList.remove('dragging'); });
+      el.addEventListener('mousemove', e => {
+        if (!isDown) return;
+        e.preventDefault();
+        el.scrollLeft = scrollLeft - (e.pageX - el.offsetLeft - startX);
+      });
+    }
+  </script>
 </body>
 </html>
