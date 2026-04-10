@@ -5,7 +5,7 @@ import math
 import re
 import shutil
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
@@ -19,6 +19,7 @@ OUTPUT_DIR = ROOT_DIR / "docs"
 SITE_TITLE = "Anthropic ブログダイジェスト"
 SITE_DESCRIPTION = "Anthropic社のブログ記事を非エンジニアにもわかりやすい日本語で紹介"
 ARTICLES_PER_PAGE = 10
+JST = timezone(timedelta(hours=9))
 
 # 複合カテゴリを主要カテゴリに正規化するマッピング
 PRIMARY_CATEGORY_MAP = {
@@ -58,6 +59,18 @@ def normalize_category(raw_category: str) -> str:
     return PRIMARY_CATEGORY_MAP.get(first, first)
 
 
+def format_jst(date_str: str) -> str:
+    """ISO 8601 日時文字列を JST yyyy-MM-dd HH:mm 形式に変換する"""
+    if not date_str:
+        return ""
+    try:
+        dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        return dt.astimezone(JST).strftime("%Y-%m-%d %H:%M")
+    except (ValueError, TypeError):
+        # 日付のみ (yyyy-MM-dd) の場合はそのまま返す
+        return date_str
+
+
 def load_articles() -> list[dict]:
     articles_file = DATA_DIR / "articles.json"
     if not articles_file.exists():
@@ -67,6 +80,9 @@ def load_articles() -> list[dict]:
     for article in articles:
         article["category_normalized"] = normalize_category(
             article.get("category", "その他")
+        )
+        article["display_date"] = format_jst(
+            article.get("published") or article.get("lastmod", "")
         )
     # 新しい順にソート
     articles.sort(key=lambda x: x.get("lastmod", x.get("published", "")), reverse=True)
@@ -91,7 +107,7 @@ def generate_site():
             shutil.copy2(f, OUTPUT_DIR / f.name)
 
     articles = load_articles()
-    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    now = datetime.now(JST).strftime("%Y-%m-%d %H:%M")
 
     # 正規化済みカテゴリ一覧を件数付きで生成
     cat_counts = Counter(a["category_normalized"] for a in articles)
