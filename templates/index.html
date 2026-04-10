@@ -19,19 +19,23 @@
   <main class="container">
     {% if categories %}
     <nav class="category-nav">
-      <span class="category-label">カテゴリ:</span>
-      <a href="#" class="category-tag active" data-category="all">すべて</a>
-      {% for cat in categories %}
-      <a href="#" class="category-tag" data-category="{{ cat }}">{{ cat }}</a>
-      {% endfor %}
+      <span class="category-label">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+      </span>
+      <div class="category-scroll">
+        <a href="#" class="category-chip active" data-category="all">すべて<span class="chip-count">{{ total_count }}</span></a>
+        {% for cat in categories %}
+        <a href="#" class="category-chip" data-category="{{ cat.name }}">{{ cat.name }}<span class="chip-count">{{ cat.count }}</span></a>
+        {% endfor %}
+      </div>
     </nav>
     {% endif %}
 
     <div class="article-list">
       {% for article in articles %}
-      <article class="article-card" data-category="{{ article.category | default('その他') }}">
+      <article class="article-card" data-category="{{ article.category_normalized | default('その他') }}">
         <div class="article-meta">
-          <span class="article-category">{{ article.category | default('その他') }}</span>
+          <span class="article-category">{{ article.category_normalized | default('その他') }}</span>
           <time>{{ article.published or article.lastmod }}</time>
         </div>
         <h2 class="article-title">
@@ -127,11 +131,11 @@
   </footer>
 
   <script>
-    document.querySelectorAll('.category-tag').forEach(tag => {
+    document.querySelectorAll('.category-chip').forEach(tag => {
       tag.addEventListener('click', e => {
         e.preventDefault();
         const cat = tag.dataset.category;
-        document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
+        document.querySelectorAll('.category-chip').forEach(t => t.classList.remove('active'));
         tag.classList.add('active');
         document.querySelectorAll('.article-card').forEach(card => {
           card.style.display = (cat === 'all' || card.dataset.category === cat) ? '' : 'none';
