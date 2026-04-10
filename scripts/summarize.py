@@ -10,7 +10,7 @@ import anthropic
 from fetch_articles import find_new_articles, load_existing_articles, save_articles
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-MODEL = "claude-sonnet-4-5-20250514"
+MODEL = "claude-3-5-sonnet-latest"
 
 SYSTEM_PROMPT = """\
 あなたはテクノロジーニュースの翻訳・要約の専門家です。
