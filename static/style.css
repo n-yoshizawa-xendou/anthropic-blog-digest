@@ -154,6 +154,12 @@ a:hover {
   opacity: 0.8;
 }
 
+.filter-status {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: 16px;
+}
+
 /* ===== Article Card ===== */
 .article-list {
   display: flex;

@@ -89,6 +89,50 @@ def load_articles() -> list[dict]:
     return articles
 
 
+def generate_paginated_pages(
+    template, articles, base_output_dir, base_url_prefix, site_root,
+    categories, category_data, total_all, active_category, now,
+):
+    """記事リストをページネーション付きで生成する"""
+    total_pages = max(1, math.ceil(len(articles) / ARTICLES_PER_PAGE))
+
+    for page_num in range(1, total_pages + 1):
+        start = (page_num - 1) * ARTICLES_PER_PAGE
+        end = start + ARTICLES_PER_PAGE
+        page_articles = articles[start:end]
+
+        if page_num == 1:
+            out_file = base_output_dir / "index.html"
+            # base_path: ルートからの相対パス（CSS等の参照用）
+            depth = out_file.parent.relative_to(OUTPUT_DIR).parts
+            base_path = "../" * len(depth) if depth else ""
+        else:
+            page_dir = base_output_dir / "page" / str(page_num)
+            page_dir.mkdir(parents=True, exist_ok=True)
+            out_file = page_dir / "index.html"
+            depth = out_file.parent.relative_to(OUTPUT_DIR).parts
+            base_path = "../" * len(depth) if depth else ""
+
+        # ページネーションURL生成用のプレフィックス（ルートからの相対）
+        page_html = template.render(
+            site_title=SITE_TITLE,
+            site_description=SITE_DESCRIPTION,
+            articles=page_articles,
+            categories=category_data,
+            updated_at=now,
+            total_count=len(articles),
+            total_all=total_all,
+            current_page=page_num,
+            total_pages=total_pages,
+            base_path=base_path,
+            page_url_prefix=base_url_prefix,
+            active_category=active_category,
+        )
+        out_file.write_text(page_html, encoding="utf-8")
+
+    return total_pages
+
+
 def generate_site():
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATES_DIR)),
@@ -114,37 +158,39 @@ def generate_site():
     categories = sorted(cat_counts.keys())
     category_data = [{"name": c, "count": cat_counts[c]} for c in categories]
 
-    # ページネーション
-    total_pages = max(1, math.ceil(len(articles) / ARTICLES_PER_PAGE))
-
     index_template = env.get_template("index.html")
-    for page_num in range(1, total_pages + 1):
-        start = (page_num - 1) * ARTICLES_PER_PAGE
-        end = start + ARTICLES_PER_PAGE
-        page_articles = articles[start:end]
 
-        # ページ1は index.html、2以降は page/N/index.html
-        if page_num == 1:
-            base_path = ""
-            out_file = OUTPUT_DIR / "index.html"
-        else:
-            base_path = f"../../"
-            page_dir = OUTPUT_DIR / "page" / str(page_num)
-            page_dir.mkdir(parents=True, exist_ok=True)
-            out_file = page_dir / "index.html"
+    # メインページ（全記事）
+    total_pages = generate_paginated_pages(
+        template=index_template,
+        articles=articles,
+        base_output_dir=OUTPUT_DIR,
+        base_url_prefix="",
+        site_root="",
+        categories=categories,
+        category_data=category_data,
+        total_all=len(articles),
+        active_category="all",
+        now=now,
+    )
 
-        page_html = index_template.render(
-            site_title=SITE_TITLE,
-            site_description=SITE_DESCRIPTION,
-            articles=page_articles,
-            categories=category_data,
-            updated_at=now,
-            total_count=len(articles),
-            current_page=page_num,
-            total_pages=total_pages,
-            base_path=base_path,
+    # カテゴリ別ページ
+    for cat_name in categories:
+        cat_articles = [a for a in articles if a["category_normalized"] == cat_name]
+        cat_dir = OUTPUT_DIR / "category" / cat_name
+        cat_dir.mkdir(parents=True, exist_ok=True)
+        generate_paginated_pages(
+            template=index_template,
+            articles=cat_articles,
+            base_output_dir=cat_dir,
+            base_url_prefix=f"category/{cat_name}/",
+            site_root="../../",
+            categories=categories,
+            category_data=category_data,
+            total_all=len(articles),
+            active_category=cat_name,
+            now=now,
         )
-        out_file.write_text(page_html, encoding="utf-8")
 
     # 各記事ページ
     article_template = env.get_template("article.html")
