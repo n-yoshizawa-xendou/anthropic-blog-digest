@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site_title }}</title>
+  <meta name="description" content="{{ site_description }}">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">📰 {{ site_title }}</h1>
+      <p class="site-description">{{ site_description }}</p>
+      <p class="site-meta">{{ total_count }}件の記事 ・ 最終更新: {{ updated_at }}</p>
+    </div>
+  </header>
+
+  <main class="container">
+    {% if categories %}
+    <nav class="category-nav">
+      <span class="category-label">カテゴリ:</span>
+      <a href="#" class="category-tag active" data-category="all">すべて</a>
+      {% for cat in categories %}
+      <a href="#" class="category-tag" data-category="{{ cat }}">{{ cat }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
+
+    <div class="article-list">
+      {% for article in articles %}
+      <article class="article-card" data-category="{{ article.category | default('その他') }}">
+        <div class="article-meta">
+          <span class="article-category">{{ article.category | default('その他') }}</span>
+          <time>{{ article.published or article.lastmod }}</time>
+        </div>
+        <h2 class="article-title">
+          <a href="articles/{{ article.slug }}/">{{ article.title_ja }}</a>
+        </h2>
+        <p class="article-summary">{{ article.summary[:200] }}{% if article.summary|length > 200 %}…{% endif %}</p>
+        <div class="article-points">
+          {% for point in article.points[:3] %}
+          <span class="point">✅ {{ point }}</span>
+          {% endfor %}
+        </div>
+        <div class="article-footer">
+          <a href="articles/{{ article.slug }}/" class="read-more">詳しく読む →</a>
+          <a href="{{ article.url }}" class="original-link" target="_blank" rel="noopener">原文 ↗</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    {% if not articles %}
+    <div class="empty-state">
+      <p>📭 まだ記事がありません。次回の更新をお待ちください。</p>
+    </div>
+    {% endif %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>このサイトは <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic社のブログ</a> を自動翻訳・要約したものです。</p>
+      <p>内容の正確性は原文をご確認ください。Claude APIを利用して生成しています。</p>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelectorAll('.category-tag').forEach(tag => {
+      tag.addEventListener('click', e => {
+        e.preventDefault();
+        const cat = tag.dataset.category;
+        document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
+        tag.classList.add('active');
+        document.querySelectorAll('.article-card').forEach(card => {
+          card.style.display = (cat === 'all' || card.dataset.category === cat) ? '' : 'none';
+        });
+      });
+    });
+  </script>
+</body>
+</html>

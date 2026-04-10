@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ article.title_ja }} - {{ site_title }}</title>
+  <meta name="description" content="{{ article.summary[:160] }}">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="../../" class="back-link">← {{ site_title }} に戻る</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="article-detail">
+      <div class="article-meta">
+        <span class="article-category">{{ article.category | default('その他') }}</span>
+        <time>{{ article.published or article.lastmod }}</time>
+      </div>
+
+      <h1 class="article-detail-title">{{ article.title_ja }}</h1>
+
+      <p class="original-title">原題: {{ article.title_original }}</p>
+
+      <section class="article-section">
+        <h2>📝 要約</h2>
+        <p class="article-body">{{ article.summary }}</p>
+      </section>
+
+      {% if article.points %}
+      <section class="article-section">
+        <h2>📌 ポイント</h2>
+        <ul class="points-list">
+          {% for point in article.points %}
+          <li>{{ point }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+      {% if article.analogy %}
+      <section class="article-section analogy-section">
+        <h2>💡 わかりやすく言うと…</h2>
+        <p class="analogy-text">{{ article.analogy }}</p>
+      </section>
+      {% endif %}
+
+      <div class="article-actions">
+        <a href="{{ article.url }}" class="btn btn-primary" target="_blank" rel="noopener">原文を読む（英語） ↗</a>
+        <a href="../../" class="btn btn-secondary">← 記事一覧に戻る</a>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>この記事は <a href="{{ article.url }}" target="_blank" rel="noopener">Anthropicの原文</a> をClaude AIが要約・翻訳したものです。</p>
+      <p>内容の正確性は原文をご確認ください。</p>
+    </div>
+  </footer>
+</body>
+</html>
