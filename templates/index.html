@@ -129,12 +129,13 @@
   </footer>
 
   <script>
-    // ドラッグで横スクロール
+    // ドラッグで横スクロール（ドラッグ中はリンク遷移を抑止）
     const el = document.querySelector('.category-scroll');
     if (el) {
-      let isDown = false, startX, scrollLeft;
+      let isDown = false, hasMoved = false, startX, scrollLeft;
       el.addEventListener('mousedown', e => {
-        isDown = true; el.classList.add('dragging');
+        isDown = true; hasMoved = false;
+        el.classList.add('dragging');
         startX = e.pageX - el.offsetLeft;
         scrollLeft = el.scrollLeft;
       });
@@ -142,9 +143,14 @@
       el.addEventListener('mouseup', () => { isDown = false; el.classList.remove('dragging'); });
       el.addEventListener('mousemove', e => {
         if (!isDown) return;
+        const dx = e.pageX - el.offsetLeft - startX;
+        if (Math.abs(dx) > 3) hasMoved = true;
         e.preventDefault();
-        el.scrollLeft = scrollLeft - (e.pageX - el.offsetLeft - startX);
+        el.scrollLeft = scrollLeft - dx;
       });
+      el.addEventListener('click', e => {
+        if (hasMoved) e.preventDefault();
+      }, true);
     }
   </script>
 </body>
