@@ -4,7 +4,13 @@ on:
   schedule:
     # 毎日 UTC 15:00 (JST 00:00) に実行
     - cron: '0 15 * * *'
-  workflow_dispatch: # 手動実行も可能
+  workflow_dispatch:
+    inputs:
+      article_limit:
+        description: '取得する記事数'
+        required: false
+        default: '5'
+        type: string
 
 permissions:
   contents: write
@@ -35,7 +41,7 @@ jobs:
         working-directory: scripts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python summarize.py 5
+        run: python summarize.py ${{ github.event.inputs.article_limit || '5' }}
 
       - name: Generate static site
         working-directory: scripts
