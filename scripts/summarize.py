@@ -73,16 +73,17 @@ URL: {article['url']}
 
 def process_new_articles(limit: int = 5) -> int:
     """新しい記事を取得・要約してdata/articles.jsonに保存"""
+    articles = find_new_articles(limit=limit)
+
+    if not articles:
+        print("No new articles found. Skipping API call.")
+        return 0
+
     if not ANTHROPIC_API_KEY:
         print("ERROR: ANTHROPIC_API_KEY is not set", file=sys.stderr)
         sys.exit(1)
 
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    articles = find_new_articles(limit=limit)
-
-    if not articles:
-        print("No new articles found.")
-        return 0
 
     existing = load_existing_articles()
     processed = 0
