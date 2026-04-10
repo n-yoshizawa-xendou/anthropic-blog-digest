@@ -208,6 +208,10 @@ a:hover {
   color: var(--color-text);
 }
 
+.article-title a:visited {
+  color: var(--color-text-muted);
+}
+
 .article-title a:hover {
   color: var(--color-link);
   text-decoration: none;
