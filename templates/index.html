@@ -45,11 +45,6 @@
           <a href="{{ base_path }}articles/{{ article.slug }}/">{{ article.title_ja }}</a>
         </h2>
         <p class="article-summary">{{ article.summary[:200] }}{% if article.summary|length > 200 %}…{% endif %}</p>
-        <div class="article-points">
-          {% for point in article.points[:3] %}
-          <span class="point">✅ {{ point }}</span>
-          {% endfor %}
-        </div>
         <div class="article-footer">
           <a href="{{ base_path }}articles/{{ article.slug }}/" class="read-more">詳しく読む →</a>
           <a href="{{ article.url }}" class="original-link" target="_blank" rel="noopener">原文 ↗</a>
