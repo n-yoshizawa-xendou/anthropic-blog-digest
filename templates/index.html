@@ -58,29 +58,62 @@
     {% endif %}
 
     {% if total_pages > 1 %}
-    <nav class="pagination">
+    <nav class="pagination" aria-label="ページナビゲーション">
       {% if current_page > 1 %}
-      <a href="{{ base_path }}{% if current_page == 2 %}{% else %}page/{{ current_page - 1 }}/{% endif %}" class="pagination-link pagination-prev">← 前へ</a>
+      <a href="{{ base_path }}{% if current_page == 2 %}{% else %}page/{{ current_page - 1 }}/{% endif %}" class="pg-arrow pg-prev" aria-label="前のページ">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+      </a>
       {% else %}
-      <span class="pagination-link pagination-prev disabled">← 前へ</span>
+      <span class="pg-arrow pg-prev disabled" aria-hidden="true">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+      </span>
       {% endif %}
 
-      <div class="pagination-numbers">
-        {% for p in range(1, total_pages + 1) %}
+      <div class="pg-numbers">
+        {# 常に1ページ目を表示 #}
+        {% if current_page == 1 %}
+        <span class="pg-num active">1</span>
+        {% else %}
+        <a href="{{ base_path }}" class="pg-num">1</a>
+        {% endif %}
+
+        {# 左側の省略 #}
+        {% if current_page > 3 %}
+        <span class="pg-ellipsis">…</span>
+        {% endif %}
+
+        {# 前後のページ #}
+        {% for p in range([2, current_page - 1] | max, [current_page + 2, total_pages] | min + 1) %}
           {% if p == current_page %}
-          <span class="pagination-link active">{{ p }}</span>
-          {% elif p == 1 %}
-          <a href="{{ base_path }}" class="pagination-link">{{ p }}</a>
+          <span class="pg-num active">{{ p }}</span>
           {% else %}
-          <a href="{{ base_path }}page/{{ p }}/" class="pagination-link">{{ p }}</a>
+          <a href="{{ base_path }}page/{{ p }}/" class="pg-num">{{ p }}</a>
           {% endif %}
         {% endfor %}
+
+        {# 右側の省略 #}
+        {% if current_page < total_pages - 2 %}
+        <span class="pg-ellipsis">…</span>
+        {% endif %}
+
+        {# 常に最終ページを表示 #}
+        {% if total_pages > 1 %}
+          {% if current_page == total_pages %}
+          <span class="pg-num active">{{ total_pages }}</span>
+          {% else %}
+          <a href="{{ base_path }}page/{{ total_pages }}/" class="pg-num">{{ total_pages }}</a>
+          {% endif %}
+        {% endif %}
       </div>
 
       {% if current_page < total_pages %}
-      <a href="{{ base_path }}page/{{ current_page + 1 }}/" class="pagination-link pagination-next">次へ →</a>
+      <a href="{{ base_path }}page/{{ current_page + 1 }}/" class="pg-arrow pg-next" aria-label="次のページ">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </a>
       {% else %}
-      <span class="pagination-link pagination-next disabled">次へ →</span>
+      <span class="pg-arrow pg-next disabled" aria-hidden="true">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </span>
       {% endif %}
     </nav>
     {% endif %}
