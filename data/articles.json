@@ -2043,5 +2043,104 @@
     "analogy": "これは、レストランチェーンが大量仕入れで安い価格を交渉して供給者から仕入れるのと似ています。GSAは政府機関向けの『大口購入窓口』のような役割で、複数の政府機関が共同で購入することで、個別に交渉するより簡単で安い価格でClaudeが手に入るようになったのです。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "our-framework-for-developing-safe-and-trustworthy-agents": {
+    "slug": "our-framework-for-developing-safe-and-trustworthy-agents",
+    "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
+    "title_original": "Our framework for developing safe and trustworthy agents",
+    "title_ja": "安全で信頼できるAIエージェント開発のためのAnthropicの枠組み",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-08-05T20:35:14.000Z",
+    "summary": "Anthropicは、自律的にタスクを遂行するAIエージェント（AI仲間）の安全な開発に向けた5つの原則を発表しました。従来のAIアシスタントと異なり、エージェントは「結婚式の計画」や「会議資料の作成」など、複雑なプロジェクトを独立して完結できます。しかし自動化の便利さと同時に、人間が制御を失うリスクがあります。そこでAnthropicは、人間が最終的な決定権を保つこと、エージェントの行動を透明にすること、人間の価値観に合わせること、プライバシーを守ること、サイバー攻撃から保護することの5原則を提唱しています。これらは業界全体の標準づくりに貢献し、エージェント技術が職場や教育、医療などで安全に活用される基盤となることを目指しています。",
+    "points": [
+      "AIエージェントは自律的にタスクを実行できる高度なAIで、企業の業務効率化に活用され始めている",
+      "人間の最終的な制御権を保ちつつ、エージェントの自律性を活かすバランスが重要",
+      "エージェントの判断過程を透明にし、人間が介入・修正できる設計が必要",
+      "プライバシー保護とサイバー攻撃対策を含む包括的なセキュリティが不可欠",
+      "Anthropicはこれら原則を標準として業界全体に広げることを目指している"
+    ],
+    "analogy": "AIエージェントは、優秀な秘書に例えられます。秘書は多くのタスクを自分で判断して処理できますが、重要な決定の前には報告を受け、雇用主が最終承認を下します。同時に秘書の行動プロセスを上司が理解でき、問題があれば指示を変更できることが信頼関係を生みます。",
+    "category": "AI技術",
+    "summarized": true
+  },
+  "claude-gov-models-for-u-s-national-security-customers": {
+    "slug": "claude-gov-models-for-u-s-national-security-customers",
+    "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+    "title_original": "Claude Gov models for U.S. national security customers",
+    "title_ja": "米国国防機関向け専用AI「Claude Gov」モデルの提供開始",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-07-30T22:58:04.000Z",
+    "summary": "Anthropic社は、米国の国家安全保障機関向けに専用設計したAI「Claude Gov」モデルを発表しました。このモデルは、機密情報の取り扱い、防衛・情報分析、言語処理、サイバーセキュリティ分析など、政府機関の特殊なニーズに対応するよう最適化されています。すでに最高レベルの国家安全保障機関で導入されており、利用は機密環境で業務に当たる職員に限定されています。同社の厳格な安全性テストに合格し、責任あるAI開発という企業方針を保ちながら、戦略立案から脅威評価まで幅広い用途で活用できるように設計されています。",
+    "points": [
+      "米国の国防・情報機関向けに特別に開発された専用AIモデル「Claude Gov」が利用可能に",
+      "機密情報の取り扱いに優れ、防衛・情報分析やサイバーセキュリティ領域での高い性能を実現",
+      "政府顧客からの実際のニーズに基づいて設計され、厳格な安全性テストに合格済み",
+      "戦略立案、作戦支援、情報分析、脅威評価など幅広い政府機関の業務に対応"
+    ],
+    "analogy": "通常のAIが一般向けの「乗用車」だとしたら、Claude Govは政府機関の特殊な任務に対応した「装甲車」のようなもの。機密情報という特殊な「荷物」を安全に運び、防衛・情報分析といった複雑な「悪路」での高い性能が求められる用途に特化して設計されています。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "investing-in-energy-to-secure-america-s-ai-future": {
+    "slug": "investing-in-energy-to-secure-america-s-ai-future",
+    "url": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
+    "title_original": "Investing in energy to secure America's AI future",
+    "title_ja": "アメリカのAI未来を守るためのエネルギー投資",
+    "description": "Energy is central to winning the AI race and we need to ensure that America has the necessary infrastructure to maintain its lead. The importance of building this infrastructure goes beyond just powering data centers—the country that controls the energy to train and deploy frontier AI models will shape the future of global innovation, economic competitiveness, and democratic values.",
+    "published": "",
+    "lastmod": "2025-07-23T18:29:19.000Z",
+    "summary": "Anthropic社は、アメリカがAI技術競争で優位を保つには、安定した電力供給とそれを支える現代的な電力網が不可欠だと主張しています。AI技術は膨大な電力を消費するため、エネルギーインフラの整備は単なるデータセンター運営を超えた、国家的な競争力や民主的価値を左右する重要な課題です。同社のCEOはカーネギーメロン大学での会議に出席し、2,000万ドルを投資することを発表しました。資金はAIを活用した電力網管理の研究に100万ドル、中高生向けのサイバーセキュリティ教育プログラム「picoCTF」に100万ドルが充てられます。これらの投資を通じて、アメリカはAI産業の雇用創出とエネルギー自立を実現できると考えています。",
+    "points": [
+      "AI競争に勝つためには、電力供給と電力網の近代化が必須",
+      "エネルギーインフラの整備は経済競争力や民主的価値に影響する",
+      "カーネギーメロン大学に200万ドル投資（エネルギー研究と人材育成）",
+      "AIは排出削減やクリーンエネルギー革新を支援するツールとなる可能性がある",
+      "政府・産業・コミュニティとの協力が、米国のAI主導を支える基盤となる"
+    ],
+    "analogy": "AIのエネルギー問題は、オリンピック選手が試合に勝つには良い練習施設が必要なのと同じです。最新のAI技術を開発・運用するには、膨大な電力が必要であり、それを安定して供給できるインフラがなければ、いくら優秀なAI研究者がいても、その力を発揮できません。電力こそが、AIという『選手』を育てる『練習施設』なのです。",
+    "category": "企業ニュース、パートナーシップ、政策",
+    "summarized": true
+  },
+  "our-approach-to-understanding-and-addressing-ai-harms": {
+    "slug": "our-approach-to-understanding-and-addressing-ai-harms",
+    "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
+    "title_original": "Understanding and Addressing AI Harms",
+    "title_ja": "AIの潜在的な危害を理解し対策する包括的なアプローチ",
+    "description": "Learn about Anthropic's comprehensive framework for identifying, classifying, and mitigating potential harms from AI systems, ensuring responsible development of advanced AI technology.",
+    "published": "",
+    "lastmod": "2025-07-23T18:04:25.000Z",
+    "summary": "Anthropic社がAIシステムから生じる可能性のある幅広い危害に対処するための新しい枠組みを発表しました。生物学的脅威などの極端なシナリオから、児童安全やデマ、詐欺といった重要な懸念まで、複数の次元（身体的、心理的、経済的、社会的、個人の自由に関する影響）から潜在的な危害を評価します。同社は使用ポリシーの策定、事前・事後の評価、悪用検知技術、厳格な対応を組み合わせてリスクを管理しています。例えば、コンピュータ操作機能の開発では、銀行詐欺やフィッシング詐欺の可能性を考慮し、安全性を保ちながら有用性を維持するバランスを取っています。このアプローチは継続的に進化し、業界全体との協力を求めています。",
+    "points": [
+      "AIの危害を5つの基本次元（身体的・心理的・経済的・社会的影響と個人の自由）で体系的に評価する枠組みを構築",
+      "各危害の可能性、規模、対象人口、継続期間などを考慮して、現実的な影響を判断",
+      "使用ポリシー、事前評価、不正検知、強制執行など多層的な対策で危害を緩和",
+      "コンピュータ操作やモデルの応答範囲など、新機能ごとに危害リスクを詳細に分析して対策を実装",
+      "アプローチは進化途上であり、研究者や業界パートナーとの協力を歓迎"
+    ],
+    "analogy": "飲食店の営業許可取得のようなものです。単に『営業できるか』だけでなく、衛生面、顧客の安全、地域への影響、従業員の権利など複数の観点からチェックして、安全を保ちながら営業を続けるようなイメージです。同様にAnthropicは、AIが複数の角度で何か悪い影響を及ぼさないか調べ、対策を講じています。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic-s-recommendations-ostp-u-s-ai-action-plan": {
+    "slug": "anthropic-s-recommendations-ostp-u-s-ai-action-plan",
+    "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
+    "title_original": "Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan",
+    "title_ja": "Anthropic、米国AI行動計画に向けた提言を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-07-23T18:04:22.000Z",
+    "summary": "AI安全技術の研究企業Anthropicは、ホワイトハウスのAI行動計画に関する提言を発表しました。同社CEOは2026年後半から2027年初頭に、ノーベル賞受賞者レベルの知能を持ち、インターネット接続や物理世界との交互作用が可能な高性能AI（「強力なAI」）が出現すると予想しています。米国がこの技術的リーダーシップを維持するため、Anthropicは6つの重点領域を提言：①国家安全保障テスト体制の整備、②半導体輸出規制の強化、③AI研究施設のセキュリティ強化、④2027年までに50ギガワット追加の電力インフラ構築、⑤政府機関へのAI導入促進、⑥経済への大規模な影響への準備。これらは技術革新と安全性のバランスを取ることを目指しています。",
+    "points": [
+      "Anthropicは2026年後半～2027年初頭に、人間レベル以上の知能を持つ強力なAIが出現すると予想している",
+      "米国の技術的競争力維持には、国家安全保障テスト、輸出規制強化、施設セキュリティ向上が必要",
+      "AI開発継続には莫大な電力が必要で、2027年までに50ギガワット追加の電力インフラ構築を提言",
+      "政府機関へのAI導入とAIによる経済的影響への準備も重要な課題として指摘",
+      "技術革新の推進と安全性リスクの軽減のバランスが重要"
+    ],
+    "analogy": "高性能なAIの到来は、昔の電力インフラ整備と似ています。電気が世の中を変えた時代に、発電所や送電網がなければ恩恵を受けられなかったように、これからのAI時代には十分な電力と堅牢なセキュリティ体制があって初めて、AIの恩恵を活かしながらリスクを管理できるということです。",
+    "category": "政策提言",
+    "summarized": true
   }
 }
