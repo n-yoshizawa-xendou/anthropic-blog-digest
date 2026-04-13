@@ -2241,5 +2241,105 @@
     "analogy": "米国のコンピュータチップ優位性は、スポーツのハンディキャップマッチのようなもの。古いチップで最新チップと同じ結果を出そうとすると、10倍のエネルギー（コスト）が必要になります。規制によって米国企業は新型ハンディキャップ最小の条件で競争し、競争相手は古い装備で戦わざるを得なくなるわけです。",
     "category": "パートナーシップ・政策提言",
     "summarized": true
+  },
+  "activating-asl3-protections": {
+    "slug": "activating-asl3-protections",
+    "url": "https://www.anthropic.com/news/activating-asl3-protections",
+    "title_original": "Activating AI Safety Level 3 protections",
+    "title_ja": "Anthropic、AI安全レベル3の保護対策を開始 — Claude Opus 4で強化されたセキュリティを導入",
+    "description": "We have activated the AI Safety Level 3 (ASL-3) Deployment and Security Standards described in Anthropic’s Responsible Scaling Policy (RSP) in conjunction with launching Claude Opus 4. The ASL-3 Security Standard involves increased internal security measures that make it harder to steal model weights, while the corresponding Deployment Standard covers a narrowly targeted set of deployment measures designed to limit the risk of Claude being misused specifically for the development or acquisition of chemical, biological, radiological, and nuclear (CBRN) weapons.",
+    "published": "",
+    "lastmod": "2025-07-23T18:03:34.000Z",
+    "summary": "Anthropic社は、新型AI「Claude Opus 4」の公開にあたり、「AI安全レベル3（ASL-3）」という強化された保護対策を導入しました。これは、AIの知能を司る「モデルの重み」の盗難を防ぐセキュリティ強化と、化学兵器・生物兵器・放射能兵器・核兵器（CBRN）の開発に悪用されるリスクを減らすための制限措置です。具体的には、特殊な監視システムで有害な質問をブロックし、不正アクセス対策として通信量を制限するなど、複数の防御層を用意しました。同社は、このモデルが本当にレベル3の対策が必要かまだ確定していませんが、進化のペースが速いため「念のため」に先制的に導入したと説明しています。AIが高度になるにつれて、より強力な保護が必要になるという同社の基本方針に基づいた判断です。",
+    "points": [
+      "Claude Opus 4に「AI安全レベル3」の強化保護を導入し、モデルの盗難とCBRN兵器開発への悪用リスクを低減",
+      "「憲法的分類器」という実時間監視システムで有害な質問をブロックし、バグ報奨金プログラムで防御の脆弱性を発見",
+      "モデルの重みの流出を防ぐため、通信データの流量制限など100以上のセキュリティ対策を実装",
+      "必要性を確定していないが、急速なAI進化に対する「念のため」の先制的対策として展開",
+      "今後の経験から学びながら、継続的に防御システムを改善していく予定"
+    ],
+    "analogy": "これは家の防犯対策に例えるなら、まだ空き家狙いの被害が出ていない新しい地域でも、窓の鍵を強化し、防犯カメラを設置し、警備会社と契約するようなもの。将来のリスクに備えて、被害が発生する前から準備するという考え方です。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and": {
+    "slug": "lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
+    "url": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
+    "title_original": "Claude for Enterprise Powers LLNL Research",
+    "title_ja": "ローレンス・リバモア国立研究所がClaudeを1万人の科学者に導入",
+    "description": "Lawrence Livermore National Laboratory expands Claude for Enterprise access to 10,000 scientists, accelerating breakthroughs in energy, and national security research.",
+    "published": "",
+    "lastmod": "2025-07-23T18:03:21.000Z",
+    "summary": "米国の主要研究機関であるローレンス・リバモア国立研究所（LLNL）が、AI助手「Claude for Enterprise」の利用を拡大し、約1万人の科学者や研究者が利用できるようにしました。この拡大により、核抑止力、エネルギー、材料科学などの重要な研究分野でAIの力を活用できるようになります。Claudeは複雑なデータセットの処理、仮説の生成、研究方向の探索を支援し、セキュリティ機能も備えています。LLNLの科学者たちは、材料科学から計算生物学まで様々な分野でClaudeを活用し、特に融合エネルギー研究や核シミュレーション分析を加速させています。",
+    "points": [
+      "ローレンス・リバモア国立研究所の約1万人の科学者がAI助手Claudeにアクセス可能に",
+      "複数の分野での研究を加速——核抑止、エネルギー安全保障、材料科学、計算生物学など",
+      "Claudeは数百のドキュメントや10万行以上のプログラムコードを一度に処理でき、政府機関向けのセキュリティ機能を搭載",
+      "融合エネルギーや核シミュレーション、新型材料開発など、国家的に重要な研究を効率化",
+      "他のエネルギー省傘下の研究機関も学べるモデルケースとなる"
+    ],
+    "analogy": "Claudeが科学者のためにできることは、優秀な研究助手が論文や膨大なデータを読み込んで、「この分野では～という可能性がありますね」と示唆してくれるようなもの。科学者はその助言をもとに、より高度な判断と創造的な研究に集中できるようになります。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "advancing-claude-for-education": {
+    "slug": "advancing-claude-for-education",
+    "url": "https://www.anthropic.com/news/advancing-claude-for-education",
+    "title_original": "Advancing Claude for Education",
+    "title_ja": "教育の未来を変える「Claude for Education」の新機能と大学パートナーシップ",
+    "description": "A first look at new education-specific integrations, expanded student programs, and university updates.",
+    "published": "",
+    "lastmod": "2025-07-23T18:03:18.000Z",
+    "summary": "Anthropic社は、AI助手「Claude」を教育現場に本格的に導入する取り組みを発表しました。Canvas、Panopto、Wileyなどの教育ツールとの連携により、学生は講義録音や教科書の内容をClaude内で直接参照できるようになります。また、学生向けアンバサダープログラムを10倍に拡大し、キャンパスでのAI構築クラブも立ち上げられます。USF法学部やノーサンブリア大学など複数の大学が導入を開始しており、学生のプライバシー保護と倫理的なAI利用を重視しながら、教育格差の解消を目指しています。",
+    "points": [
+      "Canvas、Panopto、Wileyなど主要な教育ツールとの統合により、学生は講義や教科書をClaudeの会話内で直接参照可能に",
+      "学生アンバサダープログラムを大幅拡大（10倍規模）し、全キャンパスでAI構築クラブを新設",
+      "学生プライバシーをデフォルトで保護し、会話内容はAI学習に使用されない設計",
+      "複数の大学がカリキュラムにAIを統合し、実践的な学習機会を提供開始",
+      "教育の民主化と格差解消を目指しながら、倫理的で責任あるAI導入を推進"
+    ],
+    "analogy": "従来の勉強方法は、図書館で本を借りて、別のノートパソコンで文章を書くように、複数のツールを往き来していました。今回の統合は、図書館、講義、教科書がすべて1冊のノートに統合されたようなもので、学生は一つの場所ですべての学習リソースにアクセスできるようになります。",
+    "category": "製品アップデート、パートナーシップ、AI教育",
+    "summarized": true
+  },
+  "testing-our-safety-defenses-with-a-new-bug-bounty-program": {
+    "slug": "testing-our-safety-defenses-with-a-new-bug-bounty-program",
+    "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
+    "title_original": "Testing our safety defenses with a new bug bounty program",
+    "title_ja": "AIの安全性を強化するための新しいバグ報告プログラムの開始",
+    "description": "Today, we're launching a new bug bounty program to stress-test our latest safety measures, in partnership with HackerOne. Similar to the program we announced last summer, we're challenging red-teamers to find universal jailbreaks in safety classifiers that we haven't yet deployed publicly.",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:54.000Z",
+    "summary": "Anthropic社がセキュリティ企業HackerOneと協力し、新しいバグ報告プログラムを立ち上げました。このプログラムは、AI安全性分類システム「Constitutional Classifiers」の脆弱性を見つけることを目的としています。化学・生物・放射性・核兵器（CBRN）関連の危険な情報を引き出す「ジェイルブレイク」と呼ばれる攻撃方法を発見した研究者には、最大25,000ドルの報酬が提供されます。これはAIが成長するにつれ、より強固な安全対策が必要になるため、事前に欠点を見つけて改善する取り組みです。セキュリティ分野の専門家たちが招待され、公開前のClaude 3.7 Sonnetで検査を行っています。",
+    "points": [
+      "HackerOneと協力した新しいバグ報告プログラムが開始。AI安全分類システムの脆弱性を見つけることが目的",
+      "危険な情報を引き出そうとする攻撃（ジェイルブレイク）を発見した場合、最大25,000ドルの報酬を提供",
+      "Anthropicの責任あるAI開発方針（Responsible Scaling Policy）に基づいた安全対策の強化が目的",
+      "セキュリティの専門家を招待し、公開前のAIモデルで集中的にテストを実施",
+      "AIシステムがより高度になるにつれて、さらに強力な保護機能が必要になることに対応"
+    ],
+    "analogy": "このバグ報告プログラムは、新しい銀行が金庫を本格的に稼働させる前に、錠前師に『この金庫を開けられるか試してください』と依頼し、弱点を事前に見つけて修理するのと同じです。AIも同じように、世の中に公開する前に、専門家に安全性の弱点を探してもらい、改善しておくのです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "introducing-the-anthropic-economic-advisory-council": {
+    "slug": "introducing-the-anthropic-economic-advisory-council",
+    "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
+    "title_original": "Introducing the Anthropic Economic Advisory Council",
+    "title_ja": "Anthropic経済諮問委員会の設立発表～AIが経済に与える影響を研究～",
+    "description": "Today, we’re announcing the formation of the Anthropic Economic Advisory Council, a group of distinguished economists who will provide Anthropic with expert guidance on the economic implications of AI development and deployment. The Council will advise Anthropic on AI's impact on labor markets, economic growth, and broader socioeconomic systems.",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:45.000Z",
+    "summary": "Anthropic社は、AI開発が経済に及ぼす影響を研究するため、世界的に著名な経済学者で構成される「経済諮問委員会」を設立しました。この委員会は、AIが雇用市場、経済成長、社会経済システムに与える影響について専門的なアドバイスを提供します。委員会の知見は、AIが労働市場と世界経済に与える長期的な影響を理解するための「Anthropic経済指標」という研究プロジェクトに活かされます。メンバーは、マサチューセッツ工科大学やシカゴ大学、ロンドン経済大学など世界的な研究機関に所属する経済学の専門家で、政府レベルでの豊富な経験を持つ8名（後に2名追加）です。この研究の成果は、政策立案者や企業指導者がAIの経済的影響に対応するための重要な資源となることが期待されています。",
+    "points": [
+      "Anthropic社が世界的に著名な経済学者で構成する経済諮問委員会を設立し、AIが経済に与える影響について研究する",
+      "委員会はAIが雇用市場、経済成長、社会経済システムに与える影響に関するアドバイスを提供する",
+      "研究成果は「Anthropic経済指標」として政策立案者、研究者、企業指導者向けのリソースになる",
+      "メンバーはマサチューセッツ工科大学、シカゴ大学、ロンドン経済大学などの一流大学に所属する専門家",
+      "AIが既に日々の仕事の進め方を変えつつあり、その影響を理解することが重要"
+    ],
+    "analogy": "これは、新しい医学的治療法が社会に与える影響を理解するため、複数の医学分野の専門家から意見を聞くのと似ています。AIという『新しい技術』が経済社会に『どんな効果や課題をもたらすのか』を、各分野の専門家が一緒に研究することで、より正確な理解と対策が可能になるということです。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
