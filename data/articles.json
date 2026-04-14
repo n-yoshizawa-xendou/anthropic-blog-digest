@@ -2341,5 +2341,105 @@
     "analogy": "これは、新しい医学的治療法が社会に与える影響を理解するため、複数の医学分野の専門家から意見を聞くのと似ています。AIという『新しい技術』が経済社会に『どんな効果や課題をもたらすのか』を、各分野の専門家が一緒に研究することで、より正確な理解と対策が可能になるということです。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "ai-for-science-program": {
+    "slug": "ai-for-science-program",
+    "url": "https://www.anthropic.com/news/ai-for-science-program",
+    "title_original": "Introducing Anthropic's AI for Science Program",
+    "title_ja": "Anthropic、AI科学研究支援プログラムを開始",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:36.000Z",
+    "summary": "AI安全研究企業のAnthropicが、科学研究を加速させるための新しいプログラム「AI for Science」を開始しました。このプログラムは、高い影響力を持つ科学プロジェクトに取り組む研究者に対して、無料のAPI利用クレジット（システムを使用するための無料券のようなもの）を提供します。特に生物学や医学分野の研究を支援し、複雑な生物システムの理解、遺伝子データの分析、医薬品開発の加速、農業生産性の向上など、人類の重大課題の解決につなげることを目指しています。研究機関に所属する研究者であれば申請でき、応募者の科学への貢献度や研究の潜在的影響力などが評価される予定です。",
+    "points": [
+      "Anthropicが研究者向けの無料API利用クレジット提供プログラムを開始",
+      "生物学や医学分野など、高影響力の科学研究をターゲット",
+      "AI技術で複雑なデータ分析や仮説生成を支援し、研究スピードを加速",
+      "人類の重大課題（疾病対策、食料生産向上など）の解決を目指す",
+      "研究機関所属の研究者が申請可能で、専門家チームが審査"
+    ],
+    "analogy": "このプログラムは、才能ある研究者に対して「高性能な実験ツール（AI）を無料で貸し出す図書館」のようなものです。ツール自体は無料ですが、利用する研究の質や影響力で誰に貸すかを決める仕組みになっています。",
+    "category": "パートナーシップ、AI技術",
+    "summarized": true
+  },
+  "mou-uk-government": {
+    "slug": "mou-uk-government",
+    "url": "https://www.anthropic.com/news/mou-uk-government",
+    "title_original": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+    "title_ja": "AnthropicがAIで英国の公共サービスを変革するためUK政府とMOU（覚書）を締結",
+    "description": "Announcing a Memorandum of Understanding between Anthropic and the UK Government",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:28.000Z",
+    "summary": "AI企業のAnthropicは、英国の科学イノベーション技術省（DSIT）と覚書を署名し、AI技術が公共サービスをどのように改善できるかを一緒に探索することになりました。AnthropicのAIアシスタント「Claude」を使って、市民が政府の情報やサービスにより簡単にアクセスできるようにすることが目標です。さらに、科学研究の推進、AIサプライチェーンの強化、スタートアップ企業の支援など、複数の分野での協力も計画されています。すでに世界各地の政府や公共機関でClaudeが活用されており、例えば米国ワシントンDCでは医療情報を提供するチャットボット、英国ではレポートを読みやすく変換するツールとして導入されています。",
+    "points": [
+      "AnthropicとUK政府がAI技術を公共サービス向上に活用するための協力体制を構築",
+      "Claude（AI）を使い、市民が政府の情報・サービスにアクセスしやすくする",
+      "科学研究支援、AIサプライチェーン強化、新興企業育成など複数分野での協力を予定",
+      "世界各地の政府機関ですでにClaudeが実際に活用され、業務効率化や市民サービス向上を実現中",
+      "安全で責任あるAI技術導入に向けた基準や指針の確立を目指す"
+    ],
+    "analogy": "これは、図書館が最新のデジタルシステムを導入するようなもの。これまで複雑な手続きや難しい書類で困っていた利用者も、AIアシスタントの助けで簡単に必要な情報を見つけられるようになり、図書館全体の運営がスムーズになるイメージです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "core-views-on-ai-safety": {
+    "slug": "core-views-on-ai-safety",
+    "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+    "title_original": "Core Views on AI Safety: When, Why, What, and How",
+    "title_ja": "AI安全性に関する基本的な見方：いつ、なぜ、何を、どのように",
+    "description": "AI progress may lead to transformative AI systems in the next decade, but we do not yet understand how to make such systems safe and aligned with human values. In response, we are pursuing a variety of research directions aimed at better understanding, evaluating, and aligning AI systems.",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:22.000Z",
+    "summary": "Anthropic社は、AI技術が今後10年以内に産業革命や科学革命に匹敵する変革的な影響をもたらす可能性があると考えています。しかし、そのような強力なAIシステムを安全に保つ方法はまだ分かっていません。同社は、AIの能力向上は計算量の増加に従って予測可能に進むと考えており、今後AIは人間レベルのほぼすべての知的作業を実行できるようになる可能性があります。このような強力なAIが人間の意図と異なる行動をしたり、社会を混乱させたりするリスクに対応するため、Anthropicは複数の研究アプローチを組み合わせた、実験的で多面的なAI安全研究を推進しています。同社は、安全性を優先しながら最先端のAIモデルを開発・研究することの重要性を強調しています。",
+    "points": [
+      "AI技術は今後10年で人間レベル以上の能力を持つ可能性があり、計算量の増加に従って予測可能に進化している",
+      "より強力なAIが人間と異なる目標を追求した場合、その結果は大惨事になる可能性がある（技術的なアライメント問題）",
+      "急速なAI進化は社会経済的な混乱を招き、安全でないAIシステムの競争的な展開につながるリスクがある",
+      "AI安全研究は実験的データに基づいた多角的なアプローチが最も効果的であり、大規模なモデルでの研究が必要",
+      "Anthropicは安全性基準を満たさない場合は特定の能力以上のモデル開発を行わないという外部的なコミットメントを計画している"
+    ],
+    "analogy": "チェスの初心者が上級者の悪い手を見分けるのは簡単ですが、初心者が上級者の悪い手を見分けるのは非常に難しいのと同じように、人間より知能が高いAIシステムが人間の意図と異なる行動をした場合、私たちがそれを検出・制御することは極めて困難になります。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "introducing-claude-for-education": {
+    "slug": "introducing-claude-for-education",
+    "url": "https://www.anthropic.com/news/introducing-claude-for-education",
+    "title_original": "Introducing Claude for education",
+    "title_ja": "教育向けClaudeを発表：大学全体でAIを活用した学習支援",
+    "description": "Claude for Education",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:18.000Z",
+    "summary": "Anthropic社が教育機関向けの特別版AI「Claude for Education」を発表しました。このサービスは大学全体の学生と教職員がAIにアクセスできるもので、新しい「ラーニングモード」という機能が特徴です。ラーニングモードは、学生に答えをそのまま教えるのではなく、考える過程をサポートする対話型の学習体験を提供します。また、ノースイースタン大学やロンドン・スクール・オブ・エコノミクス、シャンプレイン・カレッジなど主要大学と提携し、キャンパス全体でClaudeの利用を可能にします。学生向けには「キャンパス・アンバサダー・プログラム」や、AI活用プロジェクトへの資金援助も用意されています。",
+    "points": [
+      "「ラーニングモード」により、AIが答えを直接与えるのではなく、質問を通じて学生の思考力を育成する",
+      "ノースイースタン大学など3つの世界的有名大学とキャンパス全体での提携を実現",
+      "学生向けに大使プログラムとAPI利用クレジットの支援を提供",
+      "Internet2やCanvasなどの教育プラットフォームと連携し、既存システムへのシームレスな統合を実現",
+      "教職員は論文評価、採点支援、行政業務の自動化など、様々な場面でAIを活用可能"
+    ],
+    "analogy": "ラーニングモードは、数学の家庭教師が「答えは？」と聞かれた時に、すぐに答えを言うのではなく、「この問題を解くには、どのステップが必要だと思う？」と質問を返して、生徒自身に考えさせるようなものです。同じAIを使っても、学び方のアプローチが大きく変わります。",
+    "category": "製品アップデート、パートナーシップ",
+    "summarized": true
+  },
+  "3-5-models-and-computer-use": {
+    "slug": "3-5-models-and-computer-use",
+    "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+    "title_original": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+    "title_ja": "コンピュータを操作できるAI、パワーアップしたClaudeモデルが登場",
+    "description": "A refreshed, more powerful Claude 3.5 Sonnet, Claude 3.5 Haiku, and a new experimental AI capability: computer use.",
+    "published": "",
+    "lastmod": "2025-07-23T18:02:00.000Z",
+    "summary": "Anthropic社は、AIアシスタント「Claude」の新しいバージョンを発表しました。最新の「Claude 3.5 Sonnet」はプログラミング能力が大幅に向上し、同じ価格と速度で提供されます。また、より小型で高速な「Claude 3.5 Haiku」も登場します。最も注目すべき新機能は「コンピュータ利用」で、Claudeが人間と同じようにパソコンの画面を見て、マウスを動かしてクリックしたり、文字を入力したりできるようになります。この機能はまだ実験段階ですが、複数の企業がすでに試験を始めており、今後の改善が期待されています。",
+    "points": [
+      "Claude 3.5 Sonnetのプログラミング能力が大幅向上。業界の他のモデルより高い性能を発揮",
+      "新型「Claude 3.5 Haiku」は前世代の最大モデルと同等の性能を持ちながら、より高速で低価格",
+      "革新的な「コンピュータ利用」機能が公開ベータで利用可能。AIがパソコンを人間のように操作できる",
+      "複数の大手企業（Asana、Canva、DoorDashなど）がすでに新機能の試験利用を開始",
+      "コンピュータ利用機能はまだ実験段階で、安全性への配慮も強化されている"
+    ],
+    "analogy": "従来のClaudeは「特定の作業用の専用ツール」を使っていました。新しいコンピュータ利用機能は、人間がOfficeやWebブラウザなどのいろいろなソフトを自分で操作するのと同じように、AIが一般的なパソコンのツールを直接使いこなせるようになったようなものです。",
+    "category": "製品アップデート、AI技術、パートナーシップ",
+    "summarized": true
   }
 }
