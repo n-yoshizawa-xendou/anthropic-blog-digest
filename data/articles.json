@@ -2441,5 +2441,105 @@
     "analogy": "従来のClaudeは「特定の作業用の専用ツール」を使っていました。新しいコンピュータ利用機能は、人間がOfficeやWebブラウザなどのいろいろなソフトを自分で操作するのと同じように、AIが一般的なパソコンのツールを直接使いこなせるようになったようなものです。",
     "category": "製品アップデート、AI技術、パートナーシップ",
     "summarized": true
+  },
+  "narasimhan-board": {
+    "slug": "narasimhan-board",
+    "url": "https://www.anthropic.com/news/narasimhan-board",
+    "title_original": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "title_ja": "Anthropicの経営委員会にノバルティスCEOのバス・ナラシムハンが新たに就任",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-04-14T14:00:04.000Z",
+    "summary": "AI安全研究会社のAnthropicは、世界有数の医療企業ノバルティスのCEOであるバス・ナラシムハンを経営委員会に新たに迎えました。ナラシムハンは医学博士で、35以上の新薬の開発・承認に携わった経歴を持ちます。Anthropicは「長期利益信託」という独立組織を通じて経営委員会を運営しており、利益追求と人類全体への貢献のバランスを取ることを目指しています。ナラシムハンの就任により、信託から指名される委員が委員会の過半数を占めることになりました。医療分野でのAI活用の可能性について強い信念を持つ同氏の参画により、Anthropicは責任あるAI開発をさらに推進できると期待されています。",
+    "points": [
+      "ノバルティスのCEOで医学博士のバス・ナラシムハンがAnthropicの経営委員会に就任",
+      "同氏は35以上の新薬開発に携わり、規制の厳しい医療業界で安全かつ大規模に技術を展開した経験を持つ",
+      "Anthropicは「長期利益信託」という独立機関を通じて、企業利益と人類全体への貢献のバランスを監視している",
+      "医療とAI技術の組み合わせにより、病気の理解から医薬品開発まで様々な課題解決が加速する可能性がある",
+      "同氏はHIV/AIDS、マラリア、結核などの世界的健康課題にも取り組んできた実績がある"
+    ],
+    "analogy": "Anthropicの「長期利益信託」は、企業という船の羅針盤のような役割を果たしています。通常の企業は利益という目的地を目指して進みますが、この信託は『人類全体への貢献』という方角も常に確認し、バランスの取れた航路を保つようにコントロールしています。ナラシムハンはこの航海に医療という経験豊かな航海士として参加することになりました。",
+    "category": "パートナーシップ・人事",
+    "summarized": true
+  },
+  "anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic": {
+    "slug": "anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
+    "title_original": "Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI economic research",
+    "title_ja": "Anthropic、シカゴ大学と提携してAIの経済的影響を研究",
+    "description": "Anthropic collaborates with the University of Chicago's Becker Friedman Institute to research AI's effects on labor markets, productivity, and economic distribution, enhancing our Economic Index initiative with expert analysis.",
+    "published": "",
+    "lastmod": "2025-07-23T14:58:55.000Z",
+    "summary": "AI企業のAnthropicが、シカゴ大学の経済学研究機関（BFI）と協力して、AIが労働市場や経済に与える影響を研究することを発表しました。BFIの経済学者たちにAnthropicのAI技術「Claude」を提供し、生産性の測定、労働市場の変化、経済格差への影響など、複雑な経済的課題を分析します。この協力を通じて、AIの利益が経済全体に均等に分配されていない実態を詳しく調べ、政策立案者や研究者がより正確な判断ができるようにすることを目指しています。",
+    "points": [
+      "Anthropicがシカゴ大学の経済学研究機関と協力し、AIが経済に与える影響を共同研究する",
+      "生産性向上、仕事の内容の変化、経済格差など3つの重要なテーマに焦点を当てている",
+      "AIの利益が業界によって不均等に分配されている現状を詳しく分析する",
+      "研究結果を政策立案や労働力育成、技術規制に活かすことを目指している",
+      "大学の経済学専門知識とAnthropicのデータを組み合わせることで、より正確な分析を実現"
+    ],
+    "analogy": "これは、医学の専門家と製薬会社が一緒に新しい薬の社会的影響を研究するようなもの。データ（患者情報）を持つ企業と、それを分析する学者の専門知識が組み合わさることで、より信頼性の高い結果が得られるということです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "the-need-for-transparency-in-frontier-ai": {
+    "slug": "the-need-for-transparency-in-frontier-ai",
+    "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+    "title_original": "A framework for AI development transparency",
+    "title_ja": "AI開発の透明性を確保するための枠組み提案",
+    "description": "A targeted approach to increasing transparency in frontier AI development, focusing on safety standards and accountability measures for advanced AI systems.",
+    "published": "",
+    "lastmod": "2025-07-23T11:44:44.000Z",
+    "summary": "Anthropic社は、急速に発展する最先端のAI開発における安全性と説明責任を確保するため、透明性の枠組みを提案しました。この枠組みは、最大規模のAI開発企業に対して、安全性対策を公開することを求めるものです。具体的には、企業が危険な使用法を評価・軽減する方法を示す「開発枠組み」の公開、テスト結果をまとめた「システムカード」の公開、虚偽申告を禁止することなどが含まれます。提案では、スタートアップや小規模企業の負担を避けるため、年間売上1億ドル以上などの大規模企業のみを対象とすることを想定しています。技術の急速な進化に対応するため、規制は柔軟性を保つ必要があると強調されています。",
+    "points": [
+      "最先端AI開発企業に対し、安全性対策を公開することを義務付ける提案",
+      "スタートアップなど小規模企業は対象外にして、イノベーション阻害を防ぐ",
+      "虚偽申告を違法化し、内部告発者の保護強化につなげる",
+      "技術進化に対応できるよう、固定的な規制ではなく柔軟な基準を採用",
+      "安全な開発慣行の標準化により、責任あるAI企業と無責任な企業を区別できる"
+    ],
+    "analogy": "これは「家を建てるときに、大手建設会社には建築計画と安全対策を公開させるが、小さな大工さんには負担をかけない」というようなもの。大規模な影響力を持つプレイヤーには透明性を求め、成長段階の小さい企業には余裕を持たせるバランスの取り方です。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic-raises-series-b-to-build-safe-reliable-ai": {
+    "slug": "anthropic-raises-series-b-to-build-safe-reliable-ai",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
+    "title_original": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
+    "title_ja": "Anthropic、安全で制御可能なAI開発のため5.8億ドルを調達",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-07-21T17:37:31.000Z",
+    "summary": "AI安全研究企業のAnthropicが、Series B資金調達で5.8億ドルを獲得しました。2021年初頭の設立以来、同社はAIシステムをより安全で制御しやすく、理解しやすくするための研究を進めてきました。今回の資金は、大規模なAIモデルの安全性を向上させるための実験インフラ構築に充てられます。これまでに、言語モデルの動作を数学的に解析したり、人間の好みに合わせてAIを調整する技術を開発したりするなど、実績を上げています。同社は今後、AIシステムの予測可能な性質を研究しながら、安全性の問題を深掘りし、実用的で社会に役立つAIシステムの構築を目指しています。",
+    "points": [
+      "Anthropicが5.8億ドルの資金調達に成功し、AI安全研究を加速させる",
+      "AIシステムをより制御しやすく、内部動作を理解しやすくする技術開発に注力",
+      "人間の価値観に合わせたAIの調整技術や安全性分析ツールを開発済み",
+      "大規模なAIモデルにおける予測不可能な動作を研究し、安全性を事前に組み込む方針",
+      "政策面や社会への影響を検討するチームやパートナーシップも構築中"
+    ],
+    "analogy": "AIシステムの安全性研究は、自動運転車の開発に似ています。単に高性能な「エンジン」を作るだけでなく、車がどのように判断しているか理解し、危険な状況では正しく動作するようあらかじめ安全装置を組み込み、走行中の予期しない問題に対応する仕組みが必要です。Anthropicはこうした『安全で信頼できるAI』を開発するための基盤作りに、この資金を使うのです。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "head-of-EMEA-new-roles": {
+    "slug": "head-of-EMEA-new-roles",
+    "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
+    "title_original": "Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
+    "title_ja": "Anthropic、ヨーロッパ地域の責任者を新任命し100以上の新規職を創出",
+    "description": "An announcement of Anthropic's plans to expand across Europe",
+    "published": "",
+    "lastmod": "2025-07-21T17:31:49.000Z",
+    "summary": "AI企業のAnthropicは、ヨーロッパ・中東・アフリカ地域（EMEA）の拡大計画を発表しました。ギヨーム・プランセン氏を新しい地域責任者に任命し、ダブリンとロンドンのオフィスを中心に、今年100以上の新しいポジションを創出します。プランセン氏はStripeの初期メンバーとしてヨーロッパ事業を急速に成長させた実績を持ち、12のオフィスを開設した経験があります。Anthropicは、ヨーロッパ企業や消費者がセキュリティとプライバシーを重視したAI技術（Claude）を選んでいることに対応し、営業・エンジニアリング・研究などの多様な職種で採用を行う予定です。",
+    "points": [
+      "Anthropicがヨーロッパでの本格的な事業拡大に向け、経験豊富なリーダーシップ陣を配置",
+      "ダブリンとロンドンを中心に今年100以上の新規雇用を計画中",
+      "ヨーロッパ企業や消費者からのClaudeへの需要が急速に増加している",
+      "セキュリティとプライバシーを重視した「責任あるAI開発」がヨーロッパでの競争力の鍵",
+      "スタートアップから大企業まで幅広い顧客層をサポート体制を強化"
+    ],
+    "analogy": "これは、人気のカフェが繁盛してきたため、信頼できた店長を配置して、新しいスタッフを採用し、さらに多くのお客さんにサービスを提供しようとするのと同じです。Anthropicもヨーロッパで需要が急増したため、経験豊富なリーダーを置いて、チームを拡大させているのです。",
+    "category": "企業ニュース・パートナーシップ",
+    "summarized": true
   }
 }
