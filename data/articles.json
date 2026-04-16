@@ -2541,5 +2541,103 @@
     "analogy": "これは、人気のカフェが繁盛してきたため、信頼できた店長を配置して、新しいスタッフを採用し、さらに多くのお客さんにサービスを提供しようとするのと同じです。Anthropicもヨーロッパで需要が急増したため、経験豊富なリーダーを置いて、チームを拡大させているのです。",
     "category": "企業ニュース・パートナーシップ",
     "summarized": true
+  },
+  "eu-code-practice": {
+    "slug": "eu-code-practice",
+    "url": "https://www.anthropic.com/news/eu-code-practice",
+    "title_original": "Anthropic to sign the EU Code of Practice",
+    "title_ja": "Anthropic、EU人工知能行動規範に署名へ",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-07-21T09:15:47.000Z",
+    "summary": "AI安全研究企業のAnthropicは、欧州連合（EU）の「汎用AI行動規範」に署名する予定を発表しました。この規範は、透明性、安全性、説明責任といったAnthropicが大切にしている原則を推進しています。AIは2030年代半ばまでにEU経済に年1兆ユーロ以上の価値をもたらす可能性があり、柔軟な安全基準を設けることで、イノベーション（革新）と競争力の両立を目指しています。Anthropicは、リスク評価プロセスの透明性を確保しながらも、企業の俊敏性を保つことが重要だと考えており、業界全体で安全性の最良実践を発展させるため、関連機関と協力していきます。",
+    "points": [
+      "Anthropicが欧州連合のAI規制「汎用AI行動規範」に署名予定で、透明性・安全性・説明責任を重視",
+      "AIは欧州経済に年1兆ユーロ以上の利益をもたらす可能性があり、規制と革新のバランスが課題",
+      "Anthropicの「責任あるスケーリング方針」をベースに、化学・生物・放射線・核兵器関連リスクの評価を含む",
+      "技術は急速に変化するため、政策は柔軟に対応できることが重要",
+      "業界団体や政府機関との協力で、AIの安全性基準を継続的に改善していく"
+    ],
+    "analogy": "AIの規制を作ることは、高速道路の交通ルールを決めるようなもの。走行速度制限（安全基準）は必要ですが、厳しすぎると経済活動が停滞し、緩すぎると事故が増えます。Anthropicは、安全性を保ちながらも企業が革新できる『最適なルール』を一緒に作ろうとしています。",
+    "category": "ポリシー・規制",
+    "summarized": true
+  },
+  "paul-smith-to-join-anthropic": {
+    "slug": "paul-smith-to-join-anthropic",
+    "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
+    "title_original": "Paul Smith to join Anthropic as Chief Commercial Officer",
+    "title_ja": "ポール・スミス氏がAnthropicの最高商業責任者に就任",
+    "description": "Anthropic will appoint Paul Smith as its first Chief Commercial Officer, who will assume the role later this year.",
+    "published": "",
+    "lastmod": "2025-07-15T03:13:38.000Z",
+    "summary": "AI企業のAnthropicは、マイクロソフトやセールスフォース、ServiceNowなど大手テクノロジー企業で30年以上の経営経験を持つポール・スミス氏を、初代最高商業責任者（CCO）として今年後半に迎え入れます。Anthropicは現在、数十万の企業向けAPI顧客を抱えており、AI助手「Claude Code」の売上は2ヶ月で5倍に成長するなど、急速な成長期を迎えています。スミス氏は、大企業から急成長スタートアップまで、様々な企業がClaudeを導入し事業変革を実現するのをサポートする組織の構築を担当します。",
+    "points": [
+      "ポール・スミス氏がAnthropicの初代最高商業責任者に就任。マイクロソフト、セールスフォース、ServiceNowで30年以上の経験を保有",
+      "Anthropicは急速な成長段階にあり、数十万の企業向けAPIユーザーを獲得、Claude Codeは2ヶ月で売上が5倍に増加",
+      "Fortune 500企業から新興企業まで、あらゆる業界の企業がClaudeを導入して事業を変革している",
+      "スミス氏の役割は、企業がAI導入を進める際に、信頼できるパートナーとしてAnthropicがサポートする体制を強化すること"
+    ],
+    "analogy": "これは、スマートフォンが普及し始めた時代に、企業がスマートフォン対応のビジネス戦略を考える際、経験豊富なアドバイザーを雇うようなものです。ポール・スミス氏は、企業がAIという新しい技術をどう活用すればいいかを、これまでのデジタル変革の経験から導くことになります。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
+    "slug": "anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
+    "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
+    "title_original": "Anthropic awarded $200M DOD agreement for AI capabilities",
+    "title_ja": "Anthropicが米国防総省から2億ドルの契約を獲得、AI技術開発で国防を支援",
+    "description": "The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype frontier AI capabilities that advance U.S. national security.",
+    "published": "",
+    "lastmod": "2025-07-14T18:39:54.000Z",
+    "summary": "AI企業のAnthropicが、米国防総省（DOD）から2年間で最大2億ドルの契約を獲得しました。この契約では、Anthropicが最先端のAI技術を開発し、米国の国家安全保障を強化するプロジェクトに取り組みます。Anthropicの「Claude」というAIシステムは、すでに防衛機関で大量のデータ分析に使われており、今回の契約でさらに安全で信頼性の高いAI技術を国防の現場に導入していく予定です。同社は責任ある安全なAI開発を重視しており、民主主義を守るため、権威主義国による悪用から技術的優位性を保つことの重要性を強調しています。",
+    "points": [
+      "米国防総省がAnthropicに2億ドルの契約を授与し、2年間のAI開発プロジェクトを開始",
+      "Anthropicの「Claude」AIシステムは既に防衛機関で機密情報の分析に活用されている",
+      "安全性と透明性を重視したAI開発を通じて、国防能力の強化を目指す",
+      "ローレンスリバモア国立研究所など複数の政府機関とも協力を拡大中",
+      "民主主義国家が技術的優位を保つことで、権威主義的国家によるAI悪用から身を守る戦略"
+    ],
+    "analogy": "これは、国が最新の防衛技術を企業に開発させるのと同じです。例えば、政府が自動車メーカーに『安全で信頼できる自動運転技術を開発してほしい』と依頼し、お金を支払うようなものです。Anthropicは『Claude』という賢いAIアシスタントを防衛の現場で使えるようにカスタマイズして、国防の効率化をサポートしていきます。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
+    "slug": "national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
+    "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
+    "title_original": "National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
+    "title_ja": "国家安全保障の専門家リチャード・フォンテーヌがAnthropicの長期利益信託に任命される",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-07-11T23:54:01.000Z",
+    "summary": "AI企業のAnthropicは、国家安全保障の専門家リチャード・フォンテーヌ氏をその長期利益信託（LTBT）の新しいメンバーに任命しました。フォンテーヌ氏はアメリカの新しい安全保障戦略センターのCEOで、国防省や国務省での豊富な経験を持つ専門家です。この任命は、AIの進化が国家安全保障に与える影響が増大する中、AIと地政学的リスク（国家間の力の関係から生じるリスク）の交差点に対応するためのものです。Anthropicは人工知能が社会に与える利益を最大化し、リスクを軽減することを目指す企業で、LTBT はこのミッションをサポートするための独立した組織として機能しています。",
+    "points": [
+      "Anthropicが国家安全保障の専門家をアドバイザリーボードに任命し、AI技術と国防上の課題への対応を強化した",
+      "長期利益信託（LTBT）はAnthropicの公益的使命を監督する独立組織で、経営陣への助言や役員の選任に関わる",
+      "AI技術の発展が民主主義制度やグローバルな安全保障に影響を与える可能性があることを認識している",
+      "Anthropicは単なる技術企業ではなく、社会への責任を意識した企業運営を目指している"
+    ],
+    "analogy": "長期利益信託は、企業という「家族」が重要な決断をする際に、外部の「顧問」として専門家を招いて意見をもらうようなものです。今回のフォンテーヌ氏の任命は、AIという「強い力」を扱う企業が、国防や安全保障の「プロ」にもアドバイスをもらおうとする決断に例えられます。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "github-copilot": {
+    "slug": "github-copilot",
+    "url": "https://www.anthropic.com/news/github-copilot",
+    "title_original": "Claude 3.5 Sonnet on GitHub Copilot",
+    "title_ja": "GitHub CopilotでClaude 3.5 Sonnetが利用可能に",
+    "description": "Starting today, the new Claude 3.5 Sonnet begins rolling out on GitHub Copilot, enabling developers to choose Claude 3.5 Sonnet for coding—directly in Visual Studio Code and GitHub.com.",
+    "published": "",
+    "lastmod": "2025-06-23T23:45:38.000Z",
+    "summary": "Anthropic社のAI「Claude 3.5 Sonnet」がGitHub Copilotに統合され、10月29日から利用開始となりました。これにより、世界中の100万人以上の開発者がVisual Studio CodeやGitHub.comで直接Claude 3.5 Sonnetを使ったコード作成が可能になります。Claude 3.5 Sonnetは、実際のGitHubの問題を解くベンチマークテスト「SWE-bench Verified」で全てのAIモデルを上回り、Pythonコード作成能力を測る「HumanEval」でも最高スコア（93.7%）を達成しています。開発者はAIにコードを書かせたり、バグを修正したり、テストを自動生成したりすることができます。Amazon Bedrockを通じて提供され、数週間かけて全ユーザーに展開予定です。",
+    "points": [
+      "Claude 3.5 SonnetがGitHub Copilotに統合され、開発者が利用可能に",
+      "実世界のコード問題解決能力で全公開モデルを上回る性能を実現",
+      "コード作成、デバッグ、テスト生成、説明などを自然言語で指示できる",
+      "100万人以上の開発者がVS CodeやGitHub.comで直接利用可能",
+      "Amazon Bedrockを通じた安定的な提供で複数地域への対応を実現"
+    ],
+    "analogy": "CodePilotはあたかも「優秀なプログラミング助手を雇う」ようなもので、開発者が「こういうコードが欲しい」と日本語で説明すると、AIがそれを正確に実装してくれます。また、複雑なコードを見たときに「これは何をしているのか説明して」と聞くと、すぐに説明してくれる優秀なメンターのような存在です。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
