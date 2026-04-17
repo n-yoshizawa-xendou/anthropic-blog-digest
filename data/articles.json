@@ -2639,5 +2639,104 @@
     "analogy": "CodePilotはあたかも「優秀なプログラミング助手を雇う」ようなもので、開発者が「こういうコードが欲しい」と日本語で説明すると、AIがそれを正確に実装してくれます。また、複雑なコードを見たときに「これは何をしているのか説明して」と聞くと、すぐに説明してくれる優秀なメンターのような存在です。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude-opus-4-7": {
+    "slug": "claude-opus-4-7",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "title_original": "Introducing Claude Opus 4.7",
+    "title_ja": "Anthropicが新AI「Claude Opus 4.7」を発表、特にプログラミング能力が大幅強化",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-04-16T14:53:34.000Z",
+    "summary": "Anthropicは新しいAIモデル「Claude Opus 4.7」を発表しました。このモデルは前バージョンの4.6と比べて、特にプログラミングなどの複雑なソフトウェア開発業務で大きく改善されています。最も難しいコーディング作業を人間の監督なしに任せられるようになったとのこと。また、画像認識能力も向上し、より高い解像度の画像を処理できるようになりました。デザイン関連の業務では、より創造的で専門的な品質の成果を生み出します。同時にセキュリティにも配慮し、悪用を防ぐためのガードレールを導入しています。価格は前バージョンと同じで、すべてのClaudeプラットフォームで利用可能です。",
+    "points": [
+      "プログラミング能力が大幅向上：従来は監督が必要だった複雑な長時間のコーディング作業を、独立して実行できるようになった",
+      "画像認識能力が3倍以上に改善：より高解像度の画像を処理でき、複雑な図表やスクリーンショットの分析に対応",
+      "指示への従順性が向上：ユーザーの指示をより正確に理解して実行するが、古いプロンプトは再調整が必要な場合がある",
+      "セキュリティ機能を強化：サイバーセキュリティの悪用を防ぐため、自動検出・ブロック機能を導入",
+      "価格据え置き：前バージョンと同じ料金で利用可能、複数のプラットフォームで展開"
+    ],
+    "analogy": "Claude Opus 4.7は、ジュニア社員からシニアエンジニアへ昇進した従業員のようです。細かい指示がなくても複雑な案件を最後まで遣り遂げ、自分の仕事をチェックして修正し、より質の高い成果物を届けるようになった、という感じです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "reed-hastings": {
+    "slug": "reed-hastings",
+    "url": "https://www.anthropic.com/news/reed-hastings",
+    "title_original": "Reed Hastings appointed to Anthropic’s board of directors",
+    "title_ja": "ネットフリックス創業者のリード・ヘイスティングス氏がAnthropicの取締役に就任",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-05-28T15:59:35.000Z",
+    "summary": "AI安全研究企業のAnthropicは、ネットフリックスの会長兼共同創業者で25年以上CEOを務めたリード・ヘイスティングス氏を取締役に任命しました。ヘイスティングス氏は、ネットフリックスを世界的エンターテインメント企業に成長させた経験と、Facebook、Microsoft、Bloombergの取締役経験を持っています。最近、彼はボウディン大学に5000万ドルを寄付してAIと人間性に関する研究プログラムを設立しました。このプログラムはAIが仕事、人間関係、教育をいかに変えるかを研究し、倫理的な利用枠組みを開発するもので、Anthropicの研究方針と一致しています。ヘイスティングス氏は教育改革と国際開発にも数十年にわたり関心を持ち、低所得地域のチャータースクールや東アフリカの農家支援など、社会全体の目標にテクノロジーが貢献する方法を理解しています。",
+    "points": [
+      "ネットフリックス創業者のヘイスティングス氏がAnthropicの取締役に就任し、AI企業の経営に参画",
+      "ヘイスティングス氏は教育や国際開発に数百万ドル以上寄付し、社会への技術活用に実績がある",
+      "AIと人間性に関する研究プログラムへの5000万ドル寄付はAnthropicの安全なAI開発方針と一致",
+      "世界規模でのテクノロジー導入経験が、Anthropicの多様な視点を必要とする取締役会に加わることで価値を提供"
+    ],
+    "analogy": "ヘイスティングス氏の就任は、映画館の支配人が医療財団の理事に就任するようなもの。複数の分野での成功経験が、新しい組織の判断を助けるようになります。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "introducing-claude": {
+    "slug": "introducing-claude",
+    "url": "https://www.anthropic.com/news/introducing-claude",
+    "title_original": "Introducing Claude",
+    "title_ja": "AIアシスタント「Claude」の発表～安全性を重視した次世代AI",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-05-02T00:52:02.000Z",
+    "summary": "Anthropic社は、2023年3月14日、安全で信頼できるAIアシスタント「Claude」を発表しました。NotionやQuoraなどのパートナー企業との試験を経て、本格的なサービス開始となります。Claudeは、要約、検索、文章作成、プログラミングなど幅広いタスクに対応できます。有害な出力が少なく、会話しやすく、操作しやすいのが特徴です。2つのバージョン（高性能版と軽量版）が提供されます。教育機関、法律業界、検索エンジンなど、様々な業界のパートナー企業がClaudeを活用し、ユーザーの生産性向上と学習支援に役立てています。Anthropic社は、今後も安全性研究を継続しながら、更に優れたAIシステムの開発を進める予定です。",
+    "points": [
+      "Claudeは、安全性と信頼性を重視して開発された次世代AIアシスタント",
+      "要約・執筆・コーディング・質疑応答など多様な用途に対応可能",
+      "高性能版と軽量版の2つのバージョンがある",
+      "Notion、Quora、DuckDuckGo、Robin AI、Juni Learning、AssemblyAIなど複数の有力企業がすでに導入・活用している",
+      "有害な出力が少なく、自然な会話ができる点が既存のAIより優れている"
+    ],
+    "analogy": "Claudeは、優秀なアシスタント秘書のようなものです。従来のAIが『正確だが無機質な回答』をする秘書なら、Claudeは『丁寧で親しみやすく、こちらの意図を理解して柔軟に対応する秘書』といった違いがあります。同じ質問でも、より人間らしく、使い手の希望に沿った返答ができるのです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "anthropic-series-c": {
+    "slug": "anthropic-series-c",
+    "url": "https://www.anthropic.com/news/anthropic-series-c",
+    "title_original": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+    "title_ja": "Anthropic、4億5000万ドルの大型資金調達でAI技術の安全性向上に注力",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-05-02T00:51:33.000Z",
+    "summary": "AI安全研究企業のAnthropicが、Spark Capitalを筆頭にGoogleやSalesforceなど複数の投資家から4億5000万ドル（シリーズC）の資金調達に成功しました。この資金は、AI助手「Claude」の開発と安全性研究の強化に使われます。Claudeは会話やテキスト処理などを行うAI技術で、今後より信頼性が高く、安全で透明性のあるシステムへの改良が進められます。新機能として、数百ページの資料を一度に処理できる「100K context windows」も導入されました。Anthropicは企業や消費者が安心して使えるAI技術の実現を目指しており、投資家からの強い支持により、チーム拡大と製品開発の加速が期待されています。",
+    "points": [
+      "Anthropicが4億5000万ドルの大型資金調達に成功し、GoogleやSalesforceなど大手企業が支援",
+      "AI助手『Claude』の開発と安全性、信頼性の向上に資金を活用",
+      "数百ページの資料を一度に分析できる新機能『100K context windows』を実装",
+      "AI技術が誤った指示に従わず、透明性を持つシステムの開発に注力",
+      "公共利益を目指す企業体制の構築と、社会に信頼されるAI技術の実現を目標に掲げている"
+    ],
+    "analogy": "Anthropicの資金調達は、信頼できるクルマ（AI技術）を製造するメーカーが大手企業から投資を受けるようなもの。Claudeは、ドライバーの指示をちゃんと理解し、危険な判断はしない『安全性の高い自動運転機能』のようなもので、今回の資金で、その性能と信頼性をさらに高めていくということです。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "100k-context-windows": {
+    "slug": "100k-context-windows",
+    "url": "https://www.anthropic.com/news/100k-context-windows",
+    "title_original": "Introducing 100K Context Windows",
+    "title_ja": "Claude、100万語分の文章を一度に処理可能に",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-05-02T00:49:29.000Z",
+    "summary": "Anthropic社がAIアシスタント「Claude」の処理能力を大幅に拡張しました。従来の9,000語から100,000語（約75,000単語）まで同時に処理できるようになったということです。これは数百ページの文書を数十秒で読破・分析できることを意味します。例えば、有名小説『ギャツビー』全文をClaudeに読ませて1行の変更を指摘させたところ、22秒で正確に答えることができました。企業は決算報告書や研究論文などの複雑な文書分析、法律文書のリスク評価、プログラムコードの改修など、多くの実務作業をClaudeに任せられるようになります。この機能は既にAPIサービスで利用可能です。",
+    "points": [
+      "Claudeが処理できる文字数が9,000語から100,000語に拡大",
+      "数百ページの資料を1分以内に読んで分析・要約できる",
+      "金融報告書、法律文書、プログラムコードなど実務文書の処理に活用可能",
+      "ポッドキャスト音声（約6時間分）の文字起こしも一度に処理できる",
+      "既にAPI経由でビジネスユーザーが利用開始できる状態"
+    ],
+    "analogy": "これまでClaudeは1冊の本を読むのに1時間かかる人だったのに対し、今は5時間分の本を1分で読んで内容を理解・分析できる超高速読書家になったようなものです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
