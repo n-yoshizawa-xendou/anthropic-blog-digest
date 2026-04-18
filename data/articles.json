@@ -2738,5 +2738,105 @@
     "analogy": "これまでClaudeは1冊の本を読むのに1時間かかる人だったのに対し、今は5時間分の本を1分で読んで内容を理解・分析できる超高速読書家になったようなものです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude-design-anthropic-labs": {
+    "slug": "claude-design-anthropic-labs",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "title_original": "Introducing Claude Design by Anthropic Labs",
+    "title_ja": "Claude Designの登場：AIがデザイン制作をサポート",
+    "description": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+    "published": "",
+    "lastmod": "2026-04-17T14:58:21.000Z",
+    "summary": "Anthropic社が「Claude Design」という新しいサービスを発表しました。これはAI（Claude）と協力して、デザインやプレゼン資料、プロトタイプなどの視覚的な作品を簡単に作成できるツールです。デザイナーだけでなく、デザインの知識がない起業家やマーケターも、テキストで説明するだけでClaudeが初版を作成し、その後は会話や直接編集で改善できます。企業のデザインルール（色やフォント）も自動で適用され、統一感のある成果物が生まれます。ピッチデック、マーケティング資料、プロトタイプなど様々な用途に使え、最終的にはコード実装ツール「Claude Code」へも受け渡せます。",
+    "points": [
+      "AIとの会話を通じてデザインやプレゼン資料を作成・改善でき、専門知識がなくても利用可能",
+      "企業のブランドルール（色・フォント・デザイン要素）を自動で学習・適用し、統一感を保証",
+      "テキスト説明、画像アップロード、Webサイト要素の取り込みなど複数の入力方法に対応",
+      "静的なデザインをインタラクティブなプロトタイプに変換でき、コード実装への引き継ぎも容易",
+      "Claude Pro・Max・Team・Enterprise利用者向けに段階的にロールアウト開始"
+    ],
+    "analogy": "Claude Designは『デザインの専属アシスタント』のようなもの。あなたが「こういう感じのチラシが欲しい」と説明すれば、Claudeがすぐに案を作成し、「ここの色を変えて」「もっと目立たせて」という指示で何度でも修正してくれます。以前は美容師の手を借りないと難しかった複雑なヘアスタイルも、良いアシスタントがいれば誰でも実現できるという感じです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "releasing-claude-instant-1-2": {
+    "slug": "releasing-claude-instant-1-2",
+    "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
+    "title_original": "Releasing Claude Instant 1.2",
+    "title_ja": "高速で低価格なAI「Claude Instant 1.2」の新版リリース",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-04-04T20:19:14.000Z",
+    "summary": "Anthropic社は、より高速で低価格なAIモデル「Claude Instant 1.2」の新版をリリースしました。このモデルは、雑談から文章分析、要約、資料の理解など様々なタスクに対応できます。新版では、数学やプログラミング、推理能力が大幅に向上し、より長く構造的な回答ができるようになりました。また、安全性も強化され、不正確な情報の生成が減り、不正な使用への耐性も向上しています。プログラミング評価では58.7%（前版52.8%）、数学問題では86.7%（前版80.9%）の成績を達成。ビジネス向けにAPIを通じて提供開始され、開発者は今すぐ利用できます。",
+    "points": [
+      "数学とプログラミング能力が大幅に向上し、より複雑な問題解決が可能に",
+      "より長く、構造的で正確な回答が生成でき、指示への従順性も改善",
+      "誤った情報生成が減り、不正な利用への耐性が強化された安全性向上",
+      "複数言語対応の強化と引用抽出、質問回答機能も改善",
+      "API経由でビジネスユーザーが低価格で利用可能"
+    ],
+    "analogy": "Claude Instant 1.2は、学生の家庭教師のアップグレード版のようなものです。前版も十分優秀でしたが、新版は計算が速くなり、説明がより丁寧で理解しやすくなり、さらに間違った情報を言わなくなりました。同じくらい手頃な価格のままで、より賢く、より信頼できる相棒になったわけです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "Introducing-code-with-claude": {
+    "slug": "Introducing-code-with-claude",
+    "url": "https://www.anthropic.com/news/Introducing-code-with-claude",
+    "title_original": "Code with Claude - Anthropic's First Developer Conference",
+    "title_ja": "初のAnthropic開発者カンファレンス「Code with Claude」開催決定",
+    "description": "Join us on May 22, 2025 in San Francisco for Code with Claude, a hands-on developer conference featuring workshops, labs, and insights on building with Claude API, CLI tools, and Model Context Protocol.",
+    "published": "",
+    "lastmod": "2025-04-03T17:48:30.000Z",
+    "summary": "Anthropic社が初めての開発者向けカンファレンス「Code with Claude」を2025年5月22日にサンフランシスコで開催します。このイベントは、Claude API（人工知能を使うための接続窓口）やCLIツール（コンピューターを操作するための命令文）、Model Context Protocol（異なるプログラム同士が会話するための仕組み）を使った実践的な活用方法を学べる1日のイベントです。インタラクティブなワークショップ（実践的な講習会）やラボを通じて、実際にClaudeを使ったアプリケーション開発の事例紹介や、Anthropicのチームから最新のロードマップ（今後の計画）、Claude Code、AI エージェント（自動で判断して動く人工知能）の実装戦略などを学ぶことができます。現在、参加申込受付中で、スペースが限られているため、応募者には段階的に通知される予定です。",
+    "points": [
+      "Anthropic初のカンファレンス「Code with Claude」が5月22日にサンフランシスコで開催される",
+      "Claude APIやCLIツール、Model Context Protocolの実践的な使い方が学べるハンズオンイベント",
+      "Anthropic経営陣やプロダクトチームから直接、最新技術やロードマップの情報を得られる",
+      "大手企業でClaudeを活用している開発者から実例や最先端の開発手法を学べる",
+      "参加希望者は事前申込が必要で、定員に限りがある"
+    ],
+    "analogy": "このカンファレンスは、新しい料理道具（Claude API）の使い方を学ぶ料理教室のようなものです。道具の使い方を教わるだけでなく、実際にそれらを使ってプロの料理人がどんなおいしい料理を作っているかを見学し、プロの技巧を学べる場所と言えます。",
+    "category": "イベント・パートナーシップ",
+    "summarized": true
+  },
+  "strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
+    "slug": "strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+    "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+    "title_original": "Progress from our Frontier Red Team",
+    "title_ja": "Anthropic、最新AI(クロード)のセキュリティリスクを詳細に分析・発表",
+    "description": "In this post, we are sharing what we have learned about the trajectory of potential national security risks from frontier AI models, along with some of our thoughts about challenges and best practices in evaluating these risks.",
+    "published": "",
+    "lastmod": "2025-03-19T16:57:23.000Z",
+    "summary": "AI企業Anthropicは、最新のAIモデル「Claude」が国家安全保障に関わるリスクについて、1年間の研究結果を公開しました。サイバーセキュリティの分野では、Claudeが高校生レベルから大学生レベルへと急速に進化し、生物学の知識でも専門家レベルに近づいています。ただし現在のところ、これらのAIが実際の被害をもたらすほどの危険性には至っていないとのこと。Anthropicは米国の原子力規制機関など政府機関と協力して、AIの能力を継続的に監視し、安全な開発を進めるための評価基準を設けています。この取り組みにより、AIの急速な進歩と安全性確保の両立を目指しています。",
+    "points": [
+      "Claudeのサイバーセキュリティ能力が1年で大きく向上し、高校生レベルから大学生レベルへ進化",
+      "生物学の知識も急速に向上し、一部の領域で専門家レベルに達しつつある",
+      "ただし現在のAIは、実際のテロ攻撃などに直結する危険性にはまだ至っていない",
+      "政府機関（米国・英国のAI安全研究所など）との協力により、AIの能力を継続的に監視・評価している",
+      "セキュリティの「警報レベル」を事前に設定し、閾値を超えたら追加の安全措置を導入する仕組みを構築"
+    ],
+    "analogy": "Claudeの能力向上は、学生の成長に例えられます。昨年は『危ない物の扱い方について、高校生程度の知識しかなかった学生』が、1年の勉強で『大学生レベルの知識を持つようになった』という状況。ただし実際に危険な行動を起こすには、専門的な道具や経験がまだまだ必要なため、今のところ大きな心配はないというわけです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "introducing-anthropic-transparency-hub": {
+    "slug": "introducing-anthropic-transparency-hub",
+    "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
+    "title_original": "Introducing Anthropic's Transparency Hub",
+    "title_ja": "Anthropic、透明性ハブを立ち上げ—AI安全性への取り組みを公開",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2025-02-28T17:49:09.000Z",
+    "summary": "AI企業のAnthropicは、「透明性ハブ」という新しい情報公開窓口を立ち上げました。これは、自社が開発するAI（人工知能）システムがどのように安全で信頼できるものになっているのかを、社会に対して詳しく説明するためのものです。具体的には、AIの評価方法、不正利用の検出・対策、内部の安全管理体制、セキュリティ対策など、様々な情報を一元的に公開します。また、不正アカウントの件数、アカウント異議申し立ての処理状況など、定期的な報告も行う予定。AI技術が急速に進化する中、企業が透明性を重視することで、規制当局や利用者からの信頼を得ようとしています。",
+    "points": [
+      "Anthropicが「透明性ハブ」を開設し、AI安全性への取り組みを詳しく公開",
+      "モデル評価、不正利用対策、内部統治、セキュリティなど多角的な情報を一箇所に集約",
+      "定期的なレポートで、不正アカウントやアピール件数などの具体的なデータも開示",
+      "複数の規制要件に対応できる統一的な透明性フレームワークを構築",
+      "今後も進化するAI技術に対応し、継続的に情報開示を拡大予定"
+    ],
+    "analogy": "これは、食品メーカーが工場見学やレシピ公開を通じて「安全で健康的な商品を作っている」と消費者に信頼してもらうのと似ています。Anthropicも『AIがどのように作られ、安全チェックされているのか』を透明に見せることで、ユーザーや政府に信頼してもらおうとしています。",
+    "category": "安全性",
+    "summarized": true
   }
 }
