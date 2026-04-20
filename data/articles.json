@@ -2937,5 +2937,102 @@
     "analogy": "このポリシーは、新しい薬が医療現場で使用される前に臨床試験で何度も安全性を確認するのと同じイメージです。AI技術が高度になるほど、市場に出す前により厳密で段階的な安全チェックを実施することで、社会へのリスクを最小限に抑えようとしています。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic-achieves-iso-42001-certification-for-responsible-ai": {
+    "slug": "anthropic-achieves-iso-42001-certification-for-responsible-ai",
+    "url": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
+    "title_original": "Anthropic achieves ISO 42001 certification for responsible AI",
+    "title_ja": "Anthropicが責任あるAI開発の国際基準「ISO 42001」認証を取得",
+    "description": "We are excited to announce that Anthropic has achieved accredited certification under the new ISO/IEC 42001:2023 standard for our AI management system. ISO 42001 is the first international standard outlining requirements for AI governance and helps ensure AI systems are developed and used responsibly.",
+    "published": "",
+    "lastmod": "2025-01-13T17:13:13.000Z",
+    "summary": "Anthropic（AI研究企業）が、AI管理システムの国際基準「ISO/IEC 42001:2023」の認証を取得しました。この基準は、AI技術が安全かつ倫理的に開発・運用されるための要件を定めた世界初の国際規格です。Anthropicは、AIシステムの設計・開発・導入に関するルールを整備し、問題を事前に防ぐための厳密なテストと監視、ユーザーへの情報開示、そして責任ある管理体制を構築していることが、独立した第三者機関によって検証されました。同社は、この認証を通じてAI安全性への強い取り組みを示し、パートナーと一般ユーザーへの信頼を高めることを目指しています。",
+    "points": [
+      "Anthropicが世界初のAI国際基準「ISO 42001」の認証を取得し、最初期のAI企業の一つとして認証されている",
+      "AIシステムの安全性と倫理性を確保するための包括的な管理体制が第三者機関により検証されている",
+      "設計・開発・監視・情報開示・責任管理など、複数の重要な要素を備えた運用体制を実装している",
+      "既存の安全研究や公開ポリシー、Constitutional AI技術など複数の取り組みに基づいている"
+    ],
+    "analogy": "ISO 42001認証は、AI企業が「営業許可証」を取得するようなもの。企業が食品衛生基準を満たしていることを保健所が確認するように、第三者機関がAIの安全な運用体制を確認し、ユーザーに「このAIは安全に作られている」という証明書を与えるイメージです。",
+    "category": "企業ニュース、AI安全性、パートナーシップ",
+    "summarized": true
+  },
+  "preparing-for-global-elections-in-2024": {
+    "slug": "preparing-for-global-elections-in-2024",
+    "url": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
+    "title_original": "Preparing for global elections in 2024",
+    "title_ja": "2024年の世界選挙に向けた準備：AIツールの不正使用防止対策",
+    "description": "In this post, we’ll discuss some of the specific steps we’ve taken to help us detect and mitigate potential misuse of our AI tools in political contexts.",
+    "published": "",
+    "lastmod": "2024-12-19T19:01:39.000Z",
+    "summary": "2024年は世界人口の半数以上が投票する選挙の年です。AI企業のAnthropicは、自社のAIツール「Claude」が選挙期間中に悪用されるのを防ぐため、複数の対策を実施しています。具体的には、政治キャンペーンでのAI使用を禁止するルール作成、AIが虚偽情報を広げないかテストする検査、そして投票方法を尋ねられた時は正確な情報源へユーザーを誘導することです。また、AIが自信を持って間違った情報を述べる「幻覚」を防ぐため、米国ではTurboVoteというサイトへのポップアップ案内を導入しました。",
+    "points": [
+      "Anthropicは政治キャンペーン・ロビイングへのAI使用を禁止し、不正使用を自動検出するシステムを導入している",
+      "「赤チーム演習」という実験を通じ、虚偽情報やバイアス、投票抑圧戦術へのAI応答をテストしている",
+      "AIが不正確な情報を述べないよう、選挙関連の質問をユーザーに対して信頼できる情報源へ自動的に振り分けている",
+      "米国のTurboVoteに加え、EUでも欧州議会の非党派的選挙ウェブサイトへのリダイレクト機能を追加した"
+    ],
+    "analogy": "AIの不正使用防止対策は、銀行がお金の偽造を防ぐために複数のチェック機能（本物かどうかの検査、疑わしい取引の監視、不正使用時の口座停止）を組み合わせるのと同じです。Anthropicも、ルール作成、テスト検査、そして自動防止システムを組み合わせて、総合的に不正使用を防ごうとしています。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "policy-recap-q4-2023": {
+    "slug": "policy-recap-q4-2023",
+    "url": "https://www.anthropic.com/news/policy-recap-q4-2023",
+    "title_original": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+    "title_ja": "AI規制の国際的な動き：米国の大統領令、G7行動規範、ブレッチリー・パーク・サミット",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T19:01:31.000Z",
+    "summary": "2023年11月、AI政策に関する3つの重要な国際的イベントが開催されました。米国政府は100ページ以上の包括的な大統領令を発行し、AI開発企業の安全性評価やリスク管理の強化を指示しました。G7は国際的な行動規範を策定し、AIの開発と展開におけるベストプラクティスを示しました。英国はブレッチリー・パークでAI安全性サミットを開催し、28ヶ国がAI技術の利益を活用しながらリスクに対処することに合意しました。Anthropicは、政府が独立した検査・評価能力を持つことの重要性を強調し、AI開発企業とともに安全性向上に協力する方針を示しています。",
+    "points": [
+      "米国大統領令がAIの安全性評価やリスク管理強化を指示し、政府機関にAI専門責任者の配置を求めた",
+      "G7による国際行動規範が確立され、AI企業の責任ある開発・展開慣行の国際的なベースラインとなった",
+      "英国のAI安全性サミットで28ヶ国がAIの利益とリスク管理への国際協力を宣言",
+      "英国と米国が政府系のAI安全性評価機関を設立し、AI技術の能力とリスクを独立的に検査する体制を整備",
+      "Anthropicは政府による独立評価の強化を支持し、安全性競争による業界全体のレベルアップを提唱"
+    ],
+    "analogy": "AI規制の状況は、新しい車の安全基準づくりに似ています。政府が独立した検査機関を作って、すべての車メーカーの安全性を公平に評価することで、大手企業も小さい企業も同じ基準で競争できるようになります。これにより、消費者は安心して購入でき、業界全体の安全レベルが上がるのです。",
+    "category": "政策・規制",
+    "summarized": true
+  },
+  "frontier-threats-red-teaming-for-ai-safety": {
+    "slug": "frontier-threats-red-teaming-for-ai-safety",
+    "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+    "title_original": "Frontier Threats Red Teaming for AI Safety",
+    "title_ja": "AIの安全性を守るための「レッドティーミング」戦略",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T19:01:19.000Z",
+    "summary": "Anthropic社は、AI技術が国家安全保障に関わるリスク（生物兵器設計など）をもたらす可能性があると指摘し、これを測定・軽減するための「フロンティア脅威レッドティーミング」という取り組みを発表しました。生物学分野での試験プロジェクトで、専門家と150時間以上かけてAIモデルが危険な情報をどの程度出力できるかを調査。結果として、現在のAIモデルは危険な情報を生成する可能性があり、今後2～3年以内に実際のリスクになる恐れがあることが判明しました。一方で、訓練方法の改善やフィルター機能の追加などにより、これらのリスクを大幅に低減できることも確認されました。同社は今後、この取り組みを拡大し、政府や他の研究機関と知見を共有していく予定です。",
+    "points": [
+      "AIモデルが生物兵器設計などの危険な情報を生成する能力を持つ可能性が確認された",
+      "専門家との協力により、こうしたリスクの測定と評価の方法を開発した",
+      "訓練方法の改善やフィルター機能により、危険な情報出力を減らせることが実証された",
+      "政府や関係機関と協力し、リスク情報を責任を持って報告・共有する体制を構築している",
+      "今後のAIモデルでも同様のテストを継続し、リスク低減策を先制的に開発していく計画"
+    ],
+    "analogy": "AIの「レッドティーミング」は、銀行がセキュリティを確認するため、専門家に意図的に窓や扉の脆弱性を探させるのと似ています。問題が実際に悪用される前に見つけ出し、鍵を強化するのが目的です。",
+    "category": "AI安全性",
+    "summarized": true
+  },
+  "frontier-model-security": {
+    "slug": "frontier-model-security",
+    "url": "https://www.anthropic.com/news/frontier-model-security",
+    "title_original": "Frontier Model Security",
+    "title_ja": "最先端のAIモデルのセキュリティ確保に向けた取り組み",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T19:01:12.000Z",
+    "summary": "Anthropicは、急速に進化するAIモデルの盗難や悪用を防ぐため、高度なセキュリティ対策の実装を発表しました。同社は、銀行の金庫のように「2つの鍵が必要」というルール（二者承認制）をAI開発に適用し、単独で重要なシステムにアクセスできないようにすることを推奨しています。また、ソフトウェア開発の業界標準（NIST基準）をAI開発にも適用し、開発から導入まで「どのモデルがどこから来たか」を追跡可能にすべきだと述べています。政府と企業が連携し、AI企業を金融機関などと同じ「重要インフラ」として扱い、強固なセキュリティ対策を義務付けることが重要であると主張しています。",
+    "points": [
+      "二者承認制の導入：AIシステムへのアクセスに2人以上の承認を必須にし、内部からの不正防止と外部からの盗難防止を強化",
+      "業界標準の適用：金融機関や医療業界で使われているセキュリティ基準（NIST、SLSA）をAI開発にも適用することで、モデルの追跡可能性を確保",
+      "重要インフラとしての位置づけ：政府とAI企業が協力し、金融機関と同じレベルのセキュリティ対策と情報共有を実施",
+      "段階的な義務化：当面は任意の取り組みから始め、政府調達や規制を通じて段階的に強制化していくアプローチ"
+    ],
+    "analogy": "これは、銀行の金庫を守る方法に似ています。昔は1人が鍵を持てば金庫を開けられましたが、今は2人以上の許可が必要です。AIモデルも同じく、1人の従業員が勝手に重要なシステムにアクセスできないようにすることで、内部の悪質な行為と外部からの侵入の両方を防ぐわけです。",
+    "category": "安全性",
+    "summarized": true
   }
 }
