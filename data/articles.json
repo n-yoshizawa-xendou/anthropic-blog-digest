@@ -3034,5 +3034,105 @@
     "analogy": "これは、銀行の金庫を守る方法に似ています。昔は1人が鍵を持てば金庫を開けられましたが、今は2人以上の許可が必要です。AIモデルも同じく、1人の従業員が勝手に重要なシステムにアクセスできないようにすることで、内部の悪質な行為と外部からの侵入の両方を防ぐわけです。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic-amazon-compute": {
+    "slug": "anthropic-amazon-compute",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "title_original": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "title_ja": "AnthropicとAmazon、最大5ギガワットの新規計算能力で協業を拡大",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-04-21T01:50:34.000Z",
+    "summary": "AI企業のAnthropicと大手クラウド企業のAmazonが協業を大幅に拡大します。Anthropicは今後10年間でAmazonのクラウドサービス（AWS）に100億ドル以上を投資し、最大5ギガワット（大型発電所に相当する電力量）の計算能力を確保します。これにより、Anthropicの主力AI「Claude」の学習と運用を加速させます。同時にAmazonはAnthropicに今後最大20億ドル投資することも発表しました。Claudeの利用が急速に拡大し、2026年の年間売上が300億ドルを超えるなど、莫大な需要に対応するための大規模インフラ強化です。",
+    "points": [
+      "AnthropicがAWSに100億ドル以上投資し、最大5ギガワットの計算能力を確保する長期契約を締結",
+      "Amazonが追加で最大20億ドルをAnthropicに投資（過去の80億ドルに加えて）",
+      "Claudeの年間売上が300億ドルを突破し、急速な需要増に対応するための基盤構築が急務",
+      "AWS内でClaudeプラットフォームが直接利用可能になり、ユーザーの利便性向上",
+      "Claudeは世界3大クラウド（AWS、Google Cloud、Microsoft Azure）のすべてで提供される唯一のAI"
+    ],
+    "analogy": "スマートフォンの需要が急増した時、電力会社が発電所を増設して対応したのと同じように、Claudeの利用者が急増したため、Anthropicが『AIの電力網』ともいえる計算能力を大幅に増強する必要が生じたということです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "expanded-legal-protections-api-improvements": {
+    "slug": "expanded-legal-protections-api-improvements",
+    "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
+    "title_original": "Expanded legal protections and improvements to our API",
+    "title_ja": "Anthropicが法的保護の拡充とAPI改善を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T19:00:52.000Z",
+    "summary": "Anthropic社は、顧客向けに2つの重要な改善を発表しました。まず、新しい利用規約により、顧客がClaudeを使って生成した成果物の所有権を保持でき、著作権侵害の法的リスクから保護されるようになります。同社が侵害請求に対して顧客を弁護し、和解金や判決金も負担します。次に、開発者向けの新しいMessagesAPI（ベータ版）を導入し、プロンプト（AI指示文）の構築をより簡単かつ誤りが少なくなるようにしました。これにより、開発者はより直感的にClaudeを使用でき、品質の高い成果が得られるようになります。",
+    "points": [
+      "新しい商用利用規約で、ユーザーが生成した成果物の所有権が保護される",
+      "著作権侵害請求から顧客を法的に守る保証がAnthropicから提供される",
+      "Messages APIがプロンプト構築を簡単・わかりやすくする",
+      "2024年1月から新規約が開始される",
+      "将来的に関数呼び出しなどの新機能が追加予定"
+    ],
+    "analogy": "新しい利用規約は、レストランで食べたお弁当の所有権がお客さんにあり、もし食材に問題があったら店が責任を取るようなものです。Messages APIは、料理の作り方の指示書が、より簡潔でわかりやすいレシピに変わるイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "contextual-retrieval": {
+    "slug": "contextual-retrieval",
+    "url": "https://www.anthropic.com/news/contextual-retrieval",
+    "title_original": "Contextual Retrieval in AI Systems",
+    "title_ja": "AIシステムの情報検索精度を大幅改善する「文脈的検索」技術",
+    "description": "Explore how Anthropic enhances AI systems through advanced contextual retrieval methods. Learn about our approach to improving information access and relevance in large language models.",
+    "published": "",
+    "lastmod": "2024-12-19T19:00:43.000Z",
+    "summary": "Anthropicは、AI（人工知能）が知識データベースから正確な情報を見つけ出す新しい方法「文脈的検索」を発表しました。従来の検索方法では、情報の断片化により大事な背景情報が失われていましたが、この新技術により検索失敗を49%削減できます。具体的には、検索前に各情報片に対して背景説明を自動で追加することで、AIが正確にマッチした情報を見つけやすくします。さらに情報の重要度を順位付けする「並び替え」技術と組み合わせると、失敗率を67%も削減できます。大規模なデータベースを扱う企業のカスタマーサポートや法律相談などで特に有用で、Claudeというサービスを使えば低コストで導入できます。",
+    "points": [
+      "従来のRAG検索は情報を細切れにする際に背景情報を失い、検索精度が低い問題があった",
+      "「文脈的検索」は各情報片に説明文を自動追加することで検索失敗を49%削減",
+      "正確な単語マッチング技術と意味的な関連性を組み合わせると、さらに67%の削減が可能",
+      "Claudeのプロンプトキャッシング機能により、実装コストは100万トークンあたり約1ドル",
+      "データベースサイズが小さい場合は、わざわざ検索機能なしで全データをAIに渡す方が効率的"
+    ],
+    "analogy": "これまでの検索方法は、大型図書館の本をページごとにバラバラにして保管し、「ページ3を読んでください」と言うようなもので、そのページだけでは意味不明なことが多いです。新しい「文脈的検索」は、各ページに『この本は●●という話で、このページは第●章です』という説明ラベルを付けてから保管することで、正しいページを素早く見つけられるようにしたのです。",
+    "category": "AI技術",
+    "summarized": true
+  },
+  "claude-3-family": {
+    "slug": "claude-3-family",
+    "url": "https://www.anthropic.com/news/claude-3-family",
+    "title_original": "Introducing the next generation of Claude",
+    "title_ja": "次世代AI「Claude 3」ファミリーが登場 3つの新モデルを発表",
+    "description": "Today, we're announcing the Claude 3 model family, which sets new industry benchmarks across a wide range of cognitive tasks. The family includes three state-of-the-art models in ascending order of capability: Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus.",
+    "published": "",
+    "lastmod": "2024-12-19T19:00:30.000Z",
+    "summary": "Anthropic社が新しいAI「Claude 3」ファミリーを発表しました。このファミリーは3つのモデルで構成されています。最も高性能な「Opus」、バランス型の「Sonnet」、最速で低コストの「Haiku」です。Opusは大学院レベルの複雑な推論問題で、従来モデルより2倍精度が向上しました。全モデルは画像認識、長文理解、複数言語対応が可能で、より正確で拒否が少なくなりました。費用対効果も大幅に改善され、同時に安全性も強化されています。現在OpusとSonnetはAPIと有料版で利用可能で、159カ国で提供開始されました。",
+    "points": [
+      "3つのレベル別モデル：高性能な「Opus」、バランス型の「Sonnet」、最速の「Haiku」から選択可能",
+      "精度と速度が大幅向上：Opusは精度が2倍改善し、Sonnetは従来モデルより2倍高速",
+      "画像処理と長文理解に対応：PDFやグラフなど様々な形式を処理でき、100万トークンまで対応",
+      "より安全で信頼性向上：有害でない質問への拒否を削減し、虚偽回答も減少",
+      "使いやすさ向上：複雑な指示に従いやすく、JSON形式などの構造化出力に対応"
+    ],
+    "analogy": "Claude 3ファミリーは、3つの異なるサイズの翻訳機に例えられます。Opusは最も大きく複雑な文書を正確に翻訳できる専門家、Sonnetは日常的な手紙や書類を速く処理する実務者、Haikuは短いメッセージをすぐに訳す手軽な辞書のようなものです。用途に応じて最適な『翻訳機』を選べます。",
+    "category": "AI技術、製品アップデート",
+    "summarized": true
+  },
+  "an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
+    "slug": "an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
+    "url": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
+    "title_original": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
+    "title_ja": "AI技術を安全に使うために：NIST（米国標準技術研究所）への積極的な投資を提案",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T19:00:24.000Z",
+    "summary": "AI技術が急速に進化し、社会に広がる中で、Anthropic社は「AI技術の能力とリスクを正確に測定・評価する仕組み」の重要性を指摘しています。同社は、政府機関であるNIST（米国標準技術研究所）への資金増額を提案しています。NISTは100年以上の歴史を持つ計測技術の専門機関で、現在AIシステムの安全性を測定する基準作りに取り組んでいます。しかし、最近の資金状況は十分ではなく、より多くの予算があれば、AIの性能とリスクを適切に評価できるテストベッド（実験環境）の構築が可能になるとのこと。これにより、企業はより安全で信頼性の高いAI製品を開発でき、政府も安心して市民にサービス提供できるようになると主張しています。",
+    "points": [
+      "AI技術の安全性確保には、その能力とリスクを正確に測定できる仕組みが不可欠",
+      "NISTはメガネの度数測定のような『計測の専門家』として、AI評価の基準化を支援すべき",
+      "現在のNISTへの資金は不足しており、より充実した投資で評価環境の整備が可能に",
+      "測定基準ができることで、企業の安全なAI開発を促進し、市民の信頼も向上する",
+      "規制だけでなく『計測と標準化』が実現可能で効果的なAI統治の第一歩"
+    ],
+    "analogy": "AI技術の安全性管理は、医薬品開発に似ています。医薬品は効果を発揮する優れた薬でも、事前に厳密なテストで安全性を確認（測定）しなければ市場に出せません。同じように、どんなに優れたAI技術でも、その性能とリスクを客観的に測定・評価できる基準があってこそ、安心して社会で活用できるようになるのです。",
+    "category": "AI安全性, 政策提案",
+    "summarized": true
   }
 }
