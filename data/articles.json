@@ -3134,5 +3134,104 @@
     "analogy": "AI技術の安全性管理は、医薬品開発に似ています。医薬品は効果を発揮する優れた薬でも、事前に厳密なテストで安全性を確認（測定）しなければ市場に出せません。同じように、どんなに優れたAI技術でも、その性能とリスクを客観的に測定・評価できる基準があってこそ、安心して社会で活用できるようになるのです。",
     "category": "AI安全性, 政策提案",
     "summarized": true
+  },
+  "third-party-testing": {
+    "slug": "third-party-testing",
+    "url": "https://www.anthropic.com/news/third-party-testing",
+    "title_original": "Third-party testing as a key ingredient of AI policy",
+    "title_ja": "AI政策の重要な要素：第三者による安全性テスト",
+    "description": "We believe that the AI sector needs effective third-party testing for frontier AI systems. Developing a testing regime and associated policy interventions based on the insights of industry, government, and academia is the best way to avoid societal harm—whether deliberate or accidental—from AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T18:53:58.000Z",
+    "summary": "Anthropic社は、最先端のAI（人工知能）システムに対して、独立した第三者による安全性テストが必要だと主張しています。Claude（同社のAI）のような大規模なAI システムは、選挙の完全性、差別的な偏見、国家安全保障上の悪用など、様々なリスクをもたらす可能性があります。これらのリスクに対処するには、業界の自己管理だけでなく、政府や大学などの独立した機関による検証が不可欠です。同社は、食品や医薬品、自動車などの業界と同様に、AI分野においても安全基準とテスト体制の確立を提唱しています。これにより、AIの利益を広く享受しながら、悪用や事故を防ぐことができるとしています。",
+    "points": [
+      "最先端のAIシステムは、複数の用途に対応できる『万能機械』であり、従来の産業別規制では対応できないため、第三者による横断的なテスト体制が必要",
+      "テスト体制には、企業の自社テスト、大学の研究機関、政府機関など、複数の独立した組織が関与し、それぞれが異なる役割を果たす",
+      "自動テストと専門家による詳細テストの2段階構成で、特に国家安全保障に関わるリスク（バイオ兵器やサイバー攻撃への悪用可能性）の評価を優先すべき",
+      "Anthropic社は、自社の責任ある開発ポリシー（RSP）の実装やテスト方法の共有を通じて、業界全体のテスト体制構築に貢献する",
+      "政府の予算増加と研究インフラの整備により、学界や政府がAIシステムを独立して評価・開発できる環境づくりが重要"
+    ],
+    "analogy": "AIの安全性テストは、医薬品の承認制度に似ています。メーカーが自分たちで安全性を確認するだけでなく、政府の医療機関（FDA）が独立して検証するように、AIシステムも企業の自主テストだけでなく、政府や大学といった第三者機関による客観的なテストが必要ということです。",
+    "category": "安全性、政策提言",
+    "summarized": true
+  },
+  "testing-and-mitigating-elections-related-risks": {
+    "slug": "testing-and-mitigating-elections-related-risks",
+    "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
+    "title_original": "Testing and mitigating elections-related risks",
+    "title_ja": "選挙関連のリスクをテストして軽減する取り組み",
+    "description": "This blog provides a snapshot of the work we've done since last summer to test our models for elections-related risks.",
+    "published": "",
+    "lastmod": "2024-12-19T18:53:48.000Z",
+    "summary": "Anthropic社は、2024年の世界的な選挙に向けて、AI（人工知能）モデルが選挙に関する質問にどのように対応するかをテストし、改善する取り組みを行っています。専門家による詳細なテスト「ポリシー脆弱性テスト」と、大規模な自動評価を組み合わせることで、誤った情報の提供や悪用の可能性などのリスクを特定しています。テスト結果に基づいて、システムの更新やモデルの微調整などの対策を実施し、その効果を再度テストするという反復的なプロセスを採用しています。これにより、選挙の完全性を守りながら、信頼できる情報を提供できるようにしています。",
+    "points": [
+      "専門家による詳細なテストと大規模な自動評価を組み合わせて、選挙関連のリスクを特定している",
+      "テスト結果に基づいて、システムプロンプトの更新やモデルの学習データの調整などの対策を実施している",
+      "信頼できる情報源への誘導やナレッジカットオフ日付（学習データの最新日）の明記など、複数の軽減策を講じている",
+      "実施した対策の効果を測定し、改善を検証するプロセスを定期的に繰り返している",
+      "開発した自動評価ツールを他機関と共有し、業界全体の選挙完全性向上に貢献している"
+    ],
+    "analogy": "これは医薬品開発に似ています。まず医学専門家が詳細な臨床試験を行い（ポリシー脆弱性テスト）、その結果を基に薬の配合を調整（モデルの微調整）し、その後もう一度試験して効果を確認する（再テスト）という、何度も繰り返すプロセスと同じです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "prompt-engineering-for-business-performance": {
+    "slug": "prompt-engineering-for-business-performance",
+    "url": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
+    "title_original": "Prompt engineering for business performance",
+    "title_ja": "ビジネスパフォーマンスを高めるプロンプトエンジニアリング",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-12-19T18:53:38.000Z",
+    "summary": "Anthropicが、AI言語モデル「Claude」を効果的に活用するためのプロンプトエンジニアリング（AIへの指示の出し方）について説明しています。適切な指示を与えることで、AIの回答精度を高め、コストを削減し、ブランドイメージに合った顧客対応が実現できます。記事では、「ステップバイステップで考えさせる」「具体例を示す」「複数ステップに分ける」という3つの技法を紹介。実際の事例として、ある大手企業がこれらの技法を使って顧客対応チャットボットの精度を20%改善した例が挙げられています。プロンプトエンジニアリングは、AIを活用するあらゆるビジネスにとって重要なスキルになりつつあります。",
+    "points": [
+      "適切なプロンプト（指示）で精度向上・コスト削減・ブランド統一が実現できる",
+      "「ステップバイステップ」「具体例提示」「段階的な処理」の3つの技法が有効",
+      "大手企業がこれらの技法で顧客対応システムの精度を20%改善した実績がある",
+      "プロンプトエンジニアリングは科学的なアプローチで、試行錯誤が重要",
+      "ビジネス導入時は、プロンプトエンジニアと領域専門家の協働が効果的"
+    ],
+    "analogy": "AIにプロンプトを与えることは、新入社員に仕事を教えるようなもの。曖昧な指示では正確な仕事ができませんが、具体的な手順を示し、見本となる良い事例を提供し、複雑な仕事を小分けにして説明すれば、より正確で素早い対応ができるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "google-vertex-general-availability": {
+    "slug": "google-vertex-general-availability",
+    "url": "https://www.anthropic.com/news/google-vertex-general-availability",
+    "title_original": "Claude 3 models on Vertex AI",
+    "title_ja": "Claude 3モデルがGoogle CloudのVertex AIで利用可能に",
+    "description": "Claude 3 Haiku and Claude 3 Sonnet are now generally available on Google Cloud’s Vertex AI platform.",
+    "published": "",
+    "lastmod": "2024-12-19T18:53:26.000Z",
+    "summary": "AnthropicのAI助手「Claude」の2つのモデル（HaikuとSonnet）が、Google Cloudのサービス「Vertex AI」で正式に利用できるようになりました。これにより、企業はGoogle Cloudの安全で堅牢なインフラを使いながら、高性能なAI技術を活用できます。ユーザーのデータをGoogle Cloudの環境内に保持できるため、セキュリティやデータ管理が向上し、運営コストも削減されます。すでにQuoraのPoeというAIチャットアプリでClaudeが人気を集めており、ユーザーから詳しく自然な回答が得られると高く評価されています。最も高性能なOpusモデルも近日中にVertex AIで提供予定です。",
+    "points": [
+      "Claude 3 HaikuとSonnetがGoogle Cloud Vertex AIで一般提供開始",
+      "企業がデータをクラウド環境内に保持しながら高性能なAIを活用可能",
+      "セキュリティ強化、データ管理の簡素化、運営コスト削減が実現",
+      "Quoraの質問回答プラットフォーム「Poe」でClaudeが既に人気",
+      "最高性能のOpusモデルも数週間以内にVertex AIで提供予定"
+    ],
+    "analogy": "例えるなら、これまでは各企業が独自に高性能な秘書を雇う必要がありましたが、今はGoogle Cloudという大型ビルの中に高性能な秘書（Claude）を配置でき、企業の書類はビル内に保管されたままで、安心して利用できるようになったということです。",
+    "category": "パートナーシップ・製品アップデート",
+    "summarized": true
+  },
+  "claude-brazil": {
+    "slug": "claude-brazil",
+    "url": "https://www.anthropic.com/news/claude-brazil",
+    "title_original": "Claude is now available in Brazil",
+    "title_ja": "Claudeがブラジルで利用可能になりました",
+    "description": "Claude, Anthropic’s trusted AI assistant, is now available in Brazil. Starting today, consumers and businesses in Brazil will be able to access Claude.",
+    "published": "",
+    "lastmod": "2024-12-19T18:53:01.000Z",
+    "summary": "Anthropic社のAIアシスタント「Claude」がブラジルで利用可能になりました。ブラジルの消費者とビジネスは、Web版のClaude.ai、Android/iOS用の無料モバイルアプリ、または開発者向けのAPIを通じてClaudeにアクセスできます。無料プランと有料プラン（Pro：月額110レアル、Team：月額165レアル）が提供されており、有料ユーザーはより多くの使用量と最新機能にアクセス可能です。Anthropicは安全性とプライバシーを重視し、ユーザーデータは明示的な許可なしに学習に使用されません。",
+    "points": [
+      "ClaudeがブラジルでWeb、モバイルアプリ、API経由で利用開始",
+      "無料プランと有料プラン（Pro/Team）を提供し、有料ユーザーは使用量5倍と最新機能へのアクセスが可能",
+      "ユーザーデータは明示的な許可なしに学習に使用されない強固なプライバシー保護",
+      "最新モデル「Claude 3.5 Sonnet」を含む複数のClaudeモデルが利用可能"
+    ],
+    "analogy": "Claudeのブラジル展開は、有名なレストランチェーンが新しい地域に支店をオープンするようなもの。無料サンプル（無料プラン）で試してから、より充実したサービス（有料プラン）に升級できる選択肢を用意し、顧客が自分のニーズに合わせて選べるようにしています。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
