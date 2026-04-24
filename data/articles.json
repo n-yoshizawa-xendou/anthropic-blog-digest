@@ -3333,5 +3333,105 @@
     "analogy": "この協力は、自動車メーカーとエンジン製造メーカーが一緒に働くようなものです。AWSがエンジン（チップとインフラ）を提供し、Anthropicがそれを最高に活用する車（AI）を設計する。二社が一緒に動くことで、より高速で効率的な『乗り物』が生まれるのです。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "anthropic-amazon": {
+    "slug": "anthropic-amazon",
+    "url": "https://www.anthropic.com/news/anthropic-amazon",
+    "title_original": "Expanding access to safer AI with Amazon",
+    "title_ja": "アマゾンとの提携でより安全なAIへのアクセスを拡大",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-11-22T13:51:14.000Z",
+    "summary": "AI安全研究企業のAnthropicは、アマゾンから最大40億ドルの投資を受けることを発表しました。この提携により、AnthropicのAI技術とアマゾンウェブサービス(AWS)のクラウドインフラ技術を組み合わせ、より安全で信頼できるAI「Claude」を世界中の企業が使えるようにします。アマゾンはAnthropicのメインクラウドプロバイダーとなり、特別な計算チップを提供します。すでに法律事務所や投資会社など多くの企業がClaudeを活用しており、例えば旅行出版社は旅程作成コストを80%削減できたとのことです。両社は安全で責任あるAI開発の推進に取り組んでいます。",
+    "points": [
+      "アマゾンが最大40億ドルを投資し、Anthropicのメインクラウドプロバイダーになる",
+      "AnthropicのAI『Claude』がアマゾンのクラウドサービス『Amazon Bedrock』で広く利用可能になる",
+      "企業が自社のデータでClaudeをカスタマイズできる機能により、より正確な業務用AIになる",
+      "法律事務所、投資会社、旅行出版社など多くの企業がすでに実用化を始めている",
+      "両社がAIの安全性と責任ある開発を重視する姿勢を共有している"
+    ],
+    "analogy": "このパートナーシップは、優秀な料理人(Anthropic)と最高の調理場(AWS)が力を合わせるようなもの。料理人の技術と調理場の最新設備が組み合わさることで、より多くのレストランや家庭で美味しくて安全な料理が食べられるようになる、というイメージです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "fine-tune-claude-3-haiku": {
+    "slug": "fine-tune-claude-3-haiku",
+    "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
+    "title_original": "Fine-tune Claude 3 Haiku in Amazon Bedrock | Claude",
+    "title_ja": "Amazon BedrockでClaude 3 Haikuのカスタマイズが可能に",
+    "description": "Claude 3 Haiku can now be fine-tuned in Amazon Bedrock with custom training data, enabling faster, more accurate performance at lower cost. Update: Fine-tuning Claude 3 Haiku in Amazon Bedrock is generally available.",
+    "published": "",
+    "lastmod": "2024-11-01T21:48:21.000Z",
+    "summary": "Anthropic社は、AI会話モデル「Claude 3 Haiku」をAmazon Bedrock上でカスタマイズできる機能を提供開始しました。企業が自社のデータを使って学習させることで、より正確で業務に特化した性能を実現できます。例えば、カスタマーサポートの対応をモデルに学習させると、回答の正確さが99.6%に向上し、処理速度も85%高速化するなど、大幅なパフォーマンス改善が期待できます。SK Telecomなどの大手企業はすでに導入し、顧客満足度が73%向上するなどの成果を報告しています。特別な技術知識がなくても利用でき、企業のセキュリティも確保されるため、あらゆる規模の企業が活用できます。",
+    "points": [
+      "Claude 3 Haikuを企業独自のデータで学習させることで、業務に特化した高精度なAIが実現可能",
+      "カスタマイズにより処理速度が向上し、より低コストで運用できる",
+      "オンラインコメント監視では分類精度が81.5%から99.6%に大幅向上",
+      "SK Telecomの例では顧客サポート満足度が73%改善",
+      "複雑な技術知識不要で、セキュリティを保ちながら利用可能"
+    ],
+    "analogy": "これは料理人がレシピをカスタマイズするようなもの。最初は一般的な料理ができるシェフ（Claude 3 Haiku）でも、特定のレストランの味付けや顧客の好みをデータとして教えると、そのお店専門の一流シェフに変身するイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "the-case-for-targeted-regulation": {
+    "slug": "the-case-for-targeted-regulation",
+    "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
+    "title_original": "The case for targeted regulation",
+    "title_ja": "AIの急速な進化に対応する的確な規制の必要性",
+    "description": "Increasingly powerful AI systems have the potential to accelerate scientific progress, unlock new medical treatments, and grow the economy. But along with the remarkable new capabilities of these AIs come significant risks. Governments should urgently take action on AI policy in the next eighteen months. The window for proactive risk prevention is closing fast.",
+    "published": "",
+    "lastmod": "2024-10-31T20:26:54.000Z",
+    "summary": "Anthropic社は、急速に進化する強力なAIシステムが科学進歩や医療の発展をもたらす一方で、サイバー攻撃や生物・化学兵器の悪用といった深刻なリスクも増加していると警告しています。同社は、今後18ヶ月間が政府による予防的な規制政策の決定の重要な時期であると指摘。企業の自主的な安全性確保方針（Responsible Scaling Policy）を基にした、シンプルで的確な規制フレームワークが必要だと提案しています。この規制は企業の透明性確保、安全保障慣行の向上促進、そして実装のシンプルさの3つの要素で構成されるべきだとしています。",
+    "points": [
+      "AIの能力向上に伴い、サイバー攻撃や化学・生物兵器の悪用リスクが急速に高まっている",
+      "Anthropicが導入している『責任あるスケーリング方針』は、能力の段階に応じて安全対策を段階的に強化する仕組み",
+      "効果的な規制には『企業の透明性』『安全慣行のインセンティブ』『実装のシンプルさ』の3要素が必要",
+      "過度に複雑な規制はイノベーションを妨げるため、必要最小限かつ的確な設計が重要",
+      "政府、業界、安全保障専門家が協力して18ヶ月以内に規制枠組みを構築する緊急性がある"
+    ],
+    "analogy": "これは、子どもの成長に合わせて見守りルールを変えていく親の役割に似ています。幼い子どもにはシンプルなルールで良いですが、成長して行動範囲が広がるにつれて、より詳細で段階的なガイドラインが必要になります。AIも同様に、能力が高まるにつれて、それに見合った段階的な安全対策が必要というわけです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "salesforce-partnership": {
+    "slug": "salesforce-partnership",
+    "url": "https://www.anthropic.com/news/salesforce-partnership",
+    "title_original": "Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities",
+    "title_ja": "セールスフォース、クロードAIを統合してEinstein機能を強化",
+    "description": "Salesforce enhances its Einstein 1 Studio with Anthropic's Claude AI models, now available through Amazon Bedrock. Learn how this integration empowers enterprises to improve efficiency and personalization across sales, customer service, marketing, and more.",
+    "published": "",
+    "lastmod": "2024-10-16T16:29:04.000Z",
+    "summary": "セールスフォース（営業支援システムの大手企業）がAnthropicの最新AI「Claude」を統合しました。これにより、セールスフォースの利用企業は営業、顧客サービス、マーケティングなど様々な業務でClaudeの力を活用できるようになります。Claudeは間違った情報を出しにくく、人間に近い表現ができるのが特徴です。企業はAmazon Bedrockというクラウドサービス経由でClaudeにアクセスでき、自社のニーズに合わせてカスタマイズできます。セキュリティ機能も組み込まれており、企業が安心して使用できるよう設計されています。",
+    "points": [
+      "セールスフォースがClaudeの複数モデル（Claude 3.5 Sonnet、Claude 3 Opus、Claude 3 Haiku）を統合し、Amazon Bedrockを通じて利用可能に",
+      "営業資料の作成、顧客対応の自動化、契約書分析など、複数業界の業務効率化に対応",
+      "プログラミング知識がなくても、管理者や開発者がカスタムAIアプリケーションを構築・カスタマイズ可能",
+      "セールスフォース独自のセキュリティ層「Einstein Trust Layer」により、安全で責任あるAI利用を実現",
+      "企業は複数のAIモデルから選択でき、速度やコスト、精度のバランスを自社の要件に合わせられる"
+    ],
+    "analogy": "これは、レストランのシェフが複数の調理道具メーカーから最高のツールを選べるようになったのと同じです。以前は決まった道具だけを使っていたのが、今はClaudeという高性能な新しい道具を加えることで、より質の高い料理（ビジネス成果）を効率よく提供できるようになるということです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "announcing-our-updated-responsible-scaling-policy": {
+    "slug": "announcing-our-updated-responsible-scaling-policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "title_original": "Announcing our updated Responsible Scaling Policy",
+    "title_ja": "Anthropic、AIの安全性を確保するための「責任あるスケーリング政策」を更新",
+    "description": "Today we are publishing a significant update to our Responsible Scaling Policy (RSP), the risk governance framework we use to mitigate potential catastrophic risks from frontier AI systems.",
+    "published": "",
+    "lastmod": "2024-10-15T20:44:11.000Z",
+    "summary": "AI企業のAnthropicは、高度なAIシステムのリスクに対処するための「責任あるスケーリング政策」を大幅に更新しました。この政策は、AIの能力が高まるにつれて、それに応じた安全対策を実施するという考え方に基づいています。新しい政策では、AIの能力が一定の基準に達したら、より厳しい安全措置を取ることを定めています。特に、AIが独立して複雑な研究を行えるようになったり、危険な兵器製造に使用される可能性が出てきた場合に、より強力な保護措置を講じることにしました。Anthropicは過去1年間の実装経験から学び、より柔軟で実用的なアプローチを導入しました。同時に、内部の厳しいテストと外部の専門家からの意見も取り入れることで、AIの安全性をより確実に確保しようとしています。",
+    "points": [
+      "AIの能力が高まるに応じて、段階的に安全対策を強化する仕組みを導入",
+      "AIが独立して研究開発を行える段階や危険な兵器製造に利用される可能性が出た時点で、より厳しいセキュリティ対策（ASL-3以上）を実施",
+      "過去1年の実装経験から学び、政策をより柔軟で実用的に改善",
+      "内部の厳格なテストと外部専門家からの意見収集により、判断の透明性と正確性を向上",
+      "他のAI企業も参考にできるよう、政策実装の経験と知見を積極的に共有"
+    ],
+    "analogy": "これは家の防犯対策に例えるとわかりやすいです。普通の家には基本的な鍵が付いていますが（ASL-2）、もし泥棒がより高度な侵入技術を身につけたことが判明したら、より強固な防犯システムを導入する必要があります（ASL-3以上）。同様に、AIの能力が危険なレベルに達したら、それに応じた強力な「セキュリティの鍵」を用意するということです。",
+    "category": "安全性",
+    "summarized": true
   }
 }
