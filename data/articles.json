@@ -3433,5 +3433,103 @@
     "analogy": "これは家の防犯対策に例えるとわかりやすいです。普通の家には基本的な鍵が付いていますが（ASL-2）、もし泥棒がより高度な侵入技術を身につけたことが判明したら、より強固な防犯システムを導入する必要があります（ASL-3以上）。同様に、AIの能力が危険なレベルに達したら、それに応じた強力な「セキュリティの鍵」を用意するということです。",
     "category": "安全性",
     "summarized": true
+  },
+  "election-safeguards-update": {
+    "slug": "election-safeguards-update",
+    "url": "https://www.anthropic.com/news/election-safeguards-update",
+    "title_original": "An update on our election safeguards",
+    "title_ja": "選挙の信頼性を守るために：Anthropicが講じる対策について",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-04-24T18:01:39.000Z",
+    "summary": "Anthropic社のAIアシスタント「Claude」が選挙時期に信頼できる情報源となるよう、同社は複数の対策を実施しています。具体的には、政治的な偏りがないよう訓練し、選挙に関連した不正利用（偽情報の発信やなりすまし投票など）を検出・防止する仕組みを導入しています。また、投票登録場所や選挙日などの信頼できる情報へユーザーを誘導し、最新情報が必要な場合はウェブ検索を自動的に活用します。これらの取り組みにより、人々が選挙について正確でバランスの取れた情報をClaudeから得られることを目指しています。",
+    "points": [
+      "政治的中立性：複数の政治的観点を同じ深さで扱うよう訓練し、公平性を測定・評価しています",
+      "不正使用防止：偽情報生成や投票妨害などの悪用を検出・阻止する仕組みを常に動作させています",
+      "信頼できる情報へのアクセス：投票に関する情報へのバナー表示で、独立した信頼できるサイトへ誘導します",
+      "最新情報の提供：ウェブ検索機能により、候補者発表や選挙結果などの最新情報を提供します",
+      "継続的な改善：実際の使用状況を監視し、検出能力をテストして対策を調整し続けます"
+    ],
+    "analogy": "Claudeの選挙対策は、信頼できる新聞の編集方針に似ています。良い新聞が異なる政治的立場の意見を公平に扱い、読者が自分で判断できるようにするのと同じように、Claudeは政治情報について立場を持たずバランスの取れた回答をし、また駅の掲示板で信頼できる投票情報を指し示すように、ユーザーを信頼できる情報源へ導きます。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic-nec": {
+    "slug": "anthropic-nec",
+    "url": "https://www.anthropic.com/news/anthropic-nec",
+    "title_original": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
+    "title_ja": "AnthropicとNECが日本でAI導入で提携、3万人の従業員にClaudeを展開",
+    "description": "NEC will deploy Claude to 30,000 employees and become Anthropic's first Japan-based global partner, co-developing AI products for finance, manufacturing, and government",
+    "published": "",
+    "lastmod": "2026-04-24T04:06:50.000Z",
+    "summary": "Anthropic（AI企業）と日本の大手IT企業NECが戦略的パートナーシップを発表しました。NECはAnthropicの最新AI「Claude」を約3万人の従業員に提供し、日本市場向けの金融・製造・行政向けAI製品を共同開発します。NECは社内にAI専門の技術チームを立ち上げ、同時にサイバーセキュリティサービスにもClaudeを統合予定。この提携により、両社は日本の高い安全性・信頼性基準に対応した業界別のAIソリューションを創出し、日本を含むグローバル市場でのAI活用を推進していきます。",
+    "points": [
+      "NECが3万人の従業員にAI『Claude』を提供し、日本最大級のAI技術チームを構築",
+      "Anthropicとの共同開発で、金融・製造・地方自治体向けの高度なセキュリティ対応AI製品を開発",
+      "NECのサイバーセキュリティサービスにClaudeを統合し、企業の高度な脅威対策を実現",
+      "NECがAnthropicの日本初のグローバルパートナーとなり、長期的な協業体制を構築"
+    ],
+    "analogy": "これは、有能な部下（Claude）を採用した大企業（NEC）が、その才能を最大限に活かすため、まず自社内で鍛えて専門スキルを磨き、その後に顧客へサービスとして提供するようなイメージです。自動車メーカーが自社の製造ラインで新しい工作機械を試し、その後に完成した技術を他の工場に導入するのと同じです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "us-elections-readiness": {
+    "slug": "us-elections-readiness",
+    "url": "https://www.anthropic.com/news/us-elections-readiness",
+    "title_original": "U.S. Elections Readiness",
+    "title_ja": "2024年米国選挙に向けたAnthropicの安全対策",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-10-08T18:29:46.000Z",
+    "summary": "Anthropic社は、2024年の米国選挙に向けて、AI（人工知能）ツールの悪用防止に取り組んでいます。同社のAIアシスタント「Claude」が選挙に関する有害な用途に使われないよう、複数の対策を実施。具体的には、政治キャンペーンへの利用禁止、選挙情報に関するデマ（虚偽情報）の生成禁止、ディープフェイク（合成映像）の生成防止などです。また、自動監視システムと人間による審査を組み合わせて不正利用を検出し、ユーザーには信頼できる投票情報サイトへのリダイレクト機能を提供しています。同社は継続的にテストと改善を行い、業界全体で選挙の安全性を高める取り組みを共有しています。",
+    "points": [
+      "政治キャンペーン利用の禁止、デマ生成の防止、ディープフェイク製作の阻止など、明確なルール設定",
+      "自動システムと人間による二重の監視体制で、不正利用を検出・防止",
+      "ユーザーに対して信頼性の高い投票情報への自動案内機能を実装",
+      "継続的な脆弱性テスト（赤チーム演習）で、予想外の悪用方法を先制的に発見",
+      "テスト評価ツールを業界に公開し、他社のAI安全性向上に貢献"
+    ],
+    "analogy": "これは、銀行がセキュリティを強化するのに似ています。銀行は「カウンター業務のルール作成」「防犯カメラ設置」「警備員による確認」を組み合わせ、さらに定期的に防犯訓練を実施してセキュリティホールを探します。Anthropicも同様に、ルール（ポリシー）、自動監視、人間による審査、テストを組み合わせてAIの悪用を防いでいるのです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "a-new-initiative-for-developing-third-party-model-evaluations": {
+    "slug": "a-new-initiative-for-developing-third-party-model-evaluations",
+    "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+    "title_original": "A new initiative for developing third-party model evaluations",
+    "title_ja": "AI モデルの安全性を評価する第三者機関向け資金提供プログラムを開始",
+    "description": "A robust, third-party evaluation ecosystem is essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations (evals) remains challenging, and the demand is outpacing the supply. To address this, today we're introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic社は、AI モデルの能力と危険性を正確に測定するための評価手法を開発する第三者機関に資金を提供する新しいイニシアティブを開始しました。現在、高品質な安全性評価の開発が需要に追いついていないため、このプログラムを立ち上げました。具体的には、サイバーセキュリティ、化学・生物兵器関連のリスク、AI の自動化能力、社会への影響など、重要な危険性を測定する評価手法の開発に資金提供します。同時に、評価開発を簡単にするツールやインフラの構築も支援します。Anthropic は、優れた評価の特性として、十分な難易度、訓練データに含まれていないこと、スケーラビリティ、領域専門知識の活用などを挙げており、提案の募集を開始しています。",
+    "points": [
+      "AI の危険な能力を測定するための第三者評価に資金提供するプログラムを開始",
+      "サイバー攻撃、化学兵器、AI の自動化、社会操作など、複数の安全関連リスク領域を評価対象とする",
+      "評価開発ツールやインフラの構築支援も含まれ、AI 安全性評価の全体的なエコシステムを強化",
+      "優れた評価の条件として、十分な難易度、訓練データ外の内容、スケーラビリティなど 10 項目を定義",
+      "組織や研究機関からの提案を募集し、段階的な資金提供オプションを用意"
+    ],
+    "analogy": "これは学校のテスト作成に例えられます。AI が本当に危険なことをしないか確認するため、複数の民間企業や研究機関に難しくて信頼性の高いテストを作らせることで、独立した第三者が正確に実力を測定できるようにする、という考え方です。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "accenture-aws-anthropic": {
+    "slug": "accenture-aws-anthropic",
+    "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
+    "title_original": "Accenture, AWS, Anthropic Collaboration",
+    "title_ja": "Anthropic、AWS、Accentureが企業向けの信頼できるAIソリューション構築で協業",
+    "description": "Anthropic, AWS, and Accenture Team Up to Build Trusted Solutions for Enterprises",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic（AI企業）、Amazon Web Services（AWS）、Accenture（コンサルティング企業）の3社が協力して、企業向けの生成AI（人間のような文章や画像を自動生成する技術）ソリューションを開発します。特に医療や金融など、正確さと安全性が重要な業界に向けたものです。Accentureの1,400人以上のエンジニアがAnthropicのAIモデルを使う専門家として訓練され、企業が自分たちのデータを安全に活用しながらAIシステムを導入できるようにサポートします。既に実績として、ワシントンDCの保健局と協力して、健康プログラムに関する質問に自動で答えるチャットボット「Knowledge Assist」を開発しました。",
+    "points": [
+      "3社の協力により、規制が厳しい業界（医療・金融など）向けの信頼性の高いAIソリューションを提供",
+      "Accentureの1,400人超のエンジニアが専門的な訓練を受け、企業のAI導入を支援",
+      "企業は自社データを使ってAIをカスタマイズでき、データのプライバシーと安全性を保証",
+      "既にワシントンDCの保健局でAIチャットボットの実装に成功"
+    ],
+    "analogy": "これは、レストランシェフ（Anthropic）、厨房の設備提供者（AWS）、カウンセラー（Accenture）が一緒にタッグを組むようなものです。シェフが最高の料理技術を持ち、設備業者が安全で信頼できる厨房環境を提供し、カウンセラーが客のニーズを理解して最適なメニューを作るのを手伝う、というチーム体制です。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
