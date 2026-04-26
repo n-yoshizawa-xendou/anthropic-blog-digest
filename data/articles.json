@@ -3531,5 +3531,102 @@
     "analogy": "これは、レストランシェフ（Anthropic）、厨房の設備提供者（AWS）、カウンセラー（Accenture）が一緒にタッグを組むようなものです。シェフが最高の料理技術を持ち、設備業者が安全で信頼できる厨房環境を提供し、カウンセラーが客のニーズを理解して最適なメニューを作るのを手伝う、というチーム体制です。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
+    "slug": "anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
+    "title_original": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+    "title_ja": "AnthropicとMenlo Venturesが「Anthology Fund」を立ち上げ、AIスタートアップを支援",
+    "description": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "AnthropicとMenlo Venturesが1億ドル規模の「Anthology Fund」を立ち上げました。このファンドは、Anthropicの技術を使ってAI（人工知能）アプリケーションを開発するスタートアップを支援するものです。医療、法律、教育、エネルギー、科学研究などの分野で、人間の能力を高めるAI技術の開発に特に力を入れています。支援を受けるスタートアップは、Anthropicの最先端AIモデルの利用料として2万5千ドルの無料クレジットのほか、研究成果やMenlo Venturesの経営支援を受けることができます。AIインフラ、医療・教育などでの新しいAI応用、消費者向けAIソリューション、安全性確保ツール、社会に有益なAI技術など5つの重点分野でスタートアップを募集しています。",
+    "points": [
+      "Anthropic（AI企業）とMenlo Ventures（投資会社）が協力して、AI開発企業を支援する1億ドルのファンドを立ち上げた",
+      "医療、教育、科学研究など、実生活に役立つ分野でのAI活用を特に応援する",
+      "支援企業は最先端AIツールの無料利用やプロの経営指導を受けられる",
+      "AIの安全性や社会への貢献度を重視した企業を選ぶ方針"
+    ],
+    "analogy": "これは野球で例えるなら、有望な選手（スタートアップ企業）をスカウトして、一流のコーチ（Menlo Ventures）と最高の道具（Anthropicの技術）を与えて育成するようなものです。選手たちが成長することで、チーム全体が強くなるという考え方と同じです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude-europe": {
+    "slug": "claude-europe",
+    "url": "https://www.anthropic.com/news/claude-europe",
+    "title_original": "Claude is now available in the EU",
+    "title_ja": "ClaudeがEUで利用可能に",
+    "description": "We’re excited to announce that Claude, Anthropic’s trusted AI assistant, is now available for people and businesses across Europe to enhance their productivity and creativity.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic社が開発したAIアシスタント「Claude」がヨーロッパ全域で提供開始されました。Web版のClaude.ai、iPhoneアプリ、ビジネス向けのTeamプランが利用できるようになります。フランス語やドイツ語など複数のヨーロッパ言語に対応しており、個人ユーザーは無料で基本機能を使用でき、月額18ユーロのプロ版では最新モデルが使い放題です。企業向けTeamプランは月額28ユーロ/ユーザーで、最低5ユーザーから利用できます。これにより、ヨーロッパの個人や企業がClaudeの高度なAI機能を活用して生産性や創造性を向上させられるようになります。",
+    "points": [
+      "ClaudeがEU全域で利用可能になり、Web版、iOSアプリ、ビジネス向けプランが提供開始",
+      "フランス語、ドイツ語、スペイン語など複数のヨーロッパ言語に対応",
+      "個人向けは無料または月額18ユーロのプロ版、企業向けは月額28ユーロ/ユーザーで利用可能",
+      "開発者向けのClaudeAPIも既に提供開始済み"
+    ],
+    "analogy": "ClaudeのEU提供開始は、世界中にある支店を持つ企業が新しい地域に店舗をオープンするようなもの。地元の言葉に対応した商品やサービスメニューを用意して、現地のお客さんの要望に応じた展開をしています。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "expanding-access-to-claude-for-government": {
+    "slug": "expanding-access-to-claude-for-government",
+    "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
+    "title_original": "Expanding Access to Claude for Government",
+    "title_ja": "政府向けClaudeの利用拡大：米国情報機関がAmazonクラウド経由でAIを利用可能に",
+    "description": "Anthropic's mission is to build reliable, interpretable, steerable AI systems. We have been excited to see our technology used in areas like coding, customer service, drug discovery, and medical research. We're eager to make these tools available through expanded offerings to government users. Leveraging the flexibility and security of Amazon Web Services [AWS],  our AI models Claude 3 Haiku and Claude 3 Sonnet are now available in the AWS Marketplace for the US Intelligence Community [IC] and in AWS GovCloud.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "AI企業のAnthropicが、自社の会話型AI「Claude」を米国の情報機関や政府機関向けに提供開始しました。Amazon Web Services（クラウドサービス）を通じて、セキュリティ基準を満たした環境でClaudeが利用できるようになります。政府機関は市民サービスの向上、文書作成の効率化、政策立案の支援、訓練シナリオの作成などに活用できます。Anthropicは責任あるAI利用のため、テロ対策や人身売買防止などの正当な目的での外交情報分析に限定して、通常のルールの例外を設けました。一方、偽情報キャンペーンや武器設計、サイバー攻撃などの悪用には引き続き対応しています。",
+    "points": [
+      "ClaudeのAIモデルが米国の情報機関や政府機関向けにAmazonクラウド経由で提供開始",
+      "政府機関は市民サービス向上、文書効率化、政策立案支援など幅広い用途に活用可能",
+      "Anthropicは責任あるAI利用のため、正当な外交・情報分析には例外を認める一方、悪用防止ルールは厳守",
+      "英国のAI安全研究所と協力し、AIの安全性検証と政府への事前提供テストを実施",
+      "今後も定期的に提携関係と影響を評価し、公益に適う責任あるAI展開を目指す"
+    ],
+    "analogy": "これは病院が新しい医療機器を導入するようなものです。Anthropicという医療機器メーカーが、高いセキュリティ基準を持つ特定の病院（政府機関）に新しい診断AI（Claude）を提供することで、より良い治療（市民サービス）が可能になります。ただし、その機器を危険な目的に使わないよう、使用ルールをしっかり定めています。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "golden-gate-claude": {
+    "slug": "golden-gate-claude",
+    "url": "https://www.anthropic.com/news/golden-gate-claude",
+    "title_original": "Golden Gate Claude",
+    "title_ja": "ゴールデンゲート・クロード：AIの内部構造を解き明かす研究デモ",
+    "description": "When we turn up the strength of the “Golden Gate Bridge” feature, Claude’s responses begin to focus on the Golden Gate Bridge. For a short time, we’re making this model available for everyone to interact with.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic社は、AI言語モデル「Claude 3 Sonnet」の内部構造を解き明かす研究を発表しました。AIの「脳」には数百万の概念（特徴）があり、特定のテーマについての言及を見つけるとそれらが活性化することを発見。その一例として、ゴールデンゲートブリッジについての特徴を意図的に強化した「ゴールデンゲート・クロード」を作成し、期間限定で公開しました。このモデルにどんな質問をしても、回答にゴールデンゲートブリッジが登場するようになります。この研究は、AIの動作原理をより詳しく理解し、安全性を高める可能性を示すものです。",
+    "points": [
+      "AIの内部には数百万の概念が存在し、関連する情報を認識すると特定の神経ネットワークが活性化する",
+      "研究者はこれらの概念の活性化強度を調整でき、それによってAIの応答内容を直接変えることができる",
+      "ゴールデンゲート・クロードは24時間の研究デモとして公開され、あらゆる質問で橋について言及する動作を実演した",
+      "この技術は単なるプログラミングやプロンプト工夫ではなく、AIの最も基本的な内部メカニズムを精密に改変するもの",
+      "今後、この技術を危険なコード生成や詐欺などの悪い特徴を弱める安全性向上に活用できる可能性がある"
+    ],
+    "analogy": "AIの内部構造は、人間の脳にある様々な記憶や関心事のようなものです。通常、その強さは自動的に決まっていますが、研究者が特定の「ゴールデンゲートブリッジへの関心スイッチ」を強く回すと、人間が何かに強く執着するようになるのと同じように、AIはあらゆる話題を無理にその橋に結びつけてしまうようになったのです。",
+    "category": "研究",
+    "summarized": true
+  },
+  "introducing-claude-to-canada": {
+    "slug": "introducing-claude-to-canada",
+    "url": "https://www.anthropic.com/news/introducing-claude-to-canada",
+    "title_original": "Introducing Claude to Canada",
+    "title_ja": "Claude がカナダで利用可能に",
+    "description": "Claude is now available in Canada. Starting today, people and businesses across the country will be able to access Claude.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "AI企業Anthropicは、会話型AI「Claude」をカナダで提供開始することを発表しました。カナダの人々や企業は、Webサイト版、iPhoneアプリ版、API（他社のアプリに組み込める技術）、そしてチーム向けプランなど複数の方法でClaudeにアクセスできるようになります。月額CA$28（税別）の有料プラン「Claude Pro」では、最新のClaudeモデルが使い放題に加え、無料版の5倍の利用量と新機能の先行アクセスが得られます。5人以上のチームは月額CA$42（税別・1人あたり）のTeamプランを選択可能。AnthropicはカナダがAIの責任ある発展に貢献してきた国として、ここでの展開を楽しみにしています。",
+    "points": [
+      "Claudeはカナダでブラウザ、スマホアプリ、開発者向けAPI、チーム向けプランの4つの方法で利用可能になった",
+      "月額CA$28のProプランで最新AIモデルと5倍の利用量が得られる",
+      "企業チーム向けにはCA$42/月（1人あたり、最小5人）のTeamプランを提供",
+      "Anthropicはカナダを責任あるAI開発を推進する国として重視している"
+    ],
+    "analogy": "これはちょうど、日本で新しいレストランチェーンがオープンするようなものです。店舗（Webサイト）、テイクアウト（アプリ）、仕出し（API）、法人向けケータリング（Teamプラン）など、様々な利用方法を提供することで、より多くの顧客に対応するというイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
