@@ -3628,5 +3628,104 @@
     "analogy": "これはちょうど、日本で新しいレストランチェーンがオープンするようなものです。店舗（Webサイト）、テイクアウト（アプリ）、仕出し（API）、法人向けケータリング（Teamプラン）など、様々な利用方法を提供することで、より多くの顧客に対応するというイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "jay-kreps-appointed-to-board-of-directors": {
+    "slug": "jay-kreps-appointed-to-board-of-directors",
+    "url": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
+    "title_original": "Jay Kreps appointed to Anthropic's Board of Directors",
+    "title_ja": "Jay Kreps氏がAnthropicの取締役会に就任",
+    "description": "Today, we're announcing that Jay Kreps, co-founder and CEO of Confluent, has joined Anthropic's Board of Directors. Jay's extensive experience in building and scaling highly successful tech companies will play an important role as Anthropic prepares for the next phase of growth.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "AI企業のAnthropicは、データ処理企業Confluentの共同創業者兼CEO・Jay Kreps氏を取締役会に迎えると発表しました。Kreps氏は企業向けの技術サービスを構築・拡大した実績を持つ経営者で、その経験はAnthropicが次の成長段階に向かう際に役立つと期待されています。特にデータインフラとオープンソース開発の専門知識が、企業顧客向けのAI製品開発に貢献するとのことです。また、別の取締役Luke Muehlhauser氏は慈善団体での仕事に注力するため辞任しています。",
+    "points": [
+      "Confluent CEOのJay Kreps氏がAnthropicの取締役に就任し、企業向けAI製品の開発を支援",
+      "Kreps氏はデータインフラとオープンソース開発の専門知識を活かして、Anthropicの成長をサポート",
+      "Anthropicは責任あるAI開発という経営哲学を重視し、安全で信頼できるAIシステムの構築に取り組む",
+      "取締役会は現在、Dario・Daniela Amodei兄妹とSpark Capital代表など複数名で構成"
+    ],
+    "analogy": "Kreps氏の就任は、野球チームが経験豊富な監督を迎えるようなもの。Anthropicという選手たちが次のステージで活躍するために、経営経験が豊富な指導者が加わることで、チーム全体がより大きな目標に向かって力強く進めるようになります。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "mike-krieger-joins-anthropic": {
+    "slug": "mike-krieger-joins-anthropic",
+    "url": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
+    "title_original": "Mike Krieger joins Anthropic as Chief Product Officer",
+    "title_ja": "Mike Krieger氏がAnthropicのチーフプロダクトオフィサーに就任",
+    "description": "We're excited to announce that Mike Krieger has joined Anthropic as our Chief Product Officer.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "AI企業のAnthropicは、Instagram共同創業者で元CTOのMike Krieger氏が最高製品責任者（CPO）として入社したと発表しました。Krieger氏は、Instagramで450人以上のエンジニアチームを成長させ、10億人以上のユーザーへの拡大を支援した経歴を持ちます。その後、個人向けニュースアプリ「Artifact」を開発していました。Anthropicでは、Claude（AI会話システム）の製品開発やデザイン、エンジニアリング全体を統括し、より多くの人々、特に職場環境で利用できるようにすることを目指します。Krieger氏の豊富な経験と視点により、Anthropicのプロダクト戦略が次のレベルへ進むと期待されています。",
+    "points": [
+      "Instagram共同創業者のMike Krieger氏がAnthropicのチーフプロダクトオフィサーとして就任",
+      "Instagramで450人以上のエンジニアをまとめ、10億ユーザー規模への拡大を経験",
+      "Claude（AI会話システム）の製品開発、デザイン、エンジニアリングを統括する職務を担当",
+      "特に職場向けの新しいAI活用方法の開発・拡大を推進予定",
+      "プロダクト開発の全サイクル（コーディングから経営ビジョン）の深い専門知識を保有"
+    ],
+    "analogy": "Instagramをスマートフォンのカメラアプリから世界的SNSへ成長させたKrieger氏が、今度はClaudeというAI「助手」を、多くの企業の職場で毎日使えるツールに変えていく、というイメージです。技術者として優れた製品をつくり、それを何十億人にも届ける経験を活かします。",
+    "category": "パートナーシップ・人事ニュース",
+    "summarized": true
+  },
+  "model-safety-bug-bounty": {
+    "slug": "model-safety-bug-bounty",
+    "url": "https://www.anthropic.com/news/model-safety-bug-bounty",
+    "title_original": "Expanding our model safety bug bounty program",
+    "title_ja": "Anthropicがモデル安全性バグ報奨金プログラムを拡大",
+    "description": "The rapid progression of AI model capabilities demands an equally swift advancement in safety protocols. As we work on developing the next generation of our AI safeguarding systems, we’re expanding our bug bounty program to introduce a new initiative focused on finding flaws in the mitigations we use to prevent misuse of our models.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic社は、AI技術の急速な進化に対応するため、モデル安全性バグ報奨金プログラムを拡大しました。新たな取り組みとして、AIモデルの悪用を防ぐために使用される安全対策の欠陥を見つけることに焦点を当てています。特に「ジェイルブレーク攻撃」（AIの安全機能を回避する方法）、特に化学・生物・放射線・核兵器関連やサイバーセキュリティなどの危険な分野での普遍的な脆弱性を特定することを目指しています。セキュリティ研究者に対して最大1万5,000ドルの報奨金を提供し、HackerOneと協力して招待制プログラムを実施します。経験豊富なAIセキュリティ研究者は応募フォームから申請でき、選ばれた応募者には秋に連絡があります。",
+    "points": [
+      "Anthropicが新世代のAI安全対策システムをテストするため、バグ報奨金プログラムを拡大した",
+      "特に「ジェイルブレーク攻撃」という、複数の有害な質問に対して安全機能を一貫して回避できる脆弱性の発見に焦点を当てている",
+      "化学・生物・放射線・核兵器やサイバーセキュリティなどの高リスク分野での攻撃検出に最大1万5,000ドルの報奨金を提供",
+      "現在は招待制だが、将来的にはより広く開放する予定",
+      "白宮のボランティアAIコミットメントやG7広島プロセスなど、国際的なAI安全基準に準拠している"
+    ],
+    "analogy": "これはスマートフォンのセキュリティテストに似ています。メーカー（Anthropic）が新しいセキュリティ機能を搭載する前に、専門家にその弱点を見つけてもらい、修正するプロセスと同じです。AIの場合は、モデルの『脱獄』を試みる研究者を募集し、本当にセキュリティが効いているかを事前にチェックしています。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "projects": {
+    "slug": "projects",
+    "url": "https://www.anthropic.com/news/projects",
+    "title_original": "Collaborate with Claude on Projects",
+    "title_ja": "Claude でチームと協力作業ができる「プロジェクト」機能が登場",
+    "description": "Claude Pro and Team users can now organize chats into Projects. Projects bring together internal knowledge and chat activity in one place so Claude can be your go-to expert for generating ideas, making decisions, and moving work forward.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic社は、AI助手「Claude」に新機能「プロジェクト」を追加しました。Pro と Team ユーザーが複数のチャットを整理し、社内の資料やコード、過去の仕事などの知識を一箇所に集めることができます。これにより Claude はあなたのチーム専用の専門家のように、アイデア出しや意思決定をサポートしてくれます。各プロジェクトには 500ページ分相当の大容量メモリが付属し、チームメンバー間で成果物を共有することも可能です。また、Artifacts という機能では、コードやデザインをリアルタイムで編集・確認できます。プライバシーも守られており、ユーザーが同意しない限りデータは AI 学習に使われません。",
+    "points": [
+      "Pro と Team ユーザーが複数チャットをプロジェクトで整理し、社内知識を集約できるようになった",
+      "各プロジェクトは 500 ページ分の大容量メモリを備え、資料やコードを一度に読み込める",
+      "チームメンバー間で会話内容を共有でき、AI 活用法を学び合える",
+      "Artifacts 機能でコードやデザインをリアルタイムで作成・編集できる",
+      "ユーザーの同意がない限り、プロジェクト内のデータは AI 学習に使われない"
+    ],
+    "analogy": "プロジェクト機能は、職場の共有ロッカーのようなものです。これまで Claude とのチャットは個別のメモ帳のようにバラバラでしたが、今は共有ロッカーに会社の重要な資料やこれまでの会話をまとめて保管できます。チーム全体がその情報を活用でき、みんなが同じ「社内ルール」に基づいた支援を受けられるわけです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "reflections-on-our-responsible-scaling-policy": {
+    "slug": "reflections-on-our-responsible-scaling-policy",
+    "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+    "title_original": "Reflections on our Responsible Scaling Policy",
+    "title_ja": "責任あるAI開発のための安全基準の実装と課題の振り返り",
+    "description": "Last summer we published our first Responsible Scaling Policy (RSP), which focuses on addressing catastrophic safety failures and misuse of frontier models. In adopting this policy, our primary goal is to help turn high-level safety concepts into practical guidelines for fast-moving technical organizations and demonstrate their viability as possible standards. As we operationalize the policy, we expect to learn a great deal and plan to share our findings. This post shares reflections from implementing the policy so far.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "Anthropic社は昨年発表した「責任あるスケーリング政策」の実装経験をまとめました。この政策は、AI技術が大きくなるにつれて生じる可能性のある危険な能力への対策と悪用防止に焦点を当てています。実装を通じて、同社は明確な安全基準があることの価値を認識しながらも、いくつかの課題に直面しています。具体的には、今後のAIモデルがどのような能力を持つか予測することの難しさ、専門家間での意見の相違、そして段階的に厳しい安全基準（ASL-2、ASL-3など）を実装することの複雑さが挙げられます。同社は核セキュリティや航空宇宙産業など他分野の安全管理実践から学び、継続的に政策を改善していく方針です。",
+    "points": [
+      "AIモデルの危険性を事前に特定し、テストする「赤線能力」という基準を設定することが重要",
+      "モデルが新世代になるにつれ予測不可能な新機能が生まれるため、脅威分析（どんな能力が危険か）をさらに深める必要がある",
+      "セキュリティチームの強化が必須で、現在社員の約8％がセキュリティ関連の業務に従事している",
+      "複数の評価方法（質問応答、人間による試験、自動テストなど）を組み合わせることで、より精密な安全性判定が可能になる",
+      "核セキュリティや航空宇宙産業など他分野の安全管理実践から学び、継続的に改善していく"
+    ],
+    "analogy": "AIモデルの安全管理は、飛行機の安全運航管理に似ています。飛行機は大型化・高速化するほど新しい危険要因が生じるため、段階的に厳しい安全基準を定め、飛行前に複数の検査を行い、エンジンなどの重要部品の厳密な管理をします。同様にAIも進化するにつれ予測困難な危険が生じるため、事前の脅威分析、多段階のテスト、強固なセキュリティが必要なのです。",
+    "category": "安全性",
+    "summarized": true
   }
 }
