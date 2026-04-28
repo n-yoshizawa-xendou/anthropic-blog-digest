@@ -3727,5 +3727,103 @@
     "analogy": "AIモデルの安全管理は、飛行機の安全運航管理に似ています。飛行機は大型化・高速化するほど新しい危険要因が生じるため、段階的に厳しい安全基準を定め、飛行前に複数の検査を行い、エンジンなどの重要部品の厳密な管理をします。同様にAIも進化するにつれ予測困難な危険が生じるため、事前の脅威分析、多段階のテスト、強固なセキュリティが必要なのです。",
     "category": "安全性",
     "summarized": true
+  },
+  "theo-hourmouzis-general-manager-australia-new-zealand": {
+    "slug": "theo-hourmouzis-general-manager-australia-new-zealand",
+    "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "title_original": "Anthropic Sydney office",
+    "title_ja": "Anthropic、シドニーオフィスを開設しオーストラリア・ニュージーランド地域での事業拡大を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-04-27T22:30:22.000Z",
+    "summary": "AI安全研究企業のAnthropicは、オーストラリア・ニュージーランド地域に専任の責任者を配置し、シドニーにオフィスを開設しました。20年以上の業界経験を持つセオ・フルムジスが新しい地域責任者に就任し、地元の顧客や研究パートナーとの関係を深める予定です。同社のAI技術「Claude」は、デザイン支援企業Canvaや会計ソフト企業Xeroなど地元企業との提携により、実際のビジネスで活用されるようになります。また、非営利団体YMCAなども導入を進めており、AIの安全な運用と実用化のバランスが重視されている点が特徴です。",
+    "points": [
+      "20年以上の技術業界経験を持つセオ・フルムジスがオーストラリア・ニュージーランド地域の責任者に就任",
+      "シドニーにオフィスを開設し、地元企業や研究機関との関係構築を強化",
+      "CanvaやXeroなど地元企業との深い提携により、Claude技術をビジネスに組み込む",
+      "非営利団体YMCAが導入事例として、運営効率化や業務自動化を実現",
+      "オーストラリア政府とのMOU（了解覚書）に基づき、責任あるAI開発を推進"
+    ],
+    "analogy": "これまで本社にしかいなかった優秀なコンサルタントが、地元に営業所を開設して顧客のそばで働くようになるようなもの。顧客のニーズをより深く理解し、信頼関係を築きながら、自分たちのサービスを実際の仕事に組み込んでいく過程です。",
+    "category": "パートナーシップ・企業ニュース",
+    "summarized": true
+  },
+  "updating-our-usage-policy": {
+    "slug": "updating-our-usage-policy",
+    "url": "https://www.anthropic.com/news/updating-our-usage-policy",
+    "title_original": "Updating our Usage Policy",
+    "title_ja": "Anthropicが利用規約を更新—AI製品の責任ある使用をより明確に",
+    "description": "We're updating the policies that protect our users and ensure our products and services are used responsibly.",
+    "published": "",
+    "lastmod": "2024-09-10T17:28:44.000Z",
+    "summary": "AI企業のAnthropicが、ユーザーを保護し製品の責任ある利用を促進するため「利用規約（Usage Policy）」を更新しました。2024年6月6日から発効します。主な変更点は、複雑だった禁止事項を「普遍的利用基準」に統一してわかりやすくしたこと。選挙への干渉や偽情報生成の禁止をより詳しく定義し、医療や法律相談など重大な影響を与える使用例には安全対策を追加で要求します。また、未成年者が教育目的でAIを使用できるようにする一方で、顔認証技術の悪用を禁止するなど、プライバシー保護も強化しました。政策の透明性を高めることで、ユーザーがAIツールを安心して利用できるようにしています。",
+    "points": [
+      "複雑な規約を「普遍的利用基準」に統一し、すべてのユーザーに適用される明確なルールを提示",
+      "選挙への不正干渉や虚偽情報の生成を明確に禁止し、民主的プロセスを保護",
+      "医療判断や法的助言など高リスクな使用には追加の安全措置を義務付け",
+      "教育目的の未成年利用を許可する一方で、顔認証などのプライバシー侵害行為は明確に禁止",
+      "生物認証データの分析や政府による検閲目的の使用を禁止し、個人のプライバシーを強化"
+    ],
+    "analogy": "これまでの規約が「複雑な家の取扱説明書」だったなら、今回の更新は「わかりやすい看板」に変わったようなもの。誰もが同じルールを理解でき、危険な使い方ははっきりと『禁止』と表示されているため、誰もが安心して利用できるようになります。",
+    "category": "企業ニュース, 安全性, ポリシー更新",
+    "summarized": true
+  },
+  "anthropic-bcg": {
+    "slug": "anthropic-bcg",
+    "url": "https://www.anthropic.com/news/anthropic-bcg",
+    "title_original": "Anthropic partners with BCG",
+    "title_ja": "AnthropicがBCG（ボストン・コンサルティング・グループ）と提携を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI企業のAnthropicが、世界的な経営コンサルティング企業BCGと提携することを発表しました。この協力により、BCGの顧客企業はClaudeという最新のAI助手を直接利用できるようになります。両社は「倫理的で信頼できるAI」の開発に共同で取り組みます。BCGの顧客企業は、市場調査や詐欺検出、需要予測、報告書作成など様々なビジネスシーンでClaudeを活用できます。BCGはまた自社内でもClaudeを使用し、研究の効率化やデータ分析を加速させる予定です。大企業のAI導入を支援するBCGとの協携により、Anthropicは安全で責任あるAI活用の新しい基準を業界に示すことを目指しています。",
+    "points": [
+      "AnthropicとBCGが提携し、BCGの世界中の顧客がClaudeというAI助手を利用できるようになる",
+      "市場調査、詐欺検出、需要予測、報告書作成など複数のビジネス用途に活用可能",
+      "両社は『倫理的で信頼できるAI』の開発と展開で合意し、業界の安全基準を高める狙い",
+      "BCGは自社の研究チームでもClaudeを使用し、業務効率化を図る"
+    ],
+    "analogy": "これは、自動車メーカーとガソリンスタンドが提携するようなもの。Anthropicが開発した優秀なAI（自動車）を、BCGという大きなビジネス・ネットワーク（ガソリンスタンドのチェーン）を通じて、多くの企業顧客に届けるということです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic-partners-with-google-cloud": {
+    "slug": "anthropic-partners-with-google-cloud",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+    "title_original": "Anthropic Partners with Google Cloud",
+    "title_ja": "AnthropicがGoogle Cloudとパートナーシップを締結",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI安全技術の研究開発を行うAnthropicが、Google Cloudをクラウド提供企業として選定しました。この提携により、AnthropicはGoogle Cloudの高性能なGPU（画像処理用プロセッサ）やTPU（AI処理専用プロセッサ）などの最新技術を活用して、安全で信頼できるAIシステムの開発・展開を加速させます。AnthropicはClaudeという安全なAIアシスタントの開発に注力しており、「Constitutional AI」という革新的な安全技術を採用しています。このパートナーシップにより、Anthropicはより多くのユーザーへサービスを提供できる基盤を整備し、信頼性と透明性の高いAIプラットフォームの構築を目指しています。",
+    "points": [
+      "AnthropicがGoogle Cloudを公式なクラウド提供企業に選定",
+      "Google CloudのGPU・TPUなどの高性能インフラを活用してAI開発を加速",
+      "安全で解釈しやすいAIシステム開発の専門企業として、革新的な安全技術を採用",
+      "Claude（AI アシスタント）をより多くのユーザーに提供するための基盤を確立",
+      "信頼性と操作可能性の高い次世代AIプラットフォームの構築を実現"
+    ],
+    "analogy": "これは、例えば料理人（Anthropic）が、最新の調理器具が揃った大型厨房（Google Cloud）をレンタルして、より多くのお客さんに美味しく安全な料理を提供できるようになるようなものです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic-raises-124-million-to-build-more-reliable-general-ai-systems": {
+    "slug": "anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+    "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+    "title_original": "Anthropic raises $124 million to build more reliable, general AI systems",
+    "title_ja": "Anthropicが1億2400万ドル調達、より信頼性の高いAIシステム開発へ",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI安全研究会社のAnthropicが、シリーズAラウンドで1億2400万ドルの資金調達に成功しました。CEO兼共同創業者のダリオ・アモデイ氏とプレジデントのダニエラ・アモデイ氏が率いるこの企業は、調達した資金を使ってより信頼性が高く、操作しやすいAIシステムの開発研究に充てます。具体的には、大規模なAIモデルの安全性向上、内部動作の透明性を高める技術開発、人間のフィードバックをAI開発に統合する方法の構築に注力します。Skype共同創業者など著名投資家がラウンドをリードしており、同社は研究者やエンジニアの採用を進めています。",
+    "points": [
+      "Anthropicが1億2400万ドルの資金調達に成功し、AI安全性研究の強化に充てる",
+      "AIシステムの信頼性向上、透明性確保、人間による制御の強化が主な研究テーマ",
+      "Skype共同創業者など有力投資家が参加し、企業の可能性を高く評価している",
+      "大規模なAIモデルの安全性と操作性を両立させることを目指している"
+    ],
+    "analogy": "調達した資金は、家を建てるときの材料費のようなもの。Anthropicは「より安全で壊れにくく、思い通りに操作できる家（AI）を建てる」という理想を実現するための材料を手に入れたわけです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
