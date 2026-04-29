@@ -3825,5 +3825,105 @@
     "analogy": "調達した資金は、家を建てるときの材料費のようなもの。Anthropicは「より安全で壊れにくく、思い通りに操作できる家（AI）を建てる」という理想を実現するための材料を手に入れたわけです。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "claude-for-creative-work": {
+    "slug": "claude-for-creative-work",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "title_original": "Claude for Creative Work",
+    "title_ja": "クリエイティブワークのためのClaude：デザイナーやアーティストの創作活動を支援する新機能",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-04-28T17:25:41.000Z",
+    "summary": "AI企業のAnthropicが、クリエイティブ専門家向けに「Claude」を様々な創作ツールと連携させる新機能を発表しました。BlenderやAdobe、Autodesk、Abletonなど大手ツールメーカーと協力し、Claudeが既存のソフトウェアと直接やり取りできるようにしました。これにより、デザイナーや3D制作者、ミュージシャンなどは、複雑な操作をClaude に自然言語で指示したり、繰り返し作業を自動化したり、ツール間のデータ変換を効率化できます。例えば、画像編集、3D モデル作成、音声制作などの分野で、クリエイティブワークの生産性向上と新しい表現の可能性が広がります。",
+    "points": [
+      "Claudeが8つの主要クリエイティブツール（Blender、Adobe、Autodesk、Abletonなど）と連携する新機能を提供",
+      "複雑な機能説明、カスタムコード作成、繰り返し作業の自動化が可能に",
+      "3Dモデリング、画像編集、音楽制作などで自然言語での指示に対応",
+      "デザイン学科など3つの大学教育機関でのパイロットプログラムを開始",
+      "オープンソース標準（MCP）を採用し、他のAIでも利用可能な設計"
+    ],
+    "analogy": "従来のクリエイティブ作業は、複数の異なる楽器を演奏しながら楽譜を見直すようなもの。Claudeは、指揮者のように各楽器（ツール）に指示を出し、奏者（クリエイター）が創作に集中できるようサポートし、演奏全体をスムーズに進めます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "charting-a-path-to-ai-accountability": {
+    "slug": "charting-a-path-to-ai-accountability",
+    "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
+    "title_original": "Charting a Path to AI Accountability",
+    "title_ja": "AI技術の責任ある発展に向けた提案～Anthropicが政策立案者に示した道筋",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI企業のAnthropicが、米国政府にAI技術の適切な管理と安全性確保のための具体的な提案を提出しました。現在、高度なAI技術を評価する統一的な仕組みがないため、Anthropicは5つの主要な対策を推奨しています。①AI技術の評価方法の研究や資金投入の強化、②企業による評価結果の情報開示の義務化、③政府機関による評価基準の策定、④大規模なAI開発プロジェクトの事前登録制度の確立、⑤外部専門家による「レッドティーミング」（脆弱性や危険性を意図的に探す作業）の義務化などです。これらの施策により、AI技術の革新と安全性のバランスを取りながら、責任ある発展を目指しています。",
+    "points": [
+      "現在、高度なAI技術を評価する統一的で包括的なプロセスが存在していないため、政府と民間企業が協力して評価基準を作る必要がある",
+      "企業にAI技術の評価方法と結果の開示を義務付け、透明性を確保することが重要である",
+      "大規模なAI開発を行う企業は事前に政府に登録し、技術的に適切な第三者による監査を受けることが推奨される",
+      "AI技術をリリース前に外部の専門家による厳密なテストを実施し、潜在的な危険性を特定することが必須である",
+      "AI技術の動作原理を理解する「解釈可能性」研究への資金投入を増やし、安全性向上に貢献する必要がある"
+    ],
+    "analogy": "これはちょうど、新しい医療薬を市場に出す前に厳しい臨床試験と承認プロセスを経るのと同じです。AI技術も社会に大きな影響を与えるため、リリース前に複数の段階での検査と評価を通す必要があるということです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "claude-2": {
+    "slug": "claude-2",
+    "url": "https://www.anthropic.com/news/claude-2",
+    "title_original": "Claude 2",
+    "title_ja": "Claude 2 - 新世代のAIアシスタント発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic社は、より高性能な新しいAI「Claude 2」を発表しました。Claude 2は前のモデルから大幅に改善され、弁護士試験で76.5%の成績を取得、大学院入試でも高い成績を収めています。最大10万トークン（約75,000語分）の入力に対応でき、数百ページの文書や本全体を一度に処理できるようになりました。また、プログラミング能力も71.2%と大きく向上しています。安全性も強化され、有害な出力を減らすための評価で前モデルの2倍の性能を達成。米国と英国のユーザーは「claude.ai」で今すぐ利用でき、ビジネス向けAPIも同価格で提供されます。",
+    "points": [
+      "Claude 2は前モデルより大幅に高性能化し、弁護士試験で73.0%から76.5%に成績が向上",
+      "最大10万トークンの入力対応で、数百ページの文書や本全体を一度に処理可能",
+      "プログラミング能力が56.0%から71.2%に向上し、数学問題でも88.0%の正解率を達成",
+      "安全性が2倍改善され、有害な出力を抑制するための多数の対策を実施",
+      "米国と英国でベータ版チャットが利用可能、ビジネス向けAPIは前モデルと同価格"
+    ],
+    "analogy": "Claude 2は、本を1冊丸ごと読んで内容を理解し、その知識を使ってプログラムを書いたり質問に答えたりできる、非常に優秀な秘書のようなものです。前の秘書より頭が良く、記憶容量が大きくなり、なおかつ危ない判断もしないようになった、というイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude-2-1": {
+    "slug": "claude-2-1",
+    "url": "https://www.anthropic.com/news/claude-2-1",
+    "title_original": "Introducing Claude 2.1",
+    "title_ja": "Claude 2.1の登場：より賢く、より正確なAIアシスタント",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic社が新型AI「Claude 2.1」を発表しました。最大の特徴は、200,000トークン（約15万語、500ページ分）という業界最大級の文脈ウィンドウで、契約書や論文、プログラムコードなど大量の資料を一度に分析できるようになりました。また、誤った情報を述べる率が前バージョンの半分に低下し、より正確で信頼できるAIになっています。さらに、新機能「ツール使用」により、計算機やデータベース検索、外部APIとの連携が可能になり、実務作業への応用がより広がります。開発者向けの機能も充実し、カスタム指示を与える「システムプロンプト」が追加されました。",
+    "points": [
+      "200,000トークンの大容量メモリ機能により、500ページ分の資料を一度に処理可能に",
+      "虚偽の回答が前バージョンの半分に削減され、信頼性が大幅向上",
+      "外部ツールやAPI連携が可能になり、検索や計算、データベース操作を自動実行可能",
+      "開発者向けに「Workbench」という開発環境を提供し、プロンプト（AI への指示）の調整が容易に",
+      "Pro版ユーザーが200,000トークン機能を利用可能で、より大きなファイルのアップロードに対応"
+    ],
+    "analogy": "Claude 2.1の進化は、本を1冊しか読めない助手が、図書館全体から必要な情報を取り出せる助手になったようなものです。さらに、『このページの説明は正しいですか？』と聞かれた時に、わからないことは『わかりません』と正直に答えるようになりました。加えて、電卓や辞書、インターネット検索といった道具を自分で使いこなせるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude-3-haiku": {
+    "slug": "claude-3-haiku",
+    "url": "https://www.anthropic.com/news/claude-3-haiku",
+    "title_original": "Claude 3 Haiku: our fastest model yet",
+    "title_ja": "Claude 3 Haiku：最速のAIモデルが登場",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic社が新しいAIモデル「Claude 3 Haiku」をリリースしました。このモデルは、同じ性能クラスの中で最も高速で安価です。1秒間に約30ページ分のテキストを処理でき、競合他社のモデルの3倍以上の速さです。価格も安く、400件の最高裁判例を処理するのに1ドルという低コストを実現しています。企業向けに設計されており、顧客サポートや大量のデータ分析など、迅速な対応が必要な業務に活躍します。セキュリティも重視されており、有害な出力を防ぐため厳格なテストと多層防御が施されています。APIやClaudeアプリを通じてすぐに利用できます。",
+    "points": [
+      "競合比で3倍以上の処理速度を実現し、1秒間に約30ページ分のテキストを処理可能",
+      "同性能クラスのモデルの半額で利用でき、400件の判例を1ドルで分析できるほどの経済性",
+      "企業向けに設計され、大量の文書や画像の高速分析が可能",
+      "複数のセキュリティ対策により、有害な出力やセキュリティ攻撃を防止",
+      "API、Claude.ai、Amazon Bedrock、Google Cloud Vertex AIなど複数のプラットフォームで利用可能"
+    ],
+    "analogy": "Claude 3 Haikuは、オフィスビルの荷物エレベーターのようなものです。通常のエレベーター（他のAIモデル）よりも高速に大量の書類（データ）を運べるのに、かかる電気代（コスト）は安いという優れた道具です。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
