@@ -3925,5 +3925,105 @@
     "analogy": "Claude 3 Haikuは、オフィスビルの荷物エレベーターのようなものです。通常のエレベーター（他のAIモデル）よりも高速に大量の書類（データ）を運べるのに、かかる電気代（コスト）は安いという優れた道具です。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude-pro": {
+    "slug": "claude-pro",
+    "url": "https://www.anthropic.com/news/claude-pro",
+    "title_original": "Introducing Claude Pro",
+    "title_ja": "Claude Proの登場：AIアシスタントの有料プランがスタート",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI企業のAnthropicが、チャットAI「Claude.ai」の有料プラン「Claude Pro」を発表しました。月額20ドル（米国）または18ポンド（英国）で、無料版の5倍の利用量が得られます。ユーザーからは、より多くのファイルアップロードや長期間の会話機能を求める声が上がっていました。Claude Proでは、最新モデル「Claude 2」をより頻繁に使用でき、研究論文の要約、契約書の検索、プログラミングプロジェクトなど、複雑な作業の生産性が向上します。さらに、トラフィックが集中した時間帯における優先アクセスと、新機能への早期アクセス権も付与されます。",
+    "points": [
+      "月額20ドル（約2,700円）で、無料版の5倍のAI利用が可能になる有料プランが米国と英国で開始",
+      "最新AI「Claude 2」を使用でき、研究、契約分析、プログラミングなど様々な複雑な作業に対応",
+      "トラフィック混雑時の優先接続と新機能への早期アクセスが付属",
+      "ユーザーの要望に応じて、より多くのファイルアップロード機能と長期間の会話保存に対応",
+      "生産性向上とクリエイティブワークをサポートするために設計された上位プラン"
+    ],
+    "analogy": "例えるなら、無料版のClaudeはカフェでコーヒーをもらうようなもの。Claude ProはそのカフェのVIPメンバーシップのようなもので、月額料金で5倍のコーヒーが飲め、混雑時にも優先的に座れ、新しいメニューもいち早く試せるという感じです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "partnering-with-scale": {
+    "slug": "partnering-with-scale",
+    "url": "https://www.anthropic.com/news/partnering-with-scale",
+    "title_original": "Partnering with Scale to Bring Generative AI to Enterprises",
+    "title_ja": "AnthropicがScaleと提携し、生成AIを企業向けに提供",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic社は、AI技術のプラットフォーム企業Scaleとの提携を発表しました。これにより、Scale経由でClaudeという会話型AI（自然な対話ができるAI）を利用できるようになります。提携により、企業は実験段階を超えた実際のAI活用が可能になります。Scaleが提供する堅牢なデプロイメント機能やセキュリティ、データ連携機能と、Anthropicの安全で信頼性の高いAI技術を組み合わせることで、企業向けの本格的なAIソリューションが実現します。顧客は自社のデータベースやクラウドストレージなどから情報を取り込んでClaudeを活用できるようになり、ビジネスアプリケーションの開発がより容易になります。",
+    "points": [
+      "AnthropicのClaudeというAIアシスタントが、Scaleというプラットフォームを通じて企業利用可能になった",
+      "Scaleの企業向けセキュリティと高度なツール機能により、実験的なプロジェクトから実際の運用へ移行しやすくなった",
+      "顧客は自社のデータベースやクラウドストレージなどを連携させて、Claudeをスケール（大規模）に活用できる",
+      "プロンプト最適化やモデル検証などの専門的なサービスが組み合わされ、より高い性能が期待できる",
+      "企業向けのセキュアな環境（AWS）を通じた安全な運用が可能になった"
+    ],
+    "analogy": "これは料理で例えるなら、高級なシェフ（Anthropic）が開発したレシピと調理技術を、大型の飲食店向けキッチン設備を製造する企業（Scale）が提供する業務用調理場で実際に運用できるようにしたようなものです。家庭での実験的な調理から、レストランチェーン全体での営業レベルの調理へ進化させることができます。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "skt-partnership-announcement": {
+    "slug": "skt-partnership-announcement",
+    "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+    "title_original": "SKT Partnership Announcement",
+    "title_ja": "韓国の大手通信会社SKTとAnthropicが戦略的パートナーシップを発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI安全研究企業のAnthropicは、韓国最大の携帯電話事業者SK Telecom（SKT）とのパートナーシップを発表しました。SKTは1億ドルを投資するとともに、商業パートナーとなります。両社は協力して、通信業界向けにカスタマイズされた大規模言語モデル「Claude」を開発します。「ファインチューニング」という技術を使い、顧客サービスやマーケティング、販売など通信業特有の業務に最適化したAIを作成。SKTの業界知識とAnthropicの技術力を組み合わせることで、韓国語を含む多言語対応のより安全で信頼性の高いAIが実現します。",
+    "points": [
+      "SK TelecomがAnthropicに1億ドル投資し、商業パートナーおよび戦略的投資家となった",
+      "通信業界向けにカスタマイズされた言語モデルを共同開発する",
+      "ファインチューニング技術により、顧客サービスやマーケティングなど通信業務に特化したAIを実現",
+      "韓国語、英語、日本語、スペイン語など複数言語に対応予定",
+      "SKTの業界専門知識がClaudeの学習と改善に活用される"
+    ],
+    "analogy": "ファインチューニングは、汎用の料理本を特定のレストラン向けにカスタマイズするようなもの。元の料理本の知識を活かしながら、そのレストランの食材や顧客の好みに合わせて、オリジナルレシピを作成していく仕組みです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "the-long-term-benefit-trust": {
+    "slug": "the-long-term-benefit-trust",
+    "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+    "title_original": "The Long-Term Benefit Trust",
+    "title_ja": "Anthropic、長期的利益を守る独立ガバナンス機構「長期利益信託」を導入",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI企業のAnthropicは、企業統治の新しい仕組みとして「長期利益信託（LTBT）」を発表しました。これは5人の独立した信託者で構成される組織で、時間とともに会社の取締役会の過半数を選任・解任する権限を持ちます。通常の企業は株主の利益を優先しますが、AIのような社会全体に大きな影響を与える技術では、一般市民の利益も考慮する必要があります。LTBTは公共の利益と株主の利益のバランスを取るためのチェック機能として機能し、AIが人類に大きな危険や利益をもたらす可能性に対応します。段階的に導入されることで、実験的な仕組みを改善しながら、将来の重要な決断が適切に行われることを目指しています。",
+    "points": [
+      "Anthropicは独立した5人の信託者で構成される「長期利益信託」を設立し、取締役会の過半数を選任する権限を持たせた",
+      "通常の企業統治では株主の利益が優先されるが、AIなどの大きな外部影響を持つ技術では一般市民の利益も考慮する必要がある",
+      "LTBTの信託者は金銭的利益から遮断され、公共の利益と株主の利益のバランスを取るようインセンティブが設計されている",
+      "この仕組みは4年以内に段階的に導入される実験的なガバナンス構造で、改善の余地を残しながら耐久性も確保している",
+      "5人の初期信託者はAI安全保障、公共政策、社会事業などの専門家で構成されている"
+    ],
+    "analogy": "通常の会社経営は、家の持ち主（株主）の利益を最優先にする家政婦のようなものです。しかしAnthropicの場合、その家が大きなカンボジが出ていて、近所全体に影響を与える可能性があるため、近所住民の代表（信託者）も意思決定に関わる仕組みを作ったと考えられます。",
+    "category": "企業ニュース、ガバナンス、AI安全性",
+    "summarized": true
+  },
+  "uk-ai-safety-summit": {
+    "slug": "uk-ai-safety-summit",
+    "url": "https://www.anthropic.com/news/uk-ai-safety-summit",
+    "title_original": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
+    "title_ja": "AI安全サミットでのDario Amodeiの講演：Anthropicの責任あるスケーリング方針について",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "Anthropic（AI安全研究企業）のCEO・Dario Amodeiが、AIの急速な発展に伴う危険性に対応するための「責任あるスケーリング方針（RSP）」について説明しました。AIの性能は毎年8倍速で向上していますが、危険な能力（例えば生物兵器製造方法）をいつ習得するかは予測困難です。RSPは、AIシステムの危険度に応じて4段階のレベル（ASL-1～4）を設定し、危険な能力が検出されたら、安全対策が整うまでより高性能なモデルの開発を停止するというものです。実行には、経営陣の強いコミットメント、セキュリティチームの強化、そして外部専門家による監視が必要だと述べられています。RSPは規制ではなく規制の原型として機能し、各企業や各国がこれを改善・洗練させることで、AIのリスク管理と利益のバランスを取ることを目指しています。",
+    "points": [
+      "AIは毎年8倍の速さで性能向上しており、危険な能力をいつ習得するかが予測できない",
+      "ASL（AIセーフティレベル）システムで4段階のリスク評価を行い、危険な能力検出時は開発を一時停止する",
+      "経営陣の深い関与、セキュリティ体制の強化、外部専門家による監視が実装に不可欠",
+      "RSPは企業の自主的な取り組みであり、将来的には政府による規制の基盤となることを想定している",
+      "各企業や国が協力して「上への競争」を実現し、AIのリスクを適切に管理することが目標"
+    ],
+    "analogy": "新型車が開発されるたびに、ロケットブースト機能や超高速走行能力など、突如として危険な新機能が備わるかもしれないという状況をイメージしてください。そのような予測不可能な危険に備えるため、定期的に検査して危険機能を検出し、安全対策が整うまで販売を控えるというのが、このRSPの考え方です。",
+    "category": "安全性",
+    "summarized": true
   }
 }
