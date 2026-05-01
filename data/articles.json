@@ -4025,5 +4025,45 @@
     "analogy": "新型車が開発されるたびに、ロケットブースト機能や超高速走行能力など、突如として危険な新機能が備わるかもしれないという状況をイメージしてください。そのような予測不可能な危険に備えるため、定期的に検査して危険機能を検出し、安全対策が整うまで販売を控えるというのが、このRSPの考え方です。",
     "category": "安全性",
     "summarized": true
+  },
+  "zoom-partnership-and-investment": {
+    "slug": "zoom-partnership-and-investment",
+    "url": "https://www.anthropic.com/news/zoom-partnership-and-investment",
+    "title_original": "Zoom Partnership and Investment in Anthropic",
+    "title_ja": "Zoomとの提携とAnthropicへの投資を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-08-05T19:55:40.000Z",
+    "summary": "AI安全性を研究するAnthropicが、ビデオ会議ツールで有名なZoomと新しいパートナーシップを発表しました。AnthropicのAIアシスタント「Claude」をZoomの製品に組み込み、職場での生産性向上と安全性を両立させることを目指しています。具体的には、まずZoomのコンタクトセンター（顧客対応部門）にClaudeを統合し、カスタマーサービスの質向上を実現します。さらにZoom傘下の投資会社がAnthropicに出資することも決定。両社は、信頼性と安全性を重視しながら実用的なAI製品を開発することで合意しており、このパートナーシップを通じて多くの職場利用者にAIの恩恵をもたらしたいと考えています。",
+    "points": [
+      "ZoomとAnthropicが提携し、ZoomのサービスにClaudeというAIアシスタントを組み込む",
+      "まずコンタクトセンター（カスタマーサービス部門）での活用から開始する",
+      "安全性と信頼性を最優先に、職場での生産性向上を目指している",
+      "Zoom傘下の投資会社がAnthropicに出資することで、両社の関係をさらに深める",
+      "多様な顧客ニーズに対応するため、複数のAIモデルを組み合わせた戦略を採用している"
+    ],
+    "analogy": "これは料理店とAIシェフの関係のようなものです。Zoomという有名な料理店が、Claudeという優秀なAIシェフを雇って、まずは顧客対応の受付窓口に配置します。そのAIシェフが顧客の要望を正確に理解し、安全で高品質なサービスを提供することで、お店全体の評判が上がるというわけです。さらに、Zoom投資会社がAnthropicに資金を出すことで、両者が長期的なビジネスパートナーになる関係を築いています。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "krishna-rao-joins-anthropic": {
+    "slug": "krishna-rao-joins-anthropic",
+    "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+    "title_original": "Krishna Rao joins Anthropic as Chief Financial Officer",
+    "title_ja": "クリシュナ・ラオがAnthropicの最高財務責任者（CFO）に就任",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2024-05-21T17:52:07.000Z",
+    "summary": "AI安全技術企業のAnthropicは、経験豊富な財務戦略家クリシュナ・ラオを新しい最高財務責任者（経理の最高責任者）として迎えました。ラオ氏は約20年間、大手企業の財務責任者として活躍してきた実績を持っています。Airbnbでは新型コロナ対応と100億ドル超の資金調達を担当し、Fanatics Commerceと医療系企業Cedarでもリーダーシップを発揮してきました。Anthropicは今後、国際展開と事業成長を加速させる予定で、ラオ氏はこの成長戦略を財務面から支える重要な役割を果たします。ハーバード大学とイェール・ロー・スクール出身の彼は、投資銀行BlackstoneやBain&Companyでの経験も持つ優秀なリーダーです。",
+    "points": [
+      "経験豊富な財務戦略家クリシュナ・ラオがAnthropicの最高財務責任者に就任",
+      "Airbnbで100億ドル超の資金調達やIPO（上場）を主導した実績を持つ",
+      "Anthropicの国際展開と事業成長を財務面からサポートする予定",
+      "ハーバード大学とイェール・ロー・スクール出身で、複数の大手企業で経営経験あり",
+      "AI技術の責任ある発展と展開に向けた経営基盤の構築が目標"
+    ],
+    "analogy": "ラオ氏の就任は、スタートアップ企業が成長期に入る際に、経験豊富なベテラン船長を新たに雇う、というようなもの。これまで小回りが利く小舟だった企業が、より大きな船へと成長する際に、資金管理や航路計画の専門知識を持つ船長が必要になるのと同じです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
