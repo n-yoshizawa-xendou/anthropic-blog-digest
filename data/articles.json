@@ -4085,5 +4085,25 @@
     "analogy": "例えるなら、これは『テーラーメイド注文服』のようなものです。既存の大企業向けサービスは『高級百貨店の既製服』で、大企業はそのまま使えます。でも中堅企業は『既製服のサイズが合わない』という課題を抱えていました。今回の新会社は『カスタムテーラー』として、中堅企業の業務に合わせて、AIという素材を使って『その企業だけの服』を作ってくれるサービスなのです。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "finance-agents": {
+    "slug": "finance-agents",
+    "url": "https://www.anthropic.com/news/finance-agents",
+    "title_original": "Agents for financial services and insurance",
+    "title_ja": "金融サービス・保険業向けのAIエージェント新機能をリリース",
+    "description": "We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.",
+    "published": "",
+    "lastmod": "2026-05-05T17:38:31.000Z",
+    "summary": "Anthropic社は、金融機関向けの10種類の新しいAIエージェント（自動作業プログラム）をリリースしました。企業の財務資料作成、顧客確認書類の審査、月末決算などの時間がかかる業務を自動化できます。また、Microsoft ExcelやPowerPoint、Wordなどのビジネスソフトとの連携も可能になり、これらのツール間で情報が自動で共有されます。さらに、FactSetやS&P Capital IQなど複数の金融データベースとも接続でき、AIが最新の市場情報にアクセスできるようになりました。複数の大手金融機関がすでに採用しており、効率化と生産性向上に大きな効果を上げています。",
+    "points": [
+      "ピッチブック作成、顧客審査、月末決算など金融業務の10種類のAIエージェントが利用可能",
+      "Microsoft 365スイート（Excel、PowerPoint、Word、Outlook）に統合され、ツール間での情報が自動共有される",
+      "FactSet、Moody's、Dun & Bradstreetなど8社以上の新しい金融データベース接続対応で、最新の市場データにアクセス可能",
+      "大手銀行や資産運用会社が導入しており、作業時間を大幅に短縮することが実証されている",
+      "プラグイン、独立型エージェント、Microsoft365アドインなど複数の利用形態が選択できる"
+    ],
+    "analogy": "従来の金融アナリストが書類作成や数値確認に費やしていた時間は、信頼できる秘書が基本的な準備を済ませてくれるようなもの。人間は本来の判断・分析業務に集中でき、より質の高い成果を短時間で生み出せるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
