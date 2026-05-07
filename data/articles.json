@@ -4105,5 +4105,25 @@
     "analogy": "従来の金融アナリストが書類作成や数値確認に費やしていた時間は、信頼できる秘書が基本的な準備を済ませてくれるようなもの。人間は本来の判断・分析業務に集中でき、より質の高い成果を短時間で生み出せるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "higher-limits-spacex": {
+    "slug": "higher-limits-spacex",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "title_original": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "title_ja": "Claudeの利用上限を引き上げ、SpaceXとの大規模計算資源パートナーシップを発表",
+    "description": "We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.",
+    "published": "",
+    "lastmod": "2026-05-06T16:35:37.000Z",
+    "summary": "Anthropic社はAI（人工知能）サービスの「Claude」について、利用できる量を大幅に増やすと発表しました。理由は、SpaceXとの新しいパートナーシップによって、膨大な計算能力を手に入れたからです。SpaceXのデータセンター（コンピュータを大量に置いた施設）から月内に20万台以上の高性能GPU（画像処理などに使う超高速コンピュータ部品）が使えるようになります。これにより、Claude ProやMaxなどの有料サービスの利用者は、より多くの回数でAIを使えるようになります。AmazonやGoogleなどとも大規模な計算資源の契約を結んでおり、全世界での容量拡大を進めています。さらに、データセンターの電気代が上がった場合の負担も抑える約束もしています。",
+    "points": [
+      "Claude Code（コーディング補助機能）の利用時間制限を倍にし、ピーク時間帯の制限も撤廃",
+      "SpaceXのデータセンターから月内に22万台以上のGPUが利用可能になり、処理能力が大幅増加",
+      "AmazonやGoogleなど複数企業との大規模契約で、2026〜2027年にかけて全世界の容量を拡大予定",
+      "金融・医療・政府など規制産業の企業向けに、各地域のデータセンターを整備し、法令対応を強化",
+      "データセンターの電気代増加を企業が負担する環境配慮コミットメント"
+    ],
+    "analogy": "これは、人気が出たレストランが、もっと多くのお客さんを受け入れるために、調理場を大きくして、シェフや調理器具を増やすようなものです。SpaceXやAmazonなどとの『調理場の拡張契約』により、同時に対応できるお客さんの数が激増し、待ち時間も短くなるということです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
