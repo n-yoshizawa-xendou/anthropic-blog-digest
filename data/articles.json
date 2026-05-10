@@ -4437,5 +4437,215 @@
     "analogy": "これまで企業のセキュリティは、鍵をしっかり掛けた家を守ることのようでした。しかし今、泥棒（攻撃者）が建物内のすべての隙間を自動的に見つけるAIツールを持つようになったため、家全体の設計そのものを変えて、複数の部屋ごとに別々の鍵をつけ、侵入後に動き回りにくくする対策が必要になったということです。",
     "category": "安全性",
     "summarized": true
+  },
+  "claude:claude-managed-agents": {
+    "source": "claude",
+    "slug": "claude-managed-agents",
+    "url": "https://claude.com/blog/claude-managed-agents",
+    "title_original": "Claude Managed Agents: get to production 10x faster",
+    "title_ja": "Claude Managed Agents：AIエージェントを10倍速く本番運用へ",
+    "description": "Introducing Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale.",
+    "published": "2026-04-08",
+    "lastmod": "2026-04-08",
+    "summary": "AnthropicがClaudeの新機能「Claude Managed Agents」を発表しました。これは、AIエージェント（自動で作業を行うプログラム）を簡単に構築・展開できるサービスです。従来は、セキュリティ対策やデータ管理など複雑な準備作業に数ヶ月かかっていましたが、このサービスを使えば数日で本番運用できます。NotionやRakutenなどの大手企業がすでに導入し、プログラミング、営業資料作成、バグ修正など様々な業務をAIに任せられるようになりました。利用料金はAIの使用量に応じた従量制で、セッション1時間あたり0.08ドルの費用がかかります。",
+    "points": [
+      "複雑なインフラ構築作業が不要に：セキュリティ、権限管理、エラー対応などをすべてAnthropicが用意してくれるため、開発者は業務ロジックに集中できる",
+      "開発期間を大幅短縮：数ヶ月かかっていた作業が数日～1週間で完了。Notion、Rakuten、Asanaなど複数企業が既に導入し、生産性向上を実現",
+      "複数のAIが協力する仕組み：1つのAIだけでなく、複数のAIが連携して複雑な仕事を並行処理できる",
+      "自動的に改善する機能：目標を設定すると、AIが自動で試行錯誤して目標達成を目指す（従来の指示型より成功率が10%向上）",
+      "安全な運用環境：データ漏洩やセキュリティリスクを最小化し、企業レベルで安心して使用できる"
+    ],
+    "analogy": "従来のAIエージェント構築は、新しいレストランをオープンするときに、厨房から会計システムまですべて自分で設計・構築するようなものでした。Claude Managed Agentsは、すべてのインフラが整ったキッチンと運営システムが用意されているから、メニュー開発と客対応だけに注力できる、という感じです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:harnessing-claudes-intelligence": {
+    "source": "claude",
+    "slug": "harnessing-claudes-intelligence",
+    "url": "https://claude.com/blog/harnessing-claudes-intelligence",
+    "title_original": "Harnessing Claude's Intelligence | 3 Key Patterns for Building Apps",
+    "title_ja": "Claude の能力を引き出す：アプリ開発のための3つの重要なパターン",
+    "description": "Three patterns for building on the Claude Platform that keep pace with Claude's evolving intelligence while balancing latency and cost.",
+    "published": "2026-04-02",
+    "lastmod": "2026-04-02",
+    "summary": "Anthropic は Claude の能力が進化し続ける中で、アプリケーション開発を効率的に行うための3つのパターンを提案しています。第1に、Claude が既に得意とするツール（コマンドラインやテキストエディタなど）を活用すること。第2に、不要な処理を削除し、Claude 自身に判断や状況管理を任せること。例えば、大量のデータを処理する際に、すべてをシステムに読み込ませるのではなく、Claude にコード実行ツールを与えて必要な部分だけを抽出させる方が効率的です。第3に、セキュリティやコスト管理のため、適切にシステムの境界を設定することです。これらのパターンに従うことで、動作速度、コスト、そして AI の能力のバランスを取りながら、進化する Claude に対応したアプリケーションを構築できます。",
+    "points": [
+      "Claude が既に得意とするシンプルなツール（bash やテキストエディタ）を基盤として使用すること",
+      "Claude 自身に判断を任せ、不要な処理を削除して効率化する（コード実行やメモリ管理など）",
+      "セキュリティ管理やコスト削減のため、API キャッシュやツール設計を工夫すること",
+      "Claude の能力が進化するたびに、従来の手法が本当に必要かを見直す必要がある",
+      "長期的なタスクでは、Claude 自身がメモリを管理する仕組みを提供することが効果的"
+    ],
+    "analogy": "スマートフォンの秘書に例えると、最初は『この操作はできません』と制限が多かったですが、アップデートで能力が増すたびに『実は自分でできます』と気づくことがあります。同様に Claude も能力が高まるので、古い制限を取り外して、より多くの判断を Claude に任せることが大切です。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-builds-visuals": {
+    "source": "claude",
+    "slug": "claude-builds-visuals",
+    "url": "https://claude.com/blog/claude-builds-visuals",
+    "title_original": "Claude builds interactive visuals right in your conversation",
+    "title_ja": "Claude が会話内で対話的なビジュアルを直接作成できるように",
+    "description": "Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.",
+    "published": "2026-03-12",
+    "lastmod": "2026-04-22",
+    "summary": "AI助手「Claude」が、会話の中でコード不要でグラフ、図表、ビジュアル化を直接作成できる新機能が登場しました。ユーザーが「これを図で説明して」と頼むと、Claude は会話内にインタラクティブなチャート等を埋め込んで表示。複合利息の計算グラフや周期表の対話的ビジュアルなど、ユーザーが直接操作して理解を深められます。従来のレポート用成果物とは異なり、これらビジュアルは会話の流れに応じてリアルタイムで変更・更新されるため、対話的な学習や分析に最適です。全ての料金プランで利用可能で、デフォルトで有効になっています。",
+    "points": [
+      "Claude がコード不要で、会話内に直接インタラクティブなグラフや図表を生成できるようになった",
+      "作成されたビジュアルは会話の流れに応じてリアルタイムで変更・更新される（従来の固定ドキュメントではなく）",
+      "ユーザーが直接操作できるため、複利計算の変化を試せたり、周期表の詳細をクリックで確認したりできる",
+      "全ての料金プランで利用可能で、Claude が自動判断するか直接指示で実行可能",
+      "数式表示、天気情報など、Claude の応答がより視覚的でわかりやすくなる全体的な改善の一部"
+    ],
+    "analogy": "これは、学校の授業で先生が黒板に図を描きながら説明するようなものです。従来は、完成したレポートとして図が提出されていましたが、今は「ここを触ると値が変わるホワイトボード」のように、リアルタイムで図が変化し、学生が自分で試行錯誤して理解を深められるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-enterprises-are-building-ai-agents-in-2026": {
+    "source": "claude",
+    "slug": "how-enterprises-are-building-ai-agents-in-2026",
+    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
+    "title_original": "How enterprises are building AI agents in 2026",
+    "title_ja": "2026年の企業によるAIエージェント（自動処理システム）の活用実態",
+    "description": "New research from 500+ technical leaders reveals how enterprises are deploying AI agents in 2026—and why 80% already report measurable ROI.",
+    "published": "2025-12-09",
+    "lastmod": "2026-02-11",
+    "summary": "500人以上の企業の技術責任者を対象とした調査によると、AIエージェント（人工知能を使った自動処理システム）は実験段階から必須のツールへと進化しています。企業は単純な作業の自動化から複数部門にまたがる複雑なプロセスへシフトしており、80%の組織が既に経済的な成果を報告しています。プログラミング支援が最も活用されている領域で、コード生成や文書作成などで時間短縮を実現。法務・医療・小売など様々な業界で導入が進み、例えば法律事務所では数時間かかった書類検索が数分で完了するなど、劇的な効率改善が起きています。2026年には、より複雑なプロセスへの展開が計画されており、企業の課題は導入の判断ではなく、いかに戦略的にスケール化するかという段階に入っています。",
+    "points": [
+      "80%の企業がAIエージェントの投資から既に測定可能な経済的リターンを報告",
+      "プログラミング領域が最も普及（90%が利用）し、企業全体の開発時間を短縮",
+      "複数部門にまたがる複雑なワークフロー対応へシフト（2026年は81%が複雑な用途を計画）",
+      "法務・医療・小売など多業種で劇的な効率改善を実現（法律検索は数時間→数分に短縮）",
+      "統合・データアクセス・組織変革が主な課題（46～39%が課題と報告）"
+    ],
+    "analogy": "AIエージェントの導入は、会社に優秀なアシスタントを何十人も雇うようなもの。初めは『報告書を作成して』『メール送信して』といった簡単な指示で活躍していましたが、今は『複数の部門と調整して企画を進めて』といった複雑な業務も任せられるようになり、社員は難しい判断や創造的な仕事に集中できるようになっている状況です。",
+    "category": "企業AI・ビジネス活用",
+    "summarized": true
+  },
+  "claude:improving-frontend-design-through-skills": {
+    "source": "claude",
+    "slug": "improving-frontend-design-through-skills",
+    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
+    "title_original": "Improving frontend design through Skills",
+    "title_ja": "Claude の Skills 機能でフロントエンド設計を大幅改善",
+    "description": "Best practices for building richer, more customized frontend design with Claude and Skills.",
+    "published": "2025-11-12",
+    "lastmod": "2025-12-09",
+    "summary": "AI（Claude）にランディングページやアプリのUIを作らせると、つい同じような無難なデザイン（紫のグラデーション、Inter フォント）ばかりになってしまう問題があります。この記事では、「Skills」という新機能を使って、この問題を解決する方法を紹介しています。Skills は、フロントエンド設計のルールやテクニックをまとめた「指南書」ファイルで、必要な時だけ Claude に読み込ませることで、毎回同じ説明をしなくても、より独創的で高品質なデザインを生成させることができます。タイポグラフィ（文字フォント）、カラー、アニメーション、背景効果など、複数の設計要素を改善するガイドを用意することで、AIが生成するUIの質が大きく向上することが実例で示されています。",
+    "points": [
+      "AIが無意識に生成する「ありふれたデザイン」問題は、統計的に出現頻度の高い安全な選択肢に収束する『分布収束』が原因",
+      "「Skills」機能で、フロントエンド設計の専門知識を再利用可能なファイルとして管理でき、毎回全文字数を浪費せずに活用できる",
+      "タイポグラフィ、テーマ、モーション、背景の4つの設計要素に対して的確な指示を与えることで、生成デザインが劇的に改善される",
+      "新しい「web-artifacts-builder」スキルで、Claude は React や Tailwind CSS などの最新ツールを使い、より高機能で洗練されたアプリを生成可能に",
+      "Skills は企業の設計システムやUIルールを組織知識として定着させ、チーム全体で一貫性を保ちながら再利用できる"
+    ],
+    "analogy": "症状を例えるなら、AIはスマートフォンで「風景写真を撮ってください」と頼むと、いつも似たような角度から、無難な構図で撮ってしまうようなもの。それが『スキル』という「撮影ガイドブック」を持たせることで、『ここは特徴的な構図で、この時間帯の光を活かして』という具体的な指示が毎回機能して、個性的で素敵な写真が撮れるようになるイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:collaborate-with-claude-across-excel-powerpoint-word-and-outlook": {
+    "source": "claude",
+    "slug": "collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
+    "url": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
+    "title_original": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
+    "title_ja": "ClaudeがExcel、PowerPoint、Word、Outlookで利用可能に—4つのアプリを横断して連携",
+    "description": "Claude for Excel, PowerPoint, and Word are generally available, and Claude for Outlook is now in public beta for all paid plans.",
+    "published": "2026-05-07",
+    "lastmod": "2026-05-07",
+    "summary": "Anthropicは、Microsoftの4つのオフィスアプリケーションでClaudeを使用できるようにしました。Excel、PowerPoint、Wordは正式サービス開始、Outlookはベータ版です。最大の特徴は、これら4つのアプリ間で会話履歴と文脈が保持されること。例えば、Outlookでメールを確認し、Word添付ファイルで文書を作成し、Excelで分析を行い、PowerPointでプレゼン資料を作成する際に、毎回説明し直す必要がありません。Excelの数値を変更すれば、PowerPointのグラフやWordのメモが自動更新されます。Outlook機能では、メールの優先度判定や返信下書きの自動作成も可能。企業はセキュリティ設定やアナリティクス機能により、社員の使用状況を監視・管理できます。",
+    "points": [
+      "4つのMicrosoftアプリ（Excel、PowerPoint、Word、Outlook）を横断して、1つの会話で作業を進められる",
+      "文脈が保持されるため、アプリ間を移動しても説明を繰り返す必要がない",
+      "複数のファイルを同時に開いて作業できて、変更が自動的に反映される",
+      "Outlookではメール仕分けや返信下書きの作成、予定調整が自動実行できる",
+      "企業向けには、セキュリティ監視とユーザー別アナリティクスの機能がある"
+    ],
+    "analogy": "これは、複数の専門家チーム（メール対応係、文書作成者、データ分析者、デザイナー）が同じ会議室に集まって、いちいち状況説明をし直さずに仕事を進めるようなものです。一人が「この数字を変更した」と言うと、他の担当者たちが自動的に自分の部分を修正できる効率的なチームワークが実現します。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:deploying-claude-across-financial-services": {
+    "source": "claude",
+    "slug": "deploying-claude-across-financial-services",
+    "url": "https://claude.com/blog/deploying-claude-across-financial-services",
+    "title_original": "Deploying Claude across financial services",
+    "title_ja": "金融サービス業界へのClaudeの導入ガイド",
+    "description": "In this guide, we share how financial services firms are using Claude to compress their most time-consuming work, including customer examples and a practical adoption roadmap.",
+    "published": "2026-05-05",
+    "lastmod": "2026-05-05",
+    "summary": "金融機関がAI技術「Claude」を使って、時間がかかる業務を効率化している事例と実装方法を紹介するガイドが公開されました。銀行や投資会社では、顧客調査、融資審査、決算作業などにClaudeを活用しています。ガイドには、異なる用途に応じた7種類のClaudeツール（チャット、ファイル管理、コード支援、Officeソフト連携など）の使い分け方法、すぐに使える10個の金融業務用テンプレート、大手企業の導入事例、そして導入を段階的に進める3つのステップ（基礎構築→試験運用→本格展開）が含まれています。このガイドはAIを導入する意思決定者とエンジニア向けに作成されました。",
+    "points": [
+      "金融機関がClaudeを研究、融資審査、決算など様々な業務で活用している",
+      "用途に応じて複数のClaudeツール（チャット、ファイル管理、コード支援など）を組み合わせて使用",
+      "10個のすぐに使える金融業務用テンプレートが提供されている（ピッチ資料作成、市場調査、顧客確認など）",
+      "AIG、オーストラリア大手銀行など実際の大手企業の成功事例を掲載",
+      "3段階の導入プログラムで企業が段階的にAI化を進められる仕組み"
+    ],
+    "analogy": "Claudeの複数のツールを組み合わせて使うことは、大手企業が異なる専門スキルを持つ複数のコンサルタントを問題に応じて配置するのと同じです。問題の種類によって、チャット型のアドバイザー、ファイル分析の専門家、プログラミングの技術者など、最適な『専門家』を選んで活用できます。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "claude:how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks": {
+    "source": "claude",
+    "slug": "how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
+    "url": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
+    "title_original": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
+    "title_ja": "プログラミング経験ゼロのプロジェクトマネージャーがClaudeの力でストレス管理アプリを6週間で完成させた",
+    "description": "Kostiantyn Vlasenko had never written a line of code when he set out to build Respiro. Just over a month later, his product was live on the App Store.",
+    "published": "2026-05-01",
+    "lastmod": "2026-05-01",
+    "summary": "ウクライナ出身のコスタンティンさんは、プログラミング経験がまったくないまま、AIアシスタント「Claude」を使ってストレス管理アプリ「Respiro」を開発しました。このアプリは、ユーザーの日常から実際のストレス信号を察知し、その瞬間に呼吸法などでサポートするもの。プロジェクトマネージャーとしての経験を活かし、AIを「チームメンバーのように指示・管理する」という新しい考え方で、わずか6週間でApp Storeにアプリをリリース。翻訳や設定、マーケティング戦略までClaudeが協力し、現在は本職での仕事でもこのやり方を導入しています。",
+    "points": [
+      "プログラミング未経験でも、AI「Claude」を使うことでアプリ開発が可能になった",
+      "プロジェクトマネージャーのスキルが、AIエージェント（自動処理を行うプログラム）の管理に応用できた",
+      "スクリーンショットの分析や複雑な設定ガイドなど、AIの視覚機能が特に役立った",
+      "ストレス検出と対応というニッチな問題を解決する実用的なアプリが誕生した",
+      "このワークフローが職場での開発プロセスも改善し、組織全体の生産性向上につながった"
+    ],
+    "analogy": "これはちょうど、建設経験のあるプロジェクトマネージャーが、作業員の代わりにロボットを指示することで、個別に労働者を管理するより効率的に建物を建てるようなものです。コスタンティンさんは『人間のチームメンバーを管理する』という自分の得意分野のスキルを、『AIツールを管理する』という新しい領域にそのまま応用できたわけです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:building-ai-agents-for-the-enterprise": {
+    "source": "claude",
+    "slug": "building-ai-agents-for-the-enterprise",
+    "url": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
+    "title_original": "Building AI agents for the enterprise",
+    "title_ja": "企業向けAIエージェント：組織全体の働き方を変える新しいアプローチ",
+    "description": "In this guide, we share how leading organizations are using agents to transform their work today, and how Claude Cowork brings these capabilities to every team.",
+    "published": "2026-04-30",
+    "lastmod": "2026-04-30",
+    "summary": "Anthropicの最新ガイドでは、企業がAIエージェント（自動で判断・実行するAIシステム）を活用して競争力を強化する方法を紹介しています。2023年から2025年で職場でのAI利用者が20%から40%に倍増した一方、単なる一時的な効果に留まる企業が多い課題があります。成功している企業は、社員の働き方、業務プロセス、製品機能にAIを深く組み込み、長期的な競争優位性を構築しています。新サービス「Claude Cowork」により、大企業から中小企業まで、カスタム開発なしに全チームがこうした先進的なAI機能を利用できるようになりました。ロレアルやLyft、楽天など実例も含めた実践的な6ヶ月展開フレームワークが提供されています。",
+    "points": [
+      "職場でのAI利用率が20%（2023年）から40%（2025年）に倍増したが、単発の効果に終わる企業が多い課題がある",
+      "競争力を持つ企業は、社員教育・業務プロセス・新製品開発にAIを統合し、長期的な競争優位を構築している",
+      "Claude Coworkにより、カスタム開発なしに企業のあらゆるチームが高度なAIエージェント機能を利用可能に",
+      "L'Oreal、Lyft、楽天などの大企業の成功事例と実践的な導入フレームワーク（6ヶ月）を提供",
+      "単なるコスト削減ではなく、新しい収益機会を生み出すAI活用が重視されている"
+    ],
+    "analogy": "AIエージェントを企業に導入することは、優秀な社員アシスタントを全部門に配置するようなもの。最初は簡単な事務作業を減らすだけですが、その人が社内のルールや業務フロー、顧客情報を学べば学ぶほど、より複雑で重要な判断もサポートできるようになり、やがて企業全体の競争力が高まっていく、ということです。",
+    "category": "製品アップデート、企業ニュース、AI技術",
+    "summarized": true
+  },
+  "claude:claude-security-public-beta": {
+    "source": "claude",
+    "slug": "claude-security-public-beta",
+    "url": "https://claude.com/blog/claude-security-public-beta",
+    "title_original": "Claude Security is now in public beta",
+    "title_ja": "Claude Security が公開ベータ版に—AIがコードの脆弱性を自動検出・修正",
+    "description": "Scan code for vulnerabilities and generate proposed fixes with Opus 4.7, on the Claude Platform, or through technology and services partners building with Claude.",
+    "published": "2026-04-30",
+    "lastmod": "2026-05-01",
+    "summary": "Anthropic は、ソフトウェアコードの脆弱性（セキュリティの穴）を見つけて修正案を提案する「Claude Security」を公開ベータ版として提供開始しました。Enterprise契約のユーザーであれば、複雑なセットアップなしに利用できます。最新モデル「Opus 4.7」を活用して、複数ファイルにまたがる問題を見つけ、詳細な修正方法を生成します。数百の企業による実運用テストから、スキャンから修正まで数分で完了できることが確認されました。CrowdStrike や Microsoft Security など大手セキュリティ企業も Claude を組み込んでおり、組織が既に使っているツールから直接利用できるようになります。",
+    "points": [
+      "Claude Security は AI がソフトウェアの脆弱性を自動スキャンして、修正案を生成するツール",
+      "複数ファイル間の相互作用を理解し、既知パターンマッチングではなく論理的に問題を発見",
+      "スキャンから修正まで数分で完了でき、セキュリティチームと開発チームの連携が効率化",
+      "定期スキャン、Slack・Jira 連携、CSV エクスポートなど実運用に必要な機能を装備",
+      "CrowdStrike・Palo Alto Networks など主要セキュリティベンダーが統合、企業の既存ツールに組み込み可能"
+    ],
+    "analogy": "Claude Security は、セキュリティチームの頭脳を持った新人エンジニアのようなもの。複雑な建築図面（コード）を詳しく読み込んで、素人目には見えない構造的な問題（脆弱性）を見つけ出し、その修正方法までを提案してくれます。従来の方法は既知の危ないパターンをチェックするだけでしたが、Claude は全体を理解して隠れた問題も発見できるのが特徴です。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
