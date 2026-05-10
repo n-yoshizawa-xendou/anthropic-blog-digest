@@ -55,12 +55,14 @@ GitHub リポジトリの **Settings → Secrets and variables → Actions** で
 
 - 新着 0 件のときは投稿しません
 - `SLACK_WEBHOOK_URL` が未設定の環境ではスキップされる（ローカル実行で安全）
+- リンク先は本ダイジェストサイトの記事ページ (`/articles/<source>/<slug>/`) になります
+- 必要なら環境変数 `DIGEST_BASE_URL` で公開先ドメインを上書きできます（デフォルトは GitHub Pages の URL）
 - メッセージ例:
   ```
   *📰 新着 2 件のブログ記事*
 
-  • <https://www.anthropic.com/news/...|タイトル>  _(anthropic.com)_
-  • <https://claude.com/blog/...|タイトル>        _(claude.com)_
+  • <https://n-yoshizawa-xendou.github.io/anthropic-blog-digest/articles/anthropic/.../|タイトル>  _(anthropic.com)_
+  • <https://n-yoshizawa-xendou.github.io/anthropic-blog-digest/articles/claude/.../|タイトル>     _(claude.com)_
   ```
 
 ## 🔑 必要な外部サービス

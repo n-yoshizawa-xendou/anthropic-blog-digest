@@ -10,6 +10,10 @@ import sys
 from urllib import error, request
 
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL", "")
+DIGEST_BASE_URL = os.environ.get(
+    "DIGEST_BASE_URL",
+    "https://n-yoshizawa-xendou.github.io/anthropic-blog-digest",
+).rstrip("/")
 
 SOURCE_LABELS = {
     "anthropic": "anthropic.com",
@@ -22,6 +26,15 @@ def _escape_mrkdwn(text: str) -> str:
     return (text or "").replace("<", "‹").replace(">", "›").replace("|", "/")
 
 
+def digest_url(article: dict) -> str:
+    """ダイジェストサイト側の記事ページ URL を組み立てる"""
+    source = article.get("source", "anthropic")
+    slug = article.get("slug", "")
+    if not slug:
+        return article.get("url", "")
+    return f"{DIGEST_BASE_URL}/articles/{source}/{slug}/"
+
+
 def build_message(articles: list[dict]) -> str:
     count = len(articles)
     lines = [f"*📰 新着 {count} 件のブログ記事*", ""]
@@ -31,7 +44,7 @@ def build_message(articles: list[dict]) -> str:
         title = _escape_mrkdwn(
             a.get("title_ja") or a.get("title_original") or a.get("slug", "")
         )
-        url = a.get("url", "")
+        url = digest_url(a)
         lines.append(f"• <{url}|{title}>  _({label})_")
     return "\n".join(lines)
 
@@ -69,11 +82,13 @@ if __name__ == "__main__":
     sample = [
         {
             "source": "anthropic",
+            "slug": "example",
             "title_ja": "サンプル記事",
             "url": "https://www.anthropic.com/news/example",
         },
         {
             "source": "claude",
+            "slug": "example",
             "title_ja": "Claude側のサンプル",
             "url": "https://claude.com/blog/example",
         },
