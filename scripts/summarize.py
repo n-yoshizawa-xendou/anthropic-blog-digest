@@ -7,14 +7,20 @@ from pathlib import Path
 
 import anthropic
 
-from fetch_articles import find_new_articles, load_existing_articles, save_articles
+from fetch_articles import (
+    article_key,
+    find_new_articles,
+    load_existing_articles,
+    save_articles,
+)
+from notify import notify_new_articles
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 MODEL = "claude-haiku-4-5-20251001"
 
 SYSTEM_PROMPT = """\
 あなたはテクノロジーニュースの翻訳・要約の専門家です。
-Anthropic社のブログ記事を、ITに詳しくない一般の日本人読者向けにわかりやすく要約してください。
+Anthropic / Claude のブログ記事を、ITに詳しくない一般の日本人読者向けにわかりやすく要約してください。
 
 ルール:
 - 日本語で書いてください
@@ -37,8 +43,14 @@ Anthropic社のブログ記事を、ITに詳しくない一般の日本人読者
 
 def summarize_article(client: anthropic.Anthropic, article: dict) -> dict | None:
     """1記事をClaude APIで要約"""
-    user_message = f"""以下のAnthropicブログ記事を要約してください。
+    source_label = {
+        "anthropic": "Anthropic 公式ブログ (anthropic.com/news)",
+        "claude": "Claude 公式ブログ (claude.com/blog)",
+    }.get(article.get("source", ""), "Anthropic / Claude ブログ")
 
+    user_message = f"""以下のブログ記事を要約してください。
+
+ソース: {source_label}
 タイトル: {article['title']}
 説明: {article.get('description', '')}
 URL: {article['url']}
@@ -87,14 +99,18 @@ def process_new_articles(limit: int = 5) -> int:
 
     existing = load_existing_articles()
     processed = 0
+    new_entries: list[dict] = []
 
     for article in articles:
+        source = article.get("source", "anthropic")
         slug = article["slug"]
-        print(f"\nSummarizing: {article['title']}")
+        key = article_key(source, slug)
+        print(f"\nSummarizing [{source}]: {article['title']}")
 
         summary = summarize_article(client, article)
         if summary:
-            existing[slug] = {
+            entry = {
+                "source": source,
                 "slug": slug,
                 "url": article["url"],
                 "title_original": article["title"],
@@ -108,6 +124,8 @@ def process_new_articles(limit: int = 5) -> int:
                 "category": summary.get("category", "その他"),
                 "summarized": True,
             }
+            existing[key] = entry
+            new_entries.append(entry)
             processed += 1
             print(f"  ✓ {summary['title_ja']}")
         else:
@@ -115,6 +133,10 @@ def process_new_articles(limit: int = 5) -> int:
 
     save_articles(existing)
     print(f"\nProcessed {processed}/{len(articles)} articles")
+
+    if new_entries:
+        notify_new_articles(new_entries)
+
     return processed
 
 

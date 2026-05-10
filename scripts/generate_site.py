@@ -71,6 +71,12 @@ def format_jst(date_str: str) -> str:
         return date_str
 
 
+SOURCE_LABELS = {
+    "anthropic": "anthropic.com",
+    "claude": "claude.com",
+}
+
+
 def load_articles() -> list[dict]:
     articles_file = DATA_DIR / "articles.json"
     if not articles_file.exists():
@@ -78,6 +84,10 @@ def load_articles() -> list[dict]:
     data = json.loads(articles_file.read_text(encoding="utf-8"))
     articles = [v for v in data.values() if isinstance(v, dict) and v.get("summarized")]
     for article in articles:
+        source = article.get("source", "anthropic")
+        article["source"] = source
+        article["source_label"] = SOURCE_LABELS.get(source, source)
+        article["article_path"] = f"articles/{source}/{article['slug']}/"
         article["category_normalized"] = normalize_category(
             article.get("category", "その他")
         )
@@ -144,6 +154,8 @@ def generate_site():
         shutil.rmtree(OUTPUT_DIR)
     OUTPUT_DIR.mkdir(parents=True)
     (OUTPUT_DIR / "articles").mkdir()
+    for source in SOURCE_LABELS:
+        (OUTPUT_DIR / "articles" / source).mkdir(parents=True, exist_ok=True)
 
     # 静的ファイルをコピー
     if STATIC_DIR.exists():
@@ -199,8 +211,9 @@ def generate_site():
             site_title=SITE_TITLE,
             article=article,
             updated_at=now,
+            base_path="../../../",
         )
-        article_dir = OUTPUT_DIR / "articles" / article["slug"]
+        article_dir = OUTPUT_DIR / "articles" / article["source"] / article["slug"]
         article_dir.mkdir(parents=True, exist_ok=True)
         (article_dir / "index.html").write_text(article_html, encoding="utf-8")
 

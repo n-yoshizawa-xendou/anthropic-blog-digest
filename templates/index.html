@@ -39,14 +39,15 @@
       <article class="article-card">
         <div class="article-meta">
           <span class="article-category">{{ article.category_normalized | default('その他') }}</span>
+          <span class="article-source source-{{ article.source }}">{{ article.source_label }}</span>
           <time>{{ article.display_date }}</time>
         </div>
         <h2 class="article-title">
-          <a href="{{ base_path }}articles/{{ article.slug }}/">{{ article.title_ja }}</a>
+          <a href="{{ base_path }}{{ article.article_path }}">{{ article.title_ja }}</a>
         </h2>
         <p class="article-summary">{{ article.summary[:200] }}{% if article.summary|length > 200 %}…{% endif %}</p>
         <div class="article-footer">
-          <a href="{{ base_path }}articles/{{ article.slug }}/" class="read-more">詳しく読む →</a>
+          <a href="{{ base_path }}{{ article.article_path }}" class="read-more">詳しく読む →</a>
           <a href="{{ article.url }}" class="original-link" target="_blank" rel="noopener">原文 ↗</a>
         </div>
       </article>
@@ -123,7 +124,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>このサイトは <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic社のブログ</a> を自動翻訳・要約したものです。</p>
+      <p>このサイトは <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic公式ブログ</a> および <a href="https://claude.com/blog" target="_blank" rel="noopener">Claude公式ブログ</a> を自動翻訳・要約したものです。</p>
       <p>内容の正確性は原文をご確認ください。Claude APIを利用して生成しています。</p>
     </div>
   </footer>

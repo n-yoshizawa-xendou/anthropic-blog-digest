@@ -1,5 +1,5 @@
 {
-  "healthcare-life-sciences": {
+  "anthropic:healthcare-life-sciences": {
     "slug": "healthcare-life-sciences",
     "url": "https://www.anthropic.com/news/healthcare-life-sciences",
     "title_original": "Advancing Claude in healthcare and the life sciences",
@@ -17,9 +17,10 @@
     ],
     "analogy": "これは、医者がこれまで複数の場所に散在していた患者データ（保険会社の記録、検査結果、診療履歴など）を自動でかき集めてまとめてくれるアシスタントを雇ったようなものです。医者は探し回る時間が減り、実際の診察に集中できるようになります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "google-broadcom-partnership-compute": {
+  "anthropic:google-broadcom-partnership-compute": {
     "slug": "google-broadcom-partnership-compute",
     "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
     "title_original": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
@@ -36,9 +37,10 @@
     ],
     "analogy": "これは、レストランの人気が急に高まったので、複数の大手食材メーカーと契約を結んで、より大きな厨房設備と冷蔵庫を増設するようなものです。顧客が増えても料理を待たせないために、処理能力を大幅に拡張しているのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "australia-MOU": {
+  "anthropic:australia-MOU": {
     "slug": "australia-MOU",
     "url": "https://www.anthropic.com/news/australia-MOU",
     "title_original": "Australian government and Anthropic sign MOU for AI safety and research",
@@ -56,9 +58,10 @@
     ],
     "analogy": "この協力覚書は、医療の世界で新しい治療法を開発する際に、医師と研究者が情報を共有して患者の安全を守るのと似ています。Anthropicが政府機関と安全性に関するデータを共有することで、誰もが『このAIは安全か』を独立して判断できるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "mozilla-firefox-security": {
+  "anthropic:mozilla-firefox-security": {
     "slug": "mozilla-firefox-security",
     "url": "https://www.anthropic.com/news/mozilla-firefox-security",
     "title_original": "Partnering with Mozilla to improve Firefox’s security",
@@ -76,9 +79,10 @@
     ],
     "analogy": "これは、医者が患者の病気を診断するのは上手になったけれど、実際にその病気を起こす方法をつくるのはまだ下手という状況に似ています。今のうちに患者（ソフトウェア）の健康管理（セキュリティ強化）に力を入れておくことが大切です。",
     "category": "セキュリティ、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-opus-4-5": {
+  "anthropic:claude-opus-4-5": {
     "slug": "claude-opus-4-5",
     "url": "https://www.anthropic.com/news/claude-opus-4-5",
     "title_original": "Introducing Claude Opus 4.5",
@@ -96,9 +100,10 @@
     ],
     "analogy": "従来のAIモデルを「丁寧だが時間がかかる職人」に例えるなら、Claude Opus 4.5は「正確さを保ちながらスピーディに仕事をこなす熟練職人」です。同じ品質の仕事をするのに、以前の65%の時間（計算資源）で完了でき、その結果、利用者の負担（コスト）が大きく減ります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-partner-network": {
+  "anthropic:claude-partner-network": {
     "slug": "claude-partner-network",
     "url": "https://www.anthropic.com/news/claude-partner-network",
     "title_original": "Anthropic invests $100 million into the Claude Partner Network",
@@ -116,9 +121,10 @@
     ],
     "analogy": "これは料理学校が料理教室の講師を育成・支援するようなもの。Anthropicが直接企業にClaudeを教えるのではなく、既存のコンサルティング企業などを『講師』として認定・訓練し、その講師たちが企業顧客にClaudeの導入と活用方法を指導する仕組みです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-opus-4-6": {
+  "anthropic:claude-opus-4-6": {
     "slug": "claude-opus-4-6",
     "url": "https://www.anthropic.com/news/claude-opus-4-6",
     "title_original": "Claude Opus 4.6",
@@ -136,9 +142,10 @@
     ],
     "analogy": "これまでのAIモデルが読書のプロのような存在だったとしたら、Opus 4.6は、図書館全体を一度に頭に入れて、その中から最適な情報を引き出しながら、複数の仕事を同時にこなす秘書のようなもの。より広い知識を保持しながら、より正確に、より早く対応できるようになりました。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-sonnet-4-6": {
+  "anthropic:claude-sonnet-4-6": {
     "slug": "claude-sonnet-4-6",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
     "title_original": "Introducing Sonnet 4.6",
@@ -156,9 +163,10 @@
     ],
     "analogy": "Sonnet 4.6の進化は、工場の自動化ロボットの進化に似ています。以前は特定の工場のために専用ロボットを作る必要がありました。しかしSonnet 4.6は、人間のように画面を見てボタンを押し、文字を入力するロボットのようなもの。これにより、わざわざ新しいシステムを組み込まなくても、すでに存在する様々な古いシステムでも自動で動作させることができるようになったのです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "the-anthropic-institute": {
+  "anthropic:the-anthropic-institute": {
     "slug": "the-anthropic-institute",
     "url": "https://www.anthropic.com/news/the-anthropic-institute",
     "title_original": "Introducing The Anthropic Institute",
@@ -176,9 +184,10 @@
     ],
     "analogy": "Anthropic Instituteは、新しい強力な技術がもたらす課題に備える「社会的な防災訓練センター」のようなものです。地震が来る前に防災を学ぶように、強力なAIが社会に大きな影響を与える前に、その影響を研究し、対策を準備するための組織といえます。",
     "category": "企業ニュース、安全性、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "sydney-fourth-office-asia-pacific": {
+  "anthropic:sydney-fourth-office-asia-pacific": {
     "slug": "sydney-fourth-office-asia-pacific",
     "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
     "title_original": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
@@ -196,9 +205,10 @@
     ],
     "analogy": "これは、日本に支店を持つ外資系企業がさらにオーストラリアに新しい支店を開く決断と同じです。本国の良い製品やサービスが現地でも人気が高く、より多くの顧客をサポートするために、現地に専門チームを配置することで、その地域のニーズに合わせたカスタマイズやより良いサービス提供ができるようになるということです。",
     "category": "パートナーシップ・事業拡大",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "where-stand-department-war": {
+  "anthropic:where-stand-department-war": {
     "slug": "where-stand-department-war",
     "url": "https://www.anthropic.com/news/where-stand-department-war",
     "title_original": "Where things stand with the Department of War",
@@ -216,9 +226,10 @@
     ],
     "analogy": "これは、学校の図書館がある出版社の本をしばらく特別な手続きを通じてのみ利用可能にすることに例えられます。他の図書館や個人の読者には影響しませんが、その出版社は図書館側と話し合いを続けながら、生徒たちが必要な本へアクセスできるようにしようとしています。",
     "category": "企業ニュース、政策",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "enabling-claude-code-to-work-more-autonomously": {
+  "anthropic:enabling-claude-code-to-work-more-autonomously": {
     "slug": "enabling-claude-code-to-work-more-autonomously",
     "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
     "title_original": "Enabling Claude Code to work more autonomously",
@@ -236,9 +247,10 @@
     ],
     "analogy": "チェックポイント機能は、ゲームのセーブポイントのようなもの。複雑なダンジョン（大規模なコード修正）に挑む前に、安全な地点でセーブしておくことで、失敗しても安心して先に進められるイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "statement-comments-secretary-war": {
+  "anthropic:statement-comments-secretary-war": {
     "slug": "statement-comments-secretary-war",
     "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
     "title_original": "Statement on the comments from Secretary of War Pete Hegseth",
@@ -256,9 +268,10 @@
     ],
     "analogy": "これは学校の購買部が『弁当を販売する業者が給食では辛い食べ物を使わないと約束してくれない』という理由で、その業者と全く関係ない図書館の本の仕入れまで停止しようとするようなものです。不当な制限と言えるでしょう。",
     "category": "企業ニュース・政策・安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "statement-department-of-war": {
+  "anthropic:statement-department-of-war": {
     "slug": "statement-department-of-war",
     "url": "https://www.anthropic.com/news/statement-department-of-war",
     "title_original": "Statement from Dario Amodei on our discussions with the Department of War",
@@ -276,9 +289,10 @@
     ],
     "analogy": "これは医者の話に例えられます。医者が強力な医療技術を持っていても、それが患者の根本的な権利や安全を危険にさらすなら、技術を持っているだけでは治療に使わないという決断と似ています。Anthropicも、AIが強力だからこそ、それを安全に使うルール作りが重要だと考えているわけです。",
     "category": "企業ニュース、安全性、ポリシー",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "responsible-scaling-policy-v3": {
+  "anthropic:responsible-scaling-policy-v3": {
     "slug": "responsible-scaling-policy-v3",
     "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
     "title_original": "Responsible Scaling Policy Version 3.0",
@@ -296,9 +310,10 @@
     ],
     "analogy": "これはちょうど、建物の安全基準のようなものです。建物の用途や規模が変わるたびに、必要な安全基準も変わります。建築業者は新しい基準に対応しながら、政府がより厳しい規制を整備するまで、自主的により安全な建物を建てることで信頼を得ようとしているのと同じです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "acquires-vercept": {
+  "anthropic:acquires-vercept": {
     "slug": "acquires-vercept",
     "url": "https://www.anthropic.com/news/acquires-vercept",
     "title_original": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
@@ -316,9 +331,10 @@
     ],
     "analogy": "例えるなら、これまでのAIは「電話で指示を受ける事務員」でしたが、今回の買収によって「実際に机に座ってパソコンのマウスやキーボードを操作する事務員」へと進化するようなものです。つまり、AIが人間と同じようにアプリやWebサイトを直接操作して、複雑な業務を一人で完結できるようになったということです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "detecting-and-preventing-distillation-attacks": {
+  "anthropic:detecting-and-preventing-distillation-attacks": {
     "slug": "detecting-and-preventing-distillation-attacks",
     "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
     "title_original": "Detecting and preventing distillation attacks",
@@ -336,9 +352,10 @@
     ],
     "analogy": "これは、有名なレシピ本から誰かが中身を全部写真に撮って、自分の料理学校の授業で教えるのに似ています。本来のレシピ本は『毒が入っていないか確認済み』という品質保証がついていますが、無断コピーされた版には何の保証もなく、危険かもしれません。",
     "category": "セキュリティ・安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-code-security": {
+  "anthropic:claude-code-security": {
     "slug": "claude-code-security",
     "url": "https://www.anthropic.com/news/claude-code-security",
     "title_original": "Making frontier cybersecurity capabilities available to defenders",
@@ -356,9 +373,10 @@
     ],
     "analogy": "従来のセキュリティツールは、銀行の防犯カメラのように「既知の犯罪パターン」（例：マスク着用の不審者）しか警告できません。一方、Claude Code Securityは優秀な警備員のように、コードの流れ全体を理解して「この部分は論理的におかしい」という複雑な問題も見つけられます。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "bengaluru-office-partnerships-across-india": {
+  "anthropic:bengaluru-office-partnerships-across-india": {
     "slug": "bengaluru-office-partnerships-across-india",
     "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
     "title_original": "Anthropic opens Bengaluru office and announces new partnerships across India",
@@ -376,9 +394,10 @@
     ],
     "analogy": "Anthropicのインド展開は、一つの料理教室が最初は英語のレシピしか提供していたが、地域の言葉で書かれたレシピを充実させ、農業、教育、医療など様々な分野の顧客に対応し始めるようなものです。単に市場を広げるだけでなく、地元の人々の実際のニーズに合わせたサービスを作り上げています。",
     "category": "パートナーシップ、グローバル展開",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-rwanda-mou": {
+  "anthropic:anthropic-rwanda-mou": {
     "slug": "anthropic-rwanda-mou",
     "url": "https://www.anthropic.com/news/anthropic-rwanda-mou",
     "title_original": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
@@ -396,9 +415,10 @@
     ],
     "analogy": "これは医者が患者さんのところに定期的に通い、その人に合わせた治療法を教え、一緒に健康を改善していくようなもの。技術を押し付けるのではなく、現地の人たちが自分たちで使いこなせるようにサポートすることが重点です。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-infosys": {
+  "anthropic:anthropic-infosys": {
     "slug": "anthropic-infosys",
     "url": "https://www.anthropic.com/news/anthropic-infosys",
     "title_original": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
@@ -416,9 +436,10 @@
     ],
     "analogy": "従来のAIは優秀な秘書で、1つの質問にはすぐ答えてくれます。でも銀行の融資承認のような複雑で多段階の業務は対応できません。今回開発するAIエージェントは、複数の部門と連携し、必要な書類集め→リスク判定→法令チェック→最終承認まで、全体を一人で進められるプロジェクトマネージャーのようなものです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "chris-liddell-appointed-anthropic-board": {
+  "anthropic:chris-liddell-appointed-anthropic-board": {
     "slug": "chris-liddell-appointed-anthropic-board",
     "url": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
     "title_original": "Chris Liddell appointed to Anthropic’s board of directors",
@@ -435,9 +456,10 @@
     ],
     "analogy": "これは、優秀な経営チームを持つ会社が、さらに経営経験豊かなアドバイザーを船長に迎えるようなもの。AIという新しい領域では、技術だけでなく、社会や法律に配慮した適切な運営方針（統治）が重要で、そうした経験者の知見が必要とされているわけです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-codepath-partnership": {
+  "anthropic:anthropic-codepath-partnership": {
     "slug": "anthropic-codepath-partnership",
     "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
     "title_original": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
@@ -455,9 +477,10 @@
     ],
     "analogy": "これは「高級レストランの料理技法を、料理学校だけでなく誰もが学べる公立図書館でも教え始めた」というイメージです。これまでは裕福な家庭の子どもだけが最新技術を学べていたのが、今後は経済格差に関わらずすべての学生が最先端のAIツールを使った学習機会を得られるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-for-financial-services": {
+  "anthropic:claude-for-financial-services": {
     "slug": "claude-for-financial-services",
     "url": "https://www.anthropic.com/news/claude-for-financial-services",
     "title_original": "Claude for Financial Services",
@@ -475,9 +498,10 @@
     ],
     "analogy": "金融アナリストの業務は、複数の情報源から市場データを集めて、それを整理・分析し、信頼できる判断材料を作る作業です。従来は手作業で時間がかかっていましたが、Claudeを使うと、複数のデータベースや資料が自動的に一つの机の上に並べられ、AIが照らし合わせて検証してくれるようなイメージです。経験豊富なアシスタントが常にそばにいて、複雑な計算や資料作成を瞬時に手伝ってくれるようなものです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation": {
+  "anthropic:anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation": {
     "slug": "anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
     "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
     "title_original": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
@@ -495,9 +519,10 @@
     ],
     "analogy": "Claudeの成長を、最初は個人ユーザー向けだったSNSが、今では大企業の経営判断に欠かせないツールになるのと同じ進化だと考えると分かりやすいです。初期段階では単機能でも、企業がそれを様々な用途に拡張して利用することで、急速に必要不可欠な基盤へと成長していく過程です。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "donate-public-first-action": {
+  "anthropic:donate-public-first-action": {
     "slug": "donate-public-first-action",
     "url": "https://www.anthropic.com/news/donate-public-first-action",
     "title_original": "Anthropic is donating $20 million to Public First Action",
@@ -515,9 +540,10 @@
     ],
     "analogy": "AIの発展は、運転技術が急速に向上している新型車のようなものです。便利で高性能になる一方で、誰でも操作でき、事故やテロに悪用される可能性があります。だからこそ、免許制度や安全基準など、適切なルール作りが社会全体を守るために重要なのです。",
     "category": "企業ニュース、政策、AI安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "covering-electricity-price-increases": {
+  "anthropic:covering-electricity-price-increases": {
     "slug": "covering-electricity-price-increases",
     "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
     "title_original": "Covering electricity price increases from our data centers",
@@ -534,9 +560,10 @@
     ],
     "analogy": "大型商業施設が新しく建設される際、その施設のせいで周辺地域の電力不足が起きて電気代が上がるかもしれません。Anthropicはその「ツケを一般の人に回さず、自分たちで全部払う」と約束しているようなものです。",
     "category": "企業ニュース、社会責任",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-for-nonprofits": {
+  "anthropic:claude-for-nonprofits": {
     "slug": "claude-for-nonprofits",
     "url": "https://www.anthropic.com/news/claude-for-nonprofits",
     "title_original": "Introducing Claude for Nonprofits",
@@ -554,9 +581,10 @@
     ],
     "analogy": "AIをNPOに提供するのは、スポーツ選手がいい道具を手にするのと同じです。同じ選手でも、質の良い道具があれば、より高い成績を出すことができます。今までNPOは予算不足で低価格の道具しか使えていませんでしたが、このプログラムで質の高い道具が安く手に入るようになり、限られた人数でより多くの人を助けられるようになるわけです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-is-a-space-to-think": {
+  "anthropic:claude-is-a-space-to-think": {
     "slug": "claude-is-a-space-to-think",
     "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
     "title_original": "Claude is a space to think | Anthropic",
@@ -574,9 +602,10 @@
     ],
     "analogy": "ノートやホワイトボード、良い筆記用具には広告が付いていないように、Claudeもシンプルで集中できる思考の道具であるべき、という考え方です。インターネットで広告が当たり前になったため、私たちはそれが避けられないと思い込んでいますが、本来の『良い道具』は余計な干渉がない状態なのです。",
     "category": "企業ニュース、AI倫理・安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "protecting-well-being-of-users": {
+  "anthropic:protecting-well-being-of-users": {
     "slug": "protecting-well-being-of-users",
     "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
     "title_original": "Protecting the wellbeing of our users",
@@ -594,9 +623,10 @@
     ],
     "analogy": "Claudeのセーフガード対策は、医者の診察のようなもの。患者の話を親身に聞く（共感）が、本当に危険な場合は専門医を紹介する（正直さ）。患者が聞きたい嘘ではなく、本当に必要な治療を提案することが大事です。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "apple-xcode-claude-agent-sdk": {
+  "anthropic:apple-xcode-claude-agent-sdk": {
     "slug": "apple-xcode-claude-agent-sdk",
     "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
     "title_original": "Apple’s Xcode now supports the Claude Agent SDK",
@@ -614,9 +644,10 @@
     ],
     "analogy": "これは、料理のレシピを渡されるのではなく『和食のおかずを5品作ってほしい』と頼んだら、料理人が自分で最適なメニューを決めて、買い物に行き、調理して、味を整えて、完成させてくれるようなものです。細かい指示がなくても目標達成してくれるので、手間がずっと減ります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute": {
+  "anthropic:anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute": {
     "slug": "anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
     "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
     "title_original": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
@@ -634,9 +665,10 @@
     ],
     "analogy": "これは医師が患者の膨大な検査結果や医学文献を手作業で分析していたのを、AIが自動で整理・分析して「これらのデータから見えるパターンはこれです」と医師に提示するようなものです。医師の最終判断は変わりませんが、作業時間が大幅に短縮され、より多くの患者を診られるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "servicenow-anthropic-claude": {
+  "anthropic:servicenow-anthropic-claude": {
     "slug": "servicenow-anthropic-claude",
     "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
     "title_original": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
@@ -654,9 +686,10 @@
     ],
     "analogy": "これまでのAIの使い方は『調べ物をする時だけ辞書を引く』ようなものでしたが、これからは『辞書が常にあなたの机の上にあって、日々の仕事全体で活躍する』というイメージです。必要な時だけ使うのではなく、仕事の流れ全体に組み込むことで、本当の効果が生まれるということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "gov-UK-partnership": {
+  "anthropic:gov-UK-partnership": {
     "slug": "gov-UK-partnership",
     "url": "https://www.anthropic.com/news/gov-UK-partnership",
     "title_original": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
@@ -674,9 +707,10 @@
     ],
     "analogy": "このAI助手は、政府窓口にいる親切で知識豊富な相談員のようなものです。あなたが何か困ったことがあると、その相談員が『あなたの状況だと、このサービスが最適ですよ』と個別にアドバイスしてくれます。何度訪ねても前回の話を覚えていて、スムーズに対応してくれるような感じです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claudes-constitution": {
+  "anthropic:claudes-constitution": {
     "slug": "claudes-constitution",
     "url": "https://www.anthropic.com/news/claudes-constitution",
     "title_original": "Claude’s Constitution",
@@ -694,9 +728,10 @@
     ],
     "analogy": "これは企業の行動規範に例えるとわかりやすいです。従来は人間のマネージャーが毎日すべての従業員の仕事をチェックして『これはいい、これはダメ』と判断していました。憲法的AIは、従業員に『会社の行動規範』という明確なルールブックを渡して『このルールに基づいて自分で判断しなさい』と教えるようなものです。そうすることで、マネージャーの負担が減り、ルールが誰にでも明確で、必要に応じて簡単に改善できるようになります。",
     "category": "AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-teach-for-all": {
+  "anthropic:anthropic-teach-for-all": {
     "slug": "anthropic-teach-for-all",
     "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
     "title_original": "Anthropic and Teach For All launch global AI training initiative for educators",
@@ -714,9 +749,10 @@
     ],
     "analogy": "従来のAI研修は『レシピ本を配る』ようなものでしたが、このプログラムは『教師たちが自分たちの味に合わせて料理を作りながら、そのフィードバックをレシピ開発者に直接返す』という双方向の仕組みになっています。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-new-constitution": {
+  "anthropic:claude-new-constitution": {
     "slug": "claude-new-constitution",
     "url": "https://www.anthropic.com/news/claude-new-constitution",
     "title_original": "Claude's new constitution",
@@ -734,9 +770,10 @@
     ],
     "analogy": "これは学校の校則に例えると理解しやすいです。従来のやり方は『廊下は走るな』という規則だけを示していました。新しい憲法は『なぜなら、廊下で走ると誰かにぶつかってケガをさせる可能性があり、皆の安全を守る必要があるから』と理由を説明します。こうすることで、生徒は状況に応じて適切な判断（例えば火事の時は走ってもいい）ができるようになるのです。",
     "category": "AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "mariano-florentino-long-term-benefit-trust": {
+  "anthropic:mariano-florentino-long-term-benefit-trust": {
     "slug": "mariano-florentino-long-term-benefit-trust",
     "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
     "title_original": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
@@ -753,9 +790,10 @@
     ],
     "analogy": "企業の「長期利益信託」は、学校の学園祭で、運営委員会の決定が学生全体の利益になっているか監視する「生徒会監査部」のようなものです。経営陣だけでなく、外部の信頼できる専門家が、会社がルールを守り、社会に責任を持つよう監督する独立した立場を担っています。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-appoints-irina-ghose-as-managing-director-of-india": {
+  "anthropic:anthropic-appoints-irina-ghose-as-managing-director-of-india": {
     "slug": "anthropic-appoints-irina-ghose-as-managing-director-of-india",
     "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
     "title_original": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
@@ -772,9 +810,10 @@
     ],
     "analogy": "これは例えるなら、大手レストランチェーンが新しい地域に進出する際に、その地域の食文化や消費者ニーズをよく知る経営者を現地責任者に抜擢するようなものです。ゴース氏の豊富な経営経験とインド市場への深い理解により、Anthropicが現地のニーズに合わせたAI活用を実現できるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "accelerating-scientific-research": {
+  "anthropic:accelerating-scientific-research": {
     "slug": "accelerating-scientific-research",
     "url": "https://www.anthropic.com/news/accelerating-scientific-research",
     "title_original": "How scientists are using Claude to accelerate research and discovery",
@@ -792,9 +831,10 @@
     ],
     "analogy": "従来、科学者が複数の医学辞書や論文を手作業で調べながら診断を進めるのに対し、Claudeは医学知識を備えた優秀な助手が常に側にいるようなもの。データの整理から分析、パターン発見までを効率的に行い、研究者が見逃しやすい重要な発見も指摘してくれます。",
     "category": "研究",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-anthropic-labs": {
+  "anthropic:introducing-anthropic-labs": {
     "slug": "introducing-anthropic-labs",
     "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
     "title_original": "Introducing Labs",
@@ -811,9 +851,10 @@
     ],
     "analogy": "料理人が新しいメニューを開発する過程に似ています。まず試作品を作って自分たちで試し（実験）、少数のお客さんに食べてもらいながら改善し（テスト）、完成したら正式にメニューに加えて多くのお客さんに提供する（スケーリング）という流れです。Labsはこの『試作から完成までのプロセス』を効率的に進める専門チームなのです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "prompting-long-context": {
+  "anthropic:prompting-long-context": {
     "slug": "prompting-long-context",
     "url": "https://www.anthropic.com/news/prompting-long-context",
     "title_original": "Prompt engineering for Claude's long context window",
@@ -831,9 +872,10 @@
     ],
     "analogy": "これは、本から特定の情報を素早く見つけるコツに例えることができます。指定ページ（引用文）を先に読む、関連した類似問題の解答例を複数見ておくという手順を踏むことで、見出した答えの正確性が向上するのと似ています。",
     "category": "研究",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "compliance-framework-SB53": {
+  "anthropic:compliance-framework-SB53": {
     "slug": "compliance-framework-SB53",
     "url": "https://www.anthropic.com/news/compliance-framework-SB53",
     "title_original": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
@@ -851,9 +893,10 @@
     ],
     "analogy": "これは、飛行機の安全基準のようなものです。航空会社が長年自主的に安全点検を行ってきたことを、政府が公式なルールとして定めることで、誰もがその安全性を信頼できるようになるというイメージです。",
     "category": "安全性、企業ニュース、規制対応",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "genesis-mission-partnership": {
+  "anthropic:genesis-mission-partnership": {
     "slug": "genesis-mission-partnership",
     "url": "https://www.anthropic.com/news/genesis-mission-partnership",
     "title_original": "Working with the US Department of Energy to unlock the next era of scientific discovery",
@@ -870,9 +913,10 @@
     ],
     "analogy": "これは図書館員がAIアシスタントになるようなものです。従来は、研究者が膨大な研究論文の中から手作業で関連情報を探していました。今回のパートナーシップでは、Claudeという賢いAIアシスタントが50年分の研究記録を一瞬で分析し、『この古い論文に書かれていた手法は、あなたの現在の課題に応用できますよ』とアドバイスしてくれるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "how-people-use-claude-for-support-advice-and-companionship": {
+  "anthropic:how-people-use-claude-for-support-advice-and-companionship": {
     "slug": "how-people-use-claude-for-support-advice-and-companionship",
     "url": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship",
     "title_original": "How people use Claude for support, advice, and companionship",
@@ -890,9 +934,10 @@
     ],
     "analogy": "人がClaudeを使う様子は、信頼できる友人に相談するのに似ています。ただし、この『友人』は常に忍耐強く、判断せず、いつでも時間を作ってくれます。でも、実在する友人との関係では、相手が忙しいこともあり、時には厳しい意見をくれることもあります。そのバランスの違いが、AI相談の長所であり、同時に注意すべき点なのです。",
     "category": "AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation": {
+  "anthropic:donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation": {
     "slug": "donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
     "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
     "title_original": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
@@ -910,9 +955,10 @@
     ],
     "analogy": "MCPを寄贈することは、複数の国の言語翻訳ルールを国際機関に預けるようなもの。特定の企業が規則を独占せず、皆で透明性を持って改善していくことで、より多くの人々や企業が安心して使える共通言語が生まれるということです。",
     "category": "パートナーシップ・オープンソース化",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "political-even-handedness": {
+  "anthropic:political-even-handedness": {
     "slug": "political-even-handedness",
     "url": "https://www.anthropic.com/news/political-even-handedness",
     "title_original": "Measuring political bias in Claude",
@@ -930,9 +976,10 @@
     ],
     "analogy": "これは、学校の先生が「2 つの異なる歴史観を説明するときに、どちらか一方に肩入れせず、両方とも同じだけ丁寧に説明できているか」を測定するのに似ています。左寄りの学生にも右寄りの学生にも、それぞれの意見を尊重して説明できる先生が「公平な先生」と言えるのと同じように、AI も異なる政治的立場を公平に扱うべきということです。",
     "category": "AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-accenture-partnership": {
+  "anthropic:anthropic-accenture-partnership": {
     "slug": "anthropic-accenture-partnership",
     "url": "https://www.anthropic.com/news/anthropic-accenture-partnership",
     "title_original": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
@@ -950,9 +997,10 @@
     ],
     "analogy": "これまでAIは「試験的に使ってみる」段階にとどまっていました。この提携は、AIを実際の仕事の現場で毎日使いこなすための『教科書と講師』を企業に提供するようなもの。Accentureの経験豊富なコンサルタント（講師）とClaudeというAI技術（教科書）が組み合わさることで、企業は安心してAIを本格導入できるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-economic-index-insights-from-claude-sonnet-3-7": {
+  "anthropic:anthropic-economic-index-insights-from-claude-sonnet-3-7": {
     "slug": "anthropic-economic-index-insights-from-claude-sonnet-3-7",
     "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
     "title_original": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
@@ -970,9 +1018,10 @@
     ],
     "analogy": "これは、新しいスマートフォンアプリが登場した時に、どの職業の人がどの機能を使っているか調べるのと同じです。その結果から、プログラマーは新しい「長考機能」をよく使い、翻訳者は「自動翻訳機能」を最大活用しており、ライターは人間との共同作業を好む、といった使い方の違いが見えてくるということです。",
     "category": "研究",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "the-anthropic-economic-index": {
+  "anthropic:the-anthropic-economic-index": {
     "slug": "the-anthropic-economic-index",
     "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
     "title_original": "Introducing the Anthropic Economic Index",
@@ -990,9 +1039,10 @@
     ],
     "analogy": "AIの仕事への影響は、自動車工場のロボットに似ています。ロボットが工場の全員の仕事を奪ったのではなく、むしろ人間とロボットが協力して生産効率が上がったのと同じように、AIも多くの場合、人間の仕事の一部をサポートしながら、人間の判断力や創造性が必要な部分は人間が担当する形で機能しているということです。",
     "category": "経済・労働市場",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "snowflake-anthropic-expanded-partnership": {
+  "anthropic:snowflake-anthropic-expanded-partnership": {
     "slug": "snowflake-anthropic-expanded-partnership",
     "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
     "title_original": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
@@ -1010,9 +1060,10 @@
     ],
     "analogy": "例えるなら、Snowflakeは企業の「データ倉庫」で、Claudeはその中から必要な情報を自分で探し出して分析する「優秀な従業員」のような関係です。従業員が倉庫の中を自由に歩き回りながら、質問に答えるために必要な書類を探し出し、レポートにまとめるような働き方をAIが実現します。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability": {
+  "anthropic:anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability": {
     "slug": "anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability",
     "url": "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability",
     "title_original": "Anthropic signs CMS health tech pledge",
@@ -1029,9 +1080,10 @@
     ],
     "analogy": "現在の医療システムは、同じ患者の情報が複数の病院に別々に保管されている状態です。これは、同じ人の荷物が複数の倉庫に散らばっているようなもの。Anthropicの技術は、これらの倉庫を一つの窓口から管理できるようにしてくれるシステムのようなものです。",
     "category": "パートナーシップ、政策、AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone": {
+  "anthropic:anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone": {
     "slug": "anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
     "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
     "title_original": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
@@ -1049,9 +1101,10 @@
     ],
     "analogy": "例えるなら、Claude Codeは「プログラマーのアシスタント」で、Bunはそのアシスタントを「より高速で正確に働かせるための最新型パソコン」のようなものです。優秀なアシスタントがさらに良い道具を手に入れることで、仕事の質と速度が一気に向上するイメージです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-education-report-how-educators-use-claude": {
+  "anthropic:anthropic-education-report-how-educators-use-claude": {
     "slug": "anthropic-education-report-how-educators-use-claude",
     "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
     "title_original": "Anthropic education report: How educators use Claude",
@@ -1069,9 +1122,10 @@
     ],
     "analogy": "AIの使い方は『料理の下準備』に例えられます。野菜を切るなどの面倒な準備作業（事務業務）はAIに任せ、味付けや盛り付けなどの創造的な部分（授業設計）は人間が丁寧に行う。最後の味見（学生評価）も自分の舌で確認する必要があるということです。",
     "category": "研究",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-sonnet-4-5": {
+  "anthropic:claude-sonnet-4-5": {
     "slug": "claude-sonnet-4-5",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
     "title_original": "Introducing Claude Sonnet 4.5",
@@ -1089,9 +1143,10 @@
     ],
     "analogy": "Claude Sonnet 4.5は、従来の「助手」から「優秀なプロジェクトマネージャー」へ進化したようなもの。単に指示を実行するだけでなく、複雑なプロジェクト全体を理解し、何十時間もかけて段階的に進め、途中で判断を修正しながら目標に到達できるようになりました。同じ給与（価格）で、より高度な仕事をこなせるようになったイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "thoughts-on-america-s-ai-action-plan": {
+  "anthropic:thoughts-on-america-s-ai-action-plan": {
     "slug": "thoughts-on-america-s-ai-action-plan",
     "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
     "title_original": "Thoughts on America’s AI Action Plan",
@@ -1109,9 +1164,10 @@
     ],
     "analogy": "AIの開発と安全性管理の関係は、自動車産業の発展と同じです。安全ベルトやブレーキなどの安全機能が最初は革新を遅くすると思われていたのに対し、実際には安全規格を満たすことで、より信頼できる良い自動車が生まれました。AIにおいても、安全性への投資が結果的により優れたシステム開発につながるということです。",
     "category": "政策提言・パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-raises-series-f-at-usd183b-post-money-valuation": {
+  "anthropic:anthropic-raises-series-f-at-usd183b-post-money-valuation": {
     "slug": "anthropic-raises-series-f-at-usd183b-post-money-valuation",
     "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
     "title_original": "Anthropic raises $13B Series F at $183B post-money valuation",
@@ -1129,9 +1185,10 @@
     ],
     "analogy": "Anthropicの成長は、小さなラーメン屋が美味しいラーメンを開発し、口コミで評判が広がって、わずか2年で全国にチェーン展開するような急速な成長です。当初は限定的だった顧客が、今では大企業から個人まで幅広く利用するようになり、投資家も将来性を信じて大型投資を決めたということになります。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-haiku-4-5": {
+  "anthropic:claude-haiku-4-5": {
     "slug": "claude-haiku-4-5",
     "url": "https://www.anthropic.com/news/claude-haiku-4-5",
     "title_original": "Introducing Claude Haiku 4.5",
@@ -1149,9 +1206,10 @@
     ],
     "analogy": "これは「高級車と軽自動車」の関係で例えられます。5ヶ月前の「Sonnet 4」は高級車でしたが、今の「Haiku 4.5」は軽自動車なのに高級車と同じ安全性と走行性能を持ちながら、ガソリン代（運用コスト）は3分の1、速度は2倍以上という、技術進化の凄さを示しています。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "microsoft-nvidia-anthropic-announce-strategic-partnerships": {
+  "anthropic:microsoft-nvidia-anthropic-announce-strategic-partnerships": {
     "slug": "microsoft-nvidia-anthropic-announce-strategic-partnerships",
     "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
     "title_original": "Microsoft, NVIDIA and Anthropic announced new strategic partnerships.",
@@ -1169,9 +1227,10 @@
     ],
     "analogy": "これは企業の合同出資のようなものです。例えば、優れた自動車エンジンを開発した会社（Anthropic）が、大手自動車メーカー（マイクロソフト）とエンジン部品メーカー（NVIDIA）と組んで、自分たちのエンジンを広く使ってもらい、さらに改良していくような関係です。両社が資金を出して応援し、互いに技術を深く掘り下げていきます。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-in-microsoft-foundry": {
+  "anthropic:claude-in-microsoft-foundry": {
     "slug": "claude-in-microsoft-foundry",
     "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
     "title_original": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
@@ -1189,9 +1248,10 @@
     ],
     "analogy": "これは、複数のスマートフォンアプリ（異なるベンダー製）を個別に契約・支払いしていたのが、1つのスマートフォンメーカーの統一された『アプリストア』で一括管理できるようになるようなもの。手続きが簡単になり、既存のスマートフォンユーザーはそのままで新しい便利な機能が使えます。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "rwandan-government-partnership-ai-education": {
+  "anthropic:rwandan-government-partnership-ai-education": {
     "slug": "rwandan-government-partnership-ai-education",
     "url": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education",
     "title_original": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
@@ -1209,9 +1269,10 @@
     ],
     "analogy": "Chidiは学校の優秀な家庭教師のような存在です。通常の教科書は答えを直接教えてくれますが、Chidiは学生に「この問題をどう考えますか？」と問い返すことで、自分で答えを導き出す力を養うサポートをします。これにより、学生はAIツールの使い方を学びながら、自分の思考力も同時に鍛えることができます。",
     "category": "パートナーシップ、教育、社会貢献",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "disrupting-AI-espionage": {
+  "anthropic:disrupting-AI-espionage": {
     "slug": "disrupting-AI-espionage",
     "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
     "title_original": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -1229,9 +1290,10 @@
     ],
     "analogy": "これは、優秀な社員（AI）を詐欺師が巧妙に騙して、知らないうちに違法な仕事を大量にやらせてしまう状況に似ています。本来は誠実に働く社員が、細切れにされた指示と嘘の身分告知により、一人で100人分の仕事量をこなしてしまったということです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "maryland-partnership": {
+  "anthropic:maryland-partnership": {
     "slug": "maryland-partnership",
     "url": "https://www.anthropic.com/news/maryland-partnership",
     "title_original": "The State of Maryland partners with Anthropic to better serve residents",
@@ -1249,9 +1311,10 @@
     ],
     "analogy": "従来は役所の窓口で一枚一枚書類をチェックして給付金の対象かどうか判定していたのが、AIアシスタントが24時間、誰でも利用できる「自動窓口」になるようなイメージです。加えて、「あなたはこの制度も使えますよ」と忘れていた制度まで教えてくれます。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "new-offices-in-paris-and-munich-expand-european-presence": {
+  "anthropic:new-offices-in-paris-and-munich-expand-european-presence": {
     "slug": "new-offices-in-paris-and-munich-expand-european-presence",
     "url": "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence",
     "title_original": "New offices in Paris and Munich expand Anthropic’s European presence",
@@ -1269,9 +1332,10 @@
     ],
     "analogy": "Anthropicのヨーロッパ拡大は、成功した飲食店がお客さんの需要に応えるため、人気エリアに支店を次々とオープンするようなものです。本社で開発した『Claude』というサービスがヨーロッパで大人気になったため、現地の営業・サポートをより充実させるために、重要な都市にオフィスを設置しているわけです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-invests-50-billion-in-american-ai-infrastructure": {
+  "anthropic:anthropic-invests-50-billion-in-american-ai-infrastructure": {
     "slug": "anthropic-invests-50-billion-in-american-ai-infrastructure",
     "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
     "title_original": "Anthropic invests $50 billion in American AI infrastructure",
@@ -1289,9 +1353,10 @@
     ],
     "analogy": "これは、料理店が事業拡大に伴い、より大きなキッチンと調理設備を新しく建設するようなものです。顧客が増えて注文が増える中で、既存の施設では処理しきれなくなるため、新たに大規模な施設を作って、より多くの顧客に対応できるようにしています。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "cognizant-partnership": {
+  "anthropic:cognizant-partnership": {
     "slug": "cognizant-partnership",
     "url": "https://www.anthropic.com/news/cognizant-partnership",
     "title_original": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
@@ -1308,9 +1373,10 @@
     ],
     "analogy": "大手建設会社が、最新の建築技術を自社の35万人の作業員に導入するようなものです。これにより、自社の工事品質と効率が上がるとともに、その経験をもとに顧客にも建築技術を提案できるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "economic-futures-uk-europe": {
+  "anthropic:economic-futures-uk-europe": {
     "slug": "economic-futures-uk-europe",
     "url": "https://www.anthropic.com/news/economic-futures-uk-europe",
     "title_original": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
@@ -1328,9 +1394,10 @@
     ],
     "analogy": "これは、新しい医学技術が社会に広がるときに、医学研究者と政策立案者が協力して、その効果と副作用を調べ、最適な使い方を検討するのと似ています。Anthropicは研究の『医学的診断』と『処方箋』の役割を果たし、ヨーロッパが健全なAI導入ができるようにサポートしているのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots": {
+  "anthropic:anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots": {
     "slug": "anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
     "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
     "title_original": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
@@ -1348,9 +1415,10 @@
     ],
     "analogy": "学校の先生が毎日大量の書類作業に追われているのと同じように、多くの教師は授業準備以外の事務作業で時間を奪われていました。このAIツールは、その事務作業を自動化する『秘書』のような役割を果たし、先生たちが本来の教育活動に集中できるようにサポートするのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "opening-our-tokyo-office": {
+  "anthropic:opening-our-tokyo-office": {
     "slug": "opening-our-tokyo-office",
     "url": "https://www.anthropic.com/news/opening-our-tokyo-office",
     "title_original": "Anthropic opens Tokyo office, signs a Memorandum of Cooperation with the Japan AI Safety Institute",
@@ -1368,9 +1436,10 @@
     ],
     "analogy": "AIを活用する日本の企業のアプローチは、料理人がロボットアームを導入するのに似ています。ロボットが単調な下準備を担当することで、人間の料理人はより複雑で創造的な調理に集中でき、結果として料理の質が向上する—これが、日本企業がAIを『人間の能力を拡張するパートナー』として扱う姿勢です。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "advancing-claude-for-financial-services": {
+  "anthropic:advancing-claude-for-financial-services": {
     "slug": "advancing-claude-for-financial-services",
     "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
     "title_original": "Advancing Claude for Financial Services",
@@ -1388,9 +1457,10 @@
     ],
     "analogy": "従来の金融分析は、複数の専門書を参照しながら手作業で計算表を作成する作業に例えられます。今回のアップデートは、秘書的なAIがExcelの右横に座り、『このデータ分析して』と指示するだけで、必要な情報を自動で集めて、分析結果を表にまとめてくれるようなイメージです。金融プロは、つまらない定型作業から解放され、本当に重要な判断に時間を使えるようになります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "seoul-becomes-third-anthropic-office-in-asia-pacific": {
+  "anthropic:seoul-becomes-third-anthropic-office-in-asia-pacific": {
     "slug": "seoul-becomes-third-anthropic-office-in-asia-pacific",
     "url": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific",
     "title_original": "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
@@ -1408,9 +1478,10 @@
     ],
     "analogy": "Anthropicのソウル進出は、人気のレストランがようやく特定の地域に専用店舗を開くようなもの。既に多くの現地の常連客がいて需要が高まっているから、より良いサービスを提供するために現地に拠点を置くことにした、という感じです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "expanding-our-use-of-google-cloud-tpus-and-services": {
+  "anthropic:expanding-our-use-of-google-cloud-tpus-and-services": {
     "slug": "expanding-our-use-of-google-cloud-tpus-and-services",
     "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
     "title_original": "Expanding our use of Google Cloud TPUs and Services",
@@ -1427,9 +1498,10 @@
     ],
     "analogy": "これは、レストランが急に客足が増えたため、より大きな厨房設備を複数のメーカーから導入し、食事の準備時間を短縮しながら品質チェックも充実させるようなものです。複数の供給者から仕入れることで、リスク管理もしながら成長に対応しています。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "statement-dario-amodei-american-ai-leadership": {
+  "anthropic:statement-dario-amodei-american-ai-leadership": {
     "slug": "statement-dario-amodei-american-ai-leadership",
     "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
     "title_original": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
@@ -1447,9 +1519,10 @@
     ],
     "analogy": "アンスロピックの立場は、医者が患者の治療に役立つ新薬を開発しながらも、その薬が誤用されないよう厳格な管理をする姿勢に似ています。同様に、アンスロピックは強力で有用なAIを作りながらも、悪用防止と社会への影響を常に考慮しています。",
     "category": "企業ニュース、政府パートナーシップ、AI政策",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-for-life-sciences": {
+  "anthropic:claude-for-life-sciences": {
     "slug": "claude-for-life-sciences",
     "url": "https://www.anthropic.com/news/claude-for-life-sciences",
     "title_original": "Claude for Life Sciences",
@@ -1467,9 +1540,10 @@
     ],
     "analogy": "これまでClaudeは医薬品開発における『特定の単純作業（書類作成、論文要約など）』をこなす助手でしたが、今回のアップデートで『研究企画から製品化まで、チーム全体の業務をサポートするプロジェクトマネージャー』へ進化した、ということです。",
     "category": "製品アップデート、パートナーシップ、AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "salesforce-anthropic-expanded-partnership": {
+  "anthropic:salesforce-anthropic-expanded-partnership": {
     "slug": "salesforce-anthropic-expanded-partnership",
     "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
     "title_original": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
@@ -1487,9 +1561,10 @@
     ],
     "analogy": "これは、図書館の窓口（Salesforce）と優秀な参考書編集者（Claude）がタッグを組んで、医師や弁護士など特定の職業の人に最適な情報提供サービスを始めるようなものです。一般向けの本ではなく、その職業に必要な情報を安全に、かつ信頼できる形で提供することで、専門家の業務をより効率化します。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "expanding-global-operations-to-india": {
+  "anthropic:expanding-global-operations-to-india": {
     "slug": "expanding-global-operations-to-india",
     "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
     "title_original": "Anthropic expands global operations to India, plans to open an office in Bengaluru.",
@@ -1507,9 +1582,10 @@
     ],
     "analogy": "Anthropicのインド進出は、料理の美味しい地域に新しい支店を出すようなものです。すでにそこの客にとても喜ばれている料理（Claude）があるので、現地の味に合わせてメニューを工夫し（インド言語対応）、地元のシェフや食材業者と協力して（パートナーシップ）、さらに多くの人が美味しく食べられる環境を整えようとしています。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "rahul-patil-joins-anthropic": {
+  "anthropic:rahul-patil-joins-anthropic": {
     "slug": "rahul-patil-joins-anthropic",
     "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
     "title_original": "Rahul Patil joins Anthropic as Chief Technology Officer",
@@ -1526,9 +1602,10 @@
     ],
     "analogy": "新しい最高技術責任者の就任は、レストラン経営に例えると、有名シェフから経験豊富な運営責任者を招へいして、急成長する店舗網の基盤をより強固にするようなもの。元のシェフは料理の工夫に専念し、新責任者は厨房設備や仕入れ管理など全体の仕組みを整えるといったイメージです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "deloitte-anthropic-partnership": {
+  "anthropic:deloitte-anthropic-partnership": {
     "slug": "deloitte-anthropic-partnership",
     "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
     "title_original": "Anthropic Deloitte Partnership",
@@ -1545,9 +1622,10 @@
     ],
     "analogy": "これは、大規模な病院がある医療機器メーカーと提携して、その製品を全国の病院で使えるようにするようなものです。単に製品を提供するだけでなく、医師や看護師を訓練し、使い方のマニュアルを作り、トラブル時のサポートも行うという、包括的なパートナーシップです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "updates-to-our-consumer-terms": {
+  "anthropic:updates-to-our-consumer-terms": {
     "slug": "updates-to-our-consumer-terms",
     "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
     "title_original": "Updates to Consumer Terms and Privacy Policy",
@@ -1565,9 +1643,10 @@
     ],
     "analogy": "これは、レストランが顧客の注文履歴とフィードバックを使ってメニューをより良くしたいと申し出るようなものです。顧客は「自分の注文情報を使ってもいい」と許可するか「駄目」と断るか選べます。許可した場合、その情報は5年間保存されてメニュー改善に活かされますが、いつでも考えを変えることができます。",
     "category": "プライバシー・企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of": {
+  "anthropic:anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of": {
     "slug": "anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
     "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
     "title_original": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
@@ -1585,9 +1664,10 @@
     ],
     "analogy": "Anthropicの成長は、小さな地元のレストランが、美味しい料理とサービスの評判が広がって、世界中に支店を開くようなものです。顧客からの信頼と満足度が高まるにつれて、新しい市場への展開が自然と加速していくのと同じです。",
     "category": "企業ニュース、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-3-7-sonnet": {
+  "anthropic:claude-3-7-sonnet": {
     "slug": "claude-3-7-sonnet",
     "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
     "title_original": "Claude 3.7 Sonnet and Claude Code",
@@ -1605,9 +1685,10 @@
     ],
     "analogy": "Claude 3.7 Sonnetは、疲れたときは簡潔に答え、重要な決断のときは じっくり考える人間のようなものです。同じAIが状況に応じて対応方法を変えられるので、ユーザーが「今は素早い回答が必要」「今は完璧な答えが必要」と使い分けられます。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-4": {
+  "anthropic:claude-4": {
     "slug": "claude-4",
     "url": "https://www.anthropic.com/news/claude-4",
     "title_original": "Introducing Claude 4",
@@ -1625,9 +1706,10 @@
     ],
     "analogy": "Claude Opus 4は、複数の本を同時に参照しながら論文を書き、わからないことを即座に調べて、前に書いた内容を記憶しておく、優秀なリサーチアシスタントのような存在です。前のモデルは1冊の本だけを見ながら作業していましたが、今は複数の情報源を組み合わせながら、より正確で高度な仕事ができるようになりました。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-in-xcode": {
+  "anthropic:claude-in-xcode": {
     "slug": "claude-in-xcode",
     "url": "https://www.anthropic.com/news/claude-in-xcode",
     "title_original": "Claude is now generally available in Xcode",
@@ -1644,9 +1726,10 @@
     ],
     "analogy": "これは、洋服仕立て屋の店に裁断や縫製の技術者が常駐するようになったようなものです。これまで開発者は自分で試行錯誤しながらコードを書いていましたが、今後は専門知識を持つAIに相談しながら作業を進められるので、より素早く正確に完成させられるようになります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi": {
+  "anthropic:strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi": {
     "slug": "strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
     "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
     "title_original": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
@@ -1664,9 +1747,10 @@
     ],
     "analogy": "AIのセキュリティは、建物のセキュリティと似ています。通常の警備員が定期巡回で問題を見つけるのも大切ですが、泥棒のプロ（政府の専門家）が実際に侵入を試みることで、初めて見つかる弱点（換気口の脆弱性など）があります。両者の協力で、予想外の攻撃方法にも対応できるようになるのです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-is-endorsing-sb-53": {
+  "anthropic:anthropic-is-endorsing-sb-53": {
     "slug": "anthropic-is-endorsing-sb-53",
     "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
     "title_original": "Anthropic is endorsing SB 53",
@@ -1684,9 +1768,10 @@
     ],
     "analogy": "SB 53は、スポーツのドーピング検査のようなものです。すべての選手が同じルールで検査を受けることで、誰もが安心して正々堂々と競争できるようになります。検査がなければ、一部の企業が安全対策を削減してでも競争力を高めようとする誘惑に駆られるかもしれませんが、義務的な報告制度があれば、透明性を保ちながら競争できるのです。",
     "category": "企業ニュース、規制・政策",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "updating-restrictions-of-sales-to-unsupported-regions": {
+  "anthropic:updating-restrictions-of-sales-to-unsupported-regions": {
     "slug": "updating-restrictions-of-sales-to-unsupported-regions",
     "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
     "title_original": "Updating restrictions of sales to unsupported regions",
@@ -1703,9 +1788,10 @@
     ],
     "analogy": "これは空港のセキュリティチェックに例えると、以前は搭乗券だけをチェックしていたのに対し、今後は実際の所有者や背景にある支援者まで徹底的に調査するようになったということです。たとえ空港の別の入口から入ろうとしても、本当の主人が疑わしい人物なら、飛行機に乗ることができなくなります。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-signs-pledge-to-americas-youth-investing-in-ai-education": {
+  "anthropic:anthropic-signs-pledge-to-americas-youth-investing-in-ai-education": {
     "slug": "anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
     "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
     "title_original": "Anthropic joins White House pledge for AI education",
@@ -1723,9 +1809,10 @@
     ],
     "analogy": "これは、包括的な学習支援の仕組みを作るようなものです。例えば、図書館が本を無料で貸し出すだけでなく、本の選び方を教える教室も開催し、来館者がどの本をどう読んでいるかを調査して、さらに良いサービスを作ろうとしているような取り組みです。",
     "category": "企業ニュース、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "developing-computer-use": {
+  "anthropic:developing-computer-use": {
     "slug": "developing-computer-use",
     "url": "https://www.anthropic.com/news/developing-computer-use",
     "title_original": "Developing a computer use model",
@@ -1743,9 +1830,10 @@
     ],
     "analogy": "これまでのAIは、銀行ATMのように専用の操作画面が用意されていました。今回のClaudeは、人間と同じ普通のパソコンをそのまま使える店員さんのようなイメージです。より自由で様々な仕事に対応できるようになりました。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-3-5-sonnet": {
+  "anthropic:claude-3-5-sonnet": {
     "slug": "claude-3-5-sonnet",
     "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
     "title_original": "Introducing Claude 3.5 Sonnet",
@@ -1763,9 +1851,10 @@
     ],
     "analogy": "Claude 3.5 Sonnetは、優秀な同僚が仕事をする能力を大幅に高めたようなものです。以前は1時間かかっていた複雑な仕事を30分で完成させ、さらに細かいニュアンスも正確に理解できるようになりました。さらに『Artifacts』機能により、その同僚の作った資料を自分で直接編集しながら一緒に仕上げていくことができるようになったイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-the-anthropic-national-security-and-public-sector-advisory-council": {
+  "anthropic:introducing-the-anthropic-national-security-and-public-sector-advisory-council": {
     "slug": "introducing-the-anthropic-national-security-and-public-sector-advisory-council",
     "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
     "title_original": "Introducing the Anthropic National Security and Public Sector Advisory Council",
@@ -1783,9 +1872,10 @@
     ],
     "analogy": "これは、医療業界が医学専門家の委員会を設置して、新しい治療法が患者に安全かつ効果的に活用されるよう確認するのと似ています。Anthropicが各分野の政府専門家と連携し、AIが国防や安全保障の現場で正しく、安全に使われるようサポートする体制を整えたわけです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "detecting-countering-misuse-aug-2025": {
+  "anthropic:detecting-countering-misuse-aug-2025": {
     "slug": "detecting-countering-misuse-aug-2025",
     "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
     "title_original": "Detecting and countering misuse of AI: August 2025",
@@ -1803,9 +1893,10 @@
     ],
     "analogy": "これは、かつて銀行強盗に必要だった綿密な計画と複雑な技術が、今ではAIという「自動計画・実行ロボット」を使うことで、訓練をほぼ受けていない人でも可能になったようなものです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-higher-education-initiatives": {
+  "anthropic:anthropic-higher-education-initiatives": {
     "slug": "anthropic-higher-education-initiatives",
     "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
     "title_original": "Anthropic launches higher education advisory board and AI Fluency courses",
@@ -1823,9 +1914,10 @@
     ],
     "analogy": "このアドバイザリーボードと教育コースは、新しい薬が病院で安全に使われるための「医療委員会」と「医師向け研修」のようなもの。新しいAIツールを導入する前に、経験豊富な専門家が安全性と倫理性をチェックし、使う側の教員や学生にも適切な使い方を教えるという体制です。",
     "category": "パートナーシップ、教育、AI安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "detecting-and-countering-malicious-uses-of-claude-march-2025": {
+  "anthropic:detecting-and-countering-malicious-uses-of-claude-march-2025": {
     "slug": "detecting-and-countering-malicious-uses-of-claude-march-2025",
     "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
     "title_original": "Detecting and Countering Malicious Uses of Claude",
@@ -1843,9 +1935,10 @@
     ],
     "analogy": "AIの悪用は、包丁と同じようなものです。包丁は料理という正当な目的に使われますが、悪意のある人に渡れば凶器になります。Anthropicは『包丁がどのように悪用されているか監視し、悪用者から取り上げる』と同時に『より安全な包丁を作る』という両方の取り組みを行っています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "developing-nuclear-safeguards-for-ai-through-public-private-partnership": {
+  "anthropic:developing-nuclear-safeguards-for-ai-through-public-private-partnership": {
     "slug": "developing-nuclear-safeguards-for-ai-through-public-private-partnership",
     "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
     "title_original": "Developing nuclear safeguards for AI through public-private partnership",
@@ -1863,9 +1956,10 @@
     ],
     "analogy": "これは空港のセキュリティゲートのようなものです。通常の荷物と危険品を99%の精度で見分けるように、AIとの会話の中で核兵器に関する危険な質問と安全な質問を自動で判別し、危険なものだけを検出・ブロックする仕組みです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-code-on-team-and-enterprise": {
+  "anthropic:claude-code-on-team-and-enterprise": {
     "slug": "claude-code-on-team-and-enterprise",
     "url": "https://www.anthropic.com/news/claude-code-on-team-and-enterprise",
     "title_original": "Claude Code and new admin controls for business plans",
@@ -1883,9 +1977,10 @@
     ],
     "analogy": "これは、いままで「営業部向けツール」と「開発部向けツール」を別々に契約していた企業が、一つの統合されたツール（ひとつの定期購入）で両方の機能を使えるようになり、さらに管理者が「誰がどのツールをどれだけ使うか」を簡単にコントロールできるようになったようなものです。たとえば学校の図書館が、本の貸出と学習室の利用を一つの利用証で管理し、先生が生徒ごとに利用時間を設定できるようになったイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "building-safeguards-for-claude": {
+  "anthropic:building-safeguards-for-claude": {
     "slug": "building-safeguards-for-claude",
     "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
     "title_original": "Building safeguards for Claude",
@@ -1903,9 +1998,10 @@
     ],
     "analogy": "Claudeの安全対策は、建物のセキュリティシステムのようなものです。設計段階でセキュリティ要件を定める（ポリシー開発）、壁や鍵を設置する（訓練）、オープン前に全ての鍵が機能するか確認する（テスト）、そしてオープン後も24時間カメラで監視する（リアルタイム検出）という段階を踏みます。すべてが揃って初めて安全な建物になるのです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "usage-policy-update": {
+  "anthropic:usage-policy-update": {
     "slug": "usage-policy-update",
     "url": "https://www.anthropic.com/news/usage-policy-update",
     "title_original": "Usage Policy Update",
@@ -1923,9 +2019,10 @@
     ],
     "analogy": "これは、便利で強力な工具（AI）を世に出すときに、その工具の使い方について「すべての政治的な使途は禁止」という一律なルール（昔のポリシー）から、「詐欺的な使い方は禁止だが、正当な研究には使ってもいい」という使い分けたルール（新ポリシー）に進化させるようなものです。工具自体は同じでも、使い手のリテラシーが上がり、何が危険か何が安全かが見えてきたので、より細かいルールが必要になった状況です。",
     "category": "ポリシー・安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-opus-4-1": {
+  "anthropic:claude-opus-4-1": {
     "slug": "claude-opus-4-1",
     "url": "https://www.anthropic.com/news/claude-opus-4-1",
     "title_original": "Claude Opus 4.1",
@@ -1943,9 +2040,10 @@
     ],
     "analogy": "Opus 4.1のアップデートは、料理人が新しい包丁を手に入れるようなものです。前の包丁でも調理できますが、新しい包丁はより細かい切り込みができ、具材を傷つけずに正確に切ることができます。プログラミングも同じで、より複雑なコードをより正確に修正できるようになったということです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-the-anthropic-economic-futures-program": {
+  "anthropic:introducing-the-anthropic-economic-futures-program": {
     "slug": "introducing-the-anthropic-economic-futures-program",
     "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program",
     "title_original": "Anthropic Economic Futures Program Launch",
@@ -1963,9 +2061,10 @@
     ],
     "analogy": "このプログラムは、新しい交通手段（AI）が社会に与える影響を調べるようなものです。新しい乗り物が導入されるとき、交通渋滞、新しい職業の創出、既存の仕事への影響など、様々な変化が起こります。Anthropicは、AIという新しい「乗り物」の登場によって、実際に社会でどのような経済的な変化が起きているのかを、データを集めて調べ、その対策を一緒に考えようとしているのです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-raises-series-e-at-usd61-5b-post-money-valuation": {
+  "anthropic:anthropic-raises-series-e-at-usd61-5b-post-money-valuation": {
     "slug": "anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
     "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
     "title_original": "Anthropic raises Series E at $61.5B post-money valuation",
@@ -1983,9 +2082,10 @@
     ],
     "analogy": "Anthropicの成長は、優秀な若い経営者が始めたレストランが、評判が高まるにつれて、銀行家や投資家から事業拡大の資金を得る状況に似ています。今回の資金調達は、そのレストランが複数の支店を出したり、新メニューを開発したり、海外に進出するための大きな投資を受けたようなものです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "head-of-japan-hiring-plans": {
+  "anthropic:head-of-japan-hiring-plans": {
     "slug": "head-of-japan-hiring-plans",
     "url": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
     "title_original": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
@@ -2002,9 +2102,10 @@
     ],
     "analogy": "これは、海外の優れた学習塾が日本での生徒数の増加に応じて、日本専任の教室長を配置し、日本の教育ニーズに合わせた授業内容を提供し始めるようなものです。既に評判の良い塾が、本気で日本市場に根ざそうとしている段階です。",
     "category": "企業ニュース、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "offering-expanded-claude-access-across-all-three-branches-of-government": {
+  "anthropic:offering-expanded-claude-access-across-all-three-branches-of-government": {
     "slug": "offering-expanded-claude-access-across-all-three-branches-of-government",
     "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
     "title_original": "Offering expanded Claude access across all three branches of government",
@@ -2022,9 +2123,10 @@
     ],
     "analogy": "これは、高性能な工具をレンタルショップから借りる時のイメージです。これまで民間企業だけが最高級の工具を使っていましたが、政府機関も同じ工具を安価に借りられるようになり、より効率的に仕事ができるようになる、という仕組みです。",
     "category": "企業ニュース、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
+  "anthropic:federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
     "slug": "federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
     "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
     "title_original": "U.S. federal departments and agencies can now more quickly and easily get access to Claude",
@@ -2042,9 +2144,10 @@
     ],
     "analogy": "これは、レストランチェーンが大量仕入れで安い価格を交渉して供給者から仕入れるのと似ています。GSAは政府機関向けの『大口購入窓口』のような役割で、複数の政府機関が共同で購入することで、個別に交渉するより簡単で安い価格でClaudeが手に入るようになったのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "our-framework-for-developing-safe-and-trustworthy-agents": {
+  "anthropic:our-framework-for-developing-safe-and-trustworthy-agents": {
     "slug": "our-framework-for-developing-safe-and-trustworthy-agents",
     "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
     "title_original": "Our framework for developing safe and trustworthy agents",
@@ -2062,9 +2165,10 @@
     ],
     "analogy": "AIエージェントは、優秀な秘書に例えられます。秘書は多くのタスクを自分で判断して処理できますが、重要な決定の前には報告を受け、雇用主が最終承認を下します。同時に秘書の行動プロセスを上司が理解でき、問題があれば指示を変更できることが信頼関係を生みます。",
     "category": "AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-gov-models-for-u-s-national-security-customers": {
+  "anthropic:claude-gov-models-for-u-s-national-security-customers": {
     "slug": "claude-gov-models-for-u-s-national-security-customers",
     "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
     "title_original": "Claude Gov models for U.S. national security customers",
@@ -2081,9 +2185,10 @@
     ],
     "analogy": "通常のAIが一般向けの「乗用車」だとしたら、Claude Govは政府機関の特殊な任務に対応した「装甲車」のようなもの。機密情報という特殊な「荷物」を安全に運び、防衛・情報分析といった複雑な「悪路」での高い性能が求められる用途に特化して設計されています。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "investing-in-energy-to-secure-america-s-ai-future": {
+  "anthropic:investing-in-energy-to-secure-america-s-ai-future": {
     "slug": "investing-in-energy-to-secure-america-s-ai-future",
     "url": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
     "title_original": "Investing in energy to secure America's AI future",
@@ -2101,9 +2206,10 @@
     ],
     "analogy": "AIのエネルギー問題は、オリンピック選手が試合に勝つには良い練習施設が必要なのと同じです。最新のAI技術を開発・運用するには、膨大な電力が必要であり、それを安定して供給できるインフラがなければ、いくら優秀なAI研究者がいても、その力を発揮できません。電力こそが、AIという『選手』を育てる『練習施設』なのです。",
     "category": "企業ニュース、パートナーシップ、政策",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "our-approach-to-understanding-and-addressing-ai-harms": {
+  "anthropic:our-approach-to-understanding-and-addressing-ai-harms": {
     "slug": "our-approach-to-understanding-and-addressing-ai-harms",
     "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
     "title_original": "Understanding and Addressing AI Harms",
@@ -2121,9 +2227,10 @@
     ],
     "analogy": "飲食店の営業許可取得のようなものです。単に『営業できるか』だけでなく、衛生面、顧客の安全、地域への影響、従業員の権利など複数の観点からチェックして、安全を保ちながら営業を続けるようなイメージです。同様にAnthropicは、AIが複数の角度で何か悪い影響を及ぼさないか調べ、対策を講じています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-s-recommendations-ostp-u-s-ai-action-plan": {
+  "anthropic:anthropic-s-recommendations-ostp-u-s-ai-action-plan": {
     "slug": "anthropic-s-recommendations-ostp-u-s-ai-action-plan",
     "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
     "title_original": "Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan",
@@ -2141,9 +2248,10 @@
     ],
     "analogy": "高性能なAIの到来は、昔の電力インフラ整備と似ています。電気が世の中を変えた時代に、発電所や送電網がなければ恩恵を受けられなかったように、これからのAI時代には十分な電力と堅牢なセキュリティ体制があって初めて、AIの恩恵を活かしながらリスクを管理できるということです。",
     "category": "政策提言",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-education-report-how-university-students-use-claude": {
+  "anthropic:anthropic-education-report-how-university-students-use-claude": {
     "slug": "anthropic-education-report-how-university-students-use-claude",
     "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
     "title_original": "Anthropic Education Report: How University Students Use Claude",
@@ -2161,9 +2269,10 @@
     ],
     "analogy": "学生とClaudeの関係は、宿題を手伝ってくれる家庭教師に例えられます。優秀な家庭教師は、単に答えを教えるのではなく、生徒が自分で考える力を引き出すような質問や段階的な説明をします。同様にClaudeも、使い方によっては学生の思考力を育成できますが、その一方で単に『答えをもらう』使い方では学習効果が薄れてしまう、というのが今回の研究が示唆する内容です。",
     "category": "研究",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report": {
+  "anthropic:anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report": {
     "slug": "anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
     "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
     "title_original": "Anthropic’s response to Governor Newsom’s AI working group draft report",
@@ -2181,9 +2290,10 @@
     ],
     "analogy": "透明性政策は、レストランの衛生状況を掲示することと似ています。お店が自主的に衛生管理状況を公開すれば、消費者は安心でき、各店舗も『うちは安全』とアピール競争できます。これにより全体の食安全が向上するのと同じく、AI企業が安全対策を公開すれば、社会全体がAIを安心して利用できるようになります。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-in-amazon-bedrock-fedramp-high": {
+  "anthropic:claude-in-amazon-bedrock-fedramp-high": {
     "slug": "claude-in-amazon-bedrock-fedramp-high",
     "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
     "title_original": "Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads",
@@ -2200,9 +2310,10 @@
     ],
     "analogy": "これは銀行の金庫室にようなセキュリティレベルの高い施設で、誰でも利用できるコンピューターシステムが導入されるようなもの。国防総省などの機密情報を扱う組織が、最も厳しいセキュリティ基準を満たしたまま、優れたAI技術を活用できるようになったということです。",
     "category": "パートナーシップ・製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "build-ai-in-america": {
+  "anthropic:build-ai-in-america": {
     "slug": "build-ai-in-america",
     "url": "https://www.anthropic.com/news/build-ai-in-america",
     "title_original": "Build AI in America: Anthropic Energy Report",
@@ -2220,9 +2331,10 @@
     ],
     "analogy": "AIの開発はちょうど現代の大規模工場建設のようなものです。工場には安定した電力供給が欠かせないのと同じく、AIの開発・運用には24時間安定した膨大な電力が必要です。その電力を確保するために、複数の発電所（原子力、地熱、天然ガスなど）を並行して建設し、電力網を整備する必要があるというわけです。",
     "category": "政策・企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule": {
+  "anthropic:securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule": {
     "slug": "securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
     "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
     "title_original": "Anthropic's AI Export Controls Framework Response",
@@ -2240,9 +2352,10 @@
     ],
     "analogy": "米国のコンピュータチップ優位性は、スポーツのハンディキャップマッチのようなもの。古いチップで最新チップと同じ結果を出そうとすると、10倍のエネルギー（コスト）が必要になります。規制によって米国企業は新型ハンディキャップ最小の条件で競争し、競争相手は古い装備で戦わざるを得なくなるわけです。",
     "category": "パートナーシップ・政策提言",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "activating-asl3-protections": {
+  "anthropic:activating-asl3-protections": {
     "slug": "activating-asl3-protections",
     "url": "https://www.anthropic.com/news/activating-asl3-protections",
     "title_original": "Activating AI Safety Level 3 protections",
@@ -2260,9 +2373,10 @@
     ],
     "analogy": "これは家の防犯対策に例えるなら、まだ空き家狙いの被害が出ていない新しい地域でも、窓の鍵を強化し、防犯カメラを設置し、警備会社と契約するようなもの。将来のリスクに備えて、被害が発生する前から準備するという考え方です。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and": {
+  "anthropic:lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and": {
     "slug": "lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
     "url": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
     "title_original": "Claude for Enterprise Powers LLNL Research",
@@ -2280,9 +2394,10 @@
     ],
     "analogy": "Claudeが科学者のためにできることは、優秀な研究助手が論文や膨大なデータを読み込んで、「この分野では～という可能性がありますね」と示唆してくれるようなもの。科学者はその助言をもとに、より高度な判断と創造的な研究に集中できるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "advancing-claude-for-education": {
+  "anthropic:advancing-claude-for-education": {
     "slug": "advancing-claude-for-education",
     "url": "https://www.anthropic.com/news/advancing-claude-for-education",
     "title_original": "Advancing Claude for Education",
@@ -2300,9 +2415,10 @@
     ],
     "analogy": "従来の勉強方法は、図書館で本を借りて、別のノートパソコンで文章を書くように、複数のツールを往き来していました。今回の統合は、図書館、講義、教科書がすべて1冊のノートに統合されたようなもので、学生は一つの場所ですべての学習リソースにアクセスできるようになります。",
     "category": "製品アップデート、パートナーシップ、AI教育",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "testing-our-safety-defenses-with-a-new-bug-bounty-program": {
+  "anthropic:testing-our-safety-defenses-with-a-new-bug-bounty-program": {
     "slug": "testing-our-safety-defenses-with-a-new-bug-bounty-program",
     "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
     "title_original": "Testing our safety defenses with a new bug bounty program",
@@ -2320,9 +2436,10 @@
     ],
     "analogy": "このバグ報告プログラムは、新しい銀行が金庫を本格的に稼働させる前に、錠前師に『この金庫を開けられるか試してください』と依頼し、弱点を事前に見つけて修理するのと同じです。AIも同じように、世の中に公開する前に、専門家に安全性の弱点を探してもらい、改善しておくのです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-the-anthropic-economic-advisory-council": {
+  "anthropic:introducing-the-anthropic-economic-advisory-council": {
     "slug": "introducing-the-anthropic-economic-advisory-council",
     "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
     "title_original": "Introducing the Anthropic Economic Advisory Council",
@@ -2340,9 +2457,10 @@
     ],
     "analogy": "これは、新しい医学的治療法が社会に与える影響を理解するため、複数の医学分野の専門家から意見を聞くのと似ています。AIという『新しい技術』が経済社会に『どんな効果や課題をもたらすのか』を、各分野の専門家が一緒に研究することで、より正確な理解と対策が可能になるということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "ai-for-science-program": {
+  "anthropic:ai-for-science-program": {
     "slug": "ai-for-science-program",
     "url": "https://www.anthropic.com/news/ai-for-science-program",
     "title_original": "Introducing Anthropic's AI for Science Program",
@@ -2360,9 +2478,10 @@
     ],
     "analogy": "このプログラムは、才能ある研究者に対して「高性能な実験ツール（AI）を無料で貸し出す図書館」のようなものです。ツール自体は無料ですが、利用する研究の質や影響力で誰に貸すかを決める仕組みになっています。",
     "category": "パートナーシップ、AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "mou-uk-government": {
+  "anthropic:mou-uk-government": {
     "slug": "mou-uk-government",
     "url": "https://www.anthropic.com/news/mou-uk-government",
     "title_original": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
@@ -2380,9 +2499,10 @@
     ],
     "analogy": "これは、図書館が最新のデジタルシステムを導入するようなもの。これまで複雑な手続きや難しい書類で困っていた利用者も、AIアシスタントの助けで簡単に必要な情報を見つけられるようになり、図書館全体の運営がスムーズになるイメージです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "core-views-on-ai-safety": {
+  "anthropic:core-views-on-ai-safety": {
     "slug": "core-views-on-ai-safety",
     "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
     "title_original": "Core Views on AI Safety: When, Why, What, and How",
@@ -2400,9 +2520,10 @@
     ],
     "analogy": "チェスの初心者が上級者の悪い手を見分けるのは簡単ですが、初心者が上級者の悪い手を見分けるのは非常に難しいのと同じように、人間より知能が高いAIシステムが人間の意図と異なる行動をした場合、私たちがそれを検出・制御することは極めて困難になります。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-claude-for-education": {
+  "anthropic:introducing-claude-for-education": {
     "slug": "introducing-claude-for-education",
     "url": "https://www.anthropic.com/news/introducing-claude-for-education",
     "title_original": "Introducing Claude for education",
@@ -2420,9 +2541,10 @@
     ],
     "analogy": "ラーニングモードは、数学の家庭教師が「答えは？」と聞かれた時に、すぐに答えを言うのではなく、「この問題を解くには、どのステップが必要だと思う？」と質問を返して、生徒自身に考えさせるようなものです。同じAIを使っても、学び方のアプローチが大きく変わります。",
     "category": "製品アップデート、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "3-5-models-and-computer-use": {
+  "anthropic:3-5-models-and-computer-use": {
     "slug": "3-5-models-and-computer-use",
     "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
     "title_original": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
@@ -2440,9 +2562,10 @@
     ],
     "analogy": "従来のClaudeは「特定の作業用の専用ツール」を使っていました。新しいコンピュータ利用機能は、人間がOfficeやWebブラウザなどのいろいろなソフトを自分で操作するのと同じように、AIが一般的なパソコンのツールを直接使いこなせるようになったようなものです。",
     "category": "製品アップデート、AI技術、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "narasimhan-board": {
+  "anthropic:narasimhan-board": {
     "slug": "narasimhan-board",
     "url": "https://www.anthropic.com/news/narasimhan-board",
     "title_original": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
@@ -2460,9 +2583,10 @@
     ],
     "analogy": "Anthropicの「長期利益信託」は、企業という船の羅針盤のような役割を果たしています。通常の企業は利益という目的地を目指して進みますが、この信託は『人類全体への貢献』という方角も常に確認し、バランスの取れた航路を保つようにコントロールしています。ナラシムハンはこの航海に医療という経験豊かな航海士として参加することになりました。",
     "category": "パートナーシップ・人事",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic": {
+  "anthropic:anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic": {
     "slug": "anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
     "url": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
     "title_original": "Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI economic research",
@@ -2480,9 +2604,10 @@
     ],
     "analogy": "これは、医学の専門家と製薬会社が一緒に新しい薬の社会的影響を研究するようなもの。データ（患者情報）を持つ企業と、それを分析する学者の専門知識が組み合わさることで、より信頼性の高い結果が得られるということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "the-need-for-transparency-in-frontier-ai": {
+  "anthropic:the-need-for-transparency-in-frontier-ai": {
     "slug": "the-need-for-transparency-in-frontier-ai",
     "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
     "title_original": "A framework for AI development transparency",
@@ -2500,9 +2625,10 @@
     ],
     "analogy": "これは「家を建てるときに、大手建設会社には建築計画と安全対策を公開させるが、小さな大工さんには負担をかけない」というようなもの。大規模な影響力を持つプレイヤーには透明性を求め、成長段階の小さい企業には余裕を持たせるバランスの取り方です。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-raises-series-b-to-build-safe-reliable-ai": {
+  "anthropic:anthropic-raises-series-b-to-build-safe-reliable-ai": {
     "slug": "anthropic-raises-series-b-to-build-safe-reliable-ai",
     "url": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
     "title_original": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
@@ -2520,9 +2646,10 @@
     ],
     "analogy": "AIシステムの安全性研究は、自動運転車の開発に似ています。単に高性能な「エンジン」を作るだけでなく、車がどのように判断しているか理解し、危険な状況では正しく動作するようあらかじめ安全装置を組み込み、走行中の予期しない問題に対応する仕組みが必要です。Anthropicはこうした『安全で信頼できるAI』を開発するための基盤作りに、この資金を使うのです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "head-of-EMEA-new-roles": {
+  "anthropic:head-of-EMEA-new-roles": {
     "slug": "head-of-EMEA-new-roles",
     "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
     "title_original": "Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
@@ -2540,9 +2667,10 @@
     ],
     "analogy": "これは、人気のカフェが繁盛してきたため、信頼できた店長を配置して、新しいスタッフを採用し、さらに多くのお客さんにサービスを提供しようとするのと同じです。Anthropicもヨーロッパで需要が急増したため、経験豊富なリーダーを置いて、チームを拡大させているのです。",
     "category": "企業ニュース・パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "eu-code-practice": {
+  "anthropic:eu-code-practice": {
     "slug": "eu-code-practice",
     "url": "https://www.anthropic.com/news/eu-code-practice",
     "title_original": "Anthropic to sign the EU Code of Practice",
@@ -2560,9 +2688,10 @@
     ],
     "analogy": "AIの規制を作ることは、高速道路の交通ルールを決めるようなもの。走行速度制限（安全基準）は必要ですが、厳しすぎると経済活動が停滞し、緩すぎると事故が増えます。Anthropicは、安全性を保ちながらも企業が革新できる『最適なルール』を一緒に作ろうとしています。",
     "category": "ポリシー・規制",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "paul-smith-to-join-anthropic": {
+  "anthropic:paul-smith-to-join-anthropic": {
     "slug": "paul-smith-to-join-anthropic",
     "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
     "title_original": "Paul Smith to join Anthropic as Chief Commercial Officer",
@@ -2579,9 +2708,10 @@
     ],
     "analogy": "これは、スマートフォンが普及し始めた時代に、企業がスマートフォン対応のビジネス戦略を考える際、経験豊富なアドバイザーを雇うようなものです。ポール・スミス氏は、企業がAIという新しい技術をどう活用すればいいかを、これまでのデジタル変革の経験から導くことになります。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
+  "anthropic:anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
     "slug": "anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
     "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
     "title_original": "Anthropic awarded $200M DOD agreement for AI capabilities",
@@ -2599,9 +2729,10 @@
     ],
     "analogy": "これは、国が最新の防衛技術を企業に開発させるのと同じです。例えば、政府が自動車メーカーに『安全で信頼できる自動運転技術を開発してほしい』と依頼し、お金を支払うようなものです。Anthropicは『Claude』という賢いAIアシスタントを防衛の現場で使えるようにカスタマイズして、国防の効率化をサポートしていきます。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
+  "anthropic:national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
     "slug": "national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
     "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
     "title_original": "National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
@@ -2618,9 +2749,10 @@
     ],
     "analogy": "長期利益信託は、企業という「家族」が重要な決断をする際に、外部の「顧問」として専門家を招いて意見をもらうようなものです。今回のフォンテーヌ氏の任命は、AIという「強い力」を扱う企業が、国防や安全保障の「プロ」にもアドバイスをもらおうとする決断に例えられます。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "github-copilot": {
+  "anthropic:github-copilot": {
     "slug": "github-copilot",
     "url": "https://www.anthropic.com/news/github-copilot",
     "title_original": "Claude 3.5 Sonnet on GitHub Copilot",
@@ -2638,9 +2770,10 @@
     ],
     "analogy": "CodePilotはあたかも「優秀なプログラミング助手を雇う」ようなもので、開発者が「こういうコードが欲しい」と日本語で説明すると、AIがそれを正確に実装してくれます。また、複雑なコードを見たときに「これは何をしているのか説明して」と聞くと、すぐに説明してくれる優秀なメンターのような存在です。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-opus-4-7": {
+  "anthropic:claude-opus-4-7": {
     "slug": "claude-opus-4-7",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
     "title_original": "Introducing Claude Opus 4.7",
@@ -2658,9 +2791,10 @@
     ],
     "analogy": "Claude Opus 4.7は、ジュニア社員からシニアエンジニアへ昇進した従業員のようです。細かい指示がなくても複雑な案件を最後まで遣り遂げ、自分の仕事をチェックして修正し、より質の高い成果物を届けるようになった、という感じです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "reed-hastings": {
+  "anthropic:reed-hastings": {
     "slug": "reed-hastings",
     "url": "https://www.anthropic.com/news/reed-hastings",
     "title_original": "Reed Hastings appointed to Anthropic’s board of directors",
@@ -2677,9 +2811,10 @@
     ],
     "analogy": "ヘイスティングス氏の就任は、映画館の支配人が医療財団の理事に就任するようなもの。複数の分野での成功経験が、新しい組織の判断を助けるようになります。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-claude": {
+  "anthropic:introducing-claude": {
     "slug": "introducing-claude",
     "url": "https://www.anthropic.com/news/introducing-claude",
     "title_original": "Introducing Claude",
@@ -2697,9 +2832,10 @@
     ],
     "analogy": "Claudeは、優秀なアシスタント秘書のようなものです。従来のAIが『正確だが無機質な回答』をする秘書なら、Claudeは『丁寧で親しみやすく、こちらの意図を理解して柔軟に対応する秘書』といった違いがあります。同じ質問でも、より人間らしく、使い手の希望に沿った返答ができるのです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-series-c": {
+  "anthropic:anthropic-series-c": {
     "slug": "anthropic-series-c",
     "url": "https://www.anthropic.com/news/anthropic-series-c",
     "title_original": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
@@ -2717,9 +2853,10 @@
     ],
     "analogy": "Anthropicの資金調達は、信頼できるクルマ（AI技術）を製造するメーカーが大手企業から投資を受けるようなもの。Claudeは、ドライバーの指示をちゃんと理解し、危険な判断はしない『安全性の高い自動運転機能』のようなもので、今回の資金で、その性能と信頼性をさらに高めていくということです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "100k-context-windows": {
+  "anthropic:100k-context-windows": {
     "slug": "100k-context-windows",
     "url": "https://www.anthropic.com/news/100k-context-windows",
     "title_original": "Introducing 100K Context Windows",
@@ -2737,9 +2874,10 @@
     ],
     "analogy": "これまでClaudeは1冊の本を読むのに1時間かかる人だったのに対し、今は5時間分の本を1分で読んで内容を理解・分析できる超高速読書家になったようなものです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-design-anthropic-labs": {
+  "anthropic:claude-design-anthropic-labs": {
     "slug": "claude-design-anthropic-labs",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
     "title_original": "Introducing Claude Design by Anthropic Labs",
@@ -2757,9 +2895,10 @@
     ],
     "analogy": "Claude Designは『デザインの専属アシスタント』のようなもの。あなたが「こういう感じのチラシが欲しい」と説明すれば、Claudeがすぐに案を作成し、「ここの色を変えて」「もっと目立たせて」という指示で何度でも修正してくれます。以前は美容師の手を借りないと難しかった複雑なヘアスタイルも、良いアシスタントがいれば誰でも実現できるという感じです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "releasing-claude-instant-1-2": {
+  "anthropic:releasing-claude-instant-1-2": {
     "slug": "releasing-claude-instant-1-2",
     "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
     "title_original": "Releasing Claude Instant 1.2",
@@ -2777,9 +2916,10 @@
     ],
     "analogy": "Claude Instant 1.2は、学生の家庭教師のアップグレード版のようなものです。前版も十分優秀でしたが、新版は計算が速くなり、説明がより丁寧で理解しやすくなり、さらに間違った情報を言わなくなりました。同じくらい手頃な価格のままで、より賢く、より信頼できる相棒になったわけです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "Introducing-code-with-claude": {
+  "anthropic:Introducing-code-with-claude": {
     "slug": "Introducing-code-with-claude",
     "url": "https://www.anthropic.com/news/Introducing-code-with-claude",
     "title_original": "Code with Claude - Anthropic's First Developer Conference",
@@ -2797,9 +2937,10 @@
     ],
     "analogy": "このカンファレンスは、新しい料理道具（Claude API）の使い方を学ぶ料理教室のようなものです。道具の使い方を教わるだけでなく、実際にそれらを使ってプロの料理人がどんなおいしい料理を作っているかを見学し、プロの技巧を学べる場所と言えます。",
     "category": "イベント・パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
+  "anthropic:strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
     "slug": "strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
     "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
     "title_original": "Progress from our Frontier Red Team",
@@ -2817,9 +2958,10 @@
     ],
     "analogy": "Claudeの能力向上は、学生の成長に例えられます。昨年は『危ない物の扱い方について、高校生程度の知識しかなかった学生』が、1年の勉強で『大学生レベルの知識を持つようになった』という状況。ただし実際に危険な行動を起こすには、専門的な道具や経験がまだまだ必要なため、今のところ大きな心配はないというわけです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-anthropic-transparency-hub": {
+  "anthropic:introducing-anthropic-transparency-hub": {
     "slug": "introducing-anthropic-transparency-hub",
     "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
     "title_original": "Introducing Anthropic's Transparency Hub",
@@ -2837,9 +2979,10 @@
     ],
     "analogy": "これは、食品メーカーが工場見学やレシピ公開を通じて「安全で健康的な商品を作っている」と消費者に信頼してもらうのと似ています。Anthropicも『AIがどのように作られ、安全チェックされているのか』を透明に見せることで、ユーザーや政府に信頼してもらおうとしています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam": {
+  "anthropic:anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam": {
     "slug": "anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
     "url": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
     "title_original": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
@@ -2857,9 +3000,10 @@
     ],
     "analogy": "これは医学部の学生が実際の患者さんを診察して医師としての技能を評価されるようなものです。AIも論文や仮想の問題ではなく、本当の研究現場で本当の課題に取り組むことで、実用的な能力がどの程度あるのかが判断できるということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-and-alexa-plus": {
+  "anthropic:claude-and-alexa-plus": {
     "slug": "claude-and-alexa-plus",
     "url": "https://www.anthropic.com/news/claude-and-alexa-plus",
     "title_original": "Claude and Alexa+",
@@ -2877,9 +3021,10 @@
     ],
     "analogy": "Alexa+とClaudeの関係は、自動車のエンジンと同じようなものです。Alexa+は見た目や操作パネル（車のボディ）で、Claudeはその内部のエンジン（心臓部）。強力で安全なエンジン（Claude）があるから、Alexa+は複雑な質問に答えたり、詐欺から守られたりできるようになるのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "paris-ai-summit": {
+  "anthropic:paris-ai-summit": {
     "slug": "paris-ai-summit",
     "url": "https://www.anthropic.com/news/paris-ai-summit",
     "title_original": "Statement from Dario Amodei on the Paris AI Action Summit",
@@ -2897,9 +3042,10 @@
     ],
     "analogy": "AIの発展を、新しい国が世界に誕生するようなものに例えると分かりやすいです。その国の人口が非常に賢い人々で構成されていたら、世界の経済や防衛に大きな影響を及ぼすでしょう。だからこそ、その国がどのように振る舞うか、誰がコントロールするか、安全に管理できるかを事前に決めておく必要があるのです。",
     "category": "政策・安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "lyft-announcement": {
+  "anthropic:lyft-announcement": {
     "slug": "lyft-announcement",
     "url": "https://www.anthropic.com/news/lyft-announcement",
     "title_original": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
@@ -2916,9 +3062,10 @@
     ],
     "analogy": "これまでカスタマーサービスで人間スタッフが一件一件対応していた相談は、AIアシスタントが簡単な問い合わせであれば瞬時に解決し、複雑な問題だけを人間に引き継ぐようなイメージです。まるでコンシェルジュが最初にふるい分けをして、本当に必要な専門家にだけつなぐようなものです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropics-responsible-scaling-policy": {
+  "anthropic:anthropics-responsible-scaling-policy": {
     "slug": "anthropics-responsible-scaling-policy",
     "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
     "title_original": "Anthropic's Responsible Scaling Policy",
@@ -2936,9 +3083,10 @@
     ],
     "analogy": "このポリシーは、新しい薬が医療現場で使用される前に臨床試験で何度も安全性を確認するのと同じイメージです。AI技術が高度になるほど、市場に出す前により厳密で段階的な安全チェックを実施することで、社会へのリスクを最小限に抑えようとしています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-achieves-iso-42001-certification-for-responsible-ai": {
+  "anthropic:anthropic-achieves-iso-42001-certification-for-responsible-ai": {
     "slug": "anthropic-achieves-iso-42001-certification-for-responsible-ai",
     "url": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
     "title_original": "Anthropic achieves ISO 42001 certification for responsible AI",
@@ -2955,9 +3103,10 @@
     ],
     "analogy": "ISO 42001認証は、AI企業が「営業許可証」を取得するようなもの。企業が食品衛生基準を満たしていることを保健所が確認するように、第三者機関がAIの安全な運用体制を確認し、ユーザーに「このAIは安全に作られている」という証明書を与えるイメージです。",
     "category": "企業ニュース、AI安全性、パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "preparing-for-global-elections-in-2024": {
+  "anthropic:preparing-for-global-elections-in-2024": {
     "slug": "preparing-for-global-elections-in-2024",
     "url": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
     "title_original": "Preparing for global elections in 2024",
@@ -2974,9 +3123,10 @@
     ],
     "analogy": "AIの不正使用防止対策は、銀行がお金の偽造を防ぐために複数のチェック機能（本物かどうかの検査、疑わしい取引の監視、不正使用時の口座停止）を組み合わせるのと同じです。Anthropicも、ルール作成、テスト検査、そして自動防止システムを組み合わせて、総合的に不正使用を防ごうとしています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "policy-recap-q4-2023": {
+  "anthropic:policy-recap-q4-2023": {
     "slug": "policy-recap-q4-2023",
     "url": "https://www.anthropic.com/news/policy-recap-q4-2023",
     "title_original": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
@@ -2994,9 +3144,10 @@
     ],
     "analogy": "AI規制の状況は、新しい車の安全基準づくりに似ています。政府が独立した検査機関を作って、すべての車メーカーの安全性を公平に評価することで、大手企業も小さい企業も同じ基準で競争できるようになります。これにより、消費者は安心して購入でき、業界全体の安全レベルが上がるのです。",
     "category": "政策・規制",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "frontier-threats-red-teaming-for-ai-safety": {
+  "anthropic:frontier-threats-red-teaming-for-ai-safety": {
     "slug": "frontier-threats-red-teaming-for-ai-safety",
     "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
     "title_original": "Frontier Threats Red Teaming for AI Safety",
@@ -3014,9 +3165,10 @@
     ],
     "analogy": "AIの「レッドティーミング」は、銀行がセキュリティを確認するため、専門家に意図的に窓や扉の脆弱性を探させるのと似ています。問題が実際に悪用される前に見つけ出し、鍵を強化するのが目的です。",
     "category": "AI安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "frontier-model-security": {
+  "anthropic:frontier-model-security": {
     "slug": "frontier-model-security",
     "url": "https://www.anthropic.com/news/frontier-model-security",
     "title_original": "Frontier Model Security",
@@ -3033,9 +3185,10 @@
     ],
     "analogy": "これは、銀行の金庫を守る方法に似ています。昔は1人が鍵を持てば金庫を開けられましたが、今は2人以上の許可が必要です。AIモデルも同じく、1人の従業員が勝手に重要なシステムにアクセスできないようにすることで、内部の悪質な行為と外部からの侵入の両方を防ぐわけです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-amazon-compute": {
+  "anthropic:anthropic-amazon-compute": {
     "slug": "anthropic-amazon-compute",
     "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
     "title_original": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
@@ -3053,9 +3206,10 @@
     ],
     "analogy": "スマートフォンの需要が急増した時、電力会社が発電所を増設して対応したのと同じように、Claudeの利用者が急増したため、Anthropicが『AIの電力網』ともいえる計算能力を大幅に増強する必要が生じたということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "expanded-legal-protections-api-improvements": {
+  "anthropic:expanded-legal-protections-api-improvements": {
     "slug": "expanded-legal-protections-api-improvements",
     "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
     "title_original": "Expanded legal protections and improvements to our API",
@@ -3073,9 +3227,10 @@
     ],
     "analogy": "新しい利用規約は、レストランで食べたお弁当の所有権がお客さんにあり、もし食材に問題があったら店が責任を取るようなものです。Messages APIは、料理の作り方の指示書が、より簡潔でわかりやすいレシピに変わるイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "contextual-retrieval": {
+  "anthropic:contextual-retrieval": {
     "slug": "contextual-retrieval",
     "url": "https://www.anthropic.com/news/contextual-retrieval",
     "title_original": "Contextual Retrieval in AI Systems",
@@ -3093,9 +3248,10 @@
     ],
     "analogy": "これまでの検索方法は、大型図書館の本をページごとにバラバラにして保管し、「ページ3を読んでください」と言うようなもので、そのページだけでは意味不明なことが多いです。新しい「文脈的検索」は、各ページに『この本は●●という話で、このページは第●章です』という説明ラベルを付けてから保管することで、正しいページを素早く見つけられるようにしたのです。",
     "category": "AI技術",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-3-family": {
+  "anthropic:claude-3-family": {
     "slug": "claude-3-family",
     "url": "https://www.anthropic.com/news/claude-3-family",
     "title_original": "Introducing the next generation of Claude",
@@ -3113,9 +3269,10 @@
     ],
     "analogy": "Claude 3ファミリーは、3つの異なるサイズの翻訳機に例えられます。Opusは最も大きく複雑な文書を正確に翻訳できる専門家、Sonnetは日常的な手紙や書類を速く処理する実務者、Haikuは短いメッセージをすぐに訳す手軽な辞書のようなものです。用途に応じて最適な『翻訳機』を選べます。",
     "category": "AI技術、製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
+  "anthropic:an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
     "slug": "an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
     "url": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
     "title_original": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
@@ -3133,9 +3290,10 @@
     ],
     "analogy": "AI技術の安全性管理は、医薬品開発に似ています。医薬品は効果を発揮する優れた薬でも、事前に厳密なテストで安全性を確認（測定）しなければ市場に出せません。同じように、どんなに優れたAI技術でも、その性能とリスクを客観的に測定・評価できる基準があってこそ、安心して社会で活用できるようになるのです。",
     "category": "AI安全性, 政策提案",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "third-party-testing": {
+  "anthropic:third-party-testing": {
     "slug": "third-party-testing",
     "url": "https://www.anthropic.com/news/third-party-testing",
     "title_original": "Third-party testing as a key ingredient of AI policy",
@@ -3153,9 +3311,10 @@
     ],
     "analogy": "AIの安全性テストは、医薬品の承認制度に似ています。メーカーが自分たちで安全性を確認するだけでなく、政府の医療機関（FDA）が独立して検証するように、AIシステムも企業の自主テストだけでなく、政府や大学といった第三者機関による客観的なテストが必要ということです。",
     "category": "安全性、政策提言",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "testing-and-mitigating-elections-related-risks": {
+  "anthropic:testing-and-mitigating-elections-related-risks": {
     "slug": "testing-and-mitigating-elections-related-risks",
     "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
     "title_original": "Testing and mitigating elections-related risks",
@@ -3173,9 +3332,10 @@
     ],
     "analogy": "これは医薬品開発に似ています。まず医学専門家が詳細な臨床試験を行い（ポリシー脆弱性テスト）、その結果を基に薬の配合を調整（モデルの微調整）し、その後もう一度試験して効果を確認する（再テスト）という、何度も繰り返すプロセスと同じです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "prompt-engineering-for-business-performance": {
+  "anthropic:prompt-engineering-for-business-performance": {
     "slug": "prompt-engineering-for-business-performance",
     "url": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
     "title_original": "Prompt engineering for business performance",
@@ -3193,9 +3353,10 @@
     ],
     "analogy": "AIにプロンプトを与えることは、新入社員に仕事を教えるようなもの。曖昧な指示では正確な仕事ができませんが、具体的な手順を示し、見本となる良い事例を提供し、複雑な仕事を小分けにして説明すれば、より正確で素早い対応ができるようになります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "google-vertex-general-availability": {
+  "anthropic:google-vertex-general-availability": {
     "slug": "google-vertex-general-availability",
     "url": "https://www.anthropic.com/news/google-vertex-general-availability",
     "title_original": "Claude 3 models on Vertex AI",
@@ -3213,9 +3374,10 @@
     ],
     "analogy": "例えるなら、これまでは各企業が独自に高性能な秘書を雇う必要がありましたが、今はGoogle Cloudという大型ビルの中に高性能な秘書（Claude）を配置でき、企業の書類はビル内に保管されたままで、安心して利用できるようになったということです。",
     "category": "パートナーシップ・製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-brazil": {
+  "anthropic:claude-brazil": {
     "slug": "claude-brazil",
     "url": "https://www.anthropic.com/news/claude-brazil",
     "title_original": "Claude is now available in Brazil",
@@ -3232,9 +3394,10 @@
     ],
     "analogy": "Claudeのブラジル展開は、有名なレストランチェーンが新しい地域に支店をオープンするようなもの。無料サンプル（無料プラン）で試してから、より充実したサービス（有料プラン）に升級できる選択肢を用意し、顧客が自分のニーズに合わせて選べるようにしています。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "child-safety-principles": {
+  "anthropic:child-safety-principles": {
     "slug": "child-safety-principles",
     "url": "https://www.anthropic.com/news/child-safety-principles",
     "title_original": "Aligning on child safety principles",
@@ -3252,9 +3415,10 @@
     ],
     "analogy": "これは、銀行が不正な資金移動を防ぐために、送金の受け付け段階で確認し、処理中も監視し、後からも記録を確認するのと似ています。AIの場合も、作成段階・使用段階・保守段階という全てのステップで、有害なコンテンツが現れないよう多重の防御層を用意しています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "challenges-in-red-teaming-ai-systems": {
+  "anthropic:challenges-in-red-teaming-ai-systems": {
     "slug": "challenges-in-red-teaming-ai-systems",
     "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
     "title_original": "Challenges in Red Teaming AI Systems",
@@ -3272,9 +3436,10 @@
     ],
     "analogy": "レッドチーミングは、新しく建った銀行の建物に対して、セキュリティの専門家が本当の泥棒になったつもりで侵入経路を探すようなものです。玄関、窓、配管など様々な角度から弱点を探し出し、改善する前に問題を発見することで、実際の被害を防ぐことができます。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "elections-ai-2024": {
+  "anthropic:elections-ai-2024": {
     "slug": "elections-ai-2024",
     "url": "https://www.anthropic.com/news/elections-ai-2024",
     "title_original": "Elections and AI in 2024: Anthropic observations and learnings",
@@ -3292,9 +3457,10 @@
     ],
     "analogy": "AIによる選挙への悪影響は、銀行の窓口での詐欺のようなものです。SNSのような『駅前の掲示板』なら詐欺情報が多くの人に見られますが、AIの『一対一の会話』では被害が限定的。銀行も詐欺検知システムで対策するのと同様に、AI企業も危険な使用方法を検出して対応しています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "model-context-protocol": {
+  "anthropic:model-context-protocol": {
     "slug": "model-context-protocol",
     "url": "https://www.anthropic.com/news/model-context-protocol",
     "title_original": "Introducing the Model Context Protocol",
@@ -3312,9 +3478,10 @@
     ],
     "analogy": "これまでのAIとデータの関係は、多くの独立した部屋（データベース）と言葉の通じない来客（AI）のようなものでした。MCPは、すべての部屋に共通の『翻訳機』を設置するようなもの。これで来客が各部屋のドアを叩く必要がなく、翻訳機を通じてどの部屋でも同じやり方で情報をもらい、正確な応答ができるようになります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-amazon-trainium": {
+  "anthropic:anthropic-amazon-trainium": {
     "slug": "anthropic-amazon-trainium",
     "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
     "title_original": "Powering the next generation of AI development with AWS",
@@ -3332,9 +3499,10 @@
     ],
     "analogy": "この協力は、自動車メーカーとエンジン製造メーカーが一緒に働くようなものです。AWSがエンジン（チップとインフラ）を提供し、Anthropicがそれを最高に活用する車（AI）を設計する。二社が一緒に動くことで、より高速で効率的な『乗り物』が生まれるのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-amazon": {
+  "anthropic:anthropic-amazon": {
     "slug": "anthropic-amazon",
     "url": "https://www.anthropic.com/news/anthropic-amazon",
     "title_original": "Expanding access to safer AI with Amazon",
@@ -3352,9 +3520,10 @@
     ],
     "analogy": "このパートナーシップは、優秀な料理人(Anthropic)と最高の調理場(AWS)が力を合わせるようなもの。料理人の技術と調理場の最新設備が組み合わさることで、より多くのレストランや家庭で美味しくて安全な料理が食べられるようになる、というイメージです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "fine-tune-claude-3-haiku": {
+  "anthropic:fine-tune-claude-3-haiku": {
     "slug": "fine-tune-claude-3-haiku",
     "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
     "title_original": "Fine-tune Claude 3 Haiku in Amazon Bedrock | Claude",
@@ -3372,9 +3541,10 @@
     ],
     "analogy": "これは料理人がレシピをカスタマイズするようなもの。最初は一般的な料理ができるシェフ（Claude 3 Haiku）でも、特定のレストランの味付けや顧客の好みをデータとして教えると、そのお店専門の一流シェフに変身するイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "the-case-for-targeted-regulation": {
+  "anthropic:the-case-for-targeted-regulation": {
     "slug": "the-case-for-targeted-regulation",
     "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
     "title_original": "The case for targeted regulation",
@@ -3392,9 +3562,10 @@
     ],
     "analogy": "これは、子どもの成長に合わせて見守りルールを変えていく親の役割に似ています。幼い子どもにはシンプルなルールで良いですが、成長して行動範囲が広がるにつれて、より詳細で段階的なガイドラインが必要になります。AIも同様に、能力が高まるにつれて、それに見合った段階的な安全対策が必要というわけです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "salesforce-partnership": {
+  "anthropic:salesforce-partnership": {
     "slug": "salesforce-partnership",
     "url": "https://www.anthropic.com/news/salesforce-partnership",
     "title_original": "Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities",
@@ -3412,9 +3583,10 @@
     ],
     "analogy": "これは、レストランのシェフが複数の調理道具メーカーから最高のツールを選べるようになったのと同じです。以前は決まった道具だけを使っていたのが、今はClaudeという高性能な新しい道具を加えることで、より質の高い料理（ビジネス成果）を効率よく提供できるようになるということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "announcing-our-updated-responsible-scaling-policy": {
+  "anthropic:announcing-our-updated-responsible-scaling-policy": {
     "slug": "announcing-our-updated-responsible-scaling-policy",
     "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
     "title_original": "Announcing our updated Responsible Scaling Policy",
@@ -3432,9 +3604,10 @@
     ],
     "analogy": "これは家の防犯対策に例えるとわかりやすいです。普通の家には基本的な鍵が付いていますが（ASL-2）、もし泥棒がより高度な侵入技術を身につけたことが判明したら、より強固な防犯システムを導入する必要があります（ASL-3以上）。同様に、AIの能力が危険なレベルに達したら、それに応じた強力な「セキュリティの鍵」を用意するということです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "election-safeguards-update": {
+  "anthropic:election-safeguards-update": {
     "slug": "election-safeguards-update",
     "url": "https://www.anthropic.com/news/election-safeguards-update",
     "title_original": "An update on our election safeguards",
@@ -3452,9 +3625,10 @@
     ],
     "analogy": "Claudeの選挙対策は、信頼できる新聞の編集方針に似ています。良い新聞が異なる政治的立場の意見を公平に扱い、読者が自分で判断できるようにするのと同じように、Claudeは政治情報について立場を持たずバランスの取れた回答をし、また駅の掲示板で信頼できる投票情報を指し示すように、ユーザーを信頼できる情報源へ導きます。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-nec": {
+  "anthropic:anthropic-nec": {
     "slug": "anthropic-nec",
     "url": "https://www.anthropic.com/news/anthropic-nec",
     "title_original": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
@@ -3471,9 +3645,10 @@
     ],
     "analogy": "これは、有能な部下（Claude）を採用した大企業（NEC）が、その才能を最大限に活かすため、まず自社内で鍛えて専門スキルを磨き、その後に顧客へサービスとして提供するようなイメージです。自動車メーカーが自社の製造ラインで新しい工作機械を試し、その後に完成した技術を他の工場に導入するのと同じです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "us-elections-readiness": {
+  "anthropic:us-elections-readiness": {
     "slug": "us-elections-readiness",
     "url": "https://www.anthropic.com/news/us-elections-readiness",
     "title_original": "U.S. Elections Readiness",
@@ -3491,9 +3666,10 @@
     ],
     "analogy": "これは、銀行がセキュリティを強化するのに似ています。銀行は「カウンター業務のルール作成」「防犯カメラ設置」「警備員による確認」を組み合わせ、さらに定期的に防犯訓練を実施してセキュリティホールを探します。Anthropicも同様に、ルール（ポリシー）、自動監視、人間による審査、テストを組み合わせてAIの悪用を防いでいるのです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "a-new-initiative-for-developing-third-party-model-evaluations": {
+  "anthropic:a-new-initiative-for-developing-third-party-model-evaluations": {
     "slug": "a-new-initiative-for-developing-third-party-model-evaluations",
     "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
     "title_original": "A new initiative for developing third-party model evaluations",
@@ -3511,9 +3687,10 @@
     ],
     "analogy": "これは学校のテスト作成に例えられます。AI が本当に危険なことをしないか確認するため、複数の民間企業や研究機関に難しくて信頼性の高いテストを作らせることで、独立した第三者が正確に実力を測定できるようにする、という考え方です。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "accenture-aws-anthropic": {
+  "anthropic:accenture-aws-anthropic": {
     "slug": "accenture-aws-anthropic",
     "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
     "title_original": "Accenture, AWS, Anthropic Collaboration",
@@ -3530,9 +3707,10 @@
     ],
     "analogy": "これは、レストランシェフ（Anthropic）、厨房の設備提供者（AWS）、カウンセラー（Accenture）が一緒にタッグを組むようなものです。シェフが最高の料理技術を持ち、設備業者が安全で信頼できる厨房環境を提供し、カウンセラーが客のニーズを理解して最適なメニューを作るのを手伝う、というチーム体制です。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
+  "anthropic:anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
     "slug": "anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
     "url": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
     "title_original": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
@@ -3549,9 +3727,10 @@
     ],
     "analogy": "これは野球で例えるなら、有望な選手（スタートアップ企業）をスカウトして、一流のコーチ（Menlo Ventures）と最高の道具（Anthropicの技術）を与えて育成するようなものです。選手たちが成長することで、チーム全体が強くなるという考え方と同じです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-europe": {
+  "anthropic:claude-europe": {
     "slug": "claude-europe",
     "url": "https://www.anthropic.com/news/claude-europe",
     "title_original": "Claude is now available in the EU",
@@ -3568,9 +3747,10 @@
     ],
     "analogy": "ClaudeのEU提供開始は、世界中にある支店を持つ企業が新しい地域に店舗をオープンするようなもの。地元の言葉に対応した商品やサービスメニューを用意して、現地のお客さんの要望に応じた展開をしています。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "expanding-access-to-claude-for-government": {
+  "anthropic:expanding-access-to-claude-for-government": {
     "slug": "expanding-access-to-claude-for-government",
     "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
     "title_original": "Expanding Access to Claude for Government",
@@ -3588,9 +3768,10 @@
     ],
     "analogy": "これは病院が新しい医療機器を導入するようなものです。Anthropicという医療機器メーカーが、高いセキュリティ基準を持つ特定の病院（政府機関）に新しい診断AI（Claude）を提供することで、より良い治療（市民サービス）が可能になります。ただし、その機器を危険な目的に使わないよう、使用ルールをしっかり定めています。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "golden-gate-claude": {
+  "anthropic:golden-gate-claude": {
     "slug": "golden-gate-claude",
     "url": "https://www.anthropic.com/news/golden-gate-claude",
     "title_original": "Golden Gate Claude",
@@ -3608,9 +3789,10 @@
     ],
     "analogy": "AIの内部構造は、人間の脳にある様々な記憶や関心事のようなものです。通常、その強さは自動的に決まっていますが、研究者が特定の「ゴールデンゲートブリッジへの関心スイッチ」を強く回すと、人間が何かに強く執着するようになるのと同じように、AIはあらゆる話題を無理にその橋に結びつけてしまうようになったのです。",
     "category": "研究",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "introducing-claude-to-canada": {
+  "anthropic:introducing-claude-to-canada": {
     "slug": "introducing-claude-to-canada",
     "url": "https://www.anthropic.com/news/introducing-claude-to-canada",
     "title_original": "Introducing Claude to Canada",
@@ -3627,9 +3809,10 @@
     ],
     "analogy": "これはちょうど、日本で新しいレストランチェーンがオープンするようなものです。店舗（Webサイト）、テイクアウト（アプリ）、仕出し（API）、法人向けケータリング（Teamプラン）など、様々な利用方法を提供することで、より多くの顧客に対応するというイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "jay-kreps-appointed-to-board-of-directors": {
+  "anthropic:jay-kreps-appointed-to-board-of-directors": {
     "slug": "jay-kreps-appointed-to-board-of-directors",
     "url": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
     "title_original": "Jay Kreps appointed to Anthropic's Board of Directors",
@@ -3646,9 +3829,10 @@
     ],
     "analogy": "Kreps氏の就任は、野球チームが経験豊富な監督を迎えるようなもの。Anthropicという選手たちが次のステージで活躍するために、経営経験が豊富な指導者が加わることで、チーム全体がより大きな目標に向かって力強く進めるようになります。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "mike-krieger-joins-anthropic": {
+  "anthropic:mike-krieger-joins-anthropic": {
     "slug": "mike-krieger-joins-anthropic",
     "url": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
     "title_original": "Mike Krieger joins Anthropic as Chief Product Officer",
@@ -3666,9 +3850,10 @@
     ],
     "analogy": "Instagramをスマートフォンのカメラアプリから世界的SNSへ成長させたKrieger氏が、今度はClaudeというAI「助手」を、多くの企業の職場で毎日使えるツールに変えていく、というイメージです。技術者として優れた製品をつくり、それを何十億人にも届ける経験を活かします。",
     "category": "パートナーシップ・人事ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "model-safety-bug-bounty": {
+  "anthropic:model-safety-bug-bounty": {
     "slug": "model-safety-bug-bounty",
     "url": "https://www.anthropic.com/news/model-safety-bug-bounty",
     "title_original": "Expanding our model safety bug bounty program",
@@ -3686,9 +3871,10 @@
     ],
     "analogy": "これはスマートフォンのセキュリティテストに似ています。メーカー（Anthropic）が新しいセキュリティ機能を搭載する前に、専門家にその弱点を見つけてもらい、修正するプロセスと同じです。AIの場合は、モデルの『脱獄』を試みる研究者を募集し、本当にセキュリティが効いているかを事前にチェックしています。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "projects": {
+  "anthropic:projects": {
     "slug": "projects",
     "url": "https://www.anthropic.com/news/projects",
     "title_original": "Collaborate with Claude on Projects",
@@ -3706,9 +3892,10 @@
     ],
     "analogy": "プロジェクト機能は、職場の共有ロッカーのようなものです。これまで Claude とのチャットは個別のメモ帳のようにバラバラでしたが、今は共有ロッカーに会社の重要な資料やこれまでの会話をまとめて保管できます。チーム全体がその情報を活用でき、みんなが同じ「社内ルール」に基づいた支援を受けられるわけです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "reflections-on-our-responsible-scaling-policy": {
+  "anthropic:reflections-on-our-responsible-scaling-policy": {
     "slug": "reflections-on-our-responsible-scaling-policy",
     "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
     "title_original": "Reflections on our Responsible Scaling Policy",
@@ -3726,9 +3913,10 @@
     ],
     "analogy": "AIモデルの安全管理は、飛行機の安全運航管理に似ています。飛行機は大型化・高速化するほど新しい危険要因が生じるため、段階的に厳しい安全基準を定め、飛行前に複数の検査を行い、エンジンなどの重要部品の厳密な管理をします。同様にAIも進化するにつれ予測困難な危険が生じるため、事前の脅威分析、多段階のテスト、強固なセキュリティが必要なのです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "theo-hourmouzis-general-manager-australia-new-zealand": {
+  "anthropic:theo-hourmouzis-general-manager-australia-new-zealand": {
     "slug": "theo-hourmouzis-general-manager-australia-new-zealand",
     "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
     "title_original": "Anthropic Sydney office",
@@ -3746,9 +3934,10 @@
     ],
     "analogy": "これまで本社にしかいなかった優秀なコンサルタントが、地元に営業所を開設して顧客のそばで働くようになるようなもの。顧客のニーズをより深く理解し、信頼関係を築きながら、自分たちのサービスを実際の仕事に組み込んでいく過程です。",
     "category": "パートナーシップ・企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "updating-our-usage-policy": {
+  "anthropic:updating-our-usage-policy": {
     "slug": "updating-our-usage-policy",
     "url": "https://www.anthropic.com/news/updating-our-usage-policy",
     "title_original": "Updating our Usage Policy",
@@ -3766,9 +3955,10 @@
     ],
     "analogy": "これまでの規約が「複雑な家の取扱説明書」だったなら、今回の更新は「わかりやすい看板」に変わったようなもの。誰もが同じルールを理解でき、危険な使い方ははっきりと『禁止』と表示されているため、誰もが安心して利用できるようになります。",
     "category": "企業ニュース, 安全性, ポリシー更新",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-bcg": {
+  "anthropic:anthropic-bcg": {
     "slug": "anthropic-bcg",
     "url": "https://www.anthropic.com/news/anthropic-bcg",
     "title_original": "Anthropic partners with BCG",
@@ -3785,9 +3975,10 @@
     ],
     "analogy": "これは、自動車メーカーとガソリンスタンドが提携するようなもの。Anthropicが開発した優秀なAI（自動車）を、BCGという大きなビジネス・ネットワーク（ガソリンスタンドのチェーン）を通じて、多くの企業顧客に届けるということです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-partners-with-google-cloud": {
+  "anthropic:anthropic-partners-with-google-cloud": {
     "slug": "anthropic-partners-with-google-cloud",
     "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
     "title_original": "Anthropic Partners with Google Cloud",
@@ -3805,9 +3996,10 @@
     ],
     "analogy": "これは、例えば料理人（Anthropic）が、最新の調理器具が揃った大型厨房（Google Cloud）をレンタルして、より多くのお客さんに美味しく安全な料理を提供できるようになるようなものです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "anthropic-raises-124-million-to-build-more-reliable-general-ai-systems": {
+  "anthropic:anthropic-raises-124-million-to-build-more-reliable-general-ai-systems": {
     "slug": "anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
     "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
     "title_original": "Anthropic raises $124 million to build more reliable, general AI systems",
@@ -3824,9 +4016,10 @@
     ],
     "analogy": "調達した資金は、家を建てるときの材料費のようなもの。Anthropicは「より安全で壊れにくく、思い通りに操作できる家（AI）を建てる」という理想を実現するための材料を手に入れたわけです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-for-creative-work": {
+  "anthropic:claude-for-creative-work": {
     "slug": "claude-for-creative-work",
     "url": "https://www.anthropic.com/news/claude-for-creative-work",
     "title_original": "Claude for Creative Work",
@@ -3844,9 +4037,10 @@
     ],
     "analogy": "従来のクリエイティブ作業は、複数の異なる楽器を演奏しながら楽譜を見直すようなもの。Claudeは、指揮者のように各楽器（ツール）に指示を出し、奏者（クリエイター）が創作に集中できるようサポートし、演奏全体をスムーズに進めます。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "charting-a-path-to-ai-accountability": {
+  "anthropic:charting-a-path-to-ai-accountability": {
     "slug": "charting-a-path-to-ai-accountability",
     "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
     "title_original": "Charting a Path to AI Accountability",
@@ -3864,9 +4058,10 @@
     ],
     "analogy": "これはちょうど、新しい医療薬を市場に出す前に厳しい臨床試験と承認プロセスを経るのと同じです。AI技術も社会に大きな影響を与えるため、リリース前に複数の段階での検査と評価を通す必要があるということです。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-2": {
+  "anthropic:claude-2": {
     "slug": "claude-2",
     "url": "https://www.anthropic.com/news/claude-2",
     "title_original": "Claude 2",
@@ -3884,9 +4079,10 @@
     ],
     "analogy": "Claude 2は、本を1冊丸ごと読んで内容を理解し、その知識を使ってプログラムを書いたり質問に答えたりできる、非常に優秀な秘書のようなものです。前の秘書より頭が良く、記憶容量が大きくなり、なおかつ危ない判断もしないようになった、というイメージです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-2-1": {
+  "anthropic:claude-2-1": {
     "slug": "claude-2-1",
     "url": "https://www.anthropic.com/news/claude-2-1",
     "title_original": "Introducing Claude 2.1",
@@ -3904,9 +4100,10 @@
     ],
     "analogy": "Claude 2.1の進化は、本を1冊しか読めない助手が、図書館全体から必要な情報を取り出せる助手になったようなものです。さらに、『このページの説明は正しいですか？』と聞かれた時に、わからないことは『わかりません』と正直に答えるようになりました。加えて、電卓や辞書、インターネット検索といった道具を自分で使いこなせるようになったということです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-3-haiku": {
+  "anthropic:claude-3-haiku": {
     "slug": "claude-3-haiku",
     "url": "https://www.anthropic.com/news/claude-3-haiku",
     "title_original": "Claude 3 Haiku: our fastest model yet",
@@ -3924,9 +4121,10 @@
     ],
     "analogy": "Claude 3 Haikuは、オフィスビルの荷物エレベーターのようなものです。通常のエレベーター（他のAIモデル）よりも高速に大量の書類（データ）を運べるのに、かかる電気代（コスト）は安いという優れた道具です。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "claude-pro": {
+  "anthropic:claude-pro": {
     "slug": "claude-pro",
     "url": "https://www.anthropic.com/news/claude-pro",
     "title_original": "Introducing Claude Pro",
@@ -3944,9 +4142,10 @@
     ],
     "analogy": "例えるなら、無料版のClaudeはカフェでコーヒーをもらうようなもの。Claude ProはそのカフェのVIPメンバーシップのようなもので、月額料金で5倍のコーヒーが飲め、混雑時にも優先的に座れ、新しいメニューもいち早く試せるという感じです。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "partnering-with-scale": {
+  "anthropic:partnering-with-scale": {
     "slug": "partnering-with-scale",
     "url": "https://www.anthropic.com/news/partnering-with-scale",
     "title_original": "Partnering with Scale to Bring Generative AI to Enterprises",
@@ -3964,9 +4163,10 @@
     ],
     "analogy": "これは料理で例えるなら、高級なシェフ（Anthropic）が開発したレシピと調理技術を、大型の飲食店向けキッチン設備を製造する企業（Scale）が提供する業務用調理場で実際に運用できるようにしたようなものです。家庭での実験的な調理から、レストランチェーン全体での営業レベルの調理へ進化させることができます。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "skt-partnership-announcement": {
+  "anthropic:skt-partnership-announcement": {
     "slug": "skt-partnership-announcement",
     "url": "https://www.anthropic.com/news/skt-partnership-announcement",
     "title_original": "SKT Partnership Announcement",
@@ -3984,9 +4184,10 @@
     ],
     "analogy": "ファインチューニングは、汎用の料理本を特定のレストラン向けにカスタマイズするようなもの。元の料理本の知識を活かしながら、そのレストランの食材や顧客の好みに合わせて、オリジナルレシピを作成していく仕組みです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "the-long-term-benefit-trust": {
+  "anthropic:the-long-term-benefit-trust": {
     "slug": "the-long-term-benefit-trust",
     "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
     "title_original": "The Long-Term Benefit Trust",
@@ -4004,9 +4205,10 @@
     ],
     "analogy": "通常の会社経営は、家の持ち主（株主）の利益を最優先にする家政婦のようなものです。しかしAnthropicの場合、その家が大きなカンボジが出ていて、近所全体に影響を与える可能性があるため、近所住民の代表（信託者）も意思決定に関わる仕組みを作ったと考えられます。",
     "category": "企業ニュース、ガバナンス、AI安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "uk-ai-safety-summit": {
+  "anthropic:uk-ai-safety-summit": {
     "slug": "uk-ai-safety-summit",
     "url": "https://www.anthropic.com/news/uk-ai-safety-summit",
     "title_original": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
@@ -4024,9 +4226,10 @@
     ],
     "analogy": "新型車が開発されるたびに、ロケットブースト機能や超高速走行能力など、突如として危険な新機能が備わるかもしれないという状況をイメージしてください。そのような予測不可能な危険に備えるため、定期的に検査して危険機能を検出し、安全対策が整うまで販売を控えるというのが、このRSPの考え方です。",
     "category": "安全性",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "zoom-partnership-and-investment": {
+  "anthropic:zoom-partnership-and-investment": {
     "slug": "zoom-partnership-and-investment",
     "url": "https://www.anthropic.com/news/zoom-partnership-and-investment",
     "title_original": "Zoom Partnership and Investment in Anthropic",
@@ -4044,9 +4247,10 @@
     ],
     "analogy": "これは料理店とAIシェフの関係のようなものです。Zoomという有名な料理店が、Claudeという優秀なAIシェフを雇って、まずは顧客対応の受付窓口に配置します。そのAIシェフが顧客の要望を正確に理解し、安全で高品質なサービスを提供することで、お店全体の評判が上がるというわけです。さらに、Zoom投資会社がAnthropicに資金を出すことで、両者が長期的なビジネスパートナーになる関係を築いています。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "krishna-rao-joins-anthropic": {
+  "anthropic:krishna-rao-joins-anthropic": {
     "slug": "krishna-rao-joins-anthropic",
     "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
     "title_original": "Krishna Rao joins Anthropic as Chief Financial Officer",
@@ -4064,9 +4268,10 @@
     ],
     "analogy": "ラオ氏の就任は、スタートアップ企業が成長期に入る際に、経験豊富なベテラン船長を新たに雇う、というようなもの。これまで小回りが利く小舟だった企業が、より大きな船へと成長する際に、資金管理や航路計画の専門知識を持つ船長が必要になるのと同じです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "enterprise-ai-services-company": {
+  "anthropic:enterprise-ai-services-company": {
     "slug": "enterprise-ai-services-company",
     "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
     "title_original": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
@@ -4084,9 +4289,10 @@
     ],
     "analogy": "例えるなら、これは『テーラーメイド注文服』のようなものです。既存の大企業向けサービスは『高級百貨店の既製服』で、大企業はそのまま使えます。でも中堅企業は『既製服のサイズが合わない』という課題を抱えていました。今回の新会社は『カスタムテーラー』として、中堅企業の業務に合わせて、AIという素材を使って『その企業だけの服』を作ってくれるサービスなのです。",
     "category": "パートナーシップ",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "finance-agents": {
+  "anthropic:finance-agents": {
     "slug": "finance-agents",
     "url": "https://www.anthropic.com/news/finance-agents",
     "title_original": "Agents for financial services and insurance",
@@ -4104,9 +4310,10 @@
     ],
     "analogy": "従来の金融アナリストが書類作成や数値確認に費やしていた時間は、信頼できる秘書が基本的な準備を済ませてくれるようなもの。人間は本来の判断・分析業務に集中でき、より質の高い成果を短時間で生み出せるようになります。",
     "category": "製品アップデート",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   },
-  "higher-limits-spacex": {
+  "anthropic:higher-limits-spacex": {
     "slug": "higher-limits-spacex",
     "url": "https://www.anthropic.com/news/higher-limits-spacex",
     "title_original": "Higher usage limits for Claude and a compute deal with SpaceX",
@@ -4124,6 +4331,7 @@
     ],
     "analogy": "これは、人気が出たレストランが、もっと多くのお客さんを受け入れるために、調理場を大きくして、シェフや調理器具を増やすようなものです。SpaceXやAmazonなどとの『調理場の拡張契約』により、同時に対応できるお客さんの数が激増し、待ち時間も短くなるということです。",
     "category": "企業ニュース",
-    "summarized": true
+    "summarized": true,
+    "source": "anthropic"
   }
 }
