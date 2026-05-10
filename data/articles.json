@@ -4333,5 +4333,109 @@
     "category": "企業ニュース",
     "summarized": true,
     "source": "anthropic"
+  },
+  "claude:new-in-claude-managed-agents": {
+    "source": "claude",
+    "slug": "new-in-claude-managed-agents",
+    "url": "https://claude.com/blog/new-in-claude-managed-agents",
+    "title_original": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+    "title_ja": "Claude管理エージェント新機能：自己学習、品質基準、複数エージェント協働",
+    "description": "Dreaming, outcomes, and multiagent orchestration are now available in Claude Managed Agents. Build agents that learn, meet a quality bar, and work in parallel.",
+    "published": "2026-05-06",
+    "lastmod": "2026-05-06",
+    "summary": "Anthropicは、Claude管理エージェント向けに3つの新機能を発表しました。「ドリーミング」は過去のセッションを分析してエージェントが自己改善する機能です。「アウトカム」は成功基準を定義し、エージェントが自動的に品質チェックする仕組みです。「マルチエージェント協働」は複数の専門エージェントが並行して作業し、複雑なタスクを効率化します。これらの機能により、弁護士向けのHarveyでは完了率が6倍に向上し、Netflixのログ分析やEveryのライティングツールなど、実務的な成果が出ています。開発者は最小限の指示で、より複雑な業務を自動化できるようになります。",
+    "points": [
+      "「ドリーミング」機能が過去の経験からパターンを学習し、エージェントが自動改善できるようになった",
+      "「アウトカム」で品質基準を設定すれば、エージェントが自分で仕事をチェックして直すため、人間の確認作業が削減される",
+      "複数のエージェントが同時並行で異なるタスクを処理でき、大規模な業務の処理速度が向上する",
+      "実際の企業（Harvey、Netflix、Wisedocs）が導入し、完了率6倍、処理速度50%改善などの成果を達成"
+    ],
+    "analogy": "これは、新人スタッフが仕事を覚える過程に例えられます。「ドリーミング」は寝ている間に1日の経験を整理して次の日に活かす学習プロセス。「アウトカム」はチェックリストを持って自分の仕事を確認する品質管理。「マルチエージェント協働」は営業、企画、事務などの専門チームが同時に異なるプロジェクトを進める体制のようなものです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:connectors-for-everyday-life": {
+    "source": "claude",
+    "slug": "connectors-for-everyday-life",
+    "url": "https://claude.com/blog/connectors-for-everyday-life",
+    "title_original": "New connectors in Claude for everyday life",
+    "title_ja": "日常生活で使うアプリがClaudeと連携できるように！新しいコネクター機能を追加",
+    "description": "Claude now connects to the apps you use every week, including AllTrails, Instacart, Audible, Booking.com, and TripAdvisor. Ask, and Claude brings in the right app.",
+    "published": "2026-04-23",
+    "lastmod": "2026-04-24",
+    "summary": "AI助手のClaudeが、AllTrails、Instacart、Audible、Booking.comなど、日常生活で使う15以上のアプリと新たに連携できるようになりました。これまで仕事用ツールとの連携が中心でしたが、今回の拡張により、週末の旅行計画や買い物、音楽など、プライベートの場面でもClaudeが活躍します。Claudeは会話の中で自動的に必要なアプリを提案し、複数のアプリを組み合わせて使うことも可能。広告や有料の宣伝はなく、ユーザーが何を共有するかを完全にコントロールできます。購入や予約の際も、実行前に確認を取る設計になっているため、安心して利用できます。",
+    "points": [
+      "AllTrails、Spotify、Uber、Resy、TurboTaxなど15以上の日常アプリがClaudeと連携可能に",
+      "会話の中でClaudeが自動的に必要なアプリを提案し、複数のアプリを組み合わせて使用できる",
+      "広告やスポンサー商品がなく、ユーザーデータは学習に使用されず、いつでも接続を解除可能",
+      "購入や予約などの重要な操作は実行前に確認を取る安全設計",
+      "全ての料金プランで利用でき、モバイル版はベータ版で提供中"
+    ],
+    "analogy": "これはちょうど、万能なアシスタントが、あなたが日常的に使う様々なお店（旅行会社、スーパー、映画館など）と繋がったようなもの。Claudeに『週末のハイキングコース探してほしい』と言うだけで、AllTrailsから自動的に近くのコースを探してくれて、その中から『もっと短いコースで』と追加リクエストすることも、別のアプリを試すことも、全部会話の中でできてしまうという便利さです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-managed-agents-memory": {
+    "source": "claude",
+    "slug": "claude-managed-agents-memory",
+    "url": "https://claude.com/blog/claude-managed-agents-memory",
+    "title_original": "Built-in memory for Claude Managed Agents",
+    "title_ja": "Claude Managed Agents に新機能「メモリ機能」が登場—AIエージェントが経験から学習できるように",
+    "description": "Memory on Claude Managed Agents lets you build agents that learn from every task, user, and session, with no memory infrastructure to maintain.",
+    "published": "2026-04-23",
+    "lastmod": "2026-04-23",
+    "summary": "Anthropic は Claude Managed Agents に「メモリ機能」を追加しました。これは AI エージェント（自動で作業をこなす AI）が、過去のやり取りや経験を記憶して活用できるようにする機能です。メモリはファイルとして保存されるため、企業は完全に管理・制御でき、複数のエージェント間で共有することも可能。Netflix や Rakuten などの企業がすでに利用しており、Rakuten では初回エラーを 97% 削減、検証速度を 30% 向上させるなど、大きな効果が報告されています。複雑なインフラ構築なしに、スケーラブルな学習機能を実装できるのが特徴です。",
+    "points": [
+      "AI エージェントがセッション（やり取りの一区切り）を超えて経験から学習でき、同じ間違いを繰り返さなくなる",
+      "メモリはファイルとして保存・管理でき、API を通じて開発者が完全にコントロール可能",
+      "複数のエージェントが同じメモリを安全に共有でき、権限管理や監査ログも完備している",
+      "Netflix や Rakuten などの大手企業が実導入し、エラー削減や処理速度向上を実現している",
+      "企業が自分たちでメモリ管理システムを構築する必要がなく、開発に集中できる"
+    ],
+    "analogy": "メモリ機能は、優秀なアシスタントが毎日の仕事を通じて学ぶようなイメージです。最初は同じ質問に何度も答えていますが、何度か対応するうちに『このお客さんはいつもこうだ』『この問題はこう解決すればいい』と記憶して、次からは素早く正確に対応できるようになる—それと同じことが AI エージェントでも実現できるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-code-desktop-redesign": {
+    "source": "claude",
+    "slug": "claude-code-desktop-redesign",
+    "url": "https://claude.com/blog/claude-code-desktop-redesign",
+    "title_original": "Redesigning Claude Code on desktop for parallel agents",
+    "title_ja": "Claude Code デスクトップアプリが複数タスク同時実行対応に刷新",
+    "description": "Today, we're releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.",
+    "published": "2026-04-14",
+    "lastmod": "2026-04-15",
+    "summary": "Anthropicは、Claude Code のデスクトップアプリを大幅にリデザインしました。最大の特徴は、複数のプログラミングタスクを同時に進行できるようになったことです。新しいサイドバーでは、複数のプロジェクトを一覧管理でき、ステータスやプロジェクト別にフィルタリングできます。また、アプリ内に統合されたターミナル、ファイルエディタ、差分表示機能により、外部ツールを切り替えることなく作業を完結できます。インターフェースは完全にドラッグ&ドロップで配置可能で、ユーザーの作業スタイルに合わせてカスタマイズできます。パフォーマンスも向上し、すべてのClaudeプランユーザーが利用可能になりました。",
+    "points": [
+      "複数プロジェクトを同時に並行処理でき、サイドバーで一元管理できる",
+      "ターミナル、ファイルエディタ、差分表示がアプリ内に統合され、外部ツール切り替え不要",
+      "ドラッグ&ドロップで画面レイアウトを自由にカスタマイズ可能",
+      "複数の表示モード（詳細/標準/要約）でインターフェースを調整できる",
+      "Pro/Max/Team/Enterpriseプランおよび Claude API ユーザーが利用可能"
+    ],
+    "analogy": "新しいClaudeデスクトップアプリは、複数の現場を監督する現場監督のようなものです。従来は1つのプロジェクトに集中して待つ状態でしたが、今は複数の建設現場（プロジェクト）で同時に作業を進めながら、各現場の進捗を確認し、必要に応じて指示を出すことができるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:preparing-your-security-program-for-ai-accelerated-offense": {
+    "source": "claude",
+    "slug": "preparing-your-security-program-for-ai-accelerated-offense",
+    "url": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
+    "title_original": "Preparing your security program for AI-accelerated offense",
+    "title_ja": "AIの進化する脅威に備える：企業のセキュリティ対策ガイド",
+    "description": "We share our initial set of recommendations to shore up your defenses based on our own findings and security practices.",
+    "published": "2026-04-10",
+    "lastmod": "2026-04-13",
+    "summary": "Anthropic社は、AI技術が脆弱性の発見と悪用を急速に加速させている状況に対応するため、セキュリティ対策の新しい推奨事項を発表しました。今後24ヶ月で、長年見落とされていた多くのバグがAIモデルによって発見される見込みです。同社は防御側もAIを活用できることに着目し、6つの重要な対策を提示しています：パッチの迅速な適用、脆弱性報告の大幅増加への準備、本番環境前のバグ発見、既存コード内の未知の脆弱性の発見、侵害を想定した設計、そして露出面の最小化です。これらの対策はクラウド自動化やAIを活用した脆弱性スキャンなど、実装可能な具体的なアプローチを含んでいます。",
+    "points": [
+      "AIにより脆弱性の発見と悪用スピードが加速。パッチ適用の時間窓が大幅に縮小している",
+      "既知の脆弱性（KEVカタログ）への緊急対応と、EPSS指標による優先順位付けが必要",
+      "脆弱性報告の桁違いの増加に対応するため、トリアージや修復プロセスの自動化が急務",
+      "本番環境前の段階で、AI技術を使った脆弱性スキャンとパッチ生成を実施すべき",
+      "ゼロトラストアーキテクチャの採用と、短命トークン使用で長期的な認証情報の流出リスクを低減"
+    ],
+    "analogy": "これまで企業のセキュリティは、鍵をしっかり掛けた家を守ることのようでした。しかし今、泥棒（攻撃者）が建物内のすべての隙間を自動的に見つけるAIツールを持つようになったため、家全体の設計そのものを変えて、複数の部屋ごとに別々の鍵をつけ、侵入後に動き回りにくくする対策が必要になったということです。",
+    "category": "安全性",
+    "summarized": true
   }
 }
