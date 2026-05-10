@@ -4647,5 +4647,110 @@
     "analogy": "Claude Security は、セキュリティチームの頭脳を持った新人エンジニアのようなもの。複雑な建築図面（コード）を詳しく読み込んで、素人目には見えない構造的な問題（脆弱性）を見つけ出し、その修正方法までを提案してくれます。従来の方法は既知の危ないパターンをチェックするだけでしたが、Claude は全体を理解して隠れた問題も発見できるのが特徴です。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:lessons-from-building-claude-code-prompt-caching-is-everything": {
+    "source": "claude",
+    "slug": "lessons-from-building-claude-code-prompt-caching-is-everything",
+    "url": "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything",
+    "title_original": "Lessons from building Claude Code: Prompt caching is everything",
+    "title_ja": "Claude Codeの開発から学んだこと：プロンプトキャッシングがすべて",
+    "description": "Best practices for optimizing prompt caching in Claude Code, including how to most effectively structure your prompt, use tools, and layer on compaction.",
+    "published": "2026-04-30",
+    "lastmod": "2026-04-30",
+    "summary": "Anthropic のClaudeチームが、AI会話システム「Claude Code」の開発で学んだプロンプトキャッシング（過去の計算結果を再利用する技術）の最適化方法を紹介しています。キャッシングは「前方一致マッチング」という仕組みで、リクエストの最初から最後まで同じ内容が続くほど、より多くの計算結果が再利用できます。そのため、システムプロンプトなどの固定部分を最初に配置し、会話メッセージなどの変わる部分を最後に配置することが重要です。また、セッション中にモデルやツールを変更するとキャッシュが無効になるため、避けるべきです。キャッシュ率を監視し、コンテキストウィンドウが満杯になった時の圧縮処理でもキャッシュを保つことが、コスト削減と応答性能の向上に直結します。",
+    "points": [
+      "プロンプトキャッシングは前方一致マッチングで動作するため、リクエストの最初の部分が同じほど効率的にキャッシュが機能する",
+      "固定部分（システムプロンプト）を最初に、変動部分（会話）を最後に配置することで、最大のキャッシュ効果が得られる",
+      "セッション中にモデルやツールセットを変更するとキャッシュが全て無効になるため、ツールを使って状態遷移を表現する方が良い",
+      "日付変更など情報更新が必要な場合は、システムプロンプトを変更せず会話メッセージに含める方法が推奨される",
+      "キャッシュ率を監視することは稼働率監視と同じくらい重要で、数パーセント低下するだけでコストと遅延が大きく増加する"
+    ],
+    "analogy": "プロンプトキャッシングは、図書館で毎回同じ基本参考資料（辞書など）をコピーするのではなく、開架に置きっぱなしにして、新しい質問が来るたびに基本部分は共用し、その質問に関連する新しい情報だけを追加していく、というようなものです。最初の部分が全く同じなら、コピー作業なしにすぐ使えます。",
+    "category": "製品アップデート・技術ベストプラクティス",
+    "summarized": true
+  },
+  "claude:how-kepler-built-verifiable-ai-for-financial-services-with-claude": {
+    "source": "claude",
+    "slug": "how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+    "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+    "title_original": "How Kepler built verifiable AI for financial services with Claude",
+    "title_ja": "Keplerが金融サービス向けに検証可能なAIを構築した方法",
+    "description": "Inside a platform that indexes 26M+ SEC filings, earnings call transcripts, IR presentations, consensus estimates, and private data across 14,000+ companies and 27 global markets, and how the team behind it built AI that validates every number to the exact filing, page, and line item.",
+    "published": "2026-04-30",
+    "lastmod": "2026-05-01",
+    "summary": "金融企業向けAIプラットフォーム「Kepler Finance」は、2600万件以上のSEC提出資料や企業データを扱い、すべての数字を元の書類まで遡って検証できます。創業者たちは、従来のAIが計算結果を生成する際に間違いやすい問題を解決するため、AIの「推論層」と「検証層」を分離する設計を採用。Claudeに複雑な質問の分析と計画を任せ、実際の計算は決定的で検証可能なシステムで実行することで、金融規制環境で信頼できるAIを実現しました。わずか3ヶ月で14000社以上、27の市場のデータをインデックス化し、金融機関の「AIの結果をどう監査するのか」という根本的な課題に答えを出しています。",
+    "points": [
+      "従来のAIは推論と計算を同時に行うため誤りが生じやすい。Keplerは「AIが考える」と「システムが計算する」を分離し、すべての数字を元の書類まで遡って検証可能にした",
+      "複雑な多段階の金融分析でClaude（推論モデル）が他のAIと異なる点は、曖昧性を検出したら人間に判断を仰ぐこと。これが金融分析では最も重要",
+      "Opus 4.7（複雑推論用）とSonnet 4.6（処理量が多い段階用）など、異なるClaudeモデルをパイプラインの各段階に適切に割り当てることで、品質とコストを最適化",
+      "すべてのプロンプト変更やモデル更新を数千件のテストケースで検証する自動評価システムを構築。金融では「静かな誤り」が顧客を永遠に失う可能性がある",
+      "プロバンナンス（追跡可能性）を最初から設計に組み込み、SOC 2認証など規制要件を満たす。小規模チームが大規模データを扱える根拠"
+    ],
+    "analogy": "従来のAIは「医者が患者の話を聞きながら同時に診断を下す」ようなもので、途中で聞き間違えると全体の診断が狂います。Keplerのやり方は「医者が質問を整理してから、別の検査機器で測定結果を確認する」という二段階設計。AIは複雑な質問を理解するのに専念し、実際の数値計算は誰が見ても正しい方法で確認するのです。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "claude:new-guide-deploying-claude-across-the-enterprise-with-claude-cowork": {
+    "source": "claude",
+    "slug": "new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
+    "url": "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
+    "title_original": "Deploying Claude across the enterprise with Claude Cowork",
+    "title_ja": "Claude Coworkで企業全体にAIを導入する方法",
+    "description": "Learn how organizations use Claude Cowork to transform their day-to-day work, including use cases and best practices from Anthropic’s own teams.",
+    "published": "2026-04-29",
+    "lastmod": "2026-04-30",
+    "summary": "Anthropicが新しいツール「Claude Cowork」について紹介しています。これは、AIを企業のあらゆる部門で活用できるデスクトップアプリケーションです。従来のチャット形式のAI利用から進化し、分析者、弁護士、営業、マーケターなど様々な職種の日常業務を変革します。ローカルファイルやSlack、Google Driveなどの連携アプリ、ブラウザなど既存の仕事環境と統合でき、ExcelやPowerPointとの連携も可能です。Anthropicが実際の導入ガイドを提供しており、採用成熟度モデルから組織全体への展開ロードマップまで、トムソン・ロイター、Zapier、Jamfなどの実例を交えて解説しています。",
+    "points": [
+      "Claude Coworkは全職種向けのデスクトップAIツールで、既存の仕事環境（ファイル、Slack、Google Drive等）と統合可能",
+      "チャット質問から部門全体のカスタマイズまで、5段階の採用成熟度モデルを提供",
+      "Anthropicが6ヶ月間の導入ロードマップと実装ベストプラクティスをガイドとして公開",
+      "Excel・PowerPoint連携により、スプレッドシートやスライド資料を含む包括的なワークフローが実現",
+      "トムソン・ロイター等の顧客導入事例から、様々な業界に応用可能なパターンを学習できる"
+    ],
+    "analogy": "従来のAIチャットが「専門家に質問して答えを聞く」というものなら、Claude Coworkは「あなたの机の上に常駐する賢いアシスタントが、あなたが使っている資料やツールすべてを見ながら仕事を手伝ってくれる」という違いです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-api-skill": {
+    "source": "claude",
+    "slug": "claude-api-skill",
+    "url": "https://claude.com/blog/claude-api-skill",
+    "title_original": "Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp",
+    "title_ja": "Claude APIスキルが複数の開発ツールに統合、開発者の作業を効率化",
+    "description": "Today, CodeRabbit, JetBrains, Resolve AI, and Warp are bundling the claude-api skill, giving developers production-ready Claude API code wherever they build. First introduced in Claude Code in March, the skill is now in more of the tools developers already use.",
+    "published": "2026-04-29",
+    "lastmod": "2026-04-29",
+    "summary": "Anthropicは、AI アシスタント「Claude」の API（プログラムを連携させる仕組み）を簡単に使いこなすための「Claude APIスキル」を、CodeRabbit、JetBrains、Resolve AI、Warpなど複数の開発ツールに統合しました。このスキルは、開発者がClaudeのコードを書く際に必要な知識（キャッシュ最適化、モデルアップグレード方法、エラー対策など）を自動的に提供します。開発者は普段使っているツール内でClaudeに質問するだけで、最新のAPI情報に基づいた高品質なコードが得られるため、バグや互換性の問題が減り、効率的に作業を進められます。",
+    "points": [
+      "Claude APIスキルが主要な開発ツール4つに統合され、開発者がいつでもClaudeのAPI知識にアクセス可能に",
+      "キャッシュ最適化やモデルアップグレード、エラー防止など、実践的なコーディング支援を自動提供",
+      "APIが更新されても自動的に最新情報を反映するため、開発者が情報を手動で調べる手間が削減",
+      "オープンソース化されており、他の開発ツールもこのスキルを導入・カスタマイズ可能",
+      "各企業のリーダーが、本機能により開発速度向上やバグ減少を実感していることをコメント"
+    ],
+    "analogy": "料理人が新しいレシピを作る際、常に最新の調理技法や材料の特性を知っているシェフが一緒にいるようなもの。開発者がClaudeと対話するたびに、最新のプログラミング技法やベストプラクティスがリアルタイムで提供されるため、手間なく高品質な成果物が得られます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:product-development-in-the-agentic-era": {
+    "source": "claude",
+    "slug": "product-development-in-the-agentic-era",
+    "url": "https://claude.com/blog/product-development-in-the-agentic-era",
+    "title_original": "Product development in the agentic era",
+    "title_ja": "AI時代の製品開発：プロダクトマネージャーの仕事の変化",
+    "description": "Jess Yan, Claude Managed Agents product manager, shares how she uses the product to unblock herself and free up time to hone her craft.",
+    "published": "2026-04-29",
+    "lastmod": "2026-04-29",
+    "summary": "Anthropic のプロダクトマネージャー、ジェス・ヤン氏が、Claude Managed Agents（クラウド上で動作する自動化エージェント）を使って仕事の効率を劇的に改善した事例を紹介しています。従来は会議やレポート作成に時間を費やしていましたが、AIエージェントが日々の定型業務を自動化することで、ユーザー理解や製品開発といった創造的で重要な仕事に集中できるようになったと述べています。データ分析、市場調査、デモ作成など、実際に構築したエージェントの具体例も紹介されており、プロダクトマネージャーだけでなく、様々な職種が同様の自動化恩恵を受けられることを示唆しています。",
+    "points": [
+      "AI技術により、プロダクトマネージャーは会議やレポートといった事務作業から解放され、本来の創造的な仕事に時間を使えるようになった",
+      "Claude Managed Agents により、採用分析、顧客感情監視、デモ作成などの反復的なタスクを自動化できる",
+      "自分たちの製品を実際に使いながら開発することで、ドキュメント作成だけでは気づかないような設計改善が可能になった",
+      "複数のAIツール（Claude、Claude Code、Managed Agents）を組み合わせることで、調査から実装、自動化まで一貫した効率化が実現できる",
+      "この仕事の効率化パターンは、プロダクトマネージャーだけでなく、他の職種にも応用できる可能性がある"
+    ],
+    "analogy": "従来の製品開発は、会議や報告書作成で時間を取られ、実際に手を動かす時間が限られていました。これは、毎日の日記をすべて手書きしていた人が、音声録音機能を手に入れたようなもの。思考や創造に集中する時間が大幅に増え、本当に大切な仕事に全力投球できるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
