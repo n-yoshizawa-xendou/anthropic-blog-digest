@@ -4752,5 +4752,47 @@
     "analogy": "従来の製品開発は、会議や報告書作成で時間を取られ、実際に手を動かす時間が限られていました。これは、毎日の日記をすべて手書きしていた人が、音声録音機能を手に入れたようなもの。思考や創造に集中する時間が大幅に増え、本当に大切な仕事に全力投球できるようになったということです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development": {
+    "source": "claude",
+    "slug": "onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
+    "url": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
+    "title_original": "Onboarding Claude Code like a new developer: Lessons from 17 years of development",
+    "title_ja": "大規模な古いコードをClaudeに教える方法：17年の開発経験から学んだ教訓",
+    "description": "The methodology that onboards new developers to MacCoss Lab's 700,000-line codebase works on Claude Code, too. Here's how Brendan MacLean, a Claude Developer Ambassador whose lab is part of our Claude for Open Source program, did it.",
+    "published": "2026-04-28",
+    "lastmod": "2026-04-28",
+    "summary": "ワシントン大学のマッコス研究所は、70万行以上のC#コードで構成される大規模なタンパク質分析ソフト「Skyline」を17年間開発・維持してきました。研究者ブレンダン・マクリーンは、新しい開発者をこのコードベースに教える方法をAIアシスタント「Claude Code」に応用することに成功しました。彼は、文脈（コンテキスト）を別のリポジトリに整理し、スキルと呼ばれる知識モジュールを活用することで、AIに大規模プロジェクトを理解させることができました。その結果、未完了だったプロジェクトが2週間で完成し、自動化ツールやテスト管理が大幅に改善されました。重要な教訓は、AIに学習させるには、文脈を明確に記録・維持することが必須だということです。",
+    "points": [
+      "新人教育と同じ方法でAIにコードを理解させる：新しい開発者に全体を教えるのではなく小さなプロジェクトから始めるように、AIにも段階的に学習させることが効果的",
+      "文脈（コンテキスト）を別リポジトリで管理：コードベースと分離して、プロジェクトの背景知識を版管理し、すべての開発者がアクセス可能にする",
+      "スキルライブラリで専門知識を記録：デバッグやバージョン管理など、プロジェクト固有のルールを再利用可能なモジュール化して保存",
+      "実績：1年かかった機能が2週間で完成、長年停止していた機能開発が再開でき、自動テストと日次レポートが完全自動化される",
+      "レガシーコードベースでの成功の鍵：AIは「魔法」ではなく、適切な文脈提供と知識管理が成功を決定する"
+    ],
+    "analogy": "これは、新入社員の教育に似ています。全社の膨大なマニュアルを渡して『覚えておいて』と言っても無駄ですが、小さなプロジェクトから始めて、必要な知識を段階的に教え、会社の文化や進め方をドキュメント化して保管しておけば、次の新入社員も同じように育成できます。Claudeもこれと同じ方法で、大規模で複雑なコードを扱えるようになったわけです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:building-agents-that-reach-production-systems-with-mcp": {
+    "source": "claude",
+    "slug": "building-agents-that-reach-production-systems-with-mcp",
+    "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "title_original": "Building agents that reach production systems with MCP",
+    "title_ja": "AIエージェントを本番システムに接続する効果的な方法 - MCPの活用ガイド",
+    "description": "Patterns for building effective MCP integrations: server design, OAuth with CIMD and vaults, context-efficient clients, and skills. Plus where MCP fits alongside direct API calls and CLIs for connecting agents to your systems.",
+    "published": "2026-04-22",
+    "lastmod": "2026-04-22",
+    "summary": "Anthropicが、AIエージェント（自動で作業を行うAI）を実際のビジネスシステムに接続する方法を解説しています。3つのアプローチ（直接API呼び出し、コマンドラインツール、MCP）があり、クラウドで動作する本番環境ではMCP（モデルコンテキストプロトコル）が最適だと説明しています。MCPは共通の通信規格として機能し、複数のAIツールから同じシステムにアクセスできます。記事では、効果的なMCPサーバー設計（少数の目的別ツール、OAuth認証、リッチなUI表示）や、AIクライアントの効率化パターン（必要時のツール読み込み、プログラム的なツール実行）、スキル（手順知識）との組み合わせ方を紹介しています。月間3億ダウンロードを超えるMCP SDKが広く採用されており、クラウドベースのAIエージェント時代において、MCPが重要な基盤として機能していることを示しています。",
+    "points": [
+      "AIエージェントをシステムに接続する3つの方法の中で、クラウド環境の本番システムにはMCP（共通通信規格）が最適",
+      "効果的なMCPサーバー設計は、多数の個別ツールではなく、意図単位でまとめた少数のツールを用意することが重要",
+      "OAuth認証やMCPアプリ（チャート・フォーム・ダッシュボード）などの豊かな機能により、ユーザー体験が向上",
+      "ツール定義のオンデマンド読み込みやプログラム的なツール実行により、文脈トークン使用量を大幅削減（85%以上の削減例あり）",
+      "MCPサーバーとスキル（AI実行手順）の組み合わせで、AIエージェントの能力がさらに拡張される"
+    ],
+    "analogy": "MCPは、複数のお店で使える「共通の支払いカード」のようなものです。従来の直接API呼び出しは各店舗と個別に契約する方式で、店舗が増えるたびに手続きが増えます。MCPはどのAIツール（いろいろなお店）からでも、同じ方式で企業システム（銀行）にアクセスできる統一された仕組みを提供し、管理がシンプルになります。",
+    "category": "技術ガイド・ベストプラクティス",
+    "summarized": true
   }
 }
