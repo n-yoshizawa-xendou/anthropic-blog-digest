@@ -4794,5 +4794,46 @@
     "analogy": "MCPは、複数のお店で使える「共通の支払いカード」のようなものです。従来の直接API呼び出しは各店舗と個別に契約する方式で、店舗が増えるたびに手続きが増えます。MCPはどのAIツール（いろいろなお店）からでも、同じ方式で企業システム（銀行）にアクセスできる統一された仕組みを提供し、管理がシンプルになります。",
     "category": "技術ガイド・ベストプラクティス",
     "summarized": true
+  },
+  "claude:agent-view-in-claude-code": {
+    "source": "claude",
+    "slug": "agent-view-in-claude-code",
+    "url": "https://claude.com/blog/agent-view-in-claude-code",
+    "title_original": "Agent view in Claude Code",
+    "title_ja": "Claude Codeに「エージェントビュー」が登場 - 複数のAI作業を一箇所で管理できるようになりました",
+    "description": "Today we're introducing agent view in Claude Code: one place to manage all your Claude Code sessions.",
+    "published": "2026-05-11",
+    "lastmod": "2026-05-11",
+    "summary": "Anthropicが、Claude Codeに新機能「エージェントビュー」を追加しました。これは、複数のAI（エージェント）が同時に行う作業をすべて一箇所で管理できる機能です。従来は、複数の作業を並行実行する際に、複数のターミナル画面を開いて管理する必要がありました。エージェントビューを使うと、複数のAI作業を背景で実行させながら、どの作業が入力待ちか、実行中か、完了したかを一覧で確認できます。開発者は複数のプログラミングタスクを同時に開始し、必要な時だけ作業に戻って確認・指示ができるため、効率的に多数のプロジェクトを進められます。現在、Pro以上のプランで利用可能です。",
+    "points": [
+      "複数のAI作業を一つの画面で管理でき、各作業の状態（入力待ち・実行中・完了）が一目瞭然",
+      "背景で作業を実行させたまま、別のタスクに素早く切り替えられる",
+      "プルリクエスト作成、ダッシュボード更新など、長時間実行される作業に特に有効",
+      "入力が必要な場合は、その作業に立ち戻らずに直接回答できる"
+    ],
+    "analogy": "複数の料理を同時に作るシェフのようなイメージです。従来は各鍋をずっと見守る必要がありましたが、エージェントビューなら、現在のどの鍋が煮詰まり待ちで、どの鍋がまだ煮込み中かを一覧で確認でき、必要な時だけ該当の鍋に戻れるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-platform-on-aws": {
+    "source": "claude",
+    "slug": "claude-platform-on-aws",
+    "url": "https://claude.com/blog/claude-platform-on-aws",
+    "title_original": "Introducing the Claude Platform on AWS",
+    "title_ja": "AWS上でClaudeプラットフォームが利用可能に",
+    "description": "The Claude Platform on AWS is now generally available, offering a new way for AWS customers to access the full set of Claude platform features with AWS authentication, billing, and commitment retirement.",
+    "published": "2026-05-11",
+    "lastmod": "2026-05-11",
+    "summary": "AnthropicのAI「Claude」がAmazonのクラウドサービス「AWS」上で直接利用できるようになりました。これまでAWSを使っている企業は、AWSの認証やお金の支払い、請求書の管理などを統一して行えるようになります。Claudeの全機能が初日から利用でき、コード実行やファイルの読み込み、データ分析など、様々な高度な機能を使うことができます。企業はAWSの既存のセキュリティ設定や権限管理をそのまま使えるため、新たに複雑な設定をする必要がありません。これにより、AWSの顧客はClaudeの最新機能をより簡単に導入・活用できるようになりました。",
+    "points": [
+      "Claudeの全機能をAWS上で直接使用可能に。AWSの認証・請求・権限管理が統一される",
+      "コード実行、ファイル管理、Webデータ取得など高度な機能を初日から利用可能",
+      "AWS IAMというセキュリティ機能を使って既存の権限管理をそのまま活用できる",
+      "Amazon Bedrockという別の選択肢も引き続き利用可能（データをAWS内に保持する場合向け）",
+      "最新のClaudeモデル（Opus 4.7、Sonnet 4.6など）が対応"
+    ],
+    "analogy": "これまでAWSを利用している企業が、Claudeを使う場合、別の会社とビジネスをするようなものでした。今回、Claudeが直接AWSの中に入ったので、同じ会社の別の部門と協働するような感覚に変わりました。請求書も権限管理も全て一つの窓口で済むようになった、というわけです。",
+    "category": "パートナーシップ、製品アップデート",
+    "summarized": true
   }
 }
