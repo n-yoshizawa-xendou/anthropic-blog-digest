@@ -4835,5 +4835,109 @@
     "analogy": "これまでAWSを利用している企業が、Claudeを使う場合、別の会社とビジネスをするようなものでした。今回、Claudeが直接AWSの中に入ったので、同じ会社の別の部門と協働するような感覚に変わりました。請求書も権限管理も全て一つの窓口で済むようになった、というわけです。",
     "category": "パートナーシップ、製品アップデート",
     "summarized": true
+  },
+  "anthropic:claude-for-small-business": {
+    "source": "anthropic",
+    "slug": "claude-for-small-business",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "title_original": "Introducing Claude for Small Business",
+    "title_ja": "中小企業向けClaudeを発表：ビジネスツールにAIを統合",
+    "description": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
+    "published": "",
+    "lastmod": "2026-05-13T20:25:06.000Z",
+    "summary": "AnthropicはClaudeを中小企業向けに最適化した新サービス「Claude for Small Business」を発表しました。QuickBooksやPayPal、HubSpotなど、すでに中小企業が使っているビジネスツールの中にClaudeを直接組み込めるもので、給与計画の作成、月次決算、請求書の追跡、マーケティングキャンペーンの実行といった日常業務を自動化します。15個の実行可能なワークフローと15個のスキルが搭載され、経営者が承認してから実行されるため、セキュリティと信頼性が確保されます。同時に、無料のオンライン講座「AI Fluency for Small Business」も開始し、実際に中小企業を経営している経営者たちが講師となって、AIの安全で倫理的な活用方法を教えます。Anthropicはこれを通じて、大企業と中小企業の技術格差を縮める支援をしています。",
+    "points": [
+      "QuickBooksやPayPalなど既存ツール内にClaudeを統合し、給与計画や決算などの業務を自動化",
+      "15個の準備済みワークフローと15個のスキルにより、経営者の夜間業務を削減",
+      "ユーザーが計画を承認してから実行される仕組みで、セキュリティと信頼性を確保",
+      "無料のAI教育コース開始と全米10都市での無料ワークショップツアーを実施",
+      "地域の中小企業支援機関との提携により、技術格差の是正を目指す"
+    ],
+    "analogy": "これは、レストラン経営者が毎晩手作業で行っていた売上計算や明日の仕入れ計画を、既に使っているレジ・在庫管理システムにAIアシスタントを追加するようなものです。新しいシステムを学ぶ必要がなく、普段使っているツールがより賢くなるので、経営者は簡単に導入できます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:best-practices-for-computer-and-browser-use-with-claude": {
+    "source": "claude",
+    "slug": "best-practices-for-computer-and-browser-use-with-claude",
+    "url": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+    "title_original": "Best practices for computer and browser use with Claude",
+    "title_ja": "Claudeのコンピュータ・ブラウザ操作機能を使う際のベストプラクティス",
+    "description": "Practical guidance for developers building computer and browser use integrations with the Claude model family.",
+    "published": "2026-05-13",
+    "lastmod": "2026-05-13",
+    "summary": "Anthropicが公開した、AI アシスタント「Claude」がコンピュータやブラウザを操作する際のベストプラクティスガイドです。最も重要なポイントは、スクリーンショット（画面の画像）をAPIに送信する前に適切なサイズに縮小することです。高解像度のままでは、APIの内部制限により自動的に圧縮され、モデルが見ている画像と実際のクリック座標がズレてしまいます。推奨解像度は1280×720ピクセルで、これによりクリック精度が大幅に向上します。その他にも、テキスト指示を画像の前に置く、座標を正しくスケーリングする、小さなUIэлементをズーム機能で拡大するなど、実装上の細かいテクニックが紹介されています。",
+    "points": [
+      "スクリーンショットを送信前に適切にサイズ縮小することが、クリック精度向上の最重要ポイント",
+      "推奨解像度は1280×720ピクセル（Opus 4.7の場合は1080p）で、APIの処理制限を避けられる",
+      "テキスト指示を画像の前に配置し、返されたクリック座標を正しく元の画面解像度にスケーリングする必要がある",
+      "小さなボタンやチェックボックスはズーム機能を有効にするか、キーボード操作で対応する",
+      "Claude Sonnet 4.6はクリック精度、Opus 4.7は高解像度対応と推論能力のバランスが優れている"
+    ],
+    "analogy": "スマートフォンで小さい文字を読むとき、ズームしないと見えづらいのと同じように、AIがスクリーンショットを見るときも、適切なサイズに調整してあげないと、ボタンの位置を正確に認識できません。大きく拡大しすぎても圧縮しすぎても精度が落ちるので、バランスの取れた「ちょうどいいサイズ」を見つけることが大切です。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:code-w-claude-sf-2026-sf": {
+    "source": "claude",
+    "slug": "code-w-claude-sf-2026-sf",
+    "url": "https://claude.com/blog/code-w-claude-sf-2026-sf",
+    "title_original": "Code w/ Claude SF 2026: Building on the AI exponential",
+    "title_ja": "Code w/ Claude SF 2026：AI時代の急速な進化に対応する開発",
+    "description": "Check out our Code w/ Claude SF sessions on YouTube.",
+    "published": "2026-05-12",
+    "lastmod": "2026-05-12",
+    "summary": "Anthropicは年次開発者会議「Code w/ Claude SF 2026」をサンフランシスコで開催しました。アイデアから実際に動くソフトウェアまでの距離が急速に縮まっており、AI技術の急速な発展に対応した設計が重要というメッセージが共通テーマでした。会議ではClaudeの利用制限を引き上げ、複数のAIエージェント機能を新たに発表しました。「Dreaming」機能で過去のセッションから学習し、「Multiagent orchestration」で複数のAIが協力して作業でき、「Outcomes」機能で品質基準を定義して自動評価することが可能になります。YouTubeで講演内容を視聴できます。",
+    "points": [
+      "アイデアから実用化までの時間短縮が実現する中で、AI技術の急速な進化に積極的に対応する設計が必須",
+      "Claude Code の利用制限を2倍に引き上げ、より多くの開発者が大規模に構築できるように改善",
+      "Claude Managed Agents に4つの新機能を追加：過去から学習する「Dreaming」、複数AIが協力する「Multiagent orchestration」、品質チェックする「Outcomes」、完了通知の「Webhooks」",
+      "会議では実際のコーディングセッション、顧客の事例、ハンズオンチュートリアルを通じて実践的な活用方法を紹介",
+      "ロンドン（5月19-20日）と東京（6月5-6日）で同様のイベントを開催予定"
+    ],
+    "analogy": "これは、料理を例えるなら、レシピを思いついてから食卓に出すまでの時間が大幅に短縮されるようなものです。以前は複雑な調理工程が必要でしたが、今はAIという下準備ロボットが手伝うので、より簡単で速く、美味しい料理（ソフトウェア）が作れるようになったということです。",
+    "category": "製品アップデート、企業ニュース",
+    "summarized": true
+  },
+  "claude:claude-for-the-legal-industry": {
+    "source": "claude",
+    "slug": "claude-for-the-legal-industry",
+    "url": "https://claude.com/blog/claude-for-the-legal-industry",
+    "title_original": "Claude for the legal industry",
+    "title_ja": "法律業界向けClaude：20以上の新しい連携ツールと12の専門プラグインを発表",
+    "description": "We're releasing 20+ new MCP connectors that link Claude to the software that the legal industry runs on and 12 new plugins tailored specific legal work and practice areas.",
+    "published": "2026-05-12",
+    "lastmod": "2026-05-12",
+    "summary": "AnthropicがClaudeを法律業界向けに大幅に拡張しました。20以上の新しい連携ツール（MCP）と12の専門分野別プラグインを追加し、弁護士事務所や企業法務部門が日頃使っているソフトウェアと直結させました。WordやOutlookなどの一般的なアプリ内でClaudeが動作し、契約書の作成・審査から法務調査まで、様々な法的業務を自動化・効率化します。さらに、法律援助機関や非営利法務組織向けに割引プログラムを提供し、一般人がより簡単に法的支援を受けられる環境も整備しています。",
+    "points": [
+      "20以上の新しい連携ツールにより、契約管理システムや電子証拠開示プラットフォーム、法律研究データベースなど、法律業界で使われる主要なソフトウェアと統合",
+      "12の実務分野別プラグイン（企業法務、訴訟、雇用法など）で、弁護士の最も頻繁な業務を自動化",
+      "Microsoft Word・Outlook・Excel・PowerPointなど普段使うツール内でClaudeが直接動作し、業務の一貫性を保持",
+      "法律援助団体や公共法務機関向けの割引プログラムで、低所得層や個人が法的支援にアクセスしやすく",
+      "オープンプロトコルに基づいているため、各事務所が独自の法務ルール・テンプレートをカスタマイズ可能"
+    ],
+    "analogy": "これは、例えば病院の医師が使う医療記録システム・検査機器・薬剤管理システムを、すべて一つの統合プラットフォームに結びつけるようなもの。医師は今まで通り自分のデスクトップやメール内で診察するだけで、バックグラウンドで必要なすべての情報が自動的に連携される感じです。",
+    "category": "製品アップデート、パートナーシップ",
+    "summarized": true
+  },
+  "claude:how-anthropic-uses-claude-cybersecurity": {
+    "source": "claude",
+    "slug": "how-anthropic-uses-claude-cybersecurity",
+    "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+    "title_original": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+    "title_ja": "Anthropic のサイバーセキュリティチームが Claude Code を使って脅威検知プラットフォームを構築",
+    "description": "Jackie Bow, technical lead for Anthropic's Detection Platform Engineering team, shares how her team uses Claude Code to build tools that automate alert triage, accelerate investigations, and transform how security analysts work.",
+    "published": "2026-05-12",
+    "lastmod": "2026-05-12",
+    "summary": "Anthropic のセキュリティチームが、AI アシスタント「Claude Code」を活用して「CLUE」という脅威検知・対応プラットフォームを開発しました。従来、セキュリティ分析官は複数のツールを行き来しながら手作業でアラートを調査していましたが、CLUE により自然言語での問い合わせで大量のデータを自動処理できるようになりました。その結果、誤検知率が 33% から 7% に低下し、月間約 1,870 時間分の作業が自動化されるなど、大幅な効率向上を実現。重要なのは、Claude に柔軟な調査権限を与えることで、人間が予測しない調査経路も発見でき、より効果的な脅威検知が可能になったということです。",
+    "points": [
+      "CLUE プラットフォームは、Slack やドキュメント、コードなど社内システムに直接アクセスして、アラートに重要な文脈情報を付加することで、ノイズを減らします",
+      "自然言語のクエリ機能により、複雑なデータベース操作が数分で完了。月 12,000 以上のクエリが自動化され、手作業なら 234 人日分の工数削減を実現",
+      "従来の「決められた手順に従う」セキュリティシステムではなく、Claude に自由度を持たせることで、人間が思いつかない調査経路から新たな脅威を発見できる可能性が高まります",
+      "継続的な改善のため、全ての調査内容を記録・分析し、組織全体のセキュリティ知識として蓄積・活用していく方針です"
+    ],
+    "analogy": "従来のセキュリティ調査は、図書館の本を複数の異なるカタログシステムから手作業で探し出すようなもの。CLUE は、司書に『この人物に関する情報を集めて』と自然言語で頼むと、複数の図書館から自動的に関連情報を集めて、その人物像を素早く把握できるシステムのようなものです。",
+    "category": "AI技術，製品アップデート，セキュリティ，パートナーシップ",
+    "summarized": true
   }
 }
