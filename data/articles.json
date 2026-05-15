@@ -4939,5 +4939,89 @@
     "analogy": "従来のセキュリティ調査は、図書館の本を複数の異なるカタログシステムから手作業で探し出すようなもの。CLUE は、司書に『この人物に関する情報を集めて』と自然言語で頼むと、複数の図書館から自動的に関連情報を集めて、その人物像を素早く把握できるシステムのようなものです。",
     "category": "AI技術，製品アップデート，セキュリティ，パートナーシップ",
     "summarized": true
+  },
+  "anthropic:pwc-expanded-partnership": {
+    "source": "anthropic",
+    "slug": "pwc-expanded-partnership",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "title_original": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "title_ja": "PwCがClaudeを導入し、企業向けテクノロジーとビジネス取引を加速",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-05-15T01:01:22.000Z",
+    "summary": "AIの開発・安全性研究を行うAnthropicと大手コンサルティング企業PwCが戦略的提携を拡大しました。PwCは独自のAIアシスタント「Claude」を数十万人の社員に導入し、企業の古い業務システムをAI対応に刷新します。保険の引受期間が10週間から10日に短縮、サイバーセキュリティ対応が数時間から数分に高速化するなど、すでに顧客企業で成果が出ています。PwCは3万人の社員をClaudeの専門家として育成し、金融・医療・保険などの複雑な業務分野でAIを活用した新しい事業グループ「CFOオフィス」も立ち上げます。両社は企業の旧来システムという2兆ドル規模の足かせを取り除き、AI時代の経営モデルに転換させることを目指しています。",
+    "points": [
+      "PwCが数十万人の従業員にClaudeを導入し、保険引受や人事業務など複数の分野で業務時間を最大70%削減",
+      "金融専門の新部門「Office of the CFO」を立ち上げ、銀行・保険・医療など規制の厳しい業界向けのAI活用を推進",
+      "3万人のPwC社員をClaudeの認定専門家として育成する教育プログラムを実施",
+      "スポーツ・医療・サイバーセキュリティなど複数の業界で既に本運用が開始されており、実績が出ている",
+      "企業の旧式システムをAI対応に刷新することで、経済全体で推定2兆ドルの生産性向上を目指す"
+    ],
+    "analogy": "企業の古いシステムは、新しい高速道路の時代に古い一本道で物を運んでいるようなもの。Claudeはその古い道を新しい高速道路に付け替え、同じ人数でより多くの仕事をこなせるようにする手助けをします。例えば、以前は10週間かかっていた保険の審査が10日で終わるようになるのは、手作業の道から自動化の高速道路へ移ったのと同じです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:gates-foundation-partnership": {
+    "source": "anthropic",
+    "slug": "gates-foundation-partnership",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "title_original": "Anthropic forms $200 million partnership with the Gates Foundation",
+    "title_ja": "Anthropic、ゲイツ財団と2億ドルのパートナーシップを発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-05-14T16:05:24.000Z",
+    "summary": "AI企業のAnthropicは、ゲイツ財団と2億ドル規模のパートナーシップを締結しました。今後4年間で、医療、教育、経済発展などの分野で、Claude（Anthropicが開発したAI）を活用した支援を行います。具体的には、低・中所得国における医療支援として、ワクチン開発や病気の予測、医療データ分析を加速させます。教育では、アフリカやインドの子どもたちへの学習支援ツール開発、経済支援では農業生産性向上やスキル管理システムの構築を進めます。このパートナーシップは、市場メカニズムだけでは解決できない社会課題にAIの恩恵を届けるというAnthropicの方針を体現しています。",
+    "points": [
+      "医療分野：低・中所得国での病気対策を強化し、ワクチン開発やポリオ・HPVなどの感染症研究を加速",
+      "教育分野：アメリカ、アフリカ、インドで学習支援ツールや教育用AIを共同開発",
+      "経済支援：小規模農家の生産性向上と失業者・再就職者向けのキャリア支援ツール構築",
+      "公共財の創出：ベンチマークやデータセットを無料公開し、誰もが使えるAIツール基盤を整備",
+      "4年間で2億ドルをクレジット・技術支援・資金で投下"
+    ],
+    "analogy": "例えるなら、このパートナーシップは「強力な医者（AI）を、医療サービスが不足している地域に派遣する」ようなものです。ゲイツ財団が「派遣先の選定と支援」を、Anthropicが「医者の育成と最適化」を担当し、協力して地域の健康向上を目指しています。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:the-founders-playbook": {
+    "source": "claude",
+    "slug": "the-founders-playbook",
+    "url": "https://claude.com/blog/the-founders-playbook",
+    "title_original": "The founder's playbook: Building an AI-native startup",
+    "title_ja": "創業者向けガイド：AI時代のスタートアップの作り方",
+    "description": "We share how AI-native founders are using Claude at every stage of the startup journey, with practical exercises, frameworks, and prompts.",
+    "published": "2026-05-14",
+    "lastmod": "2026-05-14",
+    "summary": "Anthropicが公開した「創業者向けプレイブック」は、AI技術を使ってスタートアップを立ち上げるための実践的なガイドです。プログラミング経験がない創業者でも、AI（Claude）を使うことでアプリケーション開発から自動化まで実現できるようになりました。このプレイブックは、スタートアップの4つの段階（企画、MVP開発、ローンチ、スケーリング）ごとに、具体的な目標、失敗パターン、AI活用の演習を提供。成功した複数の企業の事例も含まれており、創業者がAIを中心に会社を設計する方法を学べます。",
+    "points": [
+      "プログラミング知識がなくても、AIを使うことでビジネスアプリを開発・運用できる時代になった",
+      "スタートアップの4段階（企画→MVP→ローンチ→スケール）それぞれに最適なAI活用方法が解説されている",
+      "創業者の役割が『自分で手を動かす人』から『全体を指揮する人』へシフトしている",
+      "実際の成功事例を基に、技術的負債を避けるアーキテクチャやセキュリティ実践方法が学べる",
+      "プロダクト開発の各段階で、ChatやClaudeのどの機能をいつ使うかの判断基準が提供されている"
+    ],
+    "analogy": "これまでスタートアップを作ることは、大工さんが一から家を建てるようなものでした。しかし今は、AIという優秀なアシスタントがいるため、設計図を示すだけで家が建つようになった。だから創業者は、どんな家を建てるか考える『建築家』の役割に専念できるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+    "source": "claude",
+    "slug": "how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "title_original": "How Claude Code works in large codebases: Best practices and where to start",
+    "title_ja": "大規模コードベースでClaudeを効果的に使う方法：ベストプラクティスと始め方",
+    "description": "The most successful Claude Code deployments share a set of recognizable patterns across configurations, tooling, and org structure. This article is part of Claude Code at scale, a new series covering best practices for engineering organizations building with Claude Code at enterprise scale.",
+    "published": "2026-05-14",
+    "lastmod": "2026-05-14",
+    "summary": "Anthropicが、大規模なコードベース（数百万行のコード、複数のリポジトリなど）でClaudeコードを成功させるための実践的なガイドを公開しました。成功している組織に共通する5つの拡張機能（設定ファイル、自動化スクリプト、スキル、プラグイン、接続ツール）の活用方法、そしてコードベースを「読みやすく」する工夫を詳しく説明しています。重要な点は、Claudeの性能はモデルそのものよりも、その周囲に構築される環境（\"ハーネス\"）によってより大きく左右されるということです。また、新しいモデルのリリースに合わせて定期的に設定を見直すことも推奨されています。",
+    "points": [
+      "Claudeは大規模コードベースでも、ファイルシステムを自分で探索して必要な情報を見つける方式で動作し、古い情報に頼る方式より信頼性が高い",
+      "モデルの性能よりも、その周囲の環境設定（CLAUDE.mdファイル、自動化スクリプト、スキルなど）の方がClaudeの実際の能力に大きく影響する",
+      "コードの構造を整理し、不要なファイルを除外し、言語サーバーを使用することで、Claudeがコードを効率的に探索できるようになる",
+      "新しいモデルがリリースされるたびに、過去の設定が逆効果になる可能性があるため、3～6ヶ月ごとに見直しが必要",
+      "導入を成功させるには、技術的な設定だけでなく、組織的な体制整備（担当者の配置、責任の明確化）も重要"
+    ],
+    "analogy": "Claudeがコードベースを探索する様子は、大きな図書館で本を探す人間の司書のようなものです。目録（古い情報源）に頼るのではなく、図書館の中を実際に歩き回り、書架を自分の目で確認しながら必要な本を見つけます。ただし、図書館が整理されていて、案内表示（CLAUDE.mdファイル）がわかりやすければ、より効率的に探索できるのと同じです。",
+    "category": "企業ニュース、ベストプラクティス",
+    "summarized": true
   }
 }
