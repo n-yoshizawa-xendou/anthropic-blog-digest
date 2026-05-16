@@ -5023,5 +5023,26 @@
     "analogy": "Claudeがコードベースを探索する様子は、大きな図書館で本を探す人間の司書のようなものです。目録（古い情報源）に頼るのではなく、図書館の中を実際に歩き回り、書架を自分の目で確認しながら必要な本を見つけます。ただし、図書館が整理されていて、案内表示（CLAUDE.mdファイル）がわかりやすければ、より効率的に探索できるのと同じです。",
     "category": "企業ニュース、ベストプラクティス",
     "summarized": true
+  },
+  "claude:deploying-claude-across-the-legal-industry": {
+    "source": "claude",
+    "slug": "deploying-claude-across-the-legal-industry",
+    "url": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+    "title_original": "Deploying Claude across the legal industry",
+    "title_ja": "法律業界全体へのClaudeの導入ガイド",
+    "description": "A practical guide to using Claude for legal professionals, covering Claude products, connectors, practice-area plugins, and a three-phase adoption roadmap.",
+    "published": "2026-05-15",
+    "lastmod": "2026-05-15",
+    "summary": "法律専門家の間でAI活用が急速に広がっています。2026年の調査では、法務責任者の87%がAIを使用していると回答しており、わずか3年前の20%から大きく増加しました。Claudeは契約書の確認、企業買収時の調査、プライバシー評価、法廷準備など、法律業務の様々な場面で活用されています。Anthropic（Claudeの開発企業）は、法律業界向けの実践的な導入ガイドを公開しました。このガイドでは、異なる場面に合わせた複数のClaudeプロダクト（チャット、Cowork、Microsoft365連携など）の選び方、法律業務に特化した機能追加、そして3段階の導入計画を詳しく説明しています。商法、雇用法、知的財産権など12の法律分野ごとの事前構築プラグインも提供されており、セキュリティやデータ保護についての質問にも答えています。",
+    "points": [
+      "法律業界でのAI活用率が3年で20%から87%に急増し、弁護士事務所や法務部門の競争力を左右する重要な要素になっている",
+      "Claudeは契約審査、M&A調査、プライバシー評価、訴訟準備など多様な法律業務に対応可能",
+      "用途に応じてChat、Cowork、Microsoft365連携など複数のClaudeプロダクトを組み合わせて使用できる",
+      "12の法律分野に対応した事前構築プラグインと導入ロードマップが提供されており、企業はすぐに導入を開始できる",
+      "Anthropic自身の法務チームが実際にClaudeを使用して契約審査時間を大幅に短縮した実績がある"
+    ],
+    "analogy": "法律業務へのAI導入は、企業が複数の専門家チームを雇うのと似ています。従来は契約書確認に1人の弁護士が数日かけていた作業も、AIアシスタントが下準備をすることで、弁護士の時間を重要な判断に集中させることができるようになります。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
