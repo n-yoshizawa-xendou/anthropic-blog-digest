@@ -5044,5 +5044,25 @@
     "analogy": "法律業務へのAI導入は、企業が複数の専門家チームを雇うのと似ています。従来は契約書確認に1人の弁護士が数日かけていた作業も、AIアシスタントが下準備をすることで、弁護士の時間を重要な判断に集中させることができるようになります。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "anthropic:anthropic-acquires-stainless": {
+    "source": "anthropic",
+    "slug": "anthropic-acquires-stainless",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "title_original": "Anthropic acquires Stainless",
+    "title_ja": "AnthropicがStainlessを買収—AIエージェントの接続性を強化",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-05-18T18:12:57.000Z",
+    "summary": "AI企業のAnthropicは、SDKs（ソフトウェア開発キット）とMCPサーバーツールの開発企業Stainlessを買収しました。Stainlessは2022年の設立以来、AnthropicのAPIを使いやすくするためのツールを提供してきました。この買収により、ClaudeというAIアシスタントが、より多くのデータやツールに接続できるようになります。簡単に言えば、AIエージェント（自動で作業をするAI）が、他のアプリケーションやサービスとつながりやすくなるということです。AnthropicはMCP（Model Context Protocol）という技術を通じて、AIの接続性を向上させることを目指しています。",
+    "points": [
+      "StainlessはAPIを様々なプログラミング言語（TypeScript、Python、Goなど）で簡単に使えるツールを提供していた",
+      "買収により、Claudeがデータベースやビジネスアプリなど、より多くのシステムに接続できるようになる",
+      "AIエージェントが実際に役立つには、他のシステムとの連携が重要という考え方が背景にある",
+      "Stainlessの創業者も、より多くの開発者がClaudeを活用できるようになることに期待している"
+    ],
+    "analogy": "これはちょうど、スマートフォンにUSBハブを接続するようなものです。スマートフォン（Claude）単体でも便利ですが、USBハブ（Stainless）を通じてパソコンやプリンターなど様々なデバイス（企業のシステム）につなげることで、できることがぐんと増えます。",
+    "category": "パートナーシップ、企業ニュース、AI技術",
+    "summarized": true
   }
 }
