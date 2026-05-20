@@ -5064,5 +5064,89 @@
     "analogy": "これはちょうど、スマートフォンにUSBハブを接続するようなものです。スマートフォン（Claude）単体でも便利ですが、USBハブ（Stainless）を通じてパソコンやプリンターなど様々なデバイス（企業のシステム）につなげることで、できることがぐんと増えます。",
     "category": "パートナーシップ、企業ニュース、AI技術",
     "summarized": true
+  },
+  "anthropic:widening-conversation-ai": {
+    "source": "anthropic",
+    "slug": "widening-conversation-ai",
+    "url": "https://www.anthropic.com/news/widening-conversation-ai",
+    "title_original": "Widening the conversation on frontier AI",
+    "title_ja": "AI技術の未来について、多様な視点から対話を広げる",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-05-20T00:29:29.000Z",
+    "summary": "AIの安全性研究で知られるAnthropicは、より良いAIシステムを開発するため、宗教学者や哲学者、倫理学者など15以上の文化圏の専門家との対話を始めました。AIが何十万人もの人々と関わる中で、「良いAI」とは何かを深く考える必要があり、多様な視点からの学びが重要だと考えています。特に注目されるのは「道徳形成」に関する研究です。Anthropicは人間関係が道徳発達に果たす役割に着目し、メンターの役割をモデルにした実験を実施。ClaudeというAIに自分の倫理的約束を思い出すツールを与えたところ、問題のある行動が大幅に減少したと報告しています。今後は法律家や心理学者、ライター、市民機関との対話も計画されています。",
+    "points": [
+      "Anthropicが15以上の宗教・文化的背景を持つ専門家との対話を開始し、AIの安全性と倫理について多角的な視点を取り入れている",
+      "AIの『道徳形成』に焦点を当て、何十万人に影響を与えるAIシステムがどうあるべきかを深く考察している",
+      "メンターの役割からインスピレーションを得て、Claudeにセルフチェック機能を導入し、不適切な行動を減らすことに成功している",
+      "宗教的・世俗的・政治的など、あらゆる視点から平等に学ぶことで、特定の価値観に偏らないAIの開発を目指している",
+      "今後、法律家や心理学者など、さらに広い範囲の専門家との対話を予定し、AIが社会に与える影響について研究を深める予定"
+    ],
+    "analogy": "AIの道徳形成は、子どもの成長に例えられます。子どもが良い親や先生（メンター）に導かれると、判断力が養われるように、AIも人間の知恵や経験から学び、迷ったときに立ち止まって考える仕組みがあれば、より良い判断ができるようになります。",
+    "category": "AI技術、安全性、パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:anthropic-kpmg": {
+    "source": "anthropic",
+    "slug": "anthropic-kpmg",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg",
+    "title_original": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "title_ja": "KPMGが27万6000人以上の従業員と事業全体にClaudeを統合—戦略的同盟を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-05-19T13:30:59.000Z",
+    "summary": "世界有数のコンサルティング会社KPMGが、Anthropicと戦略的な全世界同盟を発表しました。この提携により、KPMGの27万6000人以上の全従業員がClaudeというAI技術にアクセスできるようになります。KPMGは自社のデジタルプラットフォーム「Digital Gateway」にClaudeを組み込み、税務や法務、サイバーセキュリティなどの業務を効率化します。従来は数週間かかっていたAIツール開発が数分で完了するようになるなど、業務方法が大きく変わります。さらに、プライベートエクイティ（投資ファンド）向けのソリューションも共同開発し、セキュリティや信頼性を重視した責任あるAI導入を推進します。",
+    "points": [
+      "KPMGの全従業員27万6000人がClaudeにアクセス可能に—業務効率化と新しい働き方を実現",
+      "自社プラットフォーム「Digital Gateway」にClaudeを統合—複数ツール間の切り替え作業が不要に",
+      "従来は数週間かかったAI開発が数分で実現—税務規制対応ツールなどで大幅な時間短縮",
+      "プライベートエクイティ向けの優先パートナーに—投資先企業のAI導入をサポート",
+      "「人間中心」のAI運用を重視—技術だけでなく従業員の判断や意思決定を重視した責任あるAI導入"
+    ],
+    "analogy": "これまで料理をするのに、塩はここ、醤油はあそこ、砂糖はあそこと別々の場所から取らなければならず、毎回時間がかかっていました。それが今、必要な調味料がすべて一つの調理台に揃っているようなもの。同じ料理でも格段に速く、効率的にできるようになります。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:claude-managed-agents-updates": {
+    "source": "claude",
+    "slug": "claude-managed-agents-updates",
+    "url": "https://claude.com/blog/claude-managed-agents-updates",
+    "title_original": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+    "title_ja": "Claude Managed Agents がアップデート：自社運営のサンドボックスとプライベートネットワーク接続に対応",
+    "description": "Claude Managed Agents can now operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers",
+    "published": "2026-05-19",
+    "lastmod": "2026-05-19",
+    "summary": "Anthropicが提供するClaudeの自動化ツール「Claude Managed Agents」が大幅にアップデートされました。これまでより企業のセキュリティ要件に対応しやすくなり、2つの主な新機能が追加されました。\n\n1つ目は「自社運営サンドボックス」機能です。AIエージェント（自動で作業を行うプログラム）が実行される作業環境を、企業が自社インフラやCloudflare、Vercel等のサービスを通じて管理できるようになりました。これにより、機密ファイルやシステムが社外に漏れず、企業の安全基準を満たす形で運用できます。\n\n2つ目は「MCPトンネル」機能で、エージェントが社内のプライベートネットワーク内にあるデータベースやシステムに安全にアクセスできます。インターネットに公開せずにセキュアな接続を実現し、社内ツールをエージェントの「道具」として活用できるようになりました。複数の企業が既にこれらの機能を活用して、AIを用いた業務自動化を実装しています。",
+    "points": [
+      "企業の重要なデータやシステムを社内に保持したまま、AIエージェントを安全に運用できる自社運営サンドボックス機能がリリースされた",
+      "Cloudflare、Daytona、Modal、Verselなど複数のサンドボックスプロバイダーから選択でき、企業のニーズに合わせた環境構築が可能",
+      "プライベートネットワーク内のデータベースやAPIにエージェントが直接アクセスできるMCPトンネル機能で、業務自動化の幅が広がる",
+      "既に金融機関や営業ツール企業など、複数の実企業がこの新機能を活用して実装を進めている",
+      "自主ホスト型サンドボックスは公開ベータ版、MCPトンネルはリサーチプレビュー段階で利用可能"
+    ],
+    "analogy": "これは銀行の支店で例えると、従来は『銀行本部のセキュアなシステム内でのみ業務が行える』という制限がありましたが、今は『銀行が信頼できるセキュリティ体制のもとで、支店内の金庫や書類にも安全にアクセスしながら業務を行える』というイメージです。重要な資産を自分たちで管理・保護しながら、自動化の効率性も得られるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:using-claude-code-the-unreasonable-effectiveness-of-html": {
+    "source": "claude",
+    "slug": "using-claude-code-the-unreasonable-effectiveness-of-html",
+    "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+    "title_original": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "title_ja": "Claude Code でHTMLを使う：HTMLの驚くべき有効性",
+    "description": "How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.",
+    "published": "2026-05-20",
+    "lastmod": "2026-05-19",
+    "summary": "Anthropic の Claude Code チームは、従来の Markdown 形式ではなく HTML 形式を使って、より豊かで読みやすく、共有しやすい出力を生成することを推奨しています。HTML を使用することで、表やグラフ、カラー、インタラクティブな要素など、より複雑な情報を効率的に表現できます。また、HTML ファイルはブラウザで直接開いて共有できるため、100行を超えるような長いドキュメントでも読みやすくなります。企画、設計、コードレビュー、レポート作成など、様々な用途で HTML の利点が活かされており、ユーザーが Claude との作業をより詳細に把握し続けることができます。",
+    "points": [
+      "HTML は表、グラフ、SVG、インタラクティブ要素など、Markdown より豊かな情報表現が可能",
+      "HTML ファイルはブラウザで直接開けるため、共有が簡単で、長いドキュメントでも読みやすい",
+      "設計、企画、コードレビュー、レポート、カスタムエディタなど、複数の実務用途で活用できる",
+      "ユーザーが Claude の意思決定をより詳しく確認でき、プロセス全体に関わり続けられる",
+      "トークン使用量は増えるが、出力の質と可読性の向上により、全体的には効率が上がる"
+    ],
+    "analogy": "Markdown から HTML への移行は、紙の報告書から対話的なダッシュボードへの変更に似ています。紙の報告書はシンプルで読みやすいですが、グラフ、表、スライダーなどで直接データを操作したり、複雑な情報を視覚的に理解したりすることはできません。HTML はその対話的で視覚的な豊かさを提供します。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
