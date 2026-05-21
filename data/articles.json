@@ -5148,5 +5148,26 @@
     "analogy": "Markdown から HTML への移行は、紙の報告書から対話的なダッシュボードへの変更に似ています。紙の報告書はシンプルで読みやすいですが、グラフ、表、スライダーなどで直接データを操作したり、複雑な情報を視覚的に理解したりすることはできません。HTML はその対話的で視覚的な豊かさを提供します。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book": {
+    "source": "claude",
+    "slug": "how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+    "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+    "title_original": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+    "title_ja": "Anthropicの営業リーダーが4,000社の顧客管理をClaudeで効率化する方法",
+    "description": "Travis Bryant, Head of US Mid-Market GTM at Anthropic, shares how he uses Claude Cowork to prepare customer briefs and weekly forecasts, and to run an overnight territory scoring that used to take cross-functional teams hundreds of hours.",
+    "published": "2026-05-20",
+    "lastmod": "2026-05-20",
+    "summary": "Anthropicの営業責任者トラビス・ブライアント氏が、Claude Cowork（AIと人間が協力して業務を進めるツール）を使い、営業活動の効率を大幅に改善した事例を紹介しています。従来は複数のシステムからデータを集めて報告書を作成する作業に膨大な時間がかかっていましたが、Claude Coworkを導入することで、データ処理を自動化し、本来の営業活動（顧客との関係構築や戦略立案）に時間を使えるようになりました。特に注目すべきは、4,000社の顧客を採点する作業がかつては数百時間かかっていたのが、一晩で完了するようになったことです。",
+    "points": [
+      "毎日の小さなタスク（会議室予約、顧客通話資料作成）を自動化し、週90分以上の時間を削減",
+      "週間予測報告書の作成が3時間から大幅短縮され、リーダーシップへの報告品質が向上",
+      "4,000社の顧客スコアリング業務が、従来の数百時間から一晩で完了—営業担当者の優先順位決定に活用",
+      "英語のような簡単な指示で動作し、技術知識がなくても使える直感的なインターフェース",
+      "営業チームが本来やるべき顧客対応と戦略業務に時間を取り戻せる"
+    ],
+    "analogy": "これは、書類作成や計算といった事務作業をアシスタントに任せることで、営業担当者が営業活動に集中できるようになるのと同じです。AIが『型通りの作業』を引き受けることで、人間にしかできない『判断と創造的な仕事』の時間が生まれます。",
+    "category": "企業ニュース、製品アップデート、AI技術",
+    "summarized": true
   }
 }
