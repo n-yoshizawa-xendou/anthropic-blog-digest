@@ -5169,5 +5169,46 @@
     "analogy": "これは、書類作成や計算といった事務作業をアシスタントに任せることで、営業担当者が営業活動に集中できるようになるのと同じです。AIが『型通りの作業』を引き受けることで、人間にしかできない『判断と創造的な仕事』の時間が生まれます。",
     "category": "企業ニュース、製品アップデート、AI技術",
     "summarized": true
+  },
+  "claude:compliance-api-security-partners": {
+    "source": "claude",
+    "slug": "compliance-api-security-partners",
+    "url": "https://claude.com/blog/compliance-api-security-partners",
+    "title_original": "Claude now works with more security and compliance tools",
+    "title_ja": "Claudeがセキュリティとコンプライアンスツールとの連携を強化",
+    "description": "Today we're introducing integrations with notable security and compliance tools. Now IT and security teams can govern Claude across our platform and suite of products, the same way they govern other applications in their stack.",
+    "published": "2026-05-21",
+    "lastmod": "2026-05-21",
+    "summary": "Anthropicは、Claudeをセキュリティとコンプライアンスツール28種類と連携させることを発表しました。企業のIT・セキュリティチームは、新しい「Compliance API」を使うことで、Claudeの利用を他のアプリケーションと同じ方法で監視・管理できるようになります。この機能により、チャットの内容やファイルアップロード、ユーザーのログイン情報などを一元的に追跡し、機密情報の漏洩防止やセキュリティポリシーの適用が可能になります。CloudflareやMicrosoft Purview、Okta、Palo Alto Networksなど、企業で広く使われているセキュリティツールとの統合により、組織全体で統一されたセキュリティ体制を実現できます。",
+    "points": [
+      "Compliance APIにより、Claudeの会話内容やアクティビティログを企業のセキュリティツールと連携可能に",
+      "28種類のセキュリティ・コンプライアンスツール提供企業と統合済みで、既に使用している企業は設定だけで利用開始できる",
+      "機密情報の漏洩防止（DLP）、ユーザー認証、セキュリティ監視などの機能が統一されたダッシュボードで管理される",
+      "企業のセキュリティチームは、Claudeの利用をその他の業務アプリケーションと同じレベルで監視・統制できる"
+    ],
+    "analogy": "企業の守衛さんが従来は各部門の出入口で別々に見守っていたのに対し、今は全部門の出入記録が1つのセキュリティセンターに集約されるようなイメージです。Claudeも他のアプリケーションも、すべて同じ監視システムで一元管理できるようになりました。",
+    "category": "企業ニュース、セキュリティ、パートナーシップ",
+    "summarized": true
+  },
+  "claude:how-our-partners-are-putting-opus-to-work-for-cybersecurity": {
+    "source": "claude",
+    "slug": "how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+    "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+    "title_original": "How our partners are putting Opus to work for cybersecurity",
+    "title_ja": "パートナー企業がClaudeの最新モデル「Opus」をサイバーセキュリティ分野で活用中",
+    "description": "Learn how companies like Wiz, Palo Alto Networks, and Accenture are using Claude Opus to find and fix vulnerabilities faster and deploy AI defense at scale.",
+    "published": "2026-05-21",
+    "lastmod": "2026-05-21",
+    "summary": "Anthropicの高性能AI「Claude Opus」を、Wiz、パロアルトネットワークス、Accentureなどのセキュリティ企業が実際のシステム防御に活用し始めています。これらのパートナーは、AIを使って脆弱性（コンピュータシステムの弱点）をより迅速に発見・修正し、大規模な防御を展開しています。例えば、ある企業では1年分のセキュリティテスト作業を3週間で完了させ、別の企業では検査時間を3～5日から1時間未満に短縮しました。AIが攻撃手法を自動化する時代に、防御側も同様にAIを活用することで、システムをより安全に保つことができるようになっています。",
+    "points": [
+      "Wiz、パロアルトネットワークス、Accentureなどが、Claude Opusを使った実運用環境でのセキュリティテストで大幅な効率化を実現",
+      "脆弱性の発見から修正までの時間を大幅短縮（3～5日から1時間未満へ、修復を数時間から数日に短縮など）",
+      "AIが人間のペンテスター（セキュリティテスター）のように推論し、従来のツールでは見つけられない論理的な欠陥を発見可能に",
+      "AIを本番環境に安全に導入するためのガバナンスフレームワークが整備され、試験段階から実運用への移行が加速",
+      "複数のセキュリティ企業がOpusを統合したサービスを提供開始し、幅広い企業のセキュリティ防御を強化"
+    ],
+    "analogy": "従来のセキュリティテストは、患者の病気を見つけるために医者が定期的に検査するようなものでした。しかしAIを活用することで、24時間365日、複数の専門医が同時に患者を監視し、わずかな異変も即座に発見・対応できるようになったという感じです。",
+    "category": "パートナーシップ、AI技術、セキュリティ",
+    "summarized": true
   }
 }
