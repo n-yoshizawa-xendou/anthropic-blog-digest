@@ -5210,5 +5210,26 @@
     "analogy": "従来のセキュリティテストは、患者の病気を見つけるために医者が定期的に検査するようなものでした。しかしAIを活用することで、24時間365日、複数の専門医が同時に患者を監視し、わずかな異変も即座に発見・対応できるようになったという感じです。",
     "category": "パートナーシップ、AI技術、セキュリティ",
     "summarized": true
+  },
+  "claude:how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers": {
+    "source": "claude",
+    "slug": "how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+    "url": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+    "title_original": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+    "title_ja": "Anthropic財務チームがClaudeを活用して数字の背景にある物語を作り上げる",
+    "description": "Alice Fong, on the corporate finance and strategy team at Anthropic, shares how she uses Claude to maintain a single coherent financial narrative for the CFO and board, and free up 10 to 20 hours a week for higher-impact work.",
+    "published": "2026-05-22",
+    "lastmod": "2026-05-22",
+    "summary": "Anthropicの企業財務戦略チームのアリス・フォン氏は、AI助手「Claude」を使用して、四半期ごとの取締役会資料の作成を効率化しています。通常、数字が更新されるたびに資料全体の整合性を確認する必要があり、多くの時間を消費していました。Claudeは数字とテキストの矛盾をチェックし、説明文の一貫性を保証することで、毎週10～20時間を削減。これにより、フォン氏はデータ分析ではなく、戦略的な判断やビジネス分析など、より重要な業務に時間を使えるようになりました。他の部門でも同様に、Claudeが請求書の確認や予測分析、買収候補企業のスクリーニングなど、繰り返し発生する業務を自動化しています。",
+    "points": [
+      "Claudeが財務資料の数字とテキストの整合性を自動確認し、手作業による再確認時間を削減",
+      "毎週10～20時間の業務時間が削減され、戦略立案など高度な判断業務に時間を充てられる",
+      "月次レビューや取締役会資料作成など、繰り返される業務での効果が特に大きい",
+      "会計、税務、企業開発など複数の財務部門で同様のAI活用が進んでいる",
+      "ExcelやGoogleシートなど既存ツールとの連携により、複雑な設定なく導入できる"
+    ],
+    "analogy": "複数の人が同時に編集するグループプロジェクトで、いつも誰かが「あ、ここの数字が変わったから別のページの説明も変えなくちゃ」と気づくように、Claudeが自動的に全体の矛盾を見つけ出してくれるイメージです。人間は細部の確認に時間をとられず、プロジェクト全体の良さを考えることに集中できます。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
