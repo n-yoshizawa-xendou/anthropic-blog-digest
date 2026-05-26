@@ -5231,5 +5231,26 @@
     "analogy": "複数の人が同時に編集するグループプロジェクトで、いつも誰かが「あ、ここの数字が変わったから別のページの説明も変えなくちゃ」と気づくように、Claudeが自動的に全体の矛盾を見つけ出してくれるイメージです。人間は細部の確認に時間をとられず、プロジェクト全体の良さを考えることに集中できます。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:chris-olah-pope-leo-encyclical": {
+    "source": "anthropic",
+    "slug": "chris-olah-pope-leo-encyclical",
+    "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+    "title_original": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "title_ja": "Anthropic共同創業者クリス・オラーがローマ教皇のAI関連回勅に対してスピーチ",
+    "description": "The full text of Chris Olah's remarks on the Pope's encyclical on AI",
+    "published": "",
+    "lastmod": "2026-05-25T18:41:28.000Z",
+    "summary": "2026年5月、ローマ教皇レオ14世がAIに関する回勅「Magnifica humanitas（素晴らしい人間性）」を発表しました。Anthropic共同創業者のクリス・オラーはバチカンでのスピーチで、AI企業も商業的圧力や野心といった利益相反の中で動いており、だからこそ外部からの批判者が必要だと述べました。AI開発は単なる技術的問題ではなく、倫理や哲学、人間の幸福について考える必要があると強調。特に三つの課題―世界の貧困層への責任、人間の繁栄の在り方、AIの本質的な理解―について、宗教界や市民社会からの声が重要だと呼びかけました。",
+    "points": [
+      "AI企業も商業的・地政学的な圧力に影響を受けるため、外部からの批判者や道徳的な声が不可欠である",
+      "AI開発による雇用喪失への対応と、その恩恵の世界規模での公平な分配が重要な課題である",
+      "AIシステムは私たちから生まれた複雑で謎めいた存在であり、科学だけでなく哲学や人文学からの考察が必要である",
+      "AIモデル内部には人間の神経科学と似た構造や、喜びや恐れといった内部状態が見られており、その意味について継続的な検討が必要である",
+      "宗教界、市民社会、学者、政府など世界中の人々がAIの方向性に関わることで、より良い未来が実現できる"
+    ],
+    "analogy": "AIシステムをコンピュータ科学者が設計する橋や飛行機に例えるのは誤りです。むしろ、小説の登場人物を実在化させるようなもの。その登場人物が実際に働き、私たちと話すようになったときに、技術的な側面だけでなく、倫理的・哲学的な問い掛けが生じるのです。",
+    "category": "企業ニュース・パートナーシップ",
+    "summarized": true
   }
 }
