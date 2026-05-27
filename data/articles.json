@@ -5252,5 +5252,47 @@
     "analogy": "AIシステムをコンピュータ科学者が設計する橋や飛行機に例えるのは誤りです。むしろ、小説の登場人物を実在化させるようなもの。その登場人物が実際に働き、私たちと話すようになったときに、技術的な側面だけでなく、倫理的・哲学的な問い掛けが生じるのです。",
     "category": "企業ニュース・パートナーシップ",
     "summarized": true
+  },
+  "anthropic:kiyoung-choi-representative-director-anthropic-korea": {
+    "source": "anthropic",
+    "slug": "kiyoung-choi-representative-director-anthropic-korea",
+    "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+    "title_original": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
+    "title_ja": "Anthropic、韓国代表取締役にキ・ヨウン・チョイ氏を任命 ソウルオフィス開設に向けて",
+    "description": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office.",
+    "published": "",
+    "lastmod": "2026-05-26T23:11:06.000Z",
+    "summary": "AI企業Anthropicは、韓国でのビジネス展開を強化するため、キ・ヨウン・チョイ氏を韓国代表取締役として任命しました。韓国はClaudeというAIツールの利用が非常に活発で、人口比で予想される使用率の3.5倍以上の利用があります。チョイ氏はSnowflake、Google Cloud、Adobe、Autodesk、Microsoftなど大手テクノロジー企業で30年以上のキャリアを持つ経営者です。Anthropicは今後ソウルにオフィスを開設し、韓国の企業やスタートアップがClaudeを使用した革新的なサービス開発を支援していきます。既に法律事務所向けAIアシスタントや通信大手SKテレコムのカスタマーサービスAIなど、様々な用途での導入が進んでいます。",
+    "points": [
+      "韓国はClaudeの利用が非常に活発で、人口比の3.5倍以上の利用率を記録している",
+      "30年以上の経営経験を持つキ・ヨウン・チョイ氏が韓国代表として就任し、ソウルオフィスを統括する",
+      "法律・通信など様々な業界の大手企業がClaudeを導入し、ビジネス効率化を実現している",
+      "Anthropicは韓国の企業、スタートアップ、政府機関、開発者コミュニティとの連携を強化する予定",
+      "韓国は世界的に見ても最も洗練されたAI市場の一つであり、長期的な投資対象と位置づけている"
+    ],
+    "analogy": "これは、人気のラーメン店が繁盛している地域に新しい支店を出すのと同じです。韓国でClaudeが想像以上に多くの人に使われているのを見たAnthropicが、現地での事業を本格化させるために経験豊富な経営者を招いて、地域に根ざしたサービスを提供しようとしています。",
+    "category": "企業ニュース、パートナーシップ",
+    "summarized": true
+  },
+  "claude:code-w-claude-london-2026-rethinking-how-we-build": {
+    "source": "claude",
+    "slug": "code-w-claude-london-2026-rethinking-how-we-build",
+    "url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
+    "title_original": "Code w/ Claude London 2026: Rethinking how we build",
+    "title_ja": "Code w/ Claude ロンドン 2026：プログラミングの作り方を再考する",
+    "description": "Couldn't make it to London? Check out our Code w/ Claude London event recap and watch our session recordings.",
+    "published": "2026-05-26",
+    "lastmod": "2026-05-26",
+    "summary": "Anthropic が London で開催した「Code w/ Claude」イベントでは、開発者とビルダーが集まり、AI を活用したプログラミングの未来について学びました。イベントの主なポイントは、プログラミングがより簡単になっているということです。従来は「アイデア」から「動く状態」までに多くの複雑な手順が必要でしたが、AI エージェント（賢い自動化ツール）を使うと、問題を説明するだけでプログラムが自動生成されるようになります。新機能として「Claude Managed Agents」が発表され、企業は自社のサーバー上でセキュアに AI を使用できるようになりました。Spotify や Base44 などの企業がすでにこの技術を活用しており、次は Tokyo でイベントが開催予定です。",
+    "points": [
+      "AI がプログラミングを簡単にしている：問題を説明するだけで、AI が自動的にプログラムを作成する新しい体験が実現",
+      "セキュリティが強化された：企業が自社のサーバー内で安全に AI を使える「自社ホスト型サンドボックス」が新しくリリース",
+      "プライベートネットワーク対応：企業の内部システムをインターネットに公開せずに AI が利用できる「MCP トンネル」機能が追加",
+      "大企業も導入開始：Spotify や Amplitude などの有名企業がすでに新機能を利用して開発を進めている",
+      "世界中でイベント開催：London の後、Tokyo でも同様のイベントが予定されている"
+    ],
+    "analogy": "昔は計算機を買って、組み立てて、電源を入れるまでに様々な手順が必要でしたが、今はボタンを押すだけで答えが出てくるようなものです。AI プログラミングも同じで、以前は複雑な設定をたくさんしなければならなかったのが、今は『やりたいこと』を説明するだけで自動的に実現されるようになってきました。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
