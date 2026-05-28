@@ -5294,5 +5294,68 @@
     "analogy": "昔は計算機を買って、組み立てて、電源を入れるまでに様々な手順が必要でしたが、今はボタンを押すだけで答えが出てくるようなものです。AI プログラミングも同じで、以前は複雑な設定をたくさんしなければならなかったのが、今は『やりたいこと』を説明するだけで自動的に実現されるようになってきました。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:using-llms-to-secure-source-code": {
+    "source": "claude",
+    "slug": "using-llms-to-secure-source-code",
+    "url": "https://claude.com/blog/using-llms-to-secure-source-code",
+    "title_original": "Using LLMs to secure source code",
+    "title_ja": "Claude を使ってソースコードのセキュリティ脅威を発見・修正する方法",
+    "description": "We share best practices for how you can work with Claude Opus to build a threat model, discover vulnerabilities in your codebase, then verify, triage, and patch them.",
+    "published": "2026-05-27",
+    "lastmod": "2026-05-27",
+    "summary": "Anthropic のセキュリティチームが、AI モデル「Claude Opus」を使ってコードの脆弱性（セキュリティの弱点）を見つけ、修正するための実践的な方法を公開しました。重要な発見は、脆弱性を「見つける」ことは簡単になった一方で、それが本当に危険か確認して優先順位をつけ、実際に修正することが新たなボトルネック（課題）になっているということです。記事では「脅威モデルの構築」「検証環境の整備」「脆弱性の発見」「検証」「分類」「修正」という 6 ステップのループを紹介。チームが数百の脆弱性を発見・修正する際に効果的だった工夫や、AI が陥りやすい落とし穴も詳しく解説しています。",
+    "points": [
+      "脆弱性を見つけることはもはや簡単だが、その後の確認・優先順位付け・修正が新たな課題になっている",
+      "本当の脅威は何かを事前に定義する『脅威モデル』を作成することが、誤検知を減らし効率を大幅に向上させる",
+      "AI エージェント（自動実行プログラム）が実際にコードを実行・テストできる『サンドボックス』環境を用意することで、理論上の脆弱性と実際の危険性を区別できる",
+      "簡潔で目標を明確にしたプロンプト（指示文）の方が、詳細なチェックリストより多くの新しい脆弱性を発見できる",
+      "複数のスキャン作業を並列化し、スキャン結果から重複を除いて優先順位をつけることが効率化の鍵"
+    ],
+    "analogy": "これは医者の診断プロセスに似ています。患者の基本情報（脅威モデル）を知り、安全な環境で検査（サンドボックス）を行い、症状を見つけ（発見）、本当に病気か確認（検証）し、重症度を判定（分類）してから治療する（修正）という流れです。診断を多くの医者で並列化することはできますが、実際に治療するには一人の医者の判断が重要になるのと同じです。",
+    "category": "セキュリティ, 企業向けAI, 製品ガイド",
+    "summarized": true
+  },
+  "claude:how-coderabbit-used-claude-to-build-an-agent-orchestration-system": {
+    "source": "claude",
+    "slug": "how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+    "url": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+    "title_original": "How CodeRabbit used Claude to build an agent orchestration system",
+    "title_ja": "CodeRabbitがClaudeを使用してAIコード生成の計画システムを構築",
+    "description": "CodeRabbit built a layer on Claude that sits between a coding request and a coding agent, producing a structured coding plan the team can review before any code gets generated.",
+    "published": "2026-05-27",
+    "lastmod": "2026-05-27",
+    "summary": "コードレビュープラットフォームのCodeRabbitは、AIにコードを生成させる前に計画段階を挿入する仕組みを作りました。従来、開発者がAIに曖昧な指示を出すと、AIが勝手に仮定で埋めてしまい、実は不完全なコードが生成されることがありました。CodeRabbitはClaudeを活用して、複数のAIモデルを組み合わせ、要件を分析して明示的でない仮定を洗い出し、実装前に構造化された計画書（PRD）として確認できるシステムを開発しました。これにより、コード生成後の修正コストを大幅に削減でき、チーム全体で意図を共有できるようになりました。",
+    "points": [
+      "AIが生成したコードが動作しても要件を満たさない問題を解決するため、コード生成前の計画段階を導入",
+      "Claudeの複数モデル（Opus、Sonnet、Haiku）を役割に応じて使い分け、コスト効率と品質を最適化",
+      "チーム全体が確認・承認できる計画書を作成することで、早期の誤り検出と設計意図の共有を実現",
+      "計画品質が最終的なコード品質を決定するという仮説に基づいたシステム設計",
+      "評価システムを構築して、計画段階の価値を測定し、継続的に改善"
+    ],
+    "analogy": "レストランでシェフに料理を頼むときのようなものです。お客さんが『おいしいパスタ作って』と曖昧に言うと、シェフが勝手に味付けや具材を決めてしまいます。でもCodeRabbitの仕組みは、事前に『濃い味で、ベジタリアン向け、辛さは中程度』と詳しく打ち合わせしてから調理を始めるようなもの。あとから『こんなはずじゃなかった』という無駄な修正作業が減ります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:zero-trust-for-ai-agents": {
+    "source": "claude",
+    "slug": "zero-trust-for-ai-agents",
+    "url": "https://claude.com/blog/zero-trust-for-ai-agents",
+    "title_original": "Zero Trust for AI agents",
+    "title_ja": "AI エージェント向けゼロトラスト・セキュリティ：企業導入フレームワーク",
+    "description": "A Zero Trust framework for deploying autonomous AI agents in the enterprise, covering current threats, a tiered architecture, an eight-phase implementation workflow, and agentic SOAR.",
+    "published": "2026-05-27",
+    "lastmod": "2026-05-27",
+    "summary": "最先端のAI技術により、セキュリティの脆弱性が数ヶ月単位から数時間単位で悪用されるようになりました。特に、企業内で自動的に判断・実行する「AIエージェント」を導入する場合、従来のセキュリティ対策では不十分です。Anthropicは「ゼロトラスト」という考え方（すべてを信頼しない、常に検証する、既に侵害されていると想定する）をAI向けに適応させたセキュリティフレームワークを提案しています。このフレームワークは、AIエージェント特有の脅威（不正なツール使用、メモリ改ざん、サプライチェーン攻撃など）に対応し、3段階の成熟度レベルと8フェーズの実装手順を含んでいます。基盤となるセキュリティが強固な企業こそが、AIの導入で成功できると指摘しています。",
+    "points": [
+      "AI技術が攻撃と防御の両方を加速させており、セキュリティの脆弱性悪用が数ヶ月から数時間に短縮されている",
+      "自動判断・実行するAIエージェントは従来のアクセス制御では防げない新型の脅威をもたらす",
+      "「ゼロトラスト」をAI対応にしたフレームワークで、暗号化された身元確認と機密レベル別の権限設定が必要",
+      "プロンプト注入、ツール改ざん、メモリ毒性化など、AIエージェント特有の5つの主要な攻撃パターンに対応",
+      "企業の成熟度に応じた3段階（基礎・高度・最適化）と8フェーズの実装手順で段階的に導入可能"
+    ],
+    "analogy": "AIエージェントのセキュリティは、銀行の自動送金システムに例えられます。従来の銀行では出入口を守ることに注力していますが（従来のセキュリティ）、自動送金システムは銀行内部で勝手に判断して金を動かす（AIエージェント）ため、門番だけでは防げません。そこで、送金の各ステップごとに本人確認と限度額制限をかける必要があり、それが「ゼロトラスト」的なアプローチです。",
+    "category": "セキュリティ・安全性",
+    "summarized": true
   }
 }
