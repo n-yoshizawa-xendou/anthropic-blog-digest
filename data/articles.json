@@ -5357,5 +5357,89 @@
     "analogy": "AIエージェントのセキュリティは、銀行の自動送金システムに例えられます。従来の銀行では出入口を守ることに注力していますが（従来のセキュリティ）、自動送金システムは銀行内部で勝手に判断して金を動かす（AIエージェント）ため、門番だけでは防げません。そこで、送金の各ステップごとに本人確認と限度額制限をかける必要があり、それが「ゼロトラスト」的なアプローチです。",
     "category": "セキュリティ・安全性",
     "summarized": true
+  },
+  "anthropic:series-h": {
+    "source": "anthropic",
+    "slug": "series-h",
+    "url": "https://www.anthropic.com/news/series-h",
+    "title_original": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "title_ja": "Anthropic、650億ドルの大型資金調達を実施 —企業評価額は9650億ドルに達する",
+    "description": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
+    "published": "",
+    "lastmod": "2026-05-28T18:07:20.000Z",
+    "summary": "AI企業のAnthropicが、複数の大手投資ファンドから650億ドル（約9650億ドルの企業評価額）の資金調達に成功しました。同社のAIアシスタント「Claude」は、世界中の企業で日常業務に使われており、月間売上が47億ドルを超えています。今回の資金は、AIの安全性研究の強化、処理能力の拡張、顧客向けサービスの充実に充てられます。AmazonやGoogleなど大手クラウド企業やチップメーカーとのパートナーシップにより、Claudeは世界最大級の3つのクラウドプラットフォームで利用できるようになりました。",
+    "points": [
+      "Anthropicが650億ドルの大型資金調達に成功し、企業評価額は約965億ドルに達した",
+      "Claudeの月間売上が47億ドルを超え、世界中の企業で実際の業務に活用されている",
+      "Amazon、Google、Microsoftの3大クラウドプラットフォームすべてでClaudeが利用可能になった",
+      "AmazonやGoogleとの大規模なコンピューティング契約により、需要増加に対応する体制を整備",
+      "AI安全性研究の推進と処理能力の拡張に資金が優先的に配分される"
+    ],
+    "analogy": "Anthropicの成長は、小さなレストランから大手チェーン店へ成長する段階に例えられます。初期段階では少人数で高品質な料理を提供していましたが、人気が高まるにつれ、より大きな厨房設備（コンピューティング能力）と複数の調達先（クラウドプロバイダー）が必要になったのです。今回の大型資金は、その成長をサポートする『より大きなレストラン』を建設するためのものです。",
+    "category": "企業ニュース、資金調達、パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:claude-opus-4-8": {
+    "source": "anthropic",
+    "slug": "claude-opus-4-8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "title_original": "Introducing Claude Opus 4.8",
+    "title_ja": "Anthropic、最新AI「Claude Opus 4.8」を発表—コーディングと業務効率が大幅改善",
+    "description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "published": "",
+    "lastmod": "2026-05-28T16:53:42.000Z",
+    "summary": "Anthropicは5月28日、最新のAIモデル「Claude Opus 4.8」を発表しました。前バージョンから大幅に改善され、プログラミングやビジネス業務の効率が向上しています。最大の特徴は「正直さ」の強化で、AIが確実でない結果を誤ってそのまま提示するのではなく、不確実性をきちんと指摘するようになりました。また、ユーザーが処理の速度と品質のバランスを選べる「努力度調整機能」や、大規模なコード改修を自動実行できる「ダイナミックワークフロー」が新たに追加されました。価格は前バージョンと同じで、高速モード（2.5倍速）は従来の3分の1のコストで利用できます。",
+    "points": [
+      "Claude Opus 4.8は前バージョン比で、コーディング・自動業務処理・法律業務など幅広い分野で性能が向上",
+      "AI自身が判断の不確実性を指摘する「正直さ」が4倍向上し、より信頼性の高い結果を提供",
+      "ユーザーが処理速度と品質のバランスを選べる「努力度調整機能」が導入され、柔軟な利用が可能に",
+      "大規模プロジェクト向けの「ダイナミックワークフロー」で、数十万行のコード改修を自動実行可能に",
+      "さらに高性能な「Claude Mythos」クラスのモデルが数週間以内に一般公開予定"
+    ],
+    "analogy": "Claude Opus 4.8は、優秀なアシスタントが「分からないことは分からないと言う」ようになったイメージです。前のバージョンが『大丈夫です！完了しました』と曖昧に答えていたのに対し、新バージョンは『この部分については確実性が低いので確認が必要です』と正直に指摘してくれるため、本当に重要な仕事を安心して任せられるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "anthropic:milan-office-opening": {
+    "source": "anthropic",
+    "slug": "milan-office-opening",
+    "url": "https://www.anthropic.com/news/milan-office-opening",
+    "title_original": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+    "title_ja": "Anthropicがミラノにヨーロッパ6番目のオフィスを開設、イタリアの企業や研究者をサポート",
+    "description": "We're opening a new office in Milan, our sixth in Europe.",
+    "published": "",
+    "lastmod": "2026-05-28T13:00:32.000Z",
+    "summary": "AI開発企業のAnthropicがイタリアのミラノに新しいオフィスを開設しました。これはロンドン、ダブリン、パリ、チューリッヒ、ミュンヘンに次ぐヨーロッパで6番目のオフィスです。ミラノチームは、イタリアの大手企業や開発者コミュニティと協力して、AI技術の安全で責任ある活用を推進します。既にGeneraliやUnipolなどの金融企業、Angelini PharmaなどのLife Sciences企業、Enelなどのエネルギー企業など多くの企業がClaudeという対話型AI技術を導入しており、業務効率化に役立てています。さらにミラノデザインウィークではデザイナー向けのワークショップも開催され、AI技術がクリエイティブ業界でも活用されていることが示されました。",
+    "points": [
+      "ミラノオフィス開設により、Anthropicのヨーロッパ拠点は6か国に拡大",
+      "イタリアの大手金融・製薬・エネルギー企業がClaude導入により業務効率を大幅改善",
+      "Satispayは18ヶ月の開発計画を7ヶ月に短縮するなど、実ビジネスで成果を実証",
+      "AIの倫理的課題について宗教、市民社会、学術界など多様なステークホルダーとの対話を重視",
+      "デザイナーやスタートアップなど、様々な業界や職種でのAI活用を支援"
+    ],
+    "analogy": "これは、大手銀行が新しい支店を開くのと似ています。Anthropicはイタリアという新しい市場に進出して、地元の企業や人々に自社の『Claude』というAIサービスを提供し、その地域での事業を拡大しようとしているわけです。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "claude:introducing-dynamic-workflows-in-claude-code": {
+    "source": "claude",
+    "slug": "introducing-dynamic-workflows-in-claude-code",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "title_original": "Introducing dynamic workflows",
+    "title_ja": "Claude Code に動的ワークフロー機能が登場—複数の作業を並行処理して数日で完了",
+    "description": "Dynamic workflows in Claude Code let Claude tackle the most challenging tasks by executing across 10s to 100s of parallel subagents, and checking its work before anything reaches you.",
+    "published": "2026-05-28",
+    "lastmod": "2026-05-28",
+    "summary": "Anthropic は Claude Code に「動的ワークフロー」という新機能を発表しました。これは、AI アシスタントが数十から数百の小さなタスク処理機（サブエージェント）を同時に動かし、結果をチェックしてから提示する機能です。従来は数ヶ月かかるような大規模なプログラム修正や、古いコードベースのバグ探し、複数ファイルにまたがるシステム移行などを、わずか数日で完了できます。Bun というプログラミングツールの言語変換では、750,000 行のコードを 11 日で処理しました。この機能は並行処理向けで、トークン使用量は多めになるため、スコープを絞って開始することが推奨されています。",
+    "points": [
+      "数十〜数百の並行タスク処理により、数ヶ月かかるプロジェクトを数日に短縮可能",
+      "バグ探し、大規模コード移行、セキュリティ監査など複雑な作業に対応",
+      "複数のAIが独立して検証・検証結果を相互チェックする仕組みで精度向上",
+      "Max・Team・Enterprise プランで利用可能（リサーチプレビュー段階）",
+      "トークン消費量が多いため、小さなタスクから始めることを推奨"
+    ],
+    "analogy": "動的ワークフローは、大きな引っ越し作業に例えられます。1人で運ぶと数ヶ月かかる荷物も、大勢のスタッフが異なる部屋を同時並行で片付けて、最後に1人のリーダーがすべてをチェックしてから完成させれば、数日で終わります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
