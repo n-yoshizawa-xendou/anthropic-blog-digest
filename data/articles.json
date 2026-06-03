@@ -5461,5 +5461,68 @@
     "analogy": "これは、個人事業主が将来的に大きな会社になるための準備をしているようなもの。銀行から大型融資を受けた後、いずれ株式会社として一般の投資家に株を買ってもらう準備を始めたということです。ただし、実際に株式公開するかどうかはまだ決まっていません。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:expanding-project-glasswing": {
+    "source": "anthropic",
+    "slug": "expanding-project-glasswing",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "title_original": "Expanding Project Glasswing",
+    "title_ja": "Project Glasswing を約150の新しい組織に拡大",
+    "description": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries",
+    "published": "",
+    "lastmod": "2026-06-02T14:03:15.000Z",
+    "summary": "Anthropic は、ソフトウェアのセキュリティ脆弱性を発見・修正するプロジェクト「Project Glasswing」を大幅に拡大します。初期段階では約50の組織が参加し、すでに10,000件以上の深刻なセキュリティ欠陥を発見しました。今回、15カ国以上の約150の新しい組織が追加参加します。電力、水道、医療、通信などの重要インフラを提供する企業が含まれており、これらへの攻撃は100万人以上に影響を及ぼす可能性があります。Anthropic は AI によるセキュリティ脅威の時代に対応するため、業界全体が強化された防御手段を持つ必要があると考えており、より多くの組織が最先端のサイバー防御ツールにアクセスできるよう支援する計画です。",
+    "points": [
+      "Project Glasswing が約150の新しい組織に拡大され、15カ国以上をカバーする予定",
+      "初期パートナーがすでに 10,000 件以上の高リスク・重大度のセキュリティ欠陥を発見",
+      "電力や医療など、重要インフラを提供する様々な業界が新たに参加",
+      "6～12ヶ月以内に他の AI 企業も同等の能力を持つモデルをリリースする可能性があり、業界全体の防御強化が急務",
+      "Anthropic は段階的に脆弱性の発見から、修正・パッチの展開までを支援する予定"
+    ],
+    "analogy": "これは、街全体の防犯を強化する取り組みに例えられます。一部の重要な施設（銀行、病院、発電所など）で最新の防犯システムをまず導入して、その効果と使い方を確認し、その後、より多くの施設に同じシステムを広げていくのと同じです。",
+    "category": "安全性、パートナーシップ",
+    "summarized": true
+  },
+  "claude:running-an-ai-native-engineering-org": {
+    "source": "claude",
+    "slug": "running-an-ai-native-engineering-org",
+    "url": "https://claude.com/blog/running-an-ai-native-engineering-org",
+    "title_original": "Running an AI-native engineering org",
+    "title_ja": "AI時代のエンジニアリング組織運営：コード生成AIが標準になった時の組織変革",
+    "description": "How the Claude Code engineering team’s processes and structure changed once agentic coding became the default way of working.",
+    "published": "2026-06-03",
+    "lastmod": "2026-06-02",
+    "summary": "Anthropicの Claude Code チームは、AI（人工知能）がコード生成を自動で行うようになったことで、エンジニアリング組織の運営方法を大きく変えました。従来は「コード作成に時間がかかる」という課題を中心に組織が設計されていましたが、今はコード作成が高速化したため、新たなボトルネックが生まれています。それは「コードの検証」「レビュー」「セキュリティ確認」です。記事では、計画立案を柔軟な「ジャストインタイム方式」に変更、質問への回答をコードの作者ではなくAIに聞く、コードレビューは機械的な部分はAIに任せて人間は専門知識が必要な部分に集中するなど、4つの主要な組織プロセスの改革を紹介しています。さらに、プロダクトマネージャーがコーディングを行うなど、役割の境界も曖昧になってきたと説明しています。",
+    "points": [
+      "コード作成が自動化されたため、組織のボトルネックが『コード作成』から『検証・レビュー・セキュリティ』にシフトした",
+      "計画を6ヶ月単位から『必要な時に必要な分だけ』のジャストインタイム方式に変更し、変化への対応力を高めた",
+      "コード質問は『作成者に聞く』から『AIに聞く』に変え、さらに自動化できる業務は自動化する流れを取り入れた",
+      "コードレビューはAIが様式や軽微なバグを処理し、人間は法務やセキュリティなど専門知識が必要な部分に集中する",
+      "エンジニア、プロダクトマネージャー、デザイナーなど従来の役割の区別が薄れ、多様なスキルを持つ人材が価値を発揮するようになった"
+    ],
+    "analogy": "工場の生産ラインで例えると、従来は『製品を作る』という作業の効率化に注力していました。しかしAIロボットが製品作成を高速化すると、今度は『品質検査』『梱包』『配送』といった別の工程が新たなボトルネックになります。同じように、AIがコード作成を担当すれば、人間はコードが正しいか、安全か、保守できるかという『確認作業』に集中する必要があるということです。",
+    "category": "企業ニュース, 製品アップデート",
+    "summarized": true
+  },
+  "claude:a-harness-for-every-task-dynamic-workflows-in-claude-code": {
+    "source": "claude",
+    "slug": "a-harness-for-every-task-dynamic-workflows-in-claude-code",
+    "url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+    "title_original": "A harness for every task: dynamic workflows in Claude Code",
+    "title_ja": "Claude Code が複雑なタスクに対応「動的ワークフロー」で複数のAIエージェントを自動調整",
+    "description": "Claude Code can now write and orchestrate its own multi-agent harness on the fly. Here's how dynamic workflows work, and the patterns that get the most out of them.",
+    "published": "2026-06-02",
+    "lastmod": "2026-06-02",
+    "summary": "Anthropic は Claude Code に「動的ワークフロー」機能を追加しました。これにより、Claude が複数の AI エージェント（子分のような AI アシスタント）を自動的に作成・調整して、複雑で長時間かかるタスクに対応できるようになりました。従来の単一のAIでは、長く複雑な作業をしていると「途中で諦める」「自分の判断を優先する」「元の目的を忘れる」といった問題が起きていました。動的ワークフローは、タスクを分割して複数の独立した AI に並行処理させることで、これらの問題を解決します。コード移行、深い調査、品質確認、大量の仕分けなど、様々なタスクで活用できます。ただし、トークン（処理量）をより多く消費するため、複雑で重要な仕事に向いています。",
+    "points": [
+      "Claude が自動的に複数の AI エージェントを作成して、複雑なタスクを分割処理できるようになった",
+      "従来の問題（途中で諦める、自分の判断を優先する、目的を忘れる）を、独立したエージェントで検証する仕組みで解決",
+      "コード移行、調査、品質確認、仕分け、デバッグなど多様なタスクに活用可能",
+      "複数の AI が互いに検証する「競争」や「反論」などのパターンを自動で実行",
+      "通常の単純なコーディングタスクには不要で、複雑で重要な仕事向け"
+    ],
+    "analogy": "これは、1人の責任者が長時間かけて全部を判断するのではなく、複数の専門家チームを組んで、それぞれが別々に検討し、互いに意見を交わしながら結論を出す仕組みに似ています。チームが独立して作業することで、視点が増えて間違いが減り、より質の高い判断ができるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
