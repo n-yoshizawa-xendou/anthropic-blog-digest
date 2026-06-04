@@ -5524,5 +5524,110 @@
     "analogy": "これは、1人の責任者が長時間かけて全部を判断するのではなく、複数の専門家チームを組んで、それぞれが別々に検討し、互いに意見を交わしながら結論を出す仕組みに似ています。チームが独立して作業することで、視点が増えて間違いが減り、より質の高い判断ができるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:AI-enabled-cyber-threats-mitre-attack": {
+    "source": "anthropic",
+    "slug": "AI-enabled-cyber-threats-mitre-attack",
+    "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "title_original": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+    "title_ja": "AIを使ったサイバー攻撃の脅威：1年間の調査から見えた課題",
+    "description": "As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question.",
+    "published": "",
+    "lastmod": "2026-06-03T16:18:23.000Z",
+    "summary": "Anthropicが832件の悪質なサイバー活動アカウントを1年間調査し、AIがサイバー攻撃にどう利用されているかを分析しました。主な発見は3つです。第一に、攻撃者がAIを使って、システムへの侵入後のより複雑な活動に活用しており、従来は高度な技術が必要だった作業も不熟練な攻撃者ができるようになっています。第二に、AIが攻撃の各段階を自動的につなぎ合わせるため、攻撃者の危険度を判定する従来の方法が機能しなくなっています。第三に、MITRE ATT&CKという業界標準の攻撃手法データベースが、AI時代の脅威を十分に捉えていないことが判明しました。Anthropicは今後、防御側を支援し、セキュリティ業界の枠組み更新を促進するとしています。",
+    "points": [
+      "攻撃者がAIを活用してマルウェア作成（67%）から侵入後のアカウント発見（6.5%）へとシフト。従来は難しい複雑な活動も可能に",
+      "中リスク以上の攻撃者が6ヶ月で33%から56%に増加。AIにより危険度が高い攻撃者が増えている",
+      "攻撃者の技術レベルと使用手法数に関連性がなくなり、従来の危険度判定が効果的でない",
+      "最も危険な攻撃者は、AIが複数の攻撃段階を自動連携・実行する仕組みを構築している",
+      "MITRE ATT&CKフレームワークがAI時代の脅威に対応していないため、業界基準の更新が急務"
+    ],
+    "analogy": "従来は包丁を使う料理人が腕利きの証でしたが、今は料理ロボットが登場しました。未経験者でもロボットを操れば熟練者同然の複雑な調理ができるようになった。だから『何個の包丁を使っているか』ではなく『ロボットを自動運転できるか』が本当の危険度を示すようになった、という状況です。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic:services-track-partner-hub": {
+    "source": "anthropic",
+    "slug": "services-track-partner-hub",
+    "url": "https://www.anthropic.com/news/services-track-partner-hub",
+    "title_original": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "title_ja": "Claude パートナーネットワークにサービストラックとパートナーハブが登場",
+    "description": "In March, we launched the Claude Partner Network, a program for the firms that help enterprises put Claude into production.. Today, we’re announcing two new components that make this ecosystem easier for customers to navigate.",
+    "published": "",
+    "lastmod": "2026-06-03T15:30:11.000Z",
+    "summary": "Anthropic は、企業が AI を実際に導入する際に支援するパートナー企業向けのプログラムを拡充しました。3月に立ち上げた「Claude パートナーネットワーク」に、新たに2つの仕組みが追加されました。1つ目は「サービストラック」で、パートナー企業が Claude を使ってどれだけの実績を上げたかを3段階（Select、Preferred、Global Premier）で評価する制度です。認定資格者の数や実際に導入した顧客数、顧客からの推薦など、同じ基準で測定されます。2つ目は「Claude パートナーハブ」という検索ポータルで、企業は自社に合ったパートナー企業を見つけることができます。Accenture など世界大手のコンサルティング企業も Claude 導入支援に力を入れており、Anthropic は $100 million の投資を通じてパートナーの育成と支援を行っています。",
+    "points": [
+      "Claude パートナーネットワークに「サービストラック」が追加され、パートナー企業の実績を3段階で評価する仕組みが整備された",
+      "「Claude パートナーハブ」により、企業は自分たちのプロジェクト規模に合った信頼できるパートナーを簡単に探せるようになった",
+      "評価基準は企業規模に関わらず同じで、実際に何を成し遂げたかが重視される点が重要",
+      "Anthropic は $100 million をパートナーの訓練、技術支援、マーケティング支援に投資している",
+      "大手コンサルティング企業（Accenture、Deloitte、PwC など）が数万〜数十万人の従業員を Claude で訓練・支援している"
+    ],
+    "analogy": "これは、例えば「料理の配達代行サービス」を想像するとわかりやすいです。レストランは単に美味しい料理を作れるだけでは不十分で、それを正確に安全に顧客に届ける配達パートナーが必要です。同様に、Anthropic の Claude という優れた AI ツールも、企業が実際に使いこなすには経験豊富なパートナー企業の支援が必要なのです。サービストラックは「配達実績が多い信頼できるパートナー」を見分ける仕組みであり、パートナーハブは「どの配達業者を選ぶか」を簡単に決められるツールなのです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:how-anthropic-enables-self-service-data-analytics-with-claude": {
+    "source": "claude",
+    "slug": "how-anthropic-enables-self-service-data-analytics-with-claude",
+    "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+    "title_original": "How Anthropic enables self-service data analytics with Claude",
+    "title_ja": "Claudeを使った自動化データ分析：Anthropicが実践する精度95%の仕組み",
+    "description": "Tips and approaches to maximizing Claude’s ability to drive self-serve data insights",
+    "published": "2026-06-03",
+    "lastmod": "2026-06-03",
+    "summary": "Anthropicは生成AI「Claude」を活用して、社内のデータ分析業務の95%を自動化し、約95%の精度を実現しています。本記事は、データ分析をAIに任せる際の失敗パターンと対策を紹介しています。\n\n主な課題は「正確な回答は、コード生成ではなく、正しいデータへのアクセスと検証の問題」という点です。Anthropicが特定した3つの主な失敗原因は：①データモデル内で正しいフィールドを選べない曖昧性、②データベースが古くなる問題、③必要な情報が見つからない検索失敗です。\n\nこれらを解決するため、Anthropicは多層構造のシステムを構築しました。データ基盤の整備、参照情報の整理、「スキル」と呼ばれるAIの手順書を組み合わせることで、精度を大幅に向上させています。スキルなしでは21%だった精度が、スキル導入で95%以上に改善されたとのこと。要は、AIに単に指示するのではなく、正確な情報源と明確な手順を用意することが重要です。",
+    "points": [
+      "Anthropicはデータ分析の95%をClaudeで自動化し、約95%の精度を実現している",
+      "失敗の主原因は3つ：概念とデータの曖昧性、データの古さ、必要な情報が見つからないこと",
+      "正確性は『正しいデータへのアクセス』が最重要で、コード生成能力ではない",
+      "データ基盤・参照情報・AI用の『スキル』（手順書）の3層構造で精度向上を実現",
+      "スキルなしは21%の精度だが、スキル導入で95%以上に改善される"
+    ],
+    "analogy": "AIデータ分析は、大図書館で本を探すようなもの。AIに『売上について調べて』と言うだけでは、図書館の100万冊から間違った本を選ぶ可能性があります。そこで、①図書館を整理し（データ基盤）、②『売上について知りたいならここを見てね』と地図を作り（参照情報）、③『まずこの辞書で用語確認して、次にこのセクションを見て』と手順を教える（スキル）ことで、AIが正しい情報にたどり着けるようになるのです。",
+    "category": "AI技術",
+    "summarized": true
+  },
+  "claude:lessons-from-building-claude-code-how-we-use-skills": {
+    "source": "claude",
+    "slug": "lessons-from-building-claude-code-how-we-use-skills",
+    "url": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+    "title_original": "Lessons from building Claude Code: How we use skills",
+    "title_ja": "Claude Codeの開発から学んだ教訓：スキルの活用方法",
+    "description": "What we learned building and scaling hundreds of skills internally at Anthropic.",
+    "published": "2026-06-03",
+    "lastmod": "2026-06-03",
+    "summary": "Anthropicは、Claude Codeの開発過程で数百個のスキル（指示、スクリプト、リソースのセット）を構築・運用してきました。その経験から、効果的なスキルは9つのカテゴリに分類できることが分かりました。それらは「ライブラリ・API解説」「製品検証」「データ取得・分析」「ビジネスプロセス自動化」「コードテンプレート」「コード品質管理」「CI/CD・デプロイ」「トラブルシューティング」「インフラ運用」です。スキルを作る際は、明らかなことは書かず、よくある落とし穴を記録し、ファイルシステムを活用して段階的に情報を開示することが重要です。また、スキルは説明文で人間ではなくAIに何をするかを伝え、必要に応じて設定ファイルやログで記憶機能を持たせます。チーム規模に応じて、リポジトリに保存するか、内部マーケットプレイスで共有するかを選択できます。",
+    "points": [
+      "スキルは9つのカテゴリに分類できる：API解説、検証、データ分析、プロセス自動化、テンプレート、品質管理、デプロイ、トラブルシューティング、インフラ運用",
+      "効果的なスキルは「よくある落とし穴」セクションを含み、AIが実際に困る点を記録することが最も重要",
+      "ファイルシステムを活用した段階的な情報開示により、AIは必要な時に必要な詳細情報にアクセスできる",
+      "スキルの説明は人間向けではなく、AIが『このスキルを使うべきか』を判断するために書く必要がある",
+      "チーム規模に応じてリポジトリ保存または内部マーケットプレイス方式で共有でき、有用なスキルは自然と採用される"
+    ],
+    "analogy": "スキルはレシピ本のようなもの。単なるテキスト（レシピの説明）だけでなく、計量スプーン（スクリプト）や材料表（データファイル）、よくある失敗例（ゴットチャス）をセットで持つことで、料理人（AI）がより正確で効率的に料理できるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:best-practices-for-getting-started-with-claude-cowork": {
+    "source": "claude",
+    "slug": "best-practices-for-getting-started-with-claude-cowork",
+    "url": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
+    "title_original": "Best practices for getting started with Claude Cowork",
+    "title_ja": "Claude Coworkを始める際のベストプラクティス：仕事の委任方法と実践ガイド",
+    "description": "When to use Claude Cowork instead of Claude Code or chat, how to decide what workflows to delegate, and concrete steps to get started.",
+    "published": "2026-06-03",
+    "lastmod": "2026-06-03",
+    "summary": "Anthropicの成長マーケティング責任者が、AIアシスタント「Claude Cowork」の効果的な使い方を紹介しています。Claude Coworkは、複数のファイルやアプリを扱う多段階タスク向けのツール。メールやスプレッドシート、レポート作成など、事務作業全般に活用できます。チャットとは違い、ファイルやフォルダを指定して「完成した成果物」を得ることが特徴。記者自身も日々の業務の90%をClaude Coworkで処理し、毎日の情報整理や予算管理、レポート作成などを自動化しています。初心者向けには、実際のタスクで試すことと、実行前にClaudeに質問させることが重要だと強調されています。",
+    "points": [
+      "Claude Coworkは複数ファイル・複数ステップのタスク向け。単純な質問や短い会話はチャットを使い分ける",
+      "「複数の入力」「ファイルが出力される」「繰り返す作業」という3つ以上の条件が揃ったタスクに最適",
+      "実務例：日次ブリーフィング、予算管理ダッシュボード、自動レポート生成により、テンプレート作業の時間を大幅削減",
+      "初回使用時は、ファイルやフォルダを準備し、実行前にClaudeに質問させることで成功率が上がる",
+      "プロンプトの質より、入力データの質と量が重要。十分なコンテキスト情報を提供することが大切"
+    ],
+    "analogy": "Claude Coworkは『書類作成の秘書」のようなもの。今まで手書きで「この書類作って」と聞いて自分で手渡ししていたのが、秘書に必要な資料を全部渡して『これをまとめた報告書を作って』と任せるイメージです。秘書が効率的に仕事するには、作業の全体像と細かい指示が必要。それがあれば、毎日やる作業は自動で完成させてくれます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
