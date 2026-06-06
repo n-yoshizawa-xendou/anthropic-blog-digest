@@ -5629,5 +5629,47 @@
     "analogy": "Claude Coworkは『書類作成の秘書」のようなもの。今まで手書きで「この書類作って」と聞いて自分で手渡ししていたのが、秘書に必要な資料を全部渡して『これをまとめた報告書を作って』と任せるイメージです。秘書が効率的に仕事するには、作業の全体像と細かい指示が必要。それがあれば、毎日やる作業は自動で完成させてくれます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:the-claude-cowork-product-guide": {
+    "source": "claude",
+    "slug": "the-claude-cowork-product-guide",
+    "url": "https://claude.com/blog/the-claude-cowork-product-guide",
+    "title_original": "The Claude Cowork product guide",
+    "title_ja": "Claude Coworkの使い方ガイド：AIエージェントで知的労働を自動化する",
+    "description": "We share how to get started with Claude Cowork, from setting up the tool to kicking off your first task.",
+    "published": "2026-06-05",
+    "lastmod": "2026-06-05",
+    "summary": "Anthropicが新しいAIツール「Claude Cowork」の使い方ガイドを公開しました。従来のAIチャットは質問に答えるだけで、その回答を実際に使える成果物（資料やメール等）に変えるのは人間の手作業でした。Claude Coworkは違います。ローカルファイルへのアクセス、SlackやGoogle Driveなどの連携、複数ステップのタスク実行を自動で行い、あなたは戦略的・創造的な判断に集中できます。ガイドではセットアップ方法、7つの実用的なワークフロー例（調査レポート作成、会議準備など）、プラグインの使い方を紹介。デスクトップアプリで今日から始められます。",
+    "points": [
+      "Claude Coworkは単なるチャットツールではなく、複数ステップのタスクを自動で完結させるAIエージェント",
+      "ローカルファイルやSlack、Google Driveなど複数のアプリを横断して作業を実行",
+      "ユーザーは戦略的・創造的な判断に注力でき、日常的な知的労働をClaudeに委譲できる",
+      "研究レポート、会議準備、定期レポートなど7つの実用的なワークフローが用意されている",
+      "プラグイン機能でマーケティングやプロダクト管理など特定分野に特化した作業に対応"
+    ],
+    "analogy": "従来のAIチャットは「料理のレシピを教えてくれる人」のようなもの。Claude Coworkは「レシピを見ながら実際に料理を作ってくれるシェフ」のようなもの。あなたが目指す完成形を伝えれば、材料集めから調理、盛り付けまで全てやってくれるので、あなたはメニュー考案など創造的な部分だけに専念できます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-anthropic-uses-claude-gtm-engineering": {
+    "source": "claude",
+    "slug": "how-anthropic-uses-claude-gtm-engineering",
+    "url": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+    "title_original": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+    "title_ja": "営業担当者がClaudeコードで仕事を自動化：週10～15時間の時間短縮を実現",
+    "description": "How one Anthropic account executive turned GTM product manager used Claude Code to save 10-15 hours per week on email and pre-call research.",
+    "published": "2026-06-05",
+    "lastmod": "2026-06-05",
+    "summary": "Anthropicの営業担当者Jared Siresは、プログラミング経験がないまま、AI技術「Claude Code」を使ってメール対応業務を自動化するツール「CLAFTS」を開発しました。このツールは顧客メールへの返信案を自動生成し、彼の作業時間を1日2～3時間削減。その成功を見た営業チーム全体が同様のツールを導入し、現在では営業チーム全体の約80%が利用しています。Jaredは現在、営業チーム向けの各種ツール開発を専任で行うプロダクトマネージャーへと昇進し、「最も力を感じることができる仕事」と述べています。",
+    "points": [
+      "プログラミング未経験の営業担当者が、Claude Codeを使って自動メール返信ツール『CLAFTS』を開発し、週10～15時間の時間短縮を実現",
+      "ツールは最新の商品情報をリアルタイムで参照でき、本人のメール文体を学習して自然な返信案を生成",
+      "成功事例が営業チーム全体に広がり、カレンダー管理や顧客調査など20以上の機能を持つプラグインに拡張",
+      "Jaredは役職がプロダクトマネージャーに変わり、営業組織全体の業務改善に専念するようになった",
+      "新入社員でも初日からツールをインストールして活用でき、業務習熟期間が短縮される効果も生まれている"
+    ],
+    "analogy": "これは料理人が毎晩の仕込み作業に追われていたのに、AIアシスタント付きの調理機を手に入れて、本来やりたかった創意工夫を凝らした料理作りに集中できるようになったのと同じです。技術的な複雑さは機械が処理し、人間は戦略的な判断に時間を使えるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
