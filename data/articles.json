@@ -5671,5 +5671,46 @@
     "analogy": "これは料理人が毎晩の仕込み作業に追われていたのに、AIアシスタント付きの調理機を手に入れて、本来やりたかった創意工夫を凝らした料理作りに集中できるようになったのと同じです。技術的な複雑さは機械が処理し、人間は戦略的な判断に時間を使えるようになりました。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:claude-for-foundation-models": {
+    "source": "claude",
+    "slug": "claude-for-foundation-models",
+    "url": "https://claude.com/blog/claude-for-foundation-models",
+    "title_original": "Claude support for Apple's Foundation Models framework",
+    "title_ja": "AppleのFoundation Modelsフレームワークに対応したClaudeが登場",
+    "description": "A new Swift package connects Apple's Foundation Models framework to Claude. Hand off complex reasoning from on-device models with typed Swift outputs.",
+    "published": "2026-06-08",
+    "lastmod": "2026-06-08",
+    "summary": "Anthropicは、Appleの「Foundation Models」フレームワークに対応した新しいSwiftパッケージをリリースしました。これにより、iPhone・iPad・Mac・Apple Watchなどで動作するアプリ開発者が、デバイス内で実行する軽量なAI処理をClaudeの高度な処理に自動で引き継げるようになります。例えば、日記アプリは端末内で日々のメモを要約し、複数ヶ月にわたるパターン分析はClaudeに任せるといった使い分けが可能です。わずか3行のコードで利用でき、APIキーを設定するだけで始められます。",
+    "points": [
+      "AppleのFoundation ModelsフレームワークにClaudeが統合され、iOS27以降で利用可能",
+      "デバイス内の軽い処理とClaudeの高度な推論を組み合わせることで、最適なAI体験を実現",
+      "型指定されたSwift値を使用するため、生のテキスト処理より安全で効率的な開発が可能",
+      "日記アプリや学習アプリなど、既存のオンデバイスAI機能をClaudeで拡張できる",
+      "APIキー設定で簡単に導入でき、複雑なセットアップは不要"
+    ],
+    "analogy": "デバイス内のAI処理とClaudeの連携は、図書館での本探しに例えられます。目次から簡単な情報を見つけるのは図書館員（デバイス内AI）、複雑な研究や複数の本を関連付けるのは図書館長（Claude）という役割分担で、ユーザーは最適なサービスを一つの窓口で受け取れます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:observability-for-developers-building-connectors": {
+    "source": "claude",
+    "slug": "observability-for-developers-building-connectors",
+    "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+    "title_original": "Connector Observability and In-App Directory Submission",
+    "title_ja": "コネクタの性能監視とアプリ内ディレクトリ申請機能がリリース",
+    "description": "Monitor connector performance across Claude, diagnose errors and latency, and submit your MCP server to the directory in-app. Public beta now live.",
+    "published": "2026-06-08",
+    "lastmod": "2026-06-08",
+    "summary": "Anthropicが、Claude上で構築されたツール拡張機能「コネクタ」の性能を監視できるダッシュボード機能をリリースしました。開発者は、ユーザー数、ツール使用回数、エラー率、応答時間などを一目で確認できるようになります。また、アプリ内からコネクタをディレクトリに直接申請できるようになり、300以上のサードパーティ製コネクタがより簡単に共有できるようになります。Team以上のアカウントで管理者権限があれば、Organization settingsのDirectory内でこの機能を利用できます。",
+    "points": [
+      "コネクタの性能監視ダッシュボードが登場し、ユーザー採用状況やエラー・応答時間を追跡できるように",
+      "Claude、Claude Code、Coworkなど複数の製品間での利用状況を比較分析可能に",
+      "アプリ内からMCPサーバーをディレクトリに直接申請できるようになり、申請プロセスを簡素化",
+      "300以上のサードパーティ製コネクタが毎日数百万人に利用されており、生態系が急速に成長"
+    ],
+    "analogy": "コネクタの監視ダッシュボードは、飲食店が日々の来客数、売上、どの時間帯が混んでいるかをリアルタイムに把握できるレジシステムのようなもの。開発者は数字を見ながら、どこに問題があるのか、どの製品が人気なのかを素早く判断できます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
