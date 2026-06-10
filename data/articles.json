@@ -5712,5 +5712,47 @@
     "analogy": "コネクタの監視ダッシュボードは、飲食店が日々の来客数、売上、どの時間帯が混んでいるかをリアルタイムに把握できるレジシステムのようなもの。開発者は数字を見ながら、どこに問題があるのか、どの製品が人気なのかを素早く判断できます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:claude-fable-5-mythos-5": {
+    "source": "anthropic",
+    "slug": "claude-fable-5-mythos-5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "title_original": "Claude Fable 5 and Claude Mythos 5",
+    "title_ja": "最高性能AI「Claude Fable 5」と「Claude Mythos 5」がついにリリース",
+    "description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
+    "published": "",
+    "lastmod": "2026-06-09T20:27:50.000Z",
+    "summary": "Anthropicが、これまでで最も高性能なAI「Claude Fable 5」を一般向けにリリースしました。同時に、サイバーセキュリティ専門家向けに「Claude Mythos 5」も公開。Fable 5は、ソフトウェア開発・データ分析・画像認識など多くの分野で最高水準の性能を発揮します。例えば、Stripeでは数ヶ月かかるコード変更を1日で完了させました。ただし、強力な性能ゆえにサイバー攻撃に悪用される可能性があるため、セキュリティリスクがある質問には安全な別モデルを使う仕組みが導入されています。危険な質問でも平均して5%未満でしか発動しないよう調整済み。価格も以前の半分以下に設定され、より多くのユーザーが先進的なAIを使えるようになります。",
+    "points": [
+      "Claude Fable 5は、ソフトウェア開発・データ分析・画像認識など複数の分野で業界最高水準の性能を実現",
+      "強力すぎる性能を悪用させないため、セキュリティリスクがある質問には自動的に安全なAIが対応する仕組みを導入",
+      "サイバーセキュリティ専門家向けの「Claude Mythos 5」も同時リリース。薬物開発やタンパク質研究など生命科学分野で革新的な発見を支援",
+      "価格を従来の半分以下に設定し、より多くのユーザーが高性能AIにアクセス可能に",
+      "医薬品開発や遺伝子研究で人間の専門家を10倍以上のスピードで支援する成果を確認"
+    ],
+    "analogy": "Claude Fable 5は、非常に優秀だが時々危険な可能性もある助手のようなもの。その才能を活かしつつ、危ない仕事を頼まれたときは信頼できる別の人に振り向ける——それが新しいセキュリティシステムの仕組みです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:whats-new-in-claude-managed-agents": {
+    "source": "claude",
+    "slug": "whats-new-in-claude-managed-agents",
+    "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+    "title_original": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+    "title_ja": "Claude管理型エージェントの新機能：スケジュール実行と安全な認証情報の保管",
+    "description": "Claude Managed Agents can now run on a schedule and securely access CLI tools and other authenticated services.",
+    "published": "2026-06-09",
+    "lastmod": "2026-06-09",
+    "summary": "ClaudeプラットフォームのClaude管理型エージェント（AI※が自動で業務を行うツール）に、2つの新機能が追加されました。1つ目は「スケジュール実行機能」で、毎日や毎週など決まった時間にエージェントを自動実行でき、面倒な設定作業が不要になります。夜間のデータ更新や週単位のセキュリティチェック、日々のレポート作成などの定期業務に活用できます。2つ目は「vault（金庫）による認証情報の安全管理」で、APIキーなどの秘密情報をエージェントに直接渡さず、安全に保管したまま外部ツールを利用できます。これにより、ブラウザ操作やコマンドラインツールの利用が可能になり、セキュリティを損なわずに様々なシステムと連携できるようになりました。既に複数の企業がこれらの機能を活用し、業務の自動化と効率化を実現しています。",
+    "points": [
+      "エージェントがスケジュールに従って自動実行でき、毎日・毎週などの定期業務を無人で処理できます",
+      "APIキーなどの機密情報を『vault』に安全に保管し、エージェントに直接見せず利用できます",
+      "ブラウザ操作やコマンドラインツール経由で外部システムに接続でき、統合の方法が増えました",
+      "実行中のセッションでも、vaultの情報を更新すれば次の呼び出し時に反映される柔軟性があります",
+      "複数企業（Rakuten、Notion、Browserbaseなど）がすでに実際の業務で活用し、業務効率化を実現しています"
+    ],
+    "analogy": "例えるなら、AIエージェントは有能な部下のようなもの。これまでは毎回指示を与える必要がありましたが、スケジュール実行機能は『毎週月曜9時に報告書を作成して』と一度指示すれば、自動的に実行してくれます。また、vaultは、その部下に金庫の鍵（APIキー）を見せずに『この金庫から必要な情報を取り出して使っていいよ』と指示するようなイメージです。部下は金庫の中身を知らないので、情報が漏れる心配がありません。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
