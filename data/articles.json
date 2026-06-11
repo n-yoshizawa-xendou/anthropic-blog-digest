@@ -5754,5 +5754,26 @@
     "analogy": "例えるなら、AIエージェントは有能な部下のようなもの。これまでは毎回指示を与える必要がありましたが、スケジュール実行機能は『毎週月曜9時に報告書を作成して』と一度指示すれば、自動的に実行してくれます。また、vaultは、その部下に金庫の鍵（APIキー）を見せずに『この金庫から必要な情報を取り出して使っていいよ』と指示するようなイメージです。部下は金庫の中身を知らないので、情報が漏れる心配がありません。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:building-with-claude-managed-agents": {
+    "source": "claude",
+    "slug": "building-with-claude-managed-agents",
+    "url": "https://claude.com/blog/building-with-claude-managed-agents",
+    "title_original": "The evolution of agentic surfaces: building with Claude Managed Agents",
+    "title_ja": "Claude Managed Agents：エージェント型AIを本番環境で安全に運用する新しい方法",
+    "description": "Claude Managed Agents allows teams to build and deploy agents in production environments reliably at scale. Here’s why and how teams are using it.",
+    "published": "2026-06-10",
+    "lastmod": "2026-06-10",
+    "summary": "Anthropicは「Claude Managed Agents」という新しいサービスを発表しました。これは、AIに複数のステップを自動実行させるエージェント型のシステムを、簡単に本番環境で運用できるようにするものです。従来は企業がセキュリティやシステム管理を自分で構築する必要がありましたが、新サービスではAnthropicがこれらを全て管理します。主な利点は、①認証情報をAIから隔離して安全にする、②処理速度を60～90%高速化する、③セッション管理と詳細なログ記録が自動的に行われる、④クラウドまたは企業内サーバーでの実行を選択できることです。NotionやRakutenなど、多くの企業がすでにこのサービスを活用して数週間で本番環境にエージェントを展開しています。",
+    "points": [
+      "プロトタイプから本番運用まで数ヶ月かかっていたAIエージェントの構築が、数日～数週間に短縮される",
+      "セキュリティと処理速度が大幅に向上（APIキーをAIから完全に隔離し、応答速度が60～90%高速化）",
+      "AIの思考処理と実行環境を分離する設計により、より安全で柔軟なシステム運用が可能",
+      "セッション履歴とメモリが自動保存されるため、AIの動作を完全に追跡・分析できる",
+      "Anthropic管理のクラウド、または企業のプライベートネットワーク上での実行を選択可能"
+    ],
+    "analogy": "従来のAIエージェント構築は、建築業者が鉄骨、配管、電気配線、セキュリティシステムを全て自分で設計・施工するようなもの。Managed Agentsは、プレハブの住宅のように、必要な機能がすべてあらかじめ統合された環境を提供し、建築業者は内装（AIの学習内容やツール設定）だけに集中できるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
