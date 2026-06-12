@@ -5775,5 +5775,46 @@
     "analogy": "従来のAIエージェント構築は、建築業者が鉄骨、配管、電気配線、セキュリティシステムを全て自分で設計・施工するようなもの。Managed Agentsは、プレハブの住宅のように、必要な機能がすべてあらかじめ統合された環境を提供し、建築業者は内装（AIの学習内容やツール設定）だけに集中できるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:dxc-anthropic-alliance": {
+    "source": "anthropic",
+    "slug": "dxc-anthropic-alliance",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "title_original": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "title_ja": "DXC TechnologyがClaudeを銀行や航空会社などの重要なシステムに統合",
+    "description": "We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.",
+    "published": "",
+    "lastmod": "2026-06-11T18:00:23.000Z",
+    "summary": "AnthropicはIT大手企業のDXC Technologyと複数年の提携を発表しました。DXCは数万人のエンジニアをClaudeの認定資格者として育成し、世界中の銀行、航空会社、保険会社などの重要なシステムにClaudeを導入します。DXCは既に自社の115,000人のスタッフが使用する社内システムでClaudeを検証済みで、新しいAI管理プラットフォーム「OASIS」の95%以上のコードをClaudeで開発しました。提携は保険、システム最新化、サイバーセキュリティ、アプリケーション管理の4分野で開始され、厳格なセキュリティと規制要件を満たすミッションクリティカルなシステムにClaudeを段階的に導入していきます。",
+    "points": [
+      "DXCは数万人のエンジニアをClaudeの認定資格者として訓練し、大規模企業の重要なシステムに導入",
+      "DXCの新プラットフォーム『OASIS』の95%以上のコードはClaudeで生成され、開発速度が10倍高速化",
+      "提携は保険、システム最新化、サイバーセキュリティ、アプリケーション管理の4分野で開始",
+      "銀行や航空会社などの厳格なセキュリティと規制要件を満たす環境での実績がある"
+    ],
+    "analogy": "これはレストランチェーンの本社がAIを導入し、その効果を確認してから、全国の加盟店に導入するのと似ています。DXCが自社で試してから、顧客の重要なシステムに導入することで、安全性と信頼性を確保しています。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:claude-corps": {
+    "source": "anthropic",
+    "slug": "claude-corps",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "title_original": "Introducing Claude Corps",
+    "title_ja": "AI技術を全米に広げるための新しい育成プログラム「Claude Corps」を発表",
+    "description": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+    "published": "",
+    "lastmod": "2026-06-11T13:36:07.000Z",
+    "summary": "AI企業のAnthropicが、キャリアの初期段階にある若い人材を育成する全国的なプログラム「Claude Corps」を発表しました。このプログラムでは、1,000人のフェロー（研修生）にAIツール「Claude」の使い方を教え、全米のNPO（非営利団体）にマッチングして、1年間フルタイムで働きながら組織を支援してもらいます。フェローには年85,000ドルの給与と福利厚生が提供されます。Anthropicは初期段階で1億5,000万ドルをこのプログラムに投資し、AIの恩恵が社会全体に広がるようにしたいと考えています。今後、全米の400以上のNPOがプログラムに参加する予定です。",
+    "points": [
+      "1,000人の若手人材を育成し、NPO団体でAIツールを活用する支援を1年間行う",
+      "フェローは年85,000ドルの給与と研修支援を受けながら、実務経験とAIスキルを同時に習得できる",
+      "CodePathやSocial Financeなどの団体と協力し、プログラムの実施と長期的な拡大を目指している",
+      "申し込みは既に受け付けており、2026年10月から段階的に開始される",
+      "プログラムの成功によって、将来的には米国全体、さらには他国への拡大も検討されている"
+    ],
+    "analogy": "Claude Corpsは、大学の「インターンシップ」のようなものですが、参加する学生が実際の職場で給与をもらいながら、専門的な新しい技術（AI）を学べます。同時に、受け入れ側の組織も若い人材の力を借りて、自分たちの仕事を改善できるという、双方にとってメリットのある仕組みです。",
+    "category": "企業ニュース、人材育成、パートナーシップ",
+    "summarized": true
   }
 }
