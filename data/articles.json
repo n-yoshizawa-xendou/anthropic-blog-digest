@@ -5816,5 +5816,68 @@
     "analogy": "Claude Corpsは、大学の「インターンシップ」のようなものですが、参加する学生が実際の職場で給与をもらいながら、専門的な新しい技術（AI）を学べます。同時に、受け入れ側の組織も若い人材の力を借りて、自分たちの仕事を改善できるという、双方にとってメリットのある仕組みです。",
     "category": "企業ニュース、人材育成、パートナーシップ",
     "summarized": true
+  },
+  "anthropic:fable-mythos-access": {
+    "source": "anthropic",
+    "slug": "fable-mythos-access",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "title_original": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "title_ja": "米国政府の指示によるFable 5とMythos 5のアクセス停止に関する声明",
+    "description": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.",
+    "published": "",
+    "lastmod": "2026-06-13T01:13:41.000Z",
+    "summary": "AnthropicのAI（人工知能）モデル「Fable 5」と「Mythos 5」が、米国政府の国家安全保障上の理由により、すべてのユーザーに対してアクセス停止となりました。政府は、Fable 5を迂回する方法が見つかったとして、外国籍の人物を含むすべてのユーザーへのアクセスを禁止する指令を発出しました。Anthropicは政府の法的指示に従いますが、同社は「この決定に異議がある」と表明しており、この基準が業界全体に適用されれば新型AI開発がほぼ停止するレベルの影響が出ると指摘しています。他のAnthropicのモデルへのアクセスは影響を受けません。",
+    "points": [
+      "米国政府がFable 5とMythos 5のアクセス停止を命令。理由は国家安全保障上の懸念とセキュリティ上の脆弱性",
+      "Anthropicは政府の指示に従うが、見つかった脆弱性は「狭く限定的」で、他の市販モデルも同様の能力を持つと主張",
+      "完全な安全保障は現在不可能であり、業界全体に同じ基準を適用すれば新型AI開発が停止するレベルの影響が出ると警告",
+      "政府との開発段階で何千時間ものセキュリティテストを実施済みで、Fable 5は既存モデルより安全性が高いと表明",
+      "透明性と技術的事実に基づく適切なプロセスの必要性を提唱し、今後詳細情報を公開予定"
+    ],
+    "analogy": "Fable 5の脆弱性発見は、高度なセキュリティシステムを備えた銀行が、ごく限定的で特殊な条件下でのみ成立する侵入方法が理論的に存在することが判明し、その理由だけで銀行全体の営業を停止するようなものです。他の銀行も同じレベルの脆弱性を持っているのに、です。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "anthropic:tcs-anthropic-partnership": {
+    "source": "anthropic",
+    "slug": "tcs-anthropic-partnership",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "title_original": "TCS and Anthropic partner to bring Claude to regulated industries",
+    "title_ja": "TCSとAnthropicが提携、AIアシスタント「Claude」を規制産業に展開",
+    "description": "We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.",
+    "published": "",
+    "lastmod": "2026-06-12T17:59:27.000Z",
+    "summary": "Anthropicは世界最大級のIT企業タタ・コンサルティング・サービシズ（TCS）と提携を発表しました。TCSは56カ国の5万人の従業員にClaudeを提供し、金融サービス、医療、公共部門などの規制が厳しい業界向けにClaudeを活用した製品を開発します。規制産業では高い正確性と監査可能性が求められており、TCSの数十年にわたる規制対応技術の経験とグローバルネットワークにより、世界中の数千の企業にClaudeが届けられます。既にTCSの傘下企業では、保険金請求処理やローン審査支援など、業界別の実用化が進んでいます。",
+    "points": [
+      "TCSが5万人の従業員にClaudeを導入し、56カ国で利用開始",
+      "金融・医療・公共部門など規制が厳しい業界向けに、カスタマイズされた製品を開発",
+      "TCSの既存顧客向けに、保険請求処理やローン審査など業界別ソリューションを提供",
+      "Anthropicのインドでの事業拡大と、信頼性の高いAI活用の推進を実現",
+      "TCSはClaudeパートナーネットワークに加わり、エンタープライズ向けコンサルティングを強化"
+    ],
+    "analogy": "これは、優れた医療技術（Claude）を持つ企業が、病院チェーン運営の専門家（TCS）と組むようなもの。技術だけでなく、患者対応の経験とネットワークを持つパートナーと一緒に、より多くの病院で高い医療サービスを実現する、という関係です。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:anthropic-public-record": {
+    "source": "anthropic",
+    "slug": "anthropic-public-record",
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "title_original": "Results from first Anthropic Public Record",
+    "title_ja": "アンスロピック初の全国世論調査：アメリカ人のAIに対する本音が明らかに",
+    "description": "Anthropic Public Record is a national survey of attitudes and opinions towards AI.",
+    "published": "",
+    "lastmod": "2026-06-12T16:24:44.000Z",
+    "summary": "AIの大手企業アンスロピックが、約52,000人のアメリカ人を対象に初めて大規模な世論調査を実施しました。調査結果から、アメリカ人はAIに対して「期待」と「不安」の両方を強く持っていることが明らかになりました。\n\nAIへの期待としては、48%の人が「がんやアルツハイマーなどの病気を治すこと」を最も期待しており、次に障害者の支援(36%)が続きます。\n\n一方、不安では64%の人が「仕事が失われること」を懸念し、次にAIへの過度な依存(56%)、偽情報(52%)が挙げられました。\n\n興味深いことに、71%が「政府がAI規制に関与すべき」と答え、これは政治的立場を超えた広い合意です。さらに、わずか15%しかAI企業を信頼していないという結果も出ました。",
+    "points": [
+      "アメリカ人の約半数が、AIによる医学的な治療・発見を最も期待している",
+      "64%の人がAIによる雇用喪失を懸念しており、これは政治的立場や地域を問わず共通の恐れ",
+      "71%が政府によるAI規制を支持し、党派的な違いを超えた広いコンセンサスが形成されている",
+      "AI企業への信頼は15%と極めて低く、国民は独立した監督機関と安全性の優先を求めている",
+      "AIを日常的に使う人ほど失業や依存への不安が減少し、実際の経験が恐怖を緩和する傾向"
+    ],
+    "analogy": "これは「新しい医療技術」に対する国民の心理に例えられます。多くの人は新薬が自分や家族の病気を治してくれることを期待し、大いに効果を信じています。しかし同時に『副作用が怖い』『医者に任せきりで大丈夫か』という不安も持っています。国民が『医療委員会による厳しい検査と承認が必要』と考えるのと同じく、AIに対しても『企業任せではなく、政府による監督と企業の責任追及が必要』という国民の声が反映されています。",
+    "category": "企業ニュース・研究",
+    "summarized": true
   }
 }
