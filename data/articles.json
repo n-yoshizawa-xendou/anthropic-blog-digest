@@ -5879,5 +5879,25 @@
     "analogy": "これは「新しい医療技術」に対する国民の心理に例えられます。多くの人は新薬が自分や家族の病気を治してくれることを期待し、大いに効果を信じています。しかし同時に『副作用が怖い』『医者に任せきりで大丈夫か』という不安も持っています。国民が『医療委員会による厳しい検査と承認が必要』と考えるのと同じく、AIに対しても『企業任せではなく、政府による監督と企業の責任追及が必要』という国民の声が反映されています。",
     "category": "企業ニュース・研究",
     "summarized": true
+  },
+  "claude:meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon": {
+    "source": "claude",
+    "slug": "meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
+    "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
+    "title_original": "Meet the winners of the Built with Opus 4.7 Claude Code hackathon",
+    "title_ja": "Opus 4.7ハッカソン優勝作品紹介：医療教育から家具修理まで、AIで課題を解決するプロジェクト6つ",
+    "description": "We chatted with the winners of our Built with Opus 4.7 hackathon about their projects, tackling medical training, electronics repair, computer science education, interactive play, home repair, and factory maintenance.",
+    "published": "2026-06-15",
+    "lastmod": "2026-06-15",
+    "summary": "Anthropicは「Built with Opus 4.7」ハッカソンの優勝作品を発表しました。医学生向けの診断訓練ツール「Medkit」、電子機器修理を支援する「Wrench Board」、学生のプログラミング思考を鍛える教育IDE「Maieutic」、インタラクティブなパペットシアター、家庭修理の診断ツール「MaestrIA」、工場機械のメンテナンスシステム「ARIA」など、異なる分野で実用的なAIアプリケーションが開発されました。これらのプロジェクトは、Claude Codeというツールが専門知識のある人々を手助けし、プログラミング経験がなくても実現可能なアイデアを形にできることを示しています。優勝者たちはいずれも、AIを単なるコード生成ツールではなく、思考のパートナーとして活用することの重要性を強調しています。",
+    "points": [
+      "医学教育から家庭修理まで、多様な分野でAIが実際的な課題解決に活用されている",
+      "Claude Codeは、プログラミング経験がない専門家（医師、教育者、職人など）でも実用的なアプリケーションを開発できる環境を提供している",
+      "優勝者たちは共通して、AIを思考パートナーとして活用し、事前に仕様を詳細に設計してからコーディングすることの重要性を指摘している",
+      "複雑な業界知識（医療ガイドライン、修理技術、チリの方言など）をシステムに組み込むことで、汎用的なAIを専門領域で実用的なツールに進化させている"
+    ],
+    "analogy": "Claude Codeは、家を建てる時に大工さんを手伝う建築助手のようなものです。大工さん（専門家）がどのような家を建てたいかを思い描き指示すると、助手（AI）がそれを実現するための技術的な作業を引き受けます。大工さん自身がノコギリの使い方を完璧に学ぶ必要はなく、自分の専門知識とビジョンに集中できるわけです。",
+    "category": "製品アップデート、AI技術、パートナーシップ",
+    "summarized": true
   }
 }
