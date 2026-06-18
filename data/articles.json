@@ -5899,5 +5899,89 @@
     "analogy": "Claude Codeは、家を建てる時に大工さんを手伝う建築助手のようなものです。大工さん（専門家）がどのような家を建てたいかを思い描き指示すると、助手（AI）がそれを実現するための技術的な作業を引き受けます。大工さん自身がノコギリの使い方を完璧に学ぶ必要はなく、自分の専門知識とビジョンに集中できるわけです。",
     "category": "製品アップデート、AI技術、パートナーシップ",
     "summarized": true
+  },
+  "anthropic:seoul-office-partnerships-korean-ai-ecosystem": {
+    "source": "anthropic",
+    "slug": "seoul-office-partnerships-korean-ai-ecosystem",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "title_original": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "title_ja": "Anthropicがソウルにオフィスを開設、韓国のAI産業との新たなパートナーシップを発表",
+    "description": "Anthropic opens Seoul and announces new partnerships across the Korean AI ecosystem—with the enterprises, startups, and researchers behind some of the most ambitious deployments of Claude.",
+    "published": "",
+    "lastmod": "2026-06-18T03:57:50.000Z",
+    "summary": "AI企業のAnthropicが韓国のソウルにオフィスを開設しました。これは、韓国の大手企業や新興企業、研究機関との連携を強化するための重要な一歩です。同時に、韓国科学技術情報通信部とAI安全性を推進するための協力協定を締結しました。\n\nNAVER、Nexon、LG、サムスンなど韓国の大手企業が、Anthropicの会話型AI「Claude」を従業員の業務に導入しており、コード作成やデータ分析などで活用されています。また、大学や非営利団体もClaudeを研究開発や社会支援活動に利用し始めています。韓国はすでにClaudeの利用が世界的に見ても多い国の一つであり、多くのスタートアップも独自のAIサービス開発にClaudeを活用しています。",
+    "points": [
+      "Anthropicがソウルにアジア地域の拠点を開設し、韓国の政府機関とAI安全性に関する協力協定を締結",
+      "NaverやNexon、Samsung、LGなどの大手企業がClaudeを経営に導入し、数千人規模の従業員が業務で活用中",
+      "大学や非営利団体を含む幅広いセクターでClaudeが採用され、研究や社会活動をサポート",
+      "韓国はClaudeの利用が世界的に見ても多い国の一つで、スタートアップ企業も積極的に活用している",
+      "開発者向けプログラムやハッカソンなどを通じて、韓国の起業家・開発者コミュニティを支援"
+    ],
+    "analogy": "Anthropicがソウルにオフィスを開設することは、大手スポーツブランドが東京や上海に専門店を出店して、その地域の顧客や企業と直接つながるのと同じ。地元のニーズを理解し、長期的な関係を築くための重要な投資です。",
+    "category": "企業ニュース、パートナーシップ、地域展開",
+    "summarized": true
+  },
+  "claude:meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon": {
+    "source": "claude",
+    "slug": "meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
+    "url": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
+    "title_original": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
+    "title_ja": "Claude Opus 4.8 ハッカソン優勝チームが12時間で作った3つの革新的プロジェクト",
+    "description": "From reconstructing Tang Dynasty architecture to polling a synthetic San Francisco, see what the winners of our latest hackathon built with Claude Opus 4.8 in a day.",
+    "published": "2026-06-17",
+    "lastmod": "2026-06-17",
+    "summary": "Anthropicが開催した24時間ハッカソンに世界中から300人以上が参加しました。優勝チームが作った3つのプロジェクトが注目を集めています。\n\n1位の「Tekton」は、焼失した建築物を3次元で復元するAIツール。唐王朝の建築物をノートルダム大聖堂の尖塔とともに、歴史的資料を根拠に正確に再現します。\n\n2位の「Sim Francisco」は、サンフランシスコの人口1万人の仮想市民を作成し、彼らに質問を投げかけることで選挙結果や都市政策の投票結果を予測するシミュレーション。実際の結果との誤差は1～3ポイント以内という精度です。\n\n3位の「Custom Universe」は、スマートフォンで撮った写真から3次元の編集可能な立体シーンを生成するツール。ロボット研究に必要な学習用データ生成を効率化します。\n\nすべてのプロジェクトは、Claude Opus 4.8（最新型AI）を活用してわずか1日で完成させられました。",
+    "points": [
+      "焼失した歴史的建築物を3次元で正確に復元し、各部品の歴史的根拠を追跡できる「Tekton」が1位",
+      "サンフランシスコの仮想市民1万人を作成し、選挙結果を高精度で予測する「Sim Francisco」が2位",
+      "スマートフォン写真から3次元シーンを生成し、ロボット研究用データを効率化する「Custom Universe」が3位",
+      "3つのプロジェクトすべてがClaudeを使ってわずか12時間で実装された",
+      "優勝チームの経験から『プロジェクト全体を計画してから実装する』『初期実装より最適化を優先する』『ツール選びもAIに相談する』といった実用的なアドバイスが得られた"
+    ],
+    "analogy": "これは映画製作に例えるなら、1日で「失われた城の完全な映像化」「1万人の想像上の市民による世論調査」「スマートフォンの写真から映画セットを自動生成」といった、通常は何ヶ月もかかる大規模プロジェクトを完成させたようなもの。AIアシスタントが監督・編集・技術担当を兼ねることで、驚異的な速度で高品質な成果物が生まれました。",
+    "category": "製品アップデート、パートナーシップ、AI技術",
+    "summarized": true
+  },
+  "claude:claude-design-stays-on-brand-for-daily-work": {
+    "source": "claude",
+    "slug": "claude-design-stays-on-brand-for-daily-work",
+    "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+    "title_original": "Claude Design now stays on brand for daily work",
+    "title_ja": "Claude Design がブランド統一デザインで日常業務に対応",
+    "description": "Claude Design now sticks to your design system across projects, works fluidly with Claude Code, lets you edit directly on the canvas, and connects to more tools you already use. It has a new home in the sidebar on the Claude desktop app; you can also find it at claude.ai/design.",
+    "published": "2026-06-17",
+    "lastmod": "2026-06-17",
+    "summary": "Anthropic は Claude Design の大幅なアップデートを発表しました。最新版では、企業のデザイン基準（ブランドルール）をプロジェクト全体で自動的に守ることができます。また、デザイン作成ツール「Claude Design」とコード生成ツール「Claude Code」がシームレスに連携し、デザインからプログラミングへの移行がスムーズになりました。キャンバス上での直接編集、Adobe やCanva などの外部ツールとの連携も強化されています。初週で100万人以上が利用し、デスクトップアプリのサイドバーに新しくホームが設置されました。安定性の向上と処理効率の改善により、より日常的な業務利用に適したツールへと進化しています。",
+    "points": [
+      "企業のブランドガイドラインを自動で保持し、複数プロジェクト間での統一性を確保",
+      "デザイン制作とコード生成の連携が強化され、デザインからプログラミングへの移行がスムーズに",
+      "Adobe、Canva、Vercel など9以上の外部ツールと連携可能に",
+      "キャンバス上での直接編集機能と数百の安定性改善で、日常的な業務に耐える性能を実現",
+      "初週で100万人以上が利用し、デスクトップアプリでアクセスも容易に"
+    ],
+    "analogy": "Claude Design は、建築士が作った設計図を大工が正確に施工する際に、設計基準を常にチェックして「この部分は基準から外れていないか？」と確認し、自動で修正する作業员のような役割を果たします。デザインからコーディングまでの流れが、設計図の作成から実際の建設までの一連の工事と同じように、スムーズにつながるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:workload-identity-federation": {
+    "source": "claude",
+    "slug": "workload-identity-federation",
+    "url": "https://claude.com/blog/workload-identity-federation",
+    "title_original": "Workload Identity Federation (WIF) is now generally available on the Claude Platform.",
+    "title_ja": "Claude プラットフォームにワークロード識別フェデレーション（WIF）が一般利用可能に",
+    "description": "WIF replaces static API keys with short-lived, scoped credentials issued at request time. WIF is compatible with any OIDC-compliant identity provider and covers all Claude API endpoints",
+    "published": "2026-06-17",
+    "lastmod": "2026-06-17",
+    "summary": "Anthropic は Claude API へのセキュアなアクセス方法として、ワークロード識別フェデレーション（WIF）を提供開始しました。WIF は従来の固定的な API キーを、使用時に発行される有効期限付きの認証情報に置き換える技術です。AWS、Google Cloud、Azure、GitHub Actions など、様々なクラウドプロバイダーの認証システムに対応しており、開発者は API キーの作成・管理・更新の手間から解放されます。各ワークロードに独立した ID と監査ログを割り当てることで、企業セキュリティポリシーに対応しながら、段階的な移行も可能です。",
+    "points": [
+      "固定的な API キーが不要に。短期間のみ有効な認証情報をリアルタイムで発行されるため、セキュリティが向上",
+      "AWS IAM、Google Cloud、Azure、GitHub Actions など複数の認証プロバイダーに対応し、既存システムとの統合が容易",
+      "各ワークロードが独立した ID を持つため、権限管理と監査ログの追跡が詳細に実施可能",
+      "Claude Console で簡単なセットアップフローが用意されており、数分で導入可能",
+      "既存の API キーと並行利用できるため、ワークロードを 1 つずつ段階的に移行できる"
+    ],
+    "analogy": "例えるなら、従来の API キーは「玄関の鍵を持ち続ける」ようなもので、紛失や盗まれるリスクがあります。一方、WIF は「毎回訪問時に一時的なゲストパス（ID カード）を受け取る」仕組みです。パスには有効期限と使用範囲が限定されているため、より安全です。",
+    "category": "セキュリティ・製品アップデート",
+    "summarized": true
   }
 }
