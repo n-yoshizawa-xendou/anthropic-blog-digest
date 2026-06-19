@@ -5983,5 +5983,68 @@
     "analogy": "例えるなら、従来の API キーは「玄関の鍵を持ち続ける」ようなもので、紛失や盗まれるリスクがあります。一方、WIF は「毎回訪問時に一時的なゲストパス（ID カード）を受け取る」仕組みです。パスには有効期限と使用範囲が限定されているため、より安全です。",
     "category": "セキュリティ・製品アップデート",
     "summarized": true
+  },
+  "claude:artifacts-in-claude-code": {
+    "source": "claude",
+    "slug": "artifacts-in-claude-code",
+    "url": "https://claude.com/blog/artifacts-in-claude-code",
+    "title_original": "Claude Code now supports artifacts",
+    "title_ja": "Claude Codeが「アーティファクト」機能に対応—作業進捗をリアルタイムで共有可能に",
+    "description": "Preview your in-progress work in Claude Code as a live, interactive artifact—built from your full session context and shareable with your team.",
+    "published": "2026-06-18",
+    "lastmod": "2026-06-18",
+    "summary": "Claude Codeに新しく追加された「アーティファクト」機能は、AIが行った作業を動的に更新されるWebページとして表示・共有できるものです。障害調査、ダッシュボード、リリースチェックリストなど、様々な形式でチーム内での情報共有が効率化されます。セッションの全コンテキスト（コードベース、接続ツール、会話履歴）から自動的にページが生成され、リアルタイムで更新されます。組織内での共有は安全に管理でき、アクセス制御や保持ポリシーの設定も可能です。この機能により、チームメンバーは別途説明を受けなくても同じ情報源を確認でき、コミュニケーション効率が大幅に向上します。",
+    "points": [
+      "Claude Codeの作業成果が、リアルタイムで更新されるインタラクティブなWebページ（アーティファクト）として自動生成される",
+      "セッション全体のコンテキスト（コード、ツール、会話）から構築されるため、別途データ連携の設定が不要",
+      "チーム内で安全に共有でき、組織のみがアクセス可能で、管理者による制御とバージョン履歴管理に対応",
+      "障害調査、セキュリティレビュー、デザイン案検討など、職種別に多様なユースケースに対応",
+      "更新が同一URLに自動反映されるため、チームメンバーは常に最新情報を確認できる"
+    ],
+    "analogy": "例えば、複数の料理人がレシピ開発を進める際に、従来は「現在こんな状態です」と口頭で説明しないといけませんでした。アーティファクトは、リアルタイムで更新される料理ノート（Webページ）を全員が同じ画面で見ながら作業する感じ。調理段階の変化が即座に反映され、みんなが常に同じ情報を持っているため、説明の手間が大幅に減ります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:steering-claude-code-skills-hooks-rules-subagents-and-more": {
+    "source": "claude",
+    "slug": "steering-claude-code-skills-hooks-rules-subagents-and-more",
+    "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+    "title_original": "Steering Claude Code: skills, hooks, subagents and more",
+    "title_ja": "Claude Codeの動作をコントロールする7つの方法：CLAUDE.mdファイル、スキル、フック、ルール、サブエージェントなど",
+    "description": "Learn about the seven methods for instructing Claude's behavior to understand the context cost and authority of each.",
+    "published": "2026-06-18",
+    "lastmod": "2026-06-18",
+    "summary": "Anthropic社のClaudeは、プロジェクトの特性に合わせてカスタマイズできます。Claudeの動作を指示する7つの方法があります：（1）CLAUDE.mdファイル（プロジェクト全体の規約）、（2）ルール（特定の制約）、（3）スキル（手順化されたワークフロー）、（4）サブエージェント（独立した並列作業）、（5）フック（自動実行トリガー）、（6）出力スタイル（回答形式の変更）、（7）システムプロンプト追加です。各方法は「いつ読み込まれるか」「長いセッションで保持されるか」「コンテキストコスト」が異なります。チームの規模や作業内容に応じて、最適な方法を選択することで、効率的かつ柔軟にClaudeの動作をカスタマイズできます。",
+    "points": [
+      "7つの指示方法（CLAUDE.md、ルール、スキル、サブエージェント、フック、出力スタイル、システムプロンプト追加）があり、それぞれ読み込みタイミングと文脈コストが異なる",
+      "CLAUDE.mdはプロジェクト全体の規約向き。ただし200行以内に抑え、チーム特有の規約は下位フォルダのCLAUDE.mdに分散させるべき",
+      "スキルは『毎回同じ手順』が必要な作業（デプロイ、レビュー）向きで、呼び出し時のみ読み込まれる",
+      "サブエージェントは独立した作業（ログ分析、検索）を並列実行でき、中間結果がメインセッションに戻らないため効率的",
+      "フックは『毎回必ず実行すべき』自動化（リンター実行、Slack通知）に向き、モデルの判断ではなく確実に動作する"
+    ],
+    "analogy": "CLaudeのカスタマイズ方法を「家の整理」に例えるなら、CLAUDE.mdは『家全体の基本ルール（玄関はきれいに）』、ルールは『台所専用のルール（調味料は左側）』、スキルは『定期的な大掃除の手順書』、サブエージェントは『友人に『庭を見てきて』と依頼する』、フックは『毎晩自動で施錠する』という感じです。状況に応じて最適な方法を使い分けることが大切です。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:enterprise-managed-auth": {
+    "source": "claude",
+    "slug": "enterprise-managed-auth",
+    "url": "https://claude.com/blog/enterprise-managed-auth",
+    "title_original": "Centrally manage authorization for MCP connectors",
+    "title_ja": "MCPコネクタの認証管理が一元化——企業全体での自動的なアクセス設定が可能に",
+    "description": "Admins can now provision MCP connectors for their whole organization through their identity provider, starting with Okta. Users get connector access automatically on first login, with authorization configured centrally by their organization.",
+    "published": "2026-06-18",
+    "lastmod": "2026-06-18",
+    "summary": "Claudeの新機能として、企業の管理者がMCPコネクタ（他のツールとを連携させる機能）の認証をOktaなどのIDプロバイダー経由で一括管理できるようになりました。従来は管理者が有効化した後、ユーザーが個別に承認する必要がありましたが、今後はユーザーが初回ログイン時に自動的にアクセス権を得られます。これにより、新入社員のオンボーディングが大幅に簡略化され、複数のツールへの承認手続きが不要になります。AsanaやAtlassianなど複数の企業がこの機能をサポートしており、セキュリティと利便性を両立させた解決策として期待されています。",
+    "points": [
+      "管理者がOktaを通じて企業全体のコネクタアクセスを一元管理でき、ユーザーは初回ログイン時に自動的にアクセス権を取得",
+      "新入社員のオンボーディングが簡潔になり、複数のツールへの個別承認が不要に",
+      "セキュリティが強化され、アクセス権の取り消しが迅速に反映され、個人用アカウントの混在も防止できる",
+      "AsanaやAtlassian、Canva、Figmaなど主要なツール企業が対応開始",
+      "オープン標準に基づいた設計で、あらゆるMCPコネクタが対応可能"
+    ],
+    "analogy": "これは、オフィスビルの入場管理に例えるとわかりやすいです。従来は、管理者がセキュリティゲートを開き、その後で各社員が個別に各部屋のドアを開けるために承認をもらう必要がありました。新機能では、管理者が一度セットアップすれば、社員は入館時に自動的に各部屋へのアクセス権を得られるようになり、社員証をかざすだけで全て進められるようになったイメージです。",
+    "category": "企業向けAI, 製品アップデート",
+    "summarized": true
   }
 }
