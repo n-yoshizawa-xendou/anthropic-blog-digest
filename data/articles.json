@@ -6046,5 +6046,26 @@
     "analogy": "これは、オフィスビルの入場管理に例えるとわかりやすいです。従来は、管理者がセキュリティゲートを開き、その後で各社員が個別に各部屋のドアを開けるために承認をもらう必要がありました。新機能では、管理者が一度セットアップすれば、社員は入館時に自動的に各部屋へのアクセス権を得られるようになり、社員証をかざすだけで全て進められるようになったイメージです。",
     "category": "企業向けAI, 製品アップデート",
     "summarized": true
+  },
+  "claude:the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry": {
+    "source": "claude",
+    "slug": "the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+    "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+    "title_original": "Claude Desktop on AWS, Google Cloud, and Microsoft Foundry",
+    "title_ja": "Claude Desktop がAWS、Google Cloud、Microsoft Foundryで全機能利用可能に",
+    "description": "Deploy the full Claude desktop experience - chat, Claude Cowork, and Claude Code - using inference on AWS, Google Cloud and Microsoft Foundry. Available today in beta.",
+    "published": "2026-06-22",
+    "lastmod": "2026-06-22",
+    "summary": "AI企業Anthropicは、クラウド大手3社（AWS、Google Cloud、Microsoft）を通じてClaudeを利用する企業向けに、デスクトップアプリの全機能を提供開始しました。これまでは一部機能のみでしたが、今後はチャット、共同作業ツール「Claude Cowork」、コード開発ツール「Claude Code」がすべて1つのアプリで使えます。企業のIT部門は各クラウド環境内でデータを保持でき、従業員認証、ポリシー管理、オフラインインストール対応など、既存システムとの連携機能が充実しています。Microsoft 365コネクタにより、メールとドキュメントへのアクセスも可能です。",
+    "points": [
+      "チャット、共同作業、コード開発の3つの機能が1つのアプリで利用可能に",
+      "企業のクラウド環境内でデータ処理・保管でき、データセキュリティが向上",
+      "既存の認証システム（Active Directory、Okta等）と統合でき、導入・管理が容易",
+      "役割ごとに細かくアクセス権限を設定でき、段階的な展開が可能",
+      "Microsoft 365との連携で、メールやドキュメントの活用がスムーズに"
+    ],
+    "analogy": "これまでは会社の営業部と企画部が異なる建物で働いていたのに対し、今は同じビル内の異なるフロアで働くようになった感じです。データはすべて自社ビル内に保管され、既存の受付（認証システム）を通じて誰もが出入りでき、部門ごとに立ち入り禁止区域を設定できます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
