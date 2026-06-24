@@ -6067,5 +6067,47 @@
     "analogy": "これまでは会社の営業部と企画部が異なる建物で働いていたのに対し、今は同じビル内の異なるフロアで働くようになった感じです。データはすべて自社ビル内に保管され、既存の受付（認証システム）を通じて誰もが出入りでき、部門ごとに立ち入り禁止区域を設定できます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:introducing-claude-tag": {
+    "source": "anthropic",
+    "slug": "introducing-claude-tag",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "title_original": "Introducing Claude Tag",
+    "title_ja": "Claude Tag：チームでClaudeを一緒に使える新機能がSlackで登場",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-06-23T19:22:44.000Z",
+    "summary": "AnthropicはSlackで使える新機能「Claude Tag」を発表しました。これはClaudeをSlackの一員として加え、チーム全体で一緒に仕事をする仕組みです。メッセージで@Claudeとタグをつけることで、タスクを任せられます。重要な点は、複数の人が同じClaudeとやり取りでき、Claudeが会話履歴から学習して作業をより効率的にできること。Anthropic内では既に製品チームの65%のコードがこの機能で作られています。今後の拡張も予定されており、Claude Enterprise・Teamプランの顧客が本日からベータ版で利用可能です。",
+    "points": [
+      "Slackで@Claudeをタグつけするだけで、AIに仕事を任せられる新機能",
+      "複数のチームメンバーが同じClaudeと一緒に作業でき、進捗状況が共有される",
+      "Claudeがチャネルの会話から学習するため、何度も同じ説明をする必要がない",
+      "セキュリティ機能が充実しており、部門ごとにアクセス権限を細かく管理できる",
+      "Anthropic社内で既に高い成果を上げており、ベータ版から正式版への展開を予定中"
+    ],
+    "analogy": "従来のClaudeは個人の専属秘書のようでしたが、Claude Tagはチーム全体で共有する優秀な同僚のような存在です。課題を割り当てるとバックグラウンドで自動的に進めてくれ、チーム全員がその進捗を見守り、フォローアップできます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:agent-identity-access-model": {
+    "source": "claude",
+    "slug": "agent-identity-access-model",
+    "url": "https://claude.com/blog/agent-identity-access-model",
+    "title_original": "Agent identity: a new access model for autonomous, team-wide AI",
+    "title_ja": "Claude Tagの「エージェント・アイデンティティ」：チーム全体で使えるAIの新しいアクセス管理方法",
+    "description": "How Claude Tag’s agent identity access model works, and best practices for configuring it in your team’s workspace.",
+    "published": "2026-06-24",
+    "lastmod": "2026-06-23",
+    "summary": "Anthropicが発表した「Claude Tag」は、Slackなどの共有チャネルでチーム全員が使えるAIアシスタントです。これまでのAIは個人のアカウント権限を借りて動作していましたが、複数人が同時に使う場合、誰の権限を使うかが問題になります。そこで導入されたのが「エージェント・アイデンティティ」という仕組みです。これはClaudeに独自のアカウント（Slack上ではClaudeアプリとして、GitHubではClaudeアプリとして）を持たせ、チーム全体で共有する方式です。管理者がチャネルごとに何にアクセスできるかを設定でき、セキュリティを保ちながら、複数人でのAI活用を実現します。",
+    "points": [
+      "ClaudeがSlackなどのツールで独自のアカウントを持ち、個人の権限に頼らず動作する",
+      "管理者がチャネルごとに、Claudeがアクセスできるツールやデータを細かく制御できる",
+      "チャネル単位で権限を管理することで、セキュリティを保ちながらチーム全体でのAI活用を実現",
+      "監査ログにClaudeの全ての行動が記録され、透明性が確保される",
+      "ダイレクトメッセージは個人のアカウント権限を使う従来の方式を維持"
+    ],
+    "analogy": "これは会社の秘書を雇うようなものです。従来のAIは各社員の秘書室に入って、その社員の権限を借りて仕事をしていました。一方、「エージェント・アイデンティティ」は、会社全体で1人の秘書を雇い、各部門の責任者が『この秘書は営業部では売上データを見てもいい、でも人事部の給与情報は見てはいけない』と指示する方式です。これにより、複数の部門が同じ秘書を効率的に使えるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
