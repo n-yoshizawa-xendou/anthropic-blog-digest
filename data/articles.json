@@ -6109,5 +6109,26 @@
     "analogy": "これは会社の秘書を雇うようなものです。従来のAIは各社員の秘書室に入って、その社員の権限を借りて仕事をしていました。一方、「エージェント・アイデンティティ」は、会社全体で1人の秘書を雇い、各部門の責任者が『この秘書は営業部では売上データを見てもいい、でも人事部の給与情報は見てはいけない』と指示する方式です。これにより、複数の部門が同じ秘書を効率的に使えるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:building-effective-human-agent-teams": {
+    "source": "claude",
+    "slug": "building-effective-human-agent-teams",
+    "url": "https://claude.com/blog/building-effective-human-agent-teams",
+    "title_original": "Lessons from Anthropic on building effective human-agent teams",
+    "title_ja": "人間とAIが協力するチームの作り方：Anthropicからの実践的な教訓",
+    "description": "The way we work with AI is evolving from a single-player to a multiplayer experience, where humans and agents work together as a team to achieve shared goals. We share examples of this new way of working in action.",
+    "published": "2026-06-24",
+    "lastmod": "2026-06-24",
+    "summary": "AIとの仕事の方法が大きく変わろうとしています。従来は1人の人間が1つのAIチャットを使う「ソロプレイ」でしたが、今は人間複数とAI複数が同じ職場（Slackなど）で協力する「マルチプレイ」へ進化しています。Anthropicは実際にこのような人間-AIチームを組んで働く中で、4つの大切な教訓を学びました。①情報を公開して、AIに広い文脈を与える、②人間とAIそれぞれが明確な役割と必要な道具を持つ、③チーム全体の目標（北極星）を明確にしてAIを主体的に動かす、④信頼を時間をかけて構築する、です。これらは新しい工夫ではなく、強いチームが持つ普遍的な習慣なのです。",
+    "points": [
+      "AIとの作業が「1人×1AI」から「複数人×複数AI」の協働型へシフト。Slack等の共有スペースで一緒に働く",
+      "AIに成功してもらうには、①情報の透明性、②明確な役割分担、③チーム全体の目標の共有、④信頼構築の4つが重要",
+      "AIが判断できるよう、決定はメモやSlackに文字で残し、AIが読めるようにする必要がある",
+      "AIにも人間と同じく『やるべき仕事』『確認役』という役割を決め、段階的に自主性を与えていく",
+      "検証ルールやテストを設けて品質を保ち、AIが誤りから学ぶ仕組みを作ることが大切"
+    ],
+    "analogy": "スポーツチームのように考えると分かりやすいです。昔は個人練習の時代（選手1人がコーチ1人と練習）でしたが、今は試合のようなもの。複数の選手（人間）と複数のロボット選手（AI）が同じフィールド（Slack）で一緒にプレイします。全員が試合内容を知っていて、それぞれが担当ポジションを持ち、チーム全体の目標に向かって協力するのです。",
+    "category": "AI技術, 企業ニュース, パートナーシップ",
+    "summarized": true
   }
 }
