@@ -6130,5 +6130,47 @@
     "analogy": "スポーツチームのように考えると分かりやすいです。昔は個人練習の時代（選手1人がコーチ1人と練習）でしたが、今は試合のようなもの。複数の選手（人間）と複数のロボット選手（AI）が同じフィールド（Slack）で一緒にプレイします。全員が試合内容を知っていて、それぞれが担当ポジションを持ち、チーム全体の目標に向かって協力するのです。",
     "category": "AI技術, 企業ニュース, パートナーシップ",
     "summarized": true
+  },
+  "claude:introducing-the-claude-apps-gateway": {
+    "source": "claude",
+    "slug": "introducing-the-claude-apps-gateway",
+    "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+    "title_original": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+    "title_ja": "Amazon BedrockとGoogle Cloud向けClaudeアプリゲートウェイのご紹介",
+    "description": "Connect Claude Code to Amazon Bedrock and Google Cloud with the new Claude apps gateway: corporate SSO login, centrally enforced policy, role-based access, per-user cost attribution, and spend caps—all from one stateless container on your infrastructure.",
+    "published": "2026-06-29",
+    "lastmod": "2026-06-29",
+    "summary": "Anthropicは、企業がClaudeのAI機能をAmazon BedrockやGoogle Cloudで安全に管理・運用するための「Claudeアプリゲートウェイ」を発表しました。このゲートウェイは、企業の従業員認証（SSO）、セキュリティポリシーの一元管理、ユーザーごとのアクセス制御、使用料の追跡、予算上限設定などを1つのコンテナで実現します。従来は開発者ごとにクラウド認証情報を設定し、各パソコンに手動で設定を配布する必要がありましたが、このゲートウェイにより、企業のID管理システムと連携するだけで、オンボーディング・オフボーディングが簡潔になります。ゲートウェイはLinux上で動作し、PostgreSQLデータベースで管理され、Claudeクライアントと連動して安全に機能します。",
+    "points": [
+      "企業のSSO（シングルサインオン）に対応し、複数のID管理サービスと連携可能",
+      "セキュリティポリシーをサーバー側で一元管理し、全てのクライアントに自動適用",
+      "ユーザーごと・グループごと・組織ごとに日次・週次・月次の予算上限を設定可能",
+      "使用状況データを企業内ネットワーク内で収集・管理し、Anthropicには送信しない設計",
+      "単一のステートレスコンテナで運用でき、複雑なインフラ構築が不要"
+    ],
+    "analogy": "企業がClaudeを使う際のゲートウェイは、企業のビルの入口に設置されたセキュリティゲートのようなものです。従来は各開発者が個別に認証キーを持ち、誰がどこにアクセスしたか追跡が大変でしたが、このゲートウェイを使えば、企業全体で統一された出入管理システムで、誰がいつどのサービスを使ったか、予算はいくら使ったかが一元的に把握できるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-in-microsoft-foundry": {
+    "source": "claude",
+    "slug": "claude-in-microsoft-foundry",
+    "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+    "title_original": "Claude in Microsoft Foundry is now generally available",
+    "title_ja": "ClaudeがMicrosoft Foundryで一般提供開始、Azureで利用可能に",
+    "description": "Starting today, Claude models are generally available in Microsoft Foundry, hosted on Azure.",
+    "published": "2026-06-29",
+    "lastmod": "2026-06-29",
+    "summary": "Anthropicの高性能AI「Claude」がMicrosoft Foundryを通じてAzure上で一般提供されることになりました。企業はすでに使用している認証システムや請求管理、ガバナンス（統制）機能をそのまま活用できます。Claude Opus 4.8とClaude Haiku 4.5が利用可能で、コーディングや複雑な分析など、様々な業務に対応しています。データの処理場所を選択できるため、データ保護が必要な企業にも対応。NVIDIAやその他の大手企業も既に導入し、自律型のAIエージェント（自動で判断・行動するAI）による業務効率化を実現しています。",
+    "points": [
+      "ClaudeがMicrosoft AzureのFoundryで正式提供開始。既存のAzure認証・請求機能がそのまま使用可能",
+      "コーディングや高度な推論など複雑な業務に対応し、NVIDIA GC300 GPUで高速処理が可能",
+      "データの処理場所を選択できるため、企業のデータ保護ルールに対応",
+      "複数の大手企業が既に導入。安全分析が200日から1日に短縮された事例も",
+      "段階的に利用可能なモデルと機能を拡張予定"
+    ],
+    "analogy": "これまでClaudeを使うには別の管理システムが必要でしたが、今はMicrosoft Azureという企業が既に持っている「家のスマートホームシステム」にClaudeという新機能を追加するような感覚で、追加の工事や複雑な設定なく利用できるようになった、ということです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
