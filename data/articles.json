@@ -6172,5 +6172,89 @@
     "analogy": "これまでClaudeを使うには別の管理システムが必要でしたが、今はMicrosoft Azureという企業が既に持っている「家のスマートホームシステム」にClaudeという新機能を追加するような感覚で、追加の工事や複雑な設定なく利用できるようになった、ということです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:redeploying-fable-5": {
+    "source": "anthropic",
+    "slug": "redeploying-fable-5",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "title_original": "Redeploying Claude Fable 5",
+    "title_ja": "Claude Fable 5が輸出規制解除に伴い再展開、新たなセキュリティ対策を実装",
+    "description": "Anthropic is redeploying Claude Fable 5 starting July 1 following the lifting of export controls, with updated cybersecurity safeguards and a new industry jailbreak framework.",
+    "published": "",
+    "lastmod": "2026-07-01T03:16:50.000Z",
+    "summary": "Anthropic（AI開発企業）は、輸出規制が解除されたため、7月1日からClause Fable 5というAIモデルを世界中のユーザーに再提供開始します。このモデルは6月に一時的に利用禁止になっていました。理由は、研究者がこのAIの安全機能を回避する方法を発見したためです。Anthropicはこの問題に対応するため、サイバーセキュリティ関連の悪用を防ぐ新しい「安全分類器」を導入しました。また、Amazon、Microsoft、Googleなどと協力して、AI全体で安全性を評価する統一的な基準作成に取り組んでいます。この基準により、今後どのAIの安全性が侵害されたかを業界全体で一貫性を持って判断できるようになります。",
+    "points": [
+      "Claude Fable 5が7月1日から世界中で再利用可能に。6月の輸出規制により一時停止されていたが、規制解除に伴い復活",
+      "サイバー攻撃悪用を防ぐため、新しい自動検知システム（安全分類器）を導入。不適切なリクエストの99%以上をブロック可能",
+      "Amazon・Microsoft・Googleなど大手企業と協力し、AI安全性侵害（ジェイルブレイク）の深刻度を判定する業界統一基準を開発中",
+      "米国政府との連携を強化し、新しいモデル提供前のテストや情報共有を拡大する方針",
+      "セキュリティ研究者向けのHackerOneプログラムを立ち上げ、安全性問題の報告体制を整備"
+    ],
+    "analogy": "AIの安全機能を回避する方法は、銀行の警備システムを突破しようとする試みと似ています。Anthropicは複数の防御層（セキュリティゲート）を用意し、たとえ1つの層が突破されても他の層で対応できるようにしています。さらに、業界全体で『どの程度危険な突破なのか』を統一的に判定する基準を作ろうとしているのです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic:claude-sonnet-5": {
+    "source": "anthropic",
+    "slug": "claude-sonnet-5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "title_original": "Introducing Claude Sonnet 5",
+    "title_ja": "Claude Sonnet 5登場：コーディングと仕事を得意とする高性能AI",
+    "description": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work.",
+    "published": "",
+    "lastmod": "2026-06-30T21:20:30.000Z",
+    "summary": "Anthropicが新しいAIモデル「Claude Sonnet 5」を発表しました。このモデルは、自動で計画を立てたり、ブラウザやターミナルなどのツールを使ったり、自律的に動作したりできます。従来のSonnet 4.6と比べて大幅に性能が向上し、より高価な上位モデル「Opus 4.8」に近い能力を持ちながら、価格は安く設定されています。特にコーディング、ツール使用、推論など、複雑な仕事の自動化で優れています。安全性も向上し、有害なリクエストへの拒否がより適切になりました。8月31日までは割引価格で提供され、その後は標準価格となります。複数の企業が早期テストで、複雑な複数ステップの作業を独立して完了する能力を確認しています。",
+    "points": [
+      "自動実行能力が大幅向上：複数ステップの複雑な作業を自力で完了でき、従来は途中で止まった作業が完成するようになった",
+      "高い性能と低い価格：高価な上位モデルに近い性能を持ちながら、費用効率に優れており、コスト面で大きな利点がある",
+      "安全性が改善：有害なリクエストへの拒否能力が向上し、悪意のある攻撃への耐性が強化された",
+      "割引価格で提供開始：8月31日までは特別価格（入力1百万トークンあたり2ドル）で利用可能、その後は通常価格に移行",
+      "実務で即戦力：企業のテストでも、ソフトウェア開発、保険業務、法務など様々な分野で複雑な作業を単独で完了することが確認されている"
+    ],
+    "analogy": "Claude Sonnet 5は、会社員の能力アップグレードのようなものです。従来のSonnet 4.6は指示に従うだけでしたが、Sonnet 5は『この案件を最後まで完成させて』と言うと、自分で計画を立てて、必要なツールを使い、途中で確認しながら、完成品を提出してくれる有能な部下になったようなイメージです。能力は高いのに給料（利用コスト）は安いという、会社にとって理想的な従業員です。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "anthropic:claude-science-ai-workbench": {
+    "source": "anthropic",
+    "slug": "claude-science-ai-workbench",
+    "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "title_original": "Claude Science, an AI workbench for scientists",
+    "title_ja": "Claude Science：科学者向けAI研究ツールがついに登場",
+    "description": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+    "published": "",
+    "lastmod": "2026-06-30T18:43:57.000Z",
+    "summary": "AnthropicがClause Scienceという科学者専用のAIツールを発表しました。このツールは、研究者が日々使う様々なツール（データベース、分析ソフト、論文検索など）を一つの画面に統合。タンパク質の構造予測やRNA解析など複雑な研究作業を、AIが自動で進めてくれます。生成されたグラフや分析結果には「どのように作られたか」の履歴が全て記録されるため、結果の検証と再現が容易。HPC（高性能計算機）やGPUなどの計算リソースも自動で管理し、大規模なデータ処理も簡単に実行できます。すでに複数の研究機関が試験中で、2年かかる文献レビューを数日で完成させるなど、劇的な効率化を実現しています。",
+    "points": [
+      "複数のデータベースや分析ツールを一つの環境に統合し、研究者の作業を大幅に効率化",
+      "生成結果には完全な履歴が記録されるため、再現性と検証可能性が確保される",
+      "計算リソースの管理を自動化し、大規模データ処理をワンクリックで実行可能",
+      "60以上の科学データベースと連携し、ゲノミクスや化学など複数分野に対応",
+      "敏感なデータは研究機関のサーバーに留まり、セキュリティと機密性を確保"
+    ],
+    "analogy": "複雑な手作り料理を作るとき、様々な調理器具を何度も取り替えながら進めるのは大変ですよね。Claude Scienceは、必要な全ての調理器具をキッチンに整理整頓し、さらにレシピの各ステップを自動実行してくれるような存在。科学者は高度な判断に集中でき、単純作業の時間は大幅に削減されます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:getting-started-with-loops": {
+    "source": "claude",
+    "slug": "getting-started-with-loops",
+    "url": "https://claude.com/blog/getting-started-with-loops",
+    "title_original": "Getting started with loops",
+    "title_ja": "ループ機能の使い始め方：AIエージェントを自動化する4つのパターン",
+    "description": "Practical guidance on progressing from turn-based to goal-based, time-based, and proactive loops.",
+    "published": "2026-06-30",
+    "lastmod": "2026-06-30",
+    "summary": "Anthropicの Claude Code チームが、AIに繰り返し作業をさせる「ループ」という概念を紹介しています。ループとは、AIエージェントが特定の条件を満たすまで同じ作業を繰り返すことです。記事では4つのタイプを解説しています。①ユーザーの指示で始まる「ターンベース」②目標達成まで自動で繰り返す「ゴールベース」③定期的に実行される「時間ベース」④定期的に自動実行される「プロアクティブ」です。各ループタイプには最適な用途があり、簡単なタスクから複雑な業務まで使い分けることが重要です。記事ではコード品質を保つための検証スキルの設定やトークン使用量の管理方法も説明しており、開発チームがAIを効率的に活用するための実践的なガイドを提供しています。",
+    "points": [
+      "AIエージェントが作業を繰り返す「ループ」には4つの主なタイプがあり、それぞれ異なる用途と特徴を持つ",
+      "ターンベースループは手動で指示を出すもので、ゴールベースループは目標を定義すれば自動で繰り返す",
+      "時間ベースループは定期的に実行され、プロアクティブループは完全に自動化された長期実行タスク向け",
+      "コード品質を維持するには検証スキルの設定、ドキュメント整備、複数エージェントによるレビューが重要",
+      "トークン使用量を管理するため、適切なループタイプの選択と明確な終了条件の設定が必須"
+    ],
+    "analogy": "ループは、友人に家事を頼むことに例えられます。①ターンベースは『窓を拭いて』と指示するたびに一つの作業をしてもらう形。②ゴールベースは『このリビングを綺麗にして』と目標を示すと、その目標達成まで自分で判断して作業を続ける形。③時間ベースは『毎日朝にメールをチェックして』と定期的な作業を任せる形。④プロアクティブは『毎日の家事は全部任せる』と完全に自動化する形です。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
