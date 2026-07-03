@@ -6256,5 +6256,47 @@
     "analogy": "ループは、友人に家事を頼むことに例えられます。①ターンベースは『窓を拭いて』と指示するたびに一つの作業をしてもらう形。②ゴールベースは『このリビングを綺麗にして』と目標を示すと、その目標達成まで自分で判断して作業を続ける形。③時間ベースは『毎日朝にメールをチェックして』と定期的な作業を任せる形。④プロアクティブは『毎日の家事は全部任せる』と完全に自動化する形です。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:fable-safeguards-jailbreak-framework": {
+    "source": "anthropic",
+    "slug": "fable-safeguards-jailbreak-framework",
+    "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+    "title_original": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+    "title_ja": "Claude Fable 5のサイバーセキュリティ対策と「ジェイルブレイク」評価フレームワークの詳細公開",
+    "description": "What is and isn't blocked by our cyber classifiers, and a first draft of our jailbreak severity framework",
+    "published": "",
+    "lastmod": "2026-07-03T00:07:08.000Z",
+    "summary": "Anthropicが、AI言語モデル「Claude Fable 5」のサイバーセキュリティ対策について詳しく説明しました。同社は、危険な使用方法を検知・ブロックするAIシステム（安全分類器）を搭載しており、サイバー関連の活動を「禁止」「高リスク」「低リスク」「無害」の4カテゴリに分類しています。また、AIモデルの安全装置を迂回させるテクニック「ジェイルブレイク」の危険度を評価する枠組みも初めて公開しました。同社は、セキュリティ研究者からの報告を受け付けるプログラムを立ち上げ、政府や業界と協力してAI安全の標準化を目指しています。",
+    "points": [
+      "Fable 5は禁止行為（身代金ウェア、マルウェア開発など）と高リスク行為（ペネトレーションテストなど）をブロックする一方で、防御的なセキュリティ業務は許可する仕組みになっている",
+      "セキュリティは『両刃の剣』で、同じ技術が防御にも攻撃にも使える点が課題であり、文脈に応じて判断する必要がある",
+      "ジェイルブレイク（安全装置の迂回テクニック）の危険度を『CJS-0～4』の5段階で評価する新しい評価基準を提案している",
+      "脆弱性の発見は防御にとって重要なため、他の広く利用可能なモデルで既に発見されている脆弱性は検出を許可している",
+      "政府・企業・学術機関と協力してAI安全の標準化を目指し、セキュリティ研究者からの報告を募集している"
+    ],
+    "analogy": "これはちょうど、包丁のような両刃の刃を持つ道具と考えられます。包丁は料理人の手にあれば食事を作るのに不可欠ですが、悪意を持った人の手に渡ると危険になります。Fable 5は『誰が何をしようとしているのか』を見極めて、防御目的なら許可し、攻撃目的なら遮断するという工夫をしているわけです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "claude:giving-admins-more-visibility-and-control-over-claude-usage-and-spend": {
+    "source": "claude",
+    "slug": "giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+    "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+    "title_original": "New analytics and cost controls are available for Claude Enterprise",
+    "title_ja": "Claude Enterprise に新しい分析ツールと費用管理機能が登場",
+    "description": "Richer admin analytics, model-level entitlements, and spend alerts for Claude Enterprise so admins can track adoption, manage cost, and set guardrails that fit their org.",
+    "published": "2026-07-02",
+    "lastmod": "2026-07-02",
+    "summary": "Anthropic は Claude Enterprise 向けに、管理者がより詳しく利用状況と支出を把握・管理できる新機能を追加しました。新しい分析ダッシュボードでは、グループごと・ユーザーごとの利用状況と費用を可視化でき、自然言語で質問できるチャット機能も搭載。費用管理では、AIモデルの初期設定やユーザーごとの利用制限を細かく設定でき、支出が予算の75%・90%に達した時点でアラートが届きます。API経由でデータを既存の会計・IT管理ツールに連携することも可能で、企業全体で AI 利用コストを効率的に追跡・最適化できるようになりました。",
+    "points": [
+      "管理者向けダッシュボードで、チーム別・ユーザー別の利用状況と費用をリアルタイムで確認できる",
+      "モデルの初期設定や利用権限を細かく設定し、不要に高価なモデルが使われるのを防ぐ",
+      "支出アラート機能で予算超過を事前に察知でき、作業を中断させずに対応できる",
+      "Analytics API を使用して、既存の会計ツールやクラウド管理ツールに自動連携可能",
+      "スキルやプラグインの利用状況も追跡でき、実際のビジネス価値を測定しやすくなる"
+    ],
+    "analogy": "これまでは「毎月の請求書を見て初めて支出に気づく」という状況でしたが、今回の機能は「家計管理アプリでリアルタイムに日々の支出を確認し、予算を超えそうになったら事前に通知が来る」という感じです。企業が AI の利用コストをコントロールしやすくなります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
