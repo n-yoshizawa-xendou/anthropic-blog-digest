@@ -6319,5 +6319,47 @@
     "analogy": "これは、人間が簡単な計算は頭の中で瞬時にするのに対し、複雑な問題を解くときは紙に計算過程を書き出して検証するのと同じ。Claudeも同じように、問題の難易度に応じて思考時間を変えられるようになったということです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:alberta-government-claude-cybersecurity": {
+    "source": "anthropic",
+    "slug": "alberta-government-claude-cybersecurity",
+    "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+    "title_original": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+    "title_ja": "アルバータ州政府がClaudeを使ってサイバーセキュリティの弱点を発見・修正",
+    "description": "The Government of Alberta has been using Claude Code with both Opus and Sonnet models to review its systems, find vulnerabilities, and fix them.",
+    "published": "",
+    "lastmod": "2026-07-06T19:00:35.000Z",
+    "summary": "カナダのアルバータ州政府が、AI助手「Claude」を活用して政府システムのセキュリティ強化に成功しました。2025年から導入された「Claude Code」を使い、わずか20時間で4億6,600万行のプログラムコードを検査。従来なら6.5年かかる作業を完了しました。約50個の自動エージェント（AI）が並行して動作し、セキュリティの弱点を見つけるだけでなく、自動的に修正やテストまで実施。税務記録や社会福祉情報など重要な個人情報を守るため、継続的なセキュリティ監視システムも構築しました。アルバータ州は経験を技術文書として公開し、他の政府機関の参考になるよう支援しています。",
+    "points": [
+      "AIを使って20時間で4億6,600万行のコードを検査（従来は6.5年要した）",
+      "見つかったセキュリティの弱点を自動的に修正・テスト可能",
+      "継続的な監視システムで常時セキュリティをチェック",
+      "古い言語で書かれたシステムを現代的な言語に自動改築可能",
+      "他の政府機関向けに技術情報を公開し、同様の対策を支援"
+    ],
+    "analogy": "自動車の整備に例えるなら、AIが何万台もの自動車を同時に検査し、故障箇所を見つけるだけでなく、自動的に修理や部品交換まで行うようなものです。人間の整備士だけでは何年もかかる作業が、数日で完了します。",
+    "category": "パートナーシップ・政府活用事例",
+    "summarized": true
+  },
+  "claude:a-field-guide-to-claude-fable-finding-your-unknowns": {
+    "source": "claude",
+    "slug": "a-field-guide-to-claude-fable-finding-your-unknowns",
+    "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+    "title_original": "A field guide to Claude Fable 5: Finding your unknowns | Claude",
+    "title_ja": "Claude Fable 5 完全ガイド：未知の課題を見つける方法",
+    "description": "Practical patterns for agentic coding with Claude Fable: how to find your unknowns before, during, and after implementation, from the team at Anthropic.",
+    "published": "2026-07-06",
+    "lastmod": "2026-07-06",
+    "summary": "Anthropicのブログ記事では、AI助手「Claude Fable」でコーディングする際の効果的な方法論を紹介しています。重要なポイントは「未知の課題を見つけること」です。プロジェクトでは、既に知っていることもあれば、気づいていない落とし穴もあります。著者は「地図と領土の違い」というアナロジーを使い、計画と現実のズレを埋めることの重要性を強調しています。実装前に「ブラインドスポットパス」（盲点を探す作業）や試作品作成を行い、実装中は決定事項を記録し、実装後は説明資料やテストで理解を深める。このサイクルを回すことで、AIがより正確に意図を理解し、より質の高い仕事ができるようになります。記事では動画編集の実例も示しており、未知の領域でも段階的に知識を深めることで対応可能であることを証明しています。",
+    "points": [
+      "「未知の課題」を事前に、実装中に、実装後に3段階で見つけることが重要",
+      "実装前の準備（盲点探し、試作品、インタビュー）で後々の大きな修正を防ぐ",
+      "参考資料や実装計画を用意することで、AIに文脈を与え正確な作業を実現",
+      "実装中は決定事項を記録し、突然の変更にも対応できる柔軟性を保つ",
+      "最後に説明資料やテストで自分自身と他者の理解を確認する"
+    ],
+    "analogy": "計画を立てずに料理をするようなもの。最初に「何を作りたいのか」「どんな食材がある か」「どこに困りそうか」を確認してから調理に入るのと、ぶっつけ本番で始めるのでは、失敗の確率が大きく変わります。Claudeとの作業も同じく、事前準備が成功の鍵になります。",
+    "category": "AI技術",
+    "summarized": true
   }
 }
