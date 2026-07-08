@@ -6361,5 +6361,89 @@
     "analogy": "計画を立てずに料理をするようなもの。最初に「何を作りたいのか」「どんな食材がある か」「どこに困りそうか」を確認してから調理に入るのと、ぶっつけ本番で始めるのでは、失敗の確率が大きく変わります。Claudeとの作業も同じく、事前準備が成功の鍵になります。",
     "category": "AI技術",
     "summarized": true
+  },
+  "claude:bringing-claude-code-and-claude-cowork-to-government": {
+    "source": "claude",
+    "slug": "bringing-claude-code-and-claude-cowork-to-government",
+    "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+    "title_original": "Bringing Claude Code and Claude Cowork to government",
+    "title_ja": "政府機関向けにClaudeのコード作成・協働機能を提供開始",
+    "description": "Claude Code and Claude Cowork are now available in public beta in Claude for Government Desktop",
+    "published": "2026-07-07",
+    "lastmod": "2026-07-07",
+    "summary": "Anthropicは、政府機関向けのデスクトップアプリケーション「Claude for Government Desktop」で、「Claude Code（コード作成機能）」と「Claude Cowork（協働機能）」をパブリックベータ版で公開しました。Claude Codeは公的サービスを支える政府システムの構築・近代化を支援し、Claude Coworkは省庁スタッフがメモ作成やRFP（提案依頼書）レビューなどの業務をAIに委任できます。これらの機能は、政府の厳密なセキュリティ基準（FedRAMP High認証）を満たす環境で提供されます。さらに行政向けに特化した予算管理機能や監査ログ機能も搭載。省庁は予算に合わせた柔軟な利用料金プランを設定でき、各部門の支出を追跡・管理できます。政府機関の業務効率化とAI導入の透明性向上を同時に実現する取り組みです。",
+    "points": [
+      "Claude CodeとClaudeCoworkが政府機関向けデスクトップに登場。ソフトウェア開発とドキュメント作成をAIがサポート",
+      "FedRAMP High認証された高度なセキュリティ環境で運用。政府のセキュリティ要件を完全クリア",
+      "予算に基づいた柔軟な課金制度と部門別の支出管理が可能。行政の予算執行プロセスに対応",
+      "全ての管理者アクションが改ざん防止機能付きの監査ログに記録。透明性とコンプライアンスを確保",
+      "Anthropicが契約・請求の実主体。政府機関は別途クラウドプロバイダーとの契約が不要"
+    ],
+    "analogy": "これは、銀行が法人顧客向けに特別な支店を用意するのと似ています。一般向けのサービスと同じ機能を提供しながらも、セキュリティ基準を高め、監査機能を強化し、複雑な予算管理に対応させています。政府機関は安心して導入でき、税金の使途も明確に追跡できるわけです。",
+    "category": "製品アップデート、パートナーシップ",
+    "summarized": true
+  },
+  "claude:claude-model-and-effort-level-in-claude-code": {
+    "source": "claude",
+    "slug": "claude-model-and-effort-level-in-claude-code",
+    "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
+    "title_original": "Choosing a Claude model and effort level in Claude Code",
+    "title_ja": "Claude Codeでモデルと作業レベルを選ぶ方法",
+    "description": "Claude Code has two settings that shape results: which Claude model you use and the effort level. Learn what each one actually controls and how to choose.",
+    "published": "2026-07-07",
+    "lastmod": "2026-07-07",
+    "summary": "Claude Codeには、結果を左右する2つの設定があります。1つは使用するClaudeモデル（Sonnet、Opus、Fableなど）の選択で、これはモデルの基本的な能力を決めます。もう1つは「作業レベル」で、これは単なる「考える時間」ではなく、ファイルを読む数、使用するツール、作業を進める深さなど、Claude全体がどれだけ努力するかを制御します。日常的なタスクには小さめのモデル、複雑で曖昧なタスクには大きなモデルを選ぶのが効率的です。Claudeが文脈を十分に持ちながら間違える場合はより能力の高いモデルを、ファイルをスキップしたり検証を省いた場合は作業レベルを上げるのが有効です。",
+    "points": [
+      "モデル選択は能力範囲を決め、作業レベルはその能力をどこまで発揮させるかを制御する",
+      "作業レベルが高いと、ファイル読み込み、テスト実行、二重確認など、より多くの作業をClaudeが自分で行う",
+      "日常的なタスクはSonnetなど小さいモデルで十分、複雑な問題はFableなど大きいモデルが必要",
+      "Claudeが間違ったときは、モデル変更か作業レベル上げかを、原因を分析して選択すべき",
+      "デフォルト作業レベルで始めて、タスク種別に応じた一般的な好みに基づいて調整するのが推奨"
+    ],
+    "analogy": "異なるモデルと作業レベルの関係は、レストランの料理人に例えられます。Fableは『見たことのない珍しい問題を一目で解く名人』、Opusは『豊富な経験を持つ専門家』、Sonnetは『多才で優秀な一般人』です。作業レベルはこれらの人物に与える時間（5分か午後全体か）で、短い時間なら深い読み込みはできませんが、長い時間があればあなたのコードを徹底的に理解できます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:cowork-web-mobile": {
+    "source": "claude",
+    "slug": "cowork-web-mobile",
+    "url": "https://claude.com/blog/cowork-web-mobile",
+    "title_original": "Claude Cowork on web and mobile: hand off work anywhere",
+    "title_ja": "Claude Coworkがウェブとモバイルに対応—どこでも作業を続けられる新機能",
+    "description": "Claude Cowork is rolling out to web and mobile. Hand Claude a task, close the laptop, and the work keeps going, while every decision still comes to you.",
+    "published": "2026-07-07",
+    "lastmod": "2026-07-07",
+    "summary": "Anthropic のAIアシスタント「Claude」に、新しい機能「Claude Cowork」がウェブとモバイルで利用できるようになります。これまではパソコンでのみ利用できていましたが、今後はスマートフォンやウェブブラウザからも使用可能になります。最大の特徴は、Claudeに任せた仕事がパソコンを閉じても続くこと。メール確認や契約書の整理、資料作成など、日常の事務作業の90%以上に使われています。スマートフォンで途中経過を確認したり、重要な判断が必要な時だけ通知を受け取ったりと、柔軟に作業を管理できます。8月5日までは利用制限が倍増されているため、大きな仕事にも挑戦しやすくなっています。",
+    "points": [
+      "Claude Coworkがモバイルとウェブに対応し、デスクトップ以外からもアクセス可能に",
+      "パソコンを閉じても作業が自動で続く—夜間や移動中も背景で処理が進む",
+      "プログラミングではなく、メール管理や資料作成など日常の事務作業が90%以上の利用用途",
+      "重要な判断や承認が必要な時だけ人間に通知が届く仕組みで、安心して任せられる",
+      "8月5日まで利用制限が2倍になっており、より大きなタスクに対応可能"
+    ],
+    "analogy": "これは、秘書に任せた業務と同じようなもの。朝、「会議の資料を作っておいて」と指示してから会議に出かけても、秘書は着々と仕事を進めます。重要な判断が必要な時だけ相談され、完成した資料はいつでも確認できます。新機能は、その秘書がスマートフォンにも対応したようなイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-people-are-using-claude-cowork": {
+    "source": "claude",
+    "slug": "how-people-are-using-claude-cowork",
+    "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
+    "title_original": "How people are using Claude Cowork",
+    "title_ja": "Claude Cowork の使い方：知識労働者の日常業務データ分析",
+    "description": "How are knowledge workers using AI? Anthropic's analysis of Claude Cowork sessions reveals the everyday tasks people delegate most—and what it means.",
+    "published": "2026-07-07",
+    "lastmod": "2026-07-07",
+    "summary": "Anthropicは、2026年5月にClause Cowork（AIと協力して仕事を進めるツール）の120万セッションを分析しました。その結果、ユーザーの約半分が「仕事の周辺業務」に利用していることが判明しました。最も利用されているのは業務プロセス改善（33.4%）で、次にコンテンツ作成・営業文書作成（16.4%）が続きます。弁護士が書類整理に、採用担当者が面接データ整理に、チームリーダーが資料作成に使うなど、本来の専門業務に時間をかけられるようサポート。これはプログラマーがコード開発に使う「Claude Code」とは異なり、情報整理・共有が中心となっています。AIを活用した知識労働の新しい使い方が広がっています。",
+    "points": [
+      "Claude Coworkの最大用途は『業務プロセス・運用』で全体の33.4%。スプレッドシート整理やチェックリスト作成など、複数職種で必要な業務",
+      "次点は『コンテンツ作成・文章作成』が16.4%。資料作成や企画書作成など、情報をまとめる作業が中心",
+      "ユーザーは本来の専門業務に集中するため、データ整理・文書作成などの「周辺業務」をAIに委譲している",
+      "この使われ方はコード開発に特化した『Claude Code』と異なり、より広い職種の日常業務を支援",
+      "2025年の提供開始以来、非技術職も含めた幅広い知識労働者に採用され、利用方法が急速に進化中"
+    ],
+    "analogy": "Claude Coworkの役割は、企業における『事務アシスタント』に似ています。弁護士が判例研究に専念できるよう書類整理を担当する、医師が診療に集中できるよう初診票をまとめるといった感じで、各専門家が本来の高度な判断が必要な仕事に時間を使えるよう、日々の雑務をサポートします。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
