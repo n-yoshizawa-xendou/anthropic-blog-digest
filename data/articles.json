@@ -6445,5 +6445,47 @@
     "analogy": "Claude Coworkの役割は、企業における『事務アシスタント』に似ています。弁護士が判例研究に専念できるよう書類整理を担当する、医師が診療に集中できるよう初診票をまとめるといった感じで、各専門家が本来の高度な判断が必要な仕事に時間を使えるよう、日々の雑務をサポートします。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
+    "url": "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
+    "title_original": "Working at the frontier: How Thomson Reuters builds AI for high- stakes professional work",
+    "title_ja": "トムソン・ロイターが高度な専門職向けAIを開発する方法—正確さと信頼性を最優先に",
+    "description": "Why the team at Thomson Reuters considers Claude Fable 5 a critical evolution in what’s possible with AI for knowledge work.‍",
+    "published": "2026-07-08",
+    "lastmod": "2026-07-08",
+    "summary": "175年以上の歴史を持つトムソン・ロイターは、弁護士や会計士など高度な専門職向けのAIシステムを開発しています。同社は「信頼できる回答」を重視し、Claude Fable 5というAIモデルを採用しました。その理由は、法律研究などの重要な判断が求められる業務では「ほぼ正しい」では不十分だからです。同社は、権威ある法律情報、2700人以上の専門家による監修、そしてAIモデルを組み合わせた「信託責任グレードAI」というアプローチを開発。これにより、引用の検証や情報源の透明性を確保し、専門家が責任を持って判断できるシステムを実現しています。その結果、数十時間かかった法律調査が数分で完了するようになり、専門職の生産性が大幅に向上しました。",
+    "points": [
+      "AIが「正しい答え」を出すだけでなく、根拠や引用を検証可能にすることが高度な専門職には不可欠",
+      "権威ある情報源、専門家の監修、AIモデルの組み合わせによって初めて信頼できるシステムが実現する",
+      "複数のツールを同時に使いこなすエージェント型AIが、従来の単機能ツールの使い方を変えている",
+      "AIの導入効果は単なるコスト削減ではなく、専門職の判断力と生産性の向上にある",
+      "弁護士が『名前を書いて責任を持てるAI』の実現が、企業向けAIの最大の課題"
+    ],
+    "analogy": "AIシステムを医師に例えるなら、多くのAIは『症状から病名を言う』だけですが、トムソン・ロイターが求めるAIは『医学論文の引用を示し、検査結果を確認してから診断を伝える』医師のようなものです。患者（専門職）が信頼して決断できるために、プロセスの透明性が何より大切なのです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds": {
+    "source": "claude",
+    "slug": "how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+    "url": "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+    "title_original": "Using Claude Cowork in marketing operations to automate reporting and campaign building",
+    "title_ja": "Anthropicのマーケティング運用チームが「Claude Cowork」で報告書作成とキャンペーン構築を自動化",
+    "description": "How the marketing operations team at Anthropic uses Claude Cowork to automate marketing reporting and marketing campaign builds.",
+    "published": "2026-07-08",
+    "lastmod": "2026-07-08",
+    "summary": "Anthropic社のマーケティング運用チームが、AI「Claude Cowork」を使ってマーケティング業務を自動化する事例を紹介しています。従来は複数のシステムを手作業で操作していた業務が、大幅に効率化されました。例えば、Ian氏は週1～2日かかっていた経営層向けの営業指標報告書の作成を、わずか2時間に短縮できました。また、Annabel氏はイベント設営に必要な複数システムへの登録作業を自動化し、作業品質を高めながら時間を削減しました。このように手作業が減った時間を、データ分析やプロセス改善といったより高度な業務にシフトさせ、チーム全体の生産性と仕事の質が向上しています。",
+    "points": [
+      "週1～2日かかっていた営業指標報告書の作成が2時間に短縮され、データ収集・検証がAIにより自動化された",
+      "複数の営業ツールを手作業で設定する業務がAIの自動ワークフロー化により、一貫性が高く、ミスの少ないイベント構築が実現",
+      "自動化により浮いた時間を、データ分析やプロセス改善といった戦略的な業務に充てられるようになった",
+      "AIの判断が不確実な場合は自動で人間に確認を求めるなど、人間による検証を業務フローに組み込んでいる",
+      "業務を繰り返し修正する中でAIに学習させるスキルを継続更新し、精度を高めていく仕組みが重要"
+    ],
+    "analogy": "従来は営業所の事務員が毎週、複数の支店からFAXと電話で情報を集めて、手書きで集計・報告書を作成していたのが、今はAIが自動で情報を集めて、担当者は内容の確認と解釈に集中できるようになったイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
