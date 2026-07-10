@@ -6487,5 +6487,87 @@
     "analogy": "従来は営業所の事務員が毎週、複数の支店からFAXと電話で情報を集めて、手書きで集計・報告書を作成していたのが、今はAIが自動で情報を集めて、担当者は内容の確認と解釈に集中できるようになったイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:ust-claude": {
+    "source": "anthropic",
+    "slug": "ust-claude",
+    "url": "https://www.anthropic.com/news/ust-claude",
+    "title_original": "UST is bringing Claude to physical AI",
+    "title_ja": "USTがClaudeを物理的なAI（製造現場のAI）に応用",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-07-10T00:37:25.000Z",
+    "summary": "Anthropicは技術サービス企業のUSTと提携し、Claudeというチャットボット型のAIを製造現場に導入しています。USTは半導体やクルマなどの製品設計から製造まで、企業の重要なエンジニアリング業務を支援する会社です。Claudeを使って、チップ設計の検証を自動化し、従来は人間が手作業で行っていたテスト設計を自動で生成・実行できるようにしました。その結果、検証にかかる時間が4日から2日に短縮されました。また、医療保険の請求処理、通信ネットワーク運用、銀行システムでも導用され、複雑な判断をAIがサポートします。ただし、すべての判断には人間の承認を必須とするなど、安全性を重視した運用が心がけられています。USTは世界中で2万人のエンジニアをClaudeの使い方に訓練する予定です。",
+    "points": [
+      "Claudeが物理的な製品（チップ、クルマ）の設計・製造現場で活躍し、検証時間を50～70%削減",
+      "医療、通信、銀行など高リスク産業でのAI導入で、すべての決定に人間の最終承認ステップを設置",
+      "USTが世界中の2万人のエンジニアにClaudeの訓練を実施し、大規模な人材育成に投資",
+      "複雑で長い業務フローでの判断や分析をAIが支援することで、作業効率と品質の両立を実現"
+    ],
+    "analogy": "Claudeが製造現場で働く様子は、経験豊富な検査技師のようなものです。複数のマニュアルや仕様書を読み込んで、何度も同じテストを繰り返す単調で時間がかかる業務を、正確かつ素早くこなします。ただし、重要な判断は最終的に人間（現場責任者）が行うため、ロボットではなく『優秀なアシスタント』という位置づけです。",
+    "category": "パートナーシップ・製品アップデート",
+    "summarized": true
+  },
+  "anthropic:ben-bernanke": {
+    "source": "anthropic",
+    "slug": "ben-bernanke",
+    "url": "https://www.anthropic.com/news/ben-bernanke",
+    "title_original": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "title_ja": "ベン・バーナンキ氏がAnthropicの長期信託委員会に任命される",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-07-09T18:07:20.000Z",
+    "summary": "AI安全研究企業のAnthropicは、元連邦準備制度理事会議長で経済学者のベン・バーナンキ氏を、長期利益信託委員会（LTBT）の新しいメンバーとして任命しました。バーナンキ氏は2006年から2014年にかけてFRB議長を務め、2008年の金融危機を乗り切った実績があります。この委員会は、AIが人類のために責任を持って発展するよう監視する独立した組織です。バーナンキ氏の経済危機への対応経験は、AIが世界経済に及ぼす影響を理解し対応する上で貴重と考えられています。委員会メンバーは会社の株式保有や利益配分がなく、完全に独立した立場で活動します。",
+    "points": [
+      "ベン・バーナンキ元FRB議長がAnthropicの監視機関に就任し、AI開発が人類に責任を持って行われているか確認する役割を担う",
+      "Anthropicは営利と社会貢献のバランスを取る「公益企業」として設立され、LTBT委員会はその監視機能を果たしている",
+      "バーナンキ氏の金融危機対応の経験が、AIが経済に与える影響の予測と対応に活かされる",
+      "委員会メンバーは完全に独立した立場で活動し、利益相反を避ける仕組みになっている"
+    ],
+    "analogy": "LTBT委員会は、大型工事現場での安全監査官のような役割です。Anthropicというビル建設企業が、最先端技術を使いながらも安全と社会への影響を考慮して進めているか、独立した専門家たちが定期的にチェックして、問題があれば指摘します。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "anthropic:hard-questions": {
+    "source": "anthropic",
+    "slug": "hard-questions",
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "title_original": "Inviting hard questions",
+    "title_ja": "AIについての難しい質問に答えます：Anthropicが市民との対話を強化",
+    "description": "We're asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "published": "",
+    "lastmod": "2026-07-09T17:28:23.000Z",
+    "summary": "AI企業のAnthropicが、AIに関する市民からの質問に真摯に向き合う新しい取り組みを発表しました。「AIは私の子どもたちの未来を良くするのか」「AIは世界をより危険にするのか」など、多くの人が抱くAIへの期待と懸念に対して、透明性を持って取り組みを報告することを約束しています。これまでに5万人以上のアメリカ人や81か国のユーザーに調査を実施し、その結果をもとに、AIの安全対策や研究開発を進めています。市民からの質問を募集し、それにどう対応するかを公開で追跡・報告することで、企業としての説明責任を果たそうとしています。",
+    "points": [
+      "Anthropicが市民からの「AIについての難しい質問」を募集し、公開で答える新しい取り組みを開始した",
+      "AIへの期待（仕事の効率化、医療の発展）と懸念（失業、創造性の低下、人間らしさの喪失）の両方に向き合う姿勢を示している",
+      "5万人以上のアメリカ人や81か国のユーザーへの大規模調査を実施し、市民の声を把握している",
+      "企業が提起された質問に対してどう対応するかを公式に追跡・報告し、透明性を重視している",
+      "AIの安全対策や科学者への支援など、具体的な行動を通じて公益を実現することを目指している"
+    ],
+    "analogy": "これはちょうど、新しい交通ルールが導入される時に、市民からの疑問や懸念をしっかり聞き、「こういう質問をもらいました、こう対応しています」と進捗を公開していくようなものです。一方的に決めるのではなく、対話を通じて信頼を築こうとしているのです。",
+    "category": "企業ニュース、安全性、パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:reflect-with-claude": {
+    "source": "anthropic",
+    "slug": "reflect-with-claude",
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "title_original": "A new way to reflect on how you use Claude",
+    "title_ja": "Claudeの使い方を振り返る新機能が登場",
+    "description": "Introducing a new way to reflect on and refine how you use Claude. It lets you easily track and visualize how you use Claude, and decide whether that time aligns with your goals.",
+    "published": "",
+    "lastmod": "2026-07-09T14:22:03.000Z",
+    "summary": "Anthropicは、ユーザーが自分のClaudeの使い方を振り返り、改善できる新機能をベータ版で公開しました。この機能は、あなたがClaudeをどのくらい、何に使っているかを可視化し、それが自分の目標に合っているかを判断するのに役立ちます。ダッシュボードでは過去1～12か月の使用パターンや取り組んだタスクの内容を確認でき、定期的に「自分でやりたいことは何か」といった質問を投げかけられます。また、Claudeを使う時間帯の制限や、使用後に休息を促す機能も設定可能です。プライバシー保護も重視されており、極秘チャットや接続ツールの元ファイルは分析対象外となります。Free、Pro、Maxプランのメモリ機能有効ユーザーが対象です。",
+    "points": [
+      "使用パターンと内容を可視化し、AIとの付き合い方が目標に合致しているか判断できる",
+      "「自分でやるべきこと」を考えるきっかけになる定期的な質問機能",
+      "使用時間の制限や休息を促す設定が可能で、バランスの取れた使用を支援",
+      "プライバシー保護が徹底されており、プライベート会話やファイルは除外される",
+      "AI活用スキル向上の4段階フレームワーク（目標設定、説明、評価、責任）を提供"
+    ],
+    "analogy": "ちょうど、スマートフォンの「スクリーンタイム」機能がアプリの使用時間を教えてくれるのと同じように、この機能はClaudeとの関わり方を数字と具体例で見える化し、『本当に今の使い方でいいのか』と自分に問い直すきっかけをくれるツールです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
