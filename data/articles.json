@@ -6569,5 +6569,26 @@
     "analogy": "ちょうど、スマートフォンの「スクリーンタイム」機能がアプリの使用時間を教えてくれるのと同じように、この機能はClaudeとの関わり方を数字と具体例で見える化し、『本当に今の使い方でいいのか』と自分に問い直すきっかけをくれるツールです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night",
+    "url": "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night",
+    "title_original": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night",
+    "title_ja": "Cognition、新しいClaudeモデルで夜間無人稼働を実現 — 8時間の連続作業に初めて信頼",
+    "description": "Cognition tested Claude Fable 5 in Devin, its AI software engineer. It's the first model its team trusts to run unattended for eight hours and deliver production-ready code.",
+    "published": "2026-07-10",
+    "lastmod": "2026-07-10",
+    "summary": "AI企業のCognitionは、AIソフトウェアエンジニア「Devin」の開発でClaudeの複数バージョンをテストしてきました。新しい「Claude Fable 5」は、初めて夜間に8時間以上、人間の監督なしで実行できると信頼できるモデルになりました。従来のモデルは数分から1時間程度でタスク管理が曖昧になっていましたが、Fable 5はプログラムコードの品質テスト「Frontier Code」で前モデルの3倍の性能を発揮。バグ調査やコード移行など複雑なタスクで、一貫性を保ったまま進捗を続けられるようになりました。Cognitionのリーダーは「寝る前にタスクを任せて朝起きたら完了していた」と語っており、これにより24時間稼働するAIエンジニアの実現が現実的になったとしています。",
+    "points": [
+      "Claude Fable 5は初めて8時間以上の無人運用に耐える信頼性を実現した",
+      "従来モデルは数分～1時間でタスク管理が曖昧になっていたが、Fable 5は「思考の継続性」を維持",
+      "品質テストで前モデル比3倍の成績を達成し、実務的な信頼性も同時に確保",
+      "Cognitionは将来、エンジニアチームの90%がAIエージェントによる主動的な問題解決を受け取るようになると予測",
+      "バグ調査や大規模コード改修など、複雑で長時間のタスクがAIに任せられるようになった"
+    ],
+    "analogy": "従来のAIモデルは、長時間の作業では「疲れて集中力を失う人間」のようでした。最初は効率よく進みますが、時間が経つと最初に何をしていたか忘れたり、見当違いな判断をしたりしてしまいます。Claude Fable 5は「疲れを知らないロボット従業員」で、朝から晩まで同じペースで正確に仕事を続けられるようになったのです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
