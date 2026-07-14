@@ -6590,5 +6590,25 @@
     "analogy": "従来のAIモデルは、長時間の作業では「疲れて集中力を失う人間」のようでした。最初は効率よく進みますが、時間が経つと最初に何をしていたか忘れたり、見当違いな判断をしたりしてしまいます。Claude Fable 5は「疲れを知らないロボット従業員」で、朝から晩まで同じペースで正確に仕事を続けられるようになったのです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
+    "url": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
+    "title_original": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+    "title_ja": "金融取引の細部を見落とさない：HebbiaがClaude Fable 5で実現する高精度AIの活用",
+    "description": "How Anthropic's Claude Fable 5 beat Hebbia's finance-specific model evaluations, achieving their biggest accuracy gain yet.",
+    "published": "2026-07-13",
+    "lastmod": "2026-07-13",
+    "summary": "金融機関向けAIプラットフォーム「Hebbia」が、Anthropicの最新AI「Claude Fable 5」をテストしたところ、過去最高の精度向上を記録しました。金融取引の分析では数千ページの文書から重要な情報を正確に抽出することが極めて重要ですが、Claude Fable 5は20%の精度向上を達成し、複数の質問に同時に答えられるようになりました。これにより、銀行員が2～3日かかっていた資料作成が数分で完了するようになり、金融機関の競争力を大幅に向上させています。Hebbiaの顧客には世界の大手投資ファンドの3分の1以上が含まれており、投資判断の質と速度の両面で革新をもたらしています。",
+    "points": [
+      "Claude Fable 5が金融文書の質問応答精度で約20%の向上を実現し、複数の質問に同時に正確に答えられるようになった",
+      "複雑な金融取引の分析（クレジット契約の細則抽出など）が数分で完了でき、従来は数日かかっていた業務が大幅に短縮された",
+      "Hebbiaの『Matrix』プラットフォームにより、数千ページの非構造化文書から正確に情報を抽出し、その根拠を明確に示すことが可能になった",
+      "金融機関の関心が『AIの信頼性確保』から『ワークフロー自動化の拡大』へシフトしており、AIの実用的価値が認識されている"
+    ],
+    "analogy": "これは、医者が患者の病歴をファイルから探し出して診断するようなものです。従来は膨大な紙のカルテから該当部分を手作業で見つけていたのに対し、Claude Fable 5はその作業を数秒で、正確に、どこから情報を取ったかを明示しながら行えます。金融の世界では、間違った数字が大きな損失につながるため、この『正確さ』と『根拠の明示』が極めて重要なのです。",
+    "category": "エンタープライズAI, 製品アップデート",
+    "summarized": true
   }
 }
