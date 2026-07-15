@@ -6610,5 +6610,47 @@
     "analogy": "これは、医者が患者の病歴をファイルから探し出して診断するようなものです。従来は膨大な紙のカルテから該当部分を手作業で見つけていたのに対し、Claude Fable 5はその作業を数秒で、正確に、どこから情報を取ったかを明示しながら行えます。金融の世界では、間違った数字が大きな損失につながるため、この『正確さ』と『根拠の明示』が極めて重要なのです。",
     "category": "エンタープライズAI, 製品アップデート",
     "summarized": true
+  },
+  "anthropic:claude-for-teachers": {
+    "source": "anthropic",
+    "slug": "claude-for-teachers",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "title_original": "Introducing Claude for Teachers",
+    "title_ja": "教師向けAI「Claude for Teachers」がアメリカで無料提供開始",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-07-14T17:50:04.000Z",
+    "summary": "AI企業のAnthropicが、アメリカの認定K-12教育者（幼稚園～高校）に向けて、プレミアム版のAI「Claude」を無料で提供する新サービス「Claude for Teachers」を発表しました。このサービスは、教師が授業計画の作成、学生の習熟度に応じた教材の調整、クラス データの分析などの業務を効率化するのを支援します。学習科学に基づいた機能が搭載されており、全50州の学習基準に対応しています。また、他の教育ツールとの連携も可能で、学生データは訓練に使用されず、FERPAなどの法規制に準拠した強固なプライバシー保護がされています。このサービスは教師の時間的負担を軽減し、より良い教育実践の実現をサポートすることを目指しています。",
+    "points": [
+      "アメリカの認定教育者に対してClaudeのプレミアム機能が完全無料で提供される",
+      "授業計画作成、教材の個別対応、クラスデータ分析など教師の業務を自動化・効率化",
+      "全50州の学習基準に対応した教育用カリキュラムと連携している",
+      "学生データは訓練に使用されず、FERPA準拠の厳格なプライバシー保護を実装",
+      "ASSISTmentsやCanvaなど10以上の教育ツールとシームレスに連携可能"
+    ],
+    "analogy": "Claude for Teachersは、教師が持つ「複数の生徒の進度に合わせた個別教材作成」という手作業を、優秀なアシスタントが自動的に引き受けるようなものです。手書きで行っていた授業準備を、AIが自動で対応してくれるため、教師は本当に大事な「生徒とのやり取り」に時間を使えるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "anthropic:canadian-ai-research": {
+    "source": "anthropic",
+    "slug": "canadian-ai-research",
+    "url": "https://www.anthropic.com/news/canadian-ai-research",
+    "title_original": "Anthropic commits $10 million to Canadian AI research",
+    "title_ja": "Anthropic、カナダのAI研究に1000万ドルを投資",
+    "description": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research.",
+    "published": "",
+    "lastmod": "2026-07-14T16:33:29.000Z",
+    "summary": "AI企業のAnthropicがカナダのAI研究を支援するため、1000万カナダドルの投資を発表しました。カナダはAI開発の黎明期から重要な役割を果たしており、トロント大学やモントリオール大学などが神経ネットワーク研究をリードしてきた歴史があります。今回の投資は、エドモントン、モントリオール、トロントの3つの主要なAI研究機関に加え、医療機関や大学など8つのパートナー機関を支援します。各機関はClaudeというAIツールを活用して、責任あるAI開発、医療研究、言語研究など様々な分野で研究を進めます。また、カナダ国内でのClaudeの利用状況も公開され、カナダはClaudeの利用者数で世界8位、1人当たりの使用率ではアメリカに次ぐ高さとなっています。",
+    "points": [
+      "Anthropicがカナダの8つの研究機関に合計1000万カナダドルを投資し、AI研究を支援",
+      "エドモントン、モントリオール、トロントの3つの主要AI研究機関が中心的なパートナーに",
+      "医療、言語研究、精神衛生など多分野にわたるAI応用研究が展開される",
+      "カナダはClaudeの利用者数で世界8位、1人当たりの使用率では米国に次ぐ高さ",
+      "カナダのスタートアップ数百社も「Anthropic for Startups」プログラムで最低5000ドルの支援を受ける"
+    ],
+    "analogy": "これはちょうど、大手スポーツメーカーが才能あるスポーツ選手やコーチを多く輩出している地域に、新しいトレーニング施設やコーチ育成プログラムに投資するようなものです。AnthropicはカナダがこれまでAI開発で果たした重要な役割を認め、その伝統を次世代に継承するための「投資」をしているのです。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
