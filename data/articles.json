@@ -6652,5 +6652,26 @@
     "analogy": "これはちょうど、大手スポーツメーカーが才能あるスポーツ選手やコーチを多く輩出している地域に、新しいトレーニング施設やコーチ育成プログラムに投資するようなものです。AnthropicはカナダがこれまでAI開発で果たした重要な役割を認め、その伝統を次世代に継承するための「投資」をしているのです。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "claude:working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
+    "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
+    "title_original": "Working at the frontier: How Base44 trusts Claude Fable 5 with their most challenging engineering work",
+    "title_ja": "Base44がClaude Fable 5を最も複雑なエンジニアリング業務に信頼する理由",
+    "description": "Why Base44 trusts Anthropic's Claude Fable 5 with its most complex product and engineering tasks.",
+    "published": "2026-07-15",
+    "lastmod": "2026-07-15",
+    "summary": "ノーコードでアプリを開発できるプラットフォーム「Base44」が、AI技術「Claude Fable 5」を使って複雑なシステム改善に成功した事例を紹介しています。従来のAIモデルは問題に直面すると同じ箇所で何度も試行錯誤してしまいましたが、Fable 5は「この問題は他の場所で既に解決されているはず」と判断してコード全体から解決策を探し出します。この思考方法は、経験豊富なエンジニアの行動に近く、Base44のチームは以前はトップクラスの3人のエンジニアにしか任せられなかった高度なタスクをFable 5に委ねられるようになりました。その結果、エンジニアはより戦略的な業務に専念でき、製品開発の速度と野心的な目標設定が大幅に向上しました。",
+    "points": [
+      "Claude Fable 5は、経験豊富なエンジニアのように複雑なコードの全体像を理解し、問題を段階的に解決できる",
+      "従来のAIモデルでは数日かかっていた複雑なシステム改善が、Fable 5なら数時間で90～95%完成する",
+      "以前は最高レベルのエンジニアのみが対応できた業務を、Fable 5とチームレビューで実行でき、エンジニアの時間が解放される",
+      "Fable 5が作業中に自社の評価体制の盲点（キャッシュテストの欠落）を指摘し、ビジネスリスクを回避できた",
+      "より高度な機能開発に自信を持って取り組めるようになり、製品の可能性が大幅に広がった"
+    ],
+    "analogy": "従来のAIモデルが「同じ場所で何度も同じ方法を試すカタコト外国人」だとすると、Fable 5は「初めての街でも周辺を見渡して最短ルートを判断できるベテランガイド」のような違いです。困った時に他の場所に答えがないか自ら探すという、経験に基づく判断ができるようになったわけです。",
+    "category": "企業ニュース・製品アップデート",
+    "summarized": true
   }
 }
