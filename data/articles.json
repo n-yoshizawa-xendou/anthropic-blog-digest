@@ -6673,5 +6673,47 @@
     "analogy": "従来のAIモデルが「同じ場所で何度も同じ方法を試すカタコト外国人」だとすると、Fable 5は「初めての街でも周辺を見渡して最短ルートを判断できるベテランガイド」のような違いです。困った時に他の場所に答えがないか自ら探すという、経験に基づく判断ができるようになったわけです。",
     "category": "企業ニュース・製品アップデート",
     "summarized": true
+  },
+  "claude:ai-code-migration": {
+    "source": "claude",
+    "slug": "ai-code-migration",
+    "url": "https://claude.com/blog/ai-code-migration",
+    "title_original": "How Anthropic runs large-scale code migrations with Claude Code",
+    "title_ja": "Claude Codeを使った大規模コード移行の実施方法：100万行のプログラムを2週間で変換",
+    "description": "A step-by-step guide to running large code migrations with AI agents — including Bun's million-line Zig-to-Rust port.",
+    "published": "2026-07-16",
+    "lastmod": "2026-07-16",
+    "summary": "Anthropicは、AI技術を使って大規模なコード移行（プログラミング言語の変更）を短期間で実現する方法を公開しました。従来は数年かかっていたコード移行が、今では数週間で完了するようになりました。例えば、Bun（開発ツール）の100万行のプログラムをZigからRustに変換したり、16万5000行のPythonコードをTypeScriptに変換したりが実現しています。成功の秘訣は、コード自体を修正するのではなく、コードを生成する「プロセス（仕組み）」を改善すること。6つのステップに従うことで、テスト自動化とAIエージェントの並列処理により、効率的な変換が可能になります。",
+    "points": [
+      "AI技術により、従来は数年かかったコード移行が数週間～数ヶ月で実現可能に",
+      "関鍵は『コード自体を修正するのではなく、コードを生成するプロセスを改善する』こと",
+      "テストスイートや自動化ツールを『判定者』として使い、品質を客観的に評価する",
+      "6つのステップ（ルール作成→テスト→一括翻訳→コンパイル→実行→動作確認）に従う",
+      "複数のAIエージェントが並列で独立した部分を同時に処理することで効率化が実現"
+    ],
+    "analogy": "料理の大量調理に例えるなら、従来は『シェフ1人が数年かけてレシピを調整しながら料理していた』のに対し、今は『完成したレシピを基準に、複数の調理師が同時に異なる部分を作り、完成した料理を自動チェッカーで検査する』という感じです。間違いがあっても、レシピを少し改善すれば次のバッチで解決します。",
+    "category": "AI技術、製品アップデート",
+    "summarized": true
+  },
+  "claude:working-with-claude-fable-5-in-claude-cowork": {
+    "source": "claude",
+    "slug": "working-with-claude-fable-5-in-claude-cowork",
+    "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+    "title_original": "Working with Claude Fable 5 in Claude Cowork",
+    "title_ja": "Claude Fable 5をClaude Coworkで最大活用する方法",
+    "description": "Anthropic's Claude Fable 5 can carry long, complex work on its own. Here's how to get the most out of it in Claude Cowork.",
+    "published": "2026-07-16",
+    "lastmod": "2026-07-16",
+    "summary": "Anthropicの最新AI「Claude Fable 5」は、複雑で長期的な仕事を自分で完結できる能力を持っています。このモデルは、複数ステップのワークフロー（例：リサーチ→メモ作成、デューデリジェンス→プレゼン生成など）を数日かけて実行でき、その過程で自らチェックと修正ができます。効果的に使うには、具体的な背景情報を提供し、最終的な目標を明確にして、細かい指示より全体の意図を伝えることが重要です。従来のモデルでは忘れてしまうような長期間の文脈も保持でき、まるで優秀な同僚と仕事をするような体験が実現します。",
+    "points": [
+      "Claude Fable 5は長期間にわたる複雑なタスクを自力で遂行でき、途中で文脈を忘れないため、細かい指示が不要",
+      "段階的な細かい指示より、最終的なゴールと背景情報（制約条件）を提供することが効果的",
+      "ブレインストーミングの段階から使い始め、その会話内で実際のタスク実行に移行できるので、一貫性が保たれる",
+      "Claude Coworkのツール接続やスキル機能と組み合わせることで、メールやカレンダー、チャットなどから自動的に必要な情報を集めて作業を進める",
+      "安全性のため、サイバーセキュリティや化学・生物関連の要求は自動的に別モデルにルーティングされる"
+    ],
+    "analogy": "Claude Fable 5の使い方は、信頼できる同僚に仕事を任せるのに似ています。細かい手順書を渡すのではなく、『このプロジェクトの目的は〇〇で、〇月までに完成させたい。品質はこのレベル』と伝えて、後は任せるだけ。同僚が途中で判断に迷った時は背景情報や以前のやり方を思い出して自分で判断し、完成させるイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
