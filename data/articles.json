@@ -6715,5 +6715,47 @@
     "analogy": "Claude Fable 5の使い方は、信頼できる同僚に仕事を任せるのに似ています。細かい手順書を渡すのではなく、『このプロジェクトの目的は〇〇で、〇月までに完成させたい。品質はこのレベル』と伝えて、後は任せるだけ。同僚が途中で判断に迷った時は背景情報や以前のやり方を思い出して自分で判断し、完成させるイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:working-at-the-frontier-cursor": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-cursor",
+    "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+    "title_original": "How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+    "title_ja": "Cursorが確認した理由：Claude Fable 5が最難関の1%の問題に対応できることの証明",
+    "description": "How Anthropic's Claude Fable 5 beat CursorBench and expanded what's possible for Cursor and agentic coding.",
+    "published": "2026-07-17",
+    "lastmod": "2026-07-17",
+    "summary": "AI編集ツールのCursorが、Anthropicの最新AI「Claude Fable 5」を厳しい実務的なテストで評価したところ、従来のAIにはない「全体的な考え方」の能力が明らかになりました。Cursorのエンジニア、Nate Schmidtが開発した「CursorBench」という実践的なテスト環境では、Claude Fable 5が72.9%という最高スコアを達成。単なる計算能力ではなく、不完全な指示から意図を読み取り、複数のステップを経て問題を解く能力が評価されました。特に興味深いのは、月面着陸シミュレーションのテストで、Claude Fable 5は段階的な戦略（最初に衛星軌道のテストを行う）を立案し、従来モデルの12時間以上の試行錯誤から数時間で成功に至りました。これは、複雑で定義が曖昧な実務的な課題への対応能力を示しています。",
+    "points": [
+      "Claude Fable 5は実践的なテスト『CursorBench』で72.9%のスコアを達成し、他のAIを上回った",
+      "不完全な指示から意図を理解し、全体的な問題解決戦略を立てる『グローバル思考』が特徴",
+      "月面着陸シミュレーションで、複数段階の計画を自動的に立案し、従来モデルより大幅に効率的に成功",
+      "複雑な問題ほど有効で、開発チームは難易度の高い業務や技術的負債の解決に活用可能",
+      "軽量モデルと組み合わせることでコストと性能のバランスを実現"
+    ],
+    "analogy": "従来のAIが『右に進めば目的地に着く』と指示されて右に進むだけなのに対し、Claude Fable 5は『目的地は不明だが重要な場所に行く必要がある』という曖昧な指示から、地図を確認し、立ち止まって周辺調査をしてから最適なルートを決める人間らしい思考ができるということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:ciso-guide-to-agentic-ai": {
+    "source": "claude",
+    "slug": "ciso-guide-to-agentic-ai",
+    "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+    "title_original": "CISO's guide to agentic AI",
+    "title_ja": "セキュリティリーダーのための「エージェントAI」ガイド：リスク評価の枠組みと統制方法",
+    "description": "Anthropic's Deputy CISO shares a four-question framework for assessing agentic AI risk, and walks through controls that keep agent deployments bounded and auditable.",
+    "published": "2026-07-17",
+    "lastmod": "2026-07-17",
+    "summary": "Anthropic の副最高情報セキュリティ責任者（CISO）が、自動判断して行動するAI「エージェントAI」のリスク管理方法を解説しています。セキュリティリーダーの仕事は「ゼロリスク達成」ではなく、「リスクを可視化し、範囲内に留める」ことだと述べています。4つの質問フレームワーク（①信頼できないコンテンツの摂取、②実行可能な行動と実行者、③悪影響の規模、④監視可能性）でリスクを評価し、必要最小限の権限を付与する「最小権限の原則」を適用すべきだと強調。実例として、Anthropic 内で運用されている「インシデント対応エージェント」と「Claude Cowork」を紹介し、適切な統制により安全に運用できることを示しています。",
+    "points": [
+      "エージェントAIのセキュリティ管理は「ゼロリスク達成」ではなく、「リスクを可視化し範囲内に留める」ことが目標",
+      "4つの質問（信頼できないコンテンツ、実行可能な行動、悪影響の規模、監視可能性）でリスク評価を実施",
+      "エージェントを「システムサービスアカウント」と「人間の認証情報」の2つのモデルで管理し、中間領域での曖昧な責任を避ける",
+      "必要最小限の権限を付与し、削除やシステム変更など危険な操作は事前に制限する",
+      "認証・認可・監査ログなどの統制により、適切に監視可能な環境を構築することが重要"
+    ],
+    "analogy": "エージェントAIの管理は、信頼できる従業員に任務を委譲するときと似ています。「何もするな」と拒否すると、こっそり自分で判断して行動してしまい（シャドウ採用）、結果が見えなくなります。逆に無制限に権限を与えると、誤った判断で重大な被害が生じます。重要なのは、その従業員が「何ができるか」を明確に限定し、「何をしたか」をちゃんと記録する体制を整えることです。",
+    "category": "安全性",
+    "summarized": true
   }
 }
