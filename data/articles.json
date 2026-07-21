@@ -6757,5 +6757,46 @@
     "analogy": "エージェントAIの管理は、信頼できる従業員に任務を委譲するときと似ています。「何もするな」と拒否すると、こっそり自分で判断して行動してしまい（シャドウ採用）、結果が見えなくなります。逆に無制限に権限を与えると、誤った判断で重大な被害が生じます。重要なのは、その従業員が「何ができるか」を明確に限定し、「何をしたか」をちゃんと記録する体制を整えることです。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic:rare-disease-research-grants": {
+    "source": "anthropic",
+    "slug": "rare-disease-research-grants",
+    "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+    "title_original": "Apply for Anthropic’s AI for Science rare disease research grants",
+    "title_ja": "Anthropic、希少遺伝性疾患研究に最大5万ドル相当のAI補助金を提供",
+    "description": "Anthropic is sharing a focused call for AI for Science applications centered specifically on rare genetic diseases. Accepted applicants will receive up to $50,000 in Claude credits over six months, with the goal of building a community of researchers looking into how AI can reshape our understanding of rare disease.",
+    "published": "",
+    "lastmod": "2026-07-20T17:36:28.000Z",
+    "summary": "Anthropicが科学研究を支援する「AI for Science」プログラムの一環として、希少遺伝性疾患の研究に特化した補助金プログラムを立ち上げます。採択された研究者には6ヶ月間で最大5万ドル分のClaudeクレジット（AI利用料）が提供されます。このプログラムには2つのコース：基礎研究を行う科学者向けと、希少疾患の臨床開発を加速させるバイオテック企業向けがあります。希少疾患は全世界で約4億人が罹患していますが、患者数が少なく分散しているため、治療法開発が困難です。AIを活用することで、疾患パターンの発見、医学文献の分析、臨床試験の効率化などが可能になると期待されています。応募期限は2026年8月2日です。",
+    "points": [
+      "希少遺伝性疾患研究を支援する専門的な補助金プログラムで、最大5万ドル相当のAI利用権を提供",
+      "基礎研究者向けと医療技術企業向けの2つのトラックに分かれており、異なるニーズに対応",
+      "AIが疾患メカニズムの発見、医学文献の統合分析、臨床開発の効率化を支援することで、治療法開発期間を短縮",
+      "Monarch Initiativeなど既存のパートナー機関との連携により、信頼できるデータベースやツールを活用可能",
+      "データ不足や診療アクセスの問題など、AI単体では解決できない課題があることを認識し、他機関との協力を推奨"
+    ],
+    "analogy": "希少疾患の研究は、図書館全体から特定の本を探すようなもの。従来は医学文献を一冊ずつ読む必要がありますが、AIを使うと膨大な文献から共通パターンを自動で見つけ出し、治療法開発の「地図」を作成できるようなイメージです。",
+    "category": "企業ニュース・パートナーシップ",
+    "summarized": true
+  },
+  "claude:working-at-the-frontier-rakuten": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-rakuten",
+    "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
+    "title_original": "How Rakuten builds agents overnight with Claude Fable 5",
+    "title_ja": "楽天がClaude Fable 5で一晩でAIエージェントを構築する方法",
+    "description": "Why Rakuten thinks Claude Fable 5 is a step change in model intelligence, transforming how long-running work is done.",
+    "published": "2026-07-20",
+    "lastmod": "2026-07-20",
+    "summary": "楽天はClaudeという高度なAI技術を使って、会社全体の業務を自動化しています。楽天のAI責任者は、新しい「Claude Fable 5」というモデルが大きな進化だと考えています。これまでのAIは、長時間の作業をするときに途中で間違った判断をしてしまい、人間が修正する必要がありました。しかし新しいFable 5は、作業中に自分の判断を何度も確認し、間違いに気付いて自動で修正できます。つまり、夜寝ている間にも複雑な仕事を完結できるようになったのです。楽天はこれにより、AIを使った営業・企画・財務などの全部門で自動化を推し進められるようになりました。",
+    "points": [
+      "Claude Fable 5は作業中に自分の判断を繰り返し検証するため、早い段階の間違いが後の大きな失敗につながらない",
+      "楽天はこのAIを使って営業から財務まで複数部門の業務を自動化し、人間は重要な判断のみに集中できるようになった",
+      "AIエージェントが完結できる仕事が広がり、人間による中断や修正の必要が減ったことが最大の生産性向上",
+      "新しい技術の導入には費用がかかるため、楽天は効果が大きい業務にのみ使用し、簡単な業務には別のAIを使い分けている"
+    ],
+    "analogy": "これまでのAIは、目的地への道を間違った方向に進み始めると、何時間も遠回りして、最後に気付くようなものでした。新しいFable 5は、毎回立ち止まって地図を確認し、間違っていたら自分で軌道修正できるナビゲーション付きの自動運転車のようなものです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
