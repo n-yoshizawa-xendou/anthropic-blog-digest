@@ -6798,5 +6798,68 @@
     "analogy": "これまでのAIは、目的地への道を間違った方向に進み始めると、何時間も遠回りして、最後に気付くようなものでした。新しいFable 5は、毎回立ち止まって地図を確認し、間違っていたら自分で軌道修正できるナビゲーション付きの自動運転車のようなものです。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:skills": {
+    "source": "anthropic",
+    "slug": "skills",
+    "url": "https://www.anthropic.com/news/skills",
+    "title_original": "Introducing Agent Skills",
+    "title_ja": "Claude が「スキル」機能を導入 - AI を特定の仕事に特化させるカスタマイズが可能に",
+    "description": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
+    "published": "2025-10-16",
+    "lastmod": "2026-07-22T01:16:15.000Z",
+    "summary": "Anthropic が Claude AI に「スキル」という新機能を追加しました。スキルとは、指示書やプログラム、その他のリソースをまとめたフォルダのことで、Claude が必要に応じて読み込むことができます。例えば、Excel で表を作成したり、組織のブランドルールに従ったりするなど、特定の仕事に Claude を特化させることができます。スキルは必要な時だけ読み込まれるため、処理は速いまま。ユーザーは自分たちのスキルを作成して、Claude のアプリ、Claude Code、API など様々な場所で使用できます。Box や Canva、Notion などの企業パートナーも既にこの機能を採用しており、スプレッドシート処理が1日かかっていた業務を1時間で完了できるようになった例も報告されています。",
+    "points": [
+      "Claude が「スキル」機能を使って特定の仕事に特化できるようになった - Excel 作成やブランドガイドの遵守など専門的なタスクが得意に",
+      "スキルは必要な時だけ読み込まれるため、処理速度を保ちながら高度な機能が使える",
+      "ユーザーが独自のスキルを作成でき、Claude のアプリ、Code、API など複数の場所で再利用可能",
+      "複数のスキルを組み合わせて使用可能 - Claude が自動的に必要なスキルを識別して連携",
+      "実例として Box や Canva などの企業が導入済み、業務効率が大幅に向上"
+    ],
+    "analogy": "スキルは、プロフェッショナルに専門分野の教科書やツール一式を持たせるようなもの。必要な案件が来たときだけ該当する教科書とツールを取り出して使うので、移動も早く、でも専門知識も活かせるというイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-anthropic-secures-its-ai-native-software-development-lifecycle": {
+    "source": "claude",
+    "slug": "how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "title_original": "How Anthropic secures its AI-native software development lifecycle",
+    "title_ja": "Anthropicがセキュリティを確保する方法：AIが80%のコードを書く開発環境での工夫",
+    "description": "Anthropic Deputy CISO, Jason Clinton, details how the Security Engineering team secures a SDLC that has AI authoring 80% of merged code.",
+    "published": "2026-07-21",
+    "lastmod": "2026-07-21",
+    "summary": "Anthropicでは、AIアシスタント「Claude」が開発コードの約80%を作成するようになりました。このようなAI中心の開発環境では、従来のセキュリティ対策では対応できません。そこでAnthropicは、開発の各段階（計画→コード作成→テスト→本番配置→監視）でAIを活用しながらセキュリティを保つ方法を開発しました。例えば、セキュリティチェックをコード作成時に組み込む、複数の専門的なAIで異なる角度からコードをレビューする、そして重要な判断は必ず人間が承認するようにしています。開発速度が8倍に増えても、セキュリティリスクを増やさない工夫がされています。",
+    "points": [
+      "Claudeが作成するコードが80%に増えたため、従来のセキュリティ手法を根本的に変える必要があった",
+      "セキュリティチェックを開発の早い段階に組み込むことで、後の修正よりも効率的に問題を防ぐ",
+      "複数の専門的なAIエージェントが異なる視点でコードをレビューすることで、1つの強力なAIよりも信頼性が高い",
+      "重要な決定は人間が最終承認を行い、AIの判断をコントロールしている",
+      "本番環境でもAIが問題を自動検出・分析できるようにしたが、修正の実行は人間がチェックしてから行う"
+    ],
+    "analogy": "従来の開発は、信頼できる少数の職人が手作業でコードを作り、別の職人が丁寧にチェックするようなものでした。今のAnthropicは、多くのAIアシスタントが協力して高速に製造しながら、複数の品質管理チームが異なる視点でチェック（例：安全性の専門家、性能の専門家など）し、最後に責任者の人間が承認する工場のようになっています。",
+    "category": "セキュリティ, AI技術, 企業ニュース",
+    "summarized": true
+  },
+  "claude:how-datadog-built-a-universal-machine-tool-for-claude-code": {
+    "source": "claude",
+    "slug": "how-datadog-built-a-universal-machine-tool-for-claude-code",
+    "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
+    "title_original": "How Datadog built a “universal machine tool” for Claude Code",
+    "title_ja": "DatadogがClaude Codeの「万能工作機械」Temperを構築した方法",
+    "description": "Datadog has an agent write specifications for a deterministic kernel to write application code",
+    "published": "2026-07-21",
+    "lastmod": "2026-07-21",
+    "summary": "Datadogは、AI（Claude Code）がコードを生成する際の検証の課題を解決するため、「Temper」というシステムを開発しました。従来のアプローチではAIが生成したコードを人間が確認していましたが、Temperは異なるアプローチを取ります。AIは完成したコードではなく「仕様書」を作成し、Temperというカーネルがそれを4段階で厳密に検証してから実行します。この方法により、検証されたものと実際に動作するものが完全に一致し、安全性が大幅に向上します。Datadogはこれを製造業の「工作機械」に例え、AIが安全かつ正確に大規模システムを構築できる基盤として位置付けています。",
+    "points": [
+      "AIは完成したコード書ではなく仕様書を作成し、Temperが検証・実行するため、バグのリスクが減少",
+      "4段階の厳密な検証（論理的推論、状態探索、シミュレーション、プロパティテスト）を自動実行",
+      "制御ロジック（状態遷移など）を明示的にデータ化することで、AIが安全に動的に変更可能",
+      "製造業の工作機械のように、再利用可能で検査可能な「部品」としてソフトウェアを扱う新しい考え方",
+      "検証能力に投資することが、生成速度向上よりも重要という実践的な教訓"
+    ],
+    "analogy": "従来のAIコード生成は「職人が毎回一から家を建てる」ようなもので、完成度にばらつきがありました。Temperは「設計図を提出し、工場の機械が自動で組立・品質検査する」仕組みに例えられます。AIは詳細な設計図（仕様書）を作成し、検証機械が4段階でチェックしてから初めて建築（実行）が始まるため、品質と安全性が格段に向上するのです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
