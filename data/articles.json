@@ -6861,5 +6861,110 @@
     "analogy": "従来のAIコード生成は「職人が毎回一から家を建てる」ようなもので、完成度にばらつきがありました。Temperは「設計図を提出し、工場の機械が自動で組立・品質検査する」仕組みに例えられます。AIは詳細な設計図（仕様書）を作成し、検証機械が4段階でチェックしてから初めて建築（実行）が始まるため、品質と安全性が格段に向上するのです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:anthropic-economic-index-connector": {
+    "source": "anthropic",
+    "slug": "anthropic-economic-index-connector",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "title_original": "The Anthropic Economic Index connector",
+    "title_ja": "Claude向けAnthropicエコノミックインデックスコネクタを新発売、誰もが経済データを直接探索可能に",
+    "description": "We're launching the Anthropic Economic Index connector for Claude, which lets anyone explore the data directly.",
+    "published": "",
+    "lastmod": "2026-07-22T17:35:48.000Z",
+    "summary": "Anthropicは、Claude向けの「エコノミックインデックスコネクタ」を新しく発表しました。このツールを使うと、誰でもAIが実際に経済の中でどのように使われているかのデータを、Claudeに質問する形で直接調べられます。研究者やジャーナリスト、政策立案者だけでなく、一般の人々も「自分の職業でAIはどう使われている？」「どんなタスクが自動化されている？」といった質問をして、実データに基づいた答えを得られるようになります。claude.aiのコネクタメニューから1分で有効にでき、特別なインストールは不要。AIと仕事の将来について、より多くの人が実際のデータを基に考えられるようになることが目的です。",
+    "points": [
+      "Claudeユーザーが「自分の業界でAIはどう使われているか」を実データで調べられる新機能が登場",
+      "複雑な設定なしで、claude.ai内で簡単に有効にして使い始められる",
+      "職業別・地域別・タスク別など、様々な観点からAI利用の実態を質問形式で探索可能",
+      "研究者だけでなく、一般の人々が仕事の未来について情報に基づいた判断ができるようになる",
+      "Claudeの使用パターンを反映したデータのため、労働市場全体の完全な代表ではない点は明示"
+    ],
+    "analogy": "これは、企業のデータを持つ営業担当者に、「うちの業界では今何が起こっているんですか？」と気軽に聞けるようになったようなものです。以前は専門家だけが複雑なレポートを読んでいたのが、誰でも『ちょっと聞く』感覚でその情報にアクセスできるようになりました。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "anthropic:economic-futures-research-fund-agenda": {
+    "source": "anthropic",
+    "slug": "economic-futures-research-fund-agenda",
+    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "title_original": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+    "title_ja": "AIによる経済変化に備える：Anthropicが2億ドルの経済研究基金を設立",
+    "description": "We’re committing $200 million to the Anthropic Economic Futures Research Fund to support ambitious external research.",
+    "published": "",
+    "lastmod": "2026-07-22T17:35:00.000Z",
+    "summary": "AI企業のAnthropicが、AI技術による経済への影響に対応するため、2億ドル（約300億円）の「経済未来研究基金」を設立しました。この基金は、AIの急速な発展に伴う失業や経済格差などの課題に対する具体的な解決策を研究するためのものです。大学や研究機関による大規模な実験や新しい政策の試行を支援します。具体的には、職場でのAI活用方法、労働者の再訓練プログラム、失業保険の改革、労働者の利益配分方法、公共投資の効果測定という5つの分野に焦点を当てています。500万～3000万ドル規模のプロジェクトを優先的に支援し、世界規模での研究を歓迎しています。",
+    "points": [
+      "Anthropicが2億ドルの基金でAIの経済的影響に対する研究を支援する",
+      "職場統合、労働者再訓練、所得保障、利益配分、公共投資の5分野に重点を置く",
+      "大学や研究機関による500万～3000万ドル規模の実験的プロジェクトを募集",
+      "早期の研究成果の公開共有を重視し、迅速な政策判断を支援する",
+      "世界規模の課題として、米国以外の地域でのプロジェクトも積極的に支援"
+    ],
+    "analogy": "これは、大きな台風が来ることがわかっているのに、実際にどう対策すればいいかわからない状況に例えられます。Anthropicは『堤防の高さはどのくらい？避難所はどこ？弱い人たちはどう助ける？』といった具体的な質問に答えるため、2億ドルを使って現実の小規模な実験を行い、その結果をもとに大規模な対策を練ろうとしているのです。",
+    "category": "企業ニュース、経済政策、社会責任",
+    "summarized": true
+  },
+  "anthropic:donation-public-first-action": {
+    "source": "anthropic",
+    "slug": "donation-public-first-action",
+    "url": "https://www.anthropic.com/news/donation-public-first-action",
+    "title_original": "Donating another $20 million to Public First Action",
+    "title_ja": "AnthropicがPublic First Actionに追加で2000万ドルを寄付、AI安全政策の推進を加速",
+    "description": "Anthropic is contributing an additional $20 million to Public First Action, bringing our total support to $40 million.",
+    "published": "",
+    "lastmod": "2026-07-22T10:14:58.000Z",
+    "summary": "AI企業のAnthropicは、AI政策教育団体「Public First Action」への寄付を追加で2000万ドル増やし、累計4000万ドルとしました。これはAIの急速な進化に対応するため、政府が適切な安全対策と透明性を求める政策を立案・導入することの重要性が増しているためです。Anthropicは、AIモデルが医療や電力網などの重要インフラに危険を及ぼす可能性があると指摘。同社が提案する「Advanced AI Framework」では、企業による安全性テスト、独立した評価の実施、カタストロフィックなリスクを持つモデルの展開を遅延・阻止する政府権限などを求めています。また、民主主義国家のAI技術優位を保つため、先端チップの輸出規制強化も支持しています。",
+    "points": [
+      "AnthropicがPublic First Actionに追加2000万ドル寄付し、総額4000万ドルとなった",
+      "AI技術の急速な進化により、医療や電力網などの重要インフラへのリスクが増大している",
+      "企業による透明性確保と政府による安全性検証・強制力が必要との立場を示している",
+      "民主主義国家のAIリーダーシップ維持のため、先端技術の輸出規制強化を主張している",
+      "超高度なAIモデルについてはテスト・独立評価・セキュリティ体制の強化が不可欠と指摘"
+    ],
+    "analogy": "AIの発展を新幹線の開発に例えるなら、高速化すればするほど安全装置が必要になるのと同じように、AIが強力になればなるほど、事故を防ぐための厳格なルール（安全政策）と定期的な点検（独立評価）が不可欠ということです。",
+    "category": "企業ニュース、安全性、パートナーシップ",
+    "summarized": true
+  },
+  "claude:building-verification-loops-in-claude-code-with-skills": {
+    "source": "claude",
+    "slug": "building-verification-loops-in-claude-code-with-skills",
+    "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+    "title_original": "Building verification loops in Claude Code with skills",
+    "title_ja": "Claude Codeでスキルを使った検証ループの構築：AIに自動チェックさせる方法",
+    "description": "How to turn your manual checks into skills, so Claude closes its own feedback loop.",
+    "published": "2026-07-22",
+    "lastmod": "2026-07-22",
+    "summary": "Claude Codeで開発する際、AIが自動的にコードをチェックして修正する「検証ループ」を構築する方法を紹介しています。従来、開発者が手作業で行っていた確認作業（テスト実行、エラーチェックなど）を「スキル」という仕組みにまとめることで、Claudeが自動で何度も改善を試みることができるようになります。埋め込み型（自動実行）、連鎖型（複数のチェックを順番に実行）、PR単位での実行など、プロジェクトの段階に応じた4つの実装パターンを紹介。繰り返しやっていた小さな修正作業をスキル化することで、開発チーム全体の効率が向上します。",
+    "points": [
+      "手作業で繰り返していた確認作業をスキルとして記述することで、Claudeが自動的にフィードバックループを閉じられる",
+      "検証ループには4つの実装パターンがある：スタンドアロン（手動実行）、埋め込み型（自動実行）、連鎖型（複数スキルの組み合わせ）、PR単位での実行",
+      "スキルはMarkdownファイルで簡単に定義でき、特定プロジェクトの独自ルール（汎用ツールでは検出不可能な規則）も自由に追加できる",
+      "個人の効率化から始まった検証ループは、やがてチーム全体のインフラとなり、全員の生産性向上につながる",
+      "プロセスを明確に記述することで、初心者を含むチーム全員が同じ品質基準を自動で満たすコードを書ける"
+    ],
+    "analogy": "これは野球チームのコーチと同じです。最初、あなた（監督）は毎回試合後に選手の悪い癖を手動で直していますが、その修正方法を『マニュアル』にまとめてコーチ（スキル）に任せると、コーチが試合中に自動で選手をチェック・指導してくれるようになります。さらに複数のコーチを連携させると、試合前の準備から試合中のチェック、試合後の分析まで全て自動で進みます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-outtake-built-a-cyber-investigator-on-claude": {
+    "source": "claude",
+    "slug": "how-outtake-built-a-cyber-investigator-on-claude",
+    "url": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
+    "title_original": "How Outtake built a cyber investigator on Claude",
+    "title_ja": "Outtakeがクロードを使ってサイバー調査官を構築した方法",
+    "description": "How Outtake ensures multi-hour agent sessions stay on track to uncover attack network operations",
+    "published": "2026-07-22",
+    "lastmod": "2026-07-22",
+    "summary": "サイバーセキュリティ企業Outtakeは、AI技術「Claude」を使って「Recon Agent」という自動調査システムを開発しました。このシステムは、偽のログインページから攻撃者のネットワーク全体まで、複雑なサイバー脅威を自動で追跡・調査・報告します。最大2時間以上連続して動作し、2025年だけで2000万件以上の潜在的な攻撃を検査しました。Outtakeの開発チームは、まず自分たちで調査を実施して「良い調査」の基準を定義し、その後Claude Codeで試作し、Agent SDKで本番環境に対応させるという段階的なアプローチを採用。長時間動作するAIエージェント開発では、プロンプト指示よりも硬いルールの設定が重要であることを学びました。",
+    "points": [
+      "Outtakeの「Recon Agent」は、攻撃者の活動ネットワーク全体を自動で調査・マッピングし、最長2時間以上連続稼働する高度なサイバー調査システム",
+      "開発チームは『良い調査とは何か』を定義してから段階的に自動化を進め、Claude CodeからAgent SDKへと発展させるアプローチを採用",
+      "長時間動作するAIエージェントには、プロンプト指示の柔軟性よりも、守るべき厳格なルール（ガードレール）を設定することが重要",
+      "ファイルシステムとコード実行能力を与えることで、予期しない問題に対し自ら解決策を見つける柔軟性を確保",
+      "自動化された評価テスト（evals）を最初から組み込むことで、開発速度を大幅に向上させ、セキュリティ脅威への迅速な対応が可能に"
+    ],
+    "analogy": "Recon Agentは、警察の刑事が1つの目撃情報から犯人グループ全体を解き明かしていくようなものです。偽のウェブサイト1つを見つけたら、そこから関連する怪しいアカウント、通信記録、インフラを追跡し、最後に『犯人は誰で、何をしたのか』という全体像をレポートにまとめます。",
+    "category": "AI技術",
+    "summarized": true
   }
 }
