@@ -6966,5 +6966,68 @@
     "analogy": "Recon Agentは、警察の刑事が1つの目撃情報から犯人グループ全体を解き明かしていくようなものです。偽のウェブサイト1つを見つけたら、そこから関連する怪しいアカウント、通信記録、インフラを追跡し、最後に『犯人は誰で、何をしたのか』という全体像をレポートにまとめます。",
     "category": "AI技術",
     "summarized": true
+  },
+  "anthropic:claude-for-creative-work-dev": {
+    "source": "anthropic",
+    "slug": "claude-for-creative-work-dev",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work-dev",
+    "title_original": "[dev] Claude for Creative Work",
+    "title_ja": "クリエイティブ業界向けのClaude：AIが創作活動を支援する新ツール",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-07-23T20:11:00.000Z",
+    "summary": "Anthropicは、クリエイティブ専門家向けにClaudeを拡張する新しいツール「コネクタ」を発表しました。これにより、デザイナーやイラストレーター、音楽制作者などが普段使っているPhotoshop、Blender、Abletonなどのソフトウェアの中からClaudeを直接利用できるようになります。Claudeは複雑なツール機能の学習サポート、繰り返し作業の自動化、異なるツール間でのデータ変換、そして急速なアイデア出しと実装を支援します。複数の大学のクリエイティブプログラムにも導入され、学生や教員がこれらのツールにアクセスできるようになります。AIが単なる置き換えではなく、クリエイターの想像力を拡張し、より野心的なプロジェクトを実現させることが目標です。",
+    "points": [
+      "Claudeが8つの主要なクリエイティブツール（Adobe Creative Cloud、Blender、SketchUp、Ableton等）と直接統合される新しいコネクタが公開された",
+      "複雑なソフト機能の学習、繰り返し作業の自動化、ツール間のデータ変換など、複数の創作支援機能を提供",
+      "Rhode Island School of Designなど3つの大学のクリエイティブプログラムに導入され、学生と教員がアクセス可能に",
+      "ClaudeはAIだが、クリエイターの味覚や想像力を置き換えるのではなく、より大規模で野心的なプロジェクトを可能にすることが特徴",
+      "Blenderへの寄付を通じて、オープンソースコミュニティとの協力姿勢を示している"
+    ],
+    "analogy": "これは、プロのシェフがアシスタントを得るようなものです。AIが野菜を切ったり、繰り返しの下準備をしたりする時間のかかる作業を担当することで、シェフはより創造的な料理開発に集中できます。Claudeはクリエイターの『アシスタント』として、機械的な作業を減らし、本当に創造力が必要な部分に時間を使えるようにするのです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:four-role-based-claude-certifications": {
+    "source": "claude",
+    "slug": "four-role-based-claude-certifications",
+    "url": "https://claude.com/blog/four-role-based-claude-certifications",
+    "title_original": "Four role-based certifications for the people who put Claude to work for customers",
+    "title_ja": "Claude認定資格プログラムを拡大：4つの職種別認定資格を導入",
+    "description": "We're expanding the Claude Certification Program with three new role-based certifications that span the full team a customer needs to deploy AI.",
+    "published": "2026-07-23",
+    "lastmod": "2026-07-23",
+    "summary": "AI企業のAnthropicは、Claude認定資格プログラムを拡大し、3つの新しい職種別認定資格を追加しました。これにより、企業がAIを導入する際に必要なコンサルタント、エンジニア、アーキテクト（システム設計者）など様々な職種に対応した認定制度が実現します。3月の開始以来、36,000人以上のコンサルタントが認定を取得しており、大手企業も続々と参加しています。Accentureは50,000人、PWCは30,000人など、大規模な認定プログラムへのコミットメントが発表されました。認定試験は監督下で実施される厳密な身元確認済みテストで、実務的なスキルを検証します。これにより企業は信頼できるパートナー企業を選択できるようになります。",
+    "points": [
+      "基礎レベルから専門家レベルまで、4段階の職種別認定資格が導入され、様々なスキルレベルに対応",
+      "Accenture、PwC、Deloitteなど世界的大企業が数万人規模での認定を目指している",
+      "Pearson Professional Assessmentsとの連携により、監督下での身元確認済み試験で厳密なスキル検証を実施",
+      "認定資格は企業パートナーネットワーク内での位置づけや企業の信頼性評価の重要な指標となる",
+      "無料のAnthropicパートナーアカデミーで認定試験の準備コースを受講可能"
+    ],
+    "analogy": "これは大学の卒業資格のようなものです。単に講座を受けただけでは意味がなく、試験官の監視下で厳密なテストに合格して初めて「このエンジニアはClaudeで確実に仕事ができます」という信頼できる証明になります。企業が外部の専門家を雇う時に、その人が本当に信頼できるのか確認するための公式な『証明書』の役割を果たします。",
+    "category": "企業ニュース, パートナーシップ",
+    "summarized": true
+  },
+  "claude:think-through-hard-problems-in-voice-mode": {
+    "source": "claude",
+    "slug": "think-through-hard-problems-in-voice-mode",
+    "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+    "title_original": "Think through hard problems in voice mode",
+    "title_ja": "音声モードで難しい問題を思考する - Claude がさらに賢く、多言語対応に",
+    "description": "Starting today, voice mode runs on Anthropic's Claude Opus, Claude Sonnet, and Claude Haiku, reaches the tools you’ve connected, and speaks many more languages.",
+    "published": "2026-07-23",
+    "lastmod": "2026-07-23",
+    "summary": "ClaudeのAI音声会話機能「音声モード」がアップデートされました。これまで速度重視の軽量版のみでしたが、より高性能な2つのモデルに対応。複雑な問題をじっくり考えたいとき、会議の練習をしたいとき、ブレインストーミングをしたいときに、テキストではなく話しながらAIに相談できるようになります。さらにGmailやSlackなどの接続ツールを活用したり、11言語での会話に対応。無料プランから有料プランまで利用可能で、スマートフォンでのご利用が最適です。",
+    "points": [
+      "Claude OpisとSonnetという高性能なAIが音声モードで利用可能に。会話中にモデルを切り替えられます",
+      "思考しながら話すことで、AIが詳しく考え直すことができ、深い議論が可能に",
+      "GmailやSlackなど接続したツールを音声指示で操作（例：カレンダーの予定を変更）",
+      "日本語を含む11言語に対応し、会話中に言語を切り替え可能",
+      "無料プランから利用でき、スマートフォンで最適に動作"
+    ],
+    "analogy": "これまでのAI音声機能は、駅の案内ロボットのような「すぐに答える」タイプでした。今回のアップデートは、経験豊かなビジネスコンサルタントと話す感覚に進化。あなたが考えを話すと、相手が「それはどういう意味？」と質問を返しながら、一緒に考えを深めてくれるイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
