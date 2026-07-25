@@ -7029,5 +7029,89 @@
     "analogy": "これまでのAI音声機能は、駅の案内ロボットのような「すぐに答える」タイプでした。今回のアップデートは、経験豊かなビジネスコンサルタントと話す感覚に進化。あなたが考えを話すと、相手が「それはどういう意味？」と質問を返しながら、一緒に考えを深めてくれるイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:claude-opus-5": {
+    "source": "anthropic",
+    "slug": "claude-opus-5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "title_original": "Introducing Claude Opus 5",
+    "title_ja": "Claude Opus 5発表：高性能で低価格の新型AIモデル登場",
+    "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+    "published": "",
+    "lastmod": "2026-07-25T02:03:36.000Z",
+    "summary": "Anthropicが新しいAIモデル「Claude Opus 5」を発表しました。このモデルは、前世代のOpus 4.8と同じ価格で大幅な性能向上を実現しています。特にプログラミングやビジネス分析などの知識労働で優れた性能を発揮し、複数の業界評価テストで最高水準を記録しました。Opus 5は自分の仕事を検証し、改善を重ねるという「考え深く主動的」な特性を持ち、長時間稼働するAIエージェント向けに設計されています。また、安全性の面でも過去のモデルより改善され、有害な使用方法への耐性が強化されています。日常的に使用できるAIとして、Claude ProとClaude Maxのデフォルトモデルになります。",
+    "points": [
+      "Opus 5は前世代と同じ価格で大幅な性能向上を実現。プログラミングとビジネス分析タスクで最高水準の成績を達成",
+      "複雑な問題解決能力が強化され、自分の作業を検証して改善する「自己修正機能」を搭載",
+      "生命科学や金融分析など、複数の専門分野で優れたパフォーマンスを発揮",
+      "安全性が向上し、不正な使用への耐性が強化されている一方、研究や正当なセキュリティ業務は支援可能",
+      "長時間稼働するAIエージェント向けに最適化され、使用効率が大幅に改善"
+    ],
+    "analogy": "Opus 5は料理人の成長に例えるとわかりやすいです。前のバージョン(Opus 4.8)は『レシピ通りに作る上手な料理人』でしたが、Opus 5は『完成後に自分で味見をして、塩加減を直す。さらに「なぜこの味が正しいのか」を理解している料理人』になりました。同じお給料(価格)なのに、より美味しく、より正確に、より丁寧に料理ができるようになったイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them": {
+    "source": "claude",
+    "slug": "how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+    "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+    "title_original": "How the product designer who built Claude Design uses it",
+    "title_ja": "Claude Designの開発者が、アイデア検討にこのツールをどう活用しているか",
+    "description": "Nate Parrott, a product designer at Anthropic, shares how he uses Claude Design (in beta) to explore, iterate on, and share visual ideas early, from product prototypes to slide decks and animations.",
+    "published": "2026-07-24",
+    "lastmod": "2026-07-24",
+    "summary": "Anthropic（AI企業）のプロダクトデザイナーであるNate Parrott氏が、Claude Design（ベータ版）の活用方法を紹介しています。Claude DesignはHTML（ウェブページの言語）を使用して、デザイナーがAIと協力しながら、スライドやプロトタイプ、アニメーションなどの視覚的なコンテンツを素早く作成できるツールです。従来のデザインツールでは時間がかかる作業も、Claudeに指示を与えるだけで複数のデザイン案が生成されます。同氏は毎日このツールを使用して、プロトタイプやプレゼン資料の作成、デザインの検討を行っており、AIと人間の協働でより創造的な仕事ができると述べています。記事では、効果的に使うための10個のベストプラクティスも共有されています。",
+    "points": [
+      "Claude DesignはHTMLを使い、デザイナーがAIと対話しながらスライド、プロトタイプ、アニメーションなど様々なビジュアルコンテンツを素早く作成できるツール",
+      "従来は手作業で複数画面のモックアップを作る必要があったが、このツールではAIが自動生成し、複数の案から最適なものを選べる",
+      "ロゴデザインや本番コード開発には向いていないが、アイデア検討や社内共有用資料作成に最適",
+      "事前に考えを整理してからプロンプト（指示）を入力する、ブランドカラーを指定するなど、10個のベストプラクティスが存在",
+      "Claude Pro、Max、Team、Enterpriseプランで利用可能（ベータ版）"
+    ],
+    "analogy": "Claude Designは、プロデューサーと一緒に仕事をするミュージシャンのようなものです。あなたが「このような雰囲気の曲を作りたい」と説明すると、プロデューサーが複数の案を提示してくれます。その中から「この部分は好きだけど、あの部分は違う」と指示すると、すぐにアレンジ版を作ってくれます。完全に任せるのではなく、人間の判断と協力することで、より良い結果が生まれるのです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+    "source": "claude",
+    "slug": "the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "title_original": "The new rules of context engineering for Claude 5 generation models",
+    "title_ja": "Claude 5世代モデルのための新しい「文脈エンジニアリング」ルール",
+    "description": "We removed over 80% of Claude Code's system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents.",
+    "published": "2026-07-24",
+    "lastmod": "2026-07-24",
+    "summary": "Anthropicは、最新のClaude 5モデル向けに、Claude Codeのシステムプロンプト（AIへの指示文）を80%以上削減しました。これは、進化したAIモデルがより少ない指示でも正しく判断できるようになったことを示しています。記事では、AIに細かいルールを与えすぎるのではなく、判断力に任せること、具体例よりもツール設計を重視すること、必要な情報を段階的に提供すること（必要な時だけ詳細情報を読み込む）など、新しいプロンプト設計の考え方を紹介しています。開発者がこれらの原則を自分たちのシステムに適用すれば、より効率的で柔軟なAI利用が可能になります。",
+    "points": [
+      "進化したAIモデルは過剰な制約が不要。細かいルール（コメント記入禁止など）を削除してもパフォーマンスが低下しない",
+      "AIに『例を示す』のではなく『ツール設計を工夫する』ことで、より高度な使い方を引き出せる",
+      "すべての情報を最初に与えるのではなく『必要な時に必要な情報を提供する』段階的な方法が効果的",
+      "システムプロンプト、スキル、参考ファイルなどを整理して、無駄な重複指示を削除することが大切",
+      "新しい『claude doctor』コマンドで、自動的に最適化のサポートが受けられる"
+    ],
+    "analogy": "これは料理の指導に例えると分かりやすいです。昔は『塩を小さじ1、絶対に小さじ2では駄目。卵は常に冷やすこと』と細かく指示する必要がありました。でも経験を積んだシェフなら『味見をしながら塩加減を調整してね』と簡潔に言うだけで、彼らの判断で美味しい料理を作ってくれるようになるのです。新しいAIモデルも同じように『使わなくなった細かい指示を削除しても、自分で判断して良い結果を出せる』ようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-models-explained-choosing-the-best-model-for-your-use-case": {
+    "source": "claude",
+    "slug": "claude-models-explained-choosing-the-best-model-for-your-use-case",
+    "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
+    "title_original": "Claude models explained: choosing the best model for your use case",
+    "title_ja": "Claude モデルの選び方：あなたの用途に最適なモデルを選ぶガイド",
+    "description": "How to choose the right Claude model for your workload: compare model classes, weigh cost per task vs. cost per token, and build evals that settle it.",
+    "published": "2026-07-24",
+    "lastmod": "2026-07-24",
+    "summary": "Anthropic が提供する AI「Claude」には、異なる能力と価格の複数のモデルがあります。この記事では、どのモデルを選ぶべきかのガイドを説明しています。最も高性能な「Mythos/Fable」から、バランス型の「Opus」「Sonnet」、そして低コストの「Haiku」まで、それぞれの特徴が紹介されています。重要なポイントは、単に価格ではなく「タスクあたりのコスト」を考慮すること。高性能なモデルは少ないステップで問題を解くため、結果的に安くなる場合もあります。また、複数のモデルを組み合わせる戦略も紹介されており、安いモデルで作業し、必要に応じて高性能なモデルに相談する「アドバイザー戦略」で効率化できます。最終的には、実際のデータで評価することが最適な選択につながります。",
+    "points": [
+      "Claude には4つのモデルクラスがあり、難易度・速度・コストが異なる",
+      "1トークン（単語の小分け）あたりの価格ではなく、タスク全体のコストで比較すべき",
+      "高性能なモデルは少ないやり取りで問題を解くため、実際には安くなることもある",
+      "安いモデルと高性能モデルを組み合わせる『アドバイザー戦略』で効率化できる",
+      "最適なモデル選択には、実際の仕事環境での評価テストが最も重要"
+    ],
+    "analogy": "これは、レストランで料理人を選ぶのと似ています。新米料理人（低コストモデル）は一つの料理に何度もやり直しが必要ですが、ベテラン料理人（高性能モデル）は一度で完璧に作ります。時給で見ると高いですが、最終的な食事代（タスク完成までのコスト）はベテランの方が安いかもしれません。さらに、新米がベテランに「この調理法で大丈夫？」と相談する戦略もあります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
