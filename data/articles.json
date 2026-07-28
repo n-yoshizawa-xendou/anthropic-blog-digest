@@ -7113,5 +7113,46 @@
     "analogy": "これは、レストランで料理人を選ぶのと似ています。新米料理人（低コストモデル）は一つの料理に何度もやり直しが必要ですが、ベテラン料理人（高性能モデル）は一度で完璧に作ります。時給で見ると高いですが、最終的な食事代（タスク完成までのコスト）はベテランの方が安いかもしれません。さらに、新米がベテランに「この調理法で大丈夫？」と相談する戦略もあります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:position-open-weights-models": {
+    "source": "anthropic",
+    "slug": "position-open-weights-models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "title_original": "Our position on open-weights models",
+    "title_ja": "オープンウェイト型AIモデルに対するAnthropicの立場",
+    "description": "Anthropic CEO Dario Amodei on open-weights models",
+    "published": "",
+    "lastmod": "2026-07-27T21:55:20.000Z",
+    "summary": "Anthropic のCEO・ダリオ・アモデイが、中国製を含むオープンウェイト型AI（重みをパブリック公開したAI）モデルの規制について、同社の立場を明確に説明しています。Anthropicはオープンウェイト型モデルの禁止を支持していないと断定。同社が本当に懸念するのは、①独裁政権がアメリカより強力なAIを開発して軍事優位性を確立すること、②強力なAIモデルがサイバー攻撃や生物兵器開発に悪用されることの2点です。これらの脅威に対処するには、中国への高性能チップ輸出禁止、産業規模での不正な知識抽出（蒸留）の取り締まり、すべてのAIモデルの安全性テスト義務化が効果的だと主張しています。",
+    "points": [
+      "Anthropicはオープンウェイト型AIモデルの禁止を支持していない—価値を提供する技術として認めている",
+      "真の安全保障上の脅威は、独裁政権がアメリカより強力なAIを秘密裏に開発すること",
+      "中国へのチップ供給制限と産業規模の蒸留操作の取り締まりが最も効果的な対策",
+      "オープン・クローズ問わずすべての高性能AIモデルに対する安全性テストの義務化が必要",
+      "競争からの保護は目標ではなく、国家安全保障が最優先"
+    ],
+    "analogy": "例えるなら、包丁という道具そのものを禁止するのではなく、危険な人物に包丁の製造装置を売らないこと、密造品の流通を止めること、誰がどう使おうと事前に安全チェックすることが大事、という考え方です。",
+    "category": "安全性, 企業ニュース, 政策",
+    "summarized": true
+  },
+  "anthropic:cognizant-anthropic": {
+    "source": "anthropic",
+    "slug": "cognizant-anthropic",
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "title_original": "Expanding our partnership with Cognizant",
+    "title_ja": "大型IT企業Cognizantとの提携を拡大、30,000人以上がClaudeの研修を完了",
+    "description": "Cognizant embeds Claude across its platforms, with 30,000+ associates trained, and becomes a Global Premier Partner in the Claude Partner Network.",
+    "published": "",
+    "lastmod": "2026-07-27T15:34:00.000Z",
+    "summary": "AI企業AnthropicとIT大手Cognizantが提携を拡大しました。Cognizantは自社の30,000人以上の従業員にClaudeというAI（会話型の人工知能）の研修を実施し、製造業や医療、保険業界などの顧客向けシステムにClaudeを組み込んでいます。Cognizantは自社のエンジニアプラットフォームにClaudeを統合し、顧客の複雑な業務を自動化するAIシステムを実際に導入しています。例えば、大型製造業の顧客向けサービスを6ヶ月で構築、医薬品企業の契約処理時間を40％削減するなどの実績があります。Cognizantはクライアント企業がAIを実験的に使うのではなく、実際の業務で信頼できる結果を得られるよう支援する「橋渡し役」を果たしています。",
+    "points": [
+      "Cognizantは30,000人以上の従業員にClaudeのAI研修を実施し、グローバルなパートナーとしての地位を確立",
+      "製造業・医療・保険業界など様々な産業の企業向けにClaudeを組み込んだシステムを構築中",
+      "実装例として、契約処理時間の40％削減や業務時間の8時間削減など具体的な効果を実現",
+      "Cognizantは業界知識と企業の既存システムへの理解を活かし、AIを実務レベルで導入する支援を提供"
+    ],
+    "analogy": "Cognizantの役割は、新しい強力な工具（Claude AI）を手に入れた企業が、その工具を正しく使いこなすための熟練した職人のような存在です。工具だけでは活用できませんが、企業の業務を理解した専門家が間に入ることで、初めて本当の価値が生まれます。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
