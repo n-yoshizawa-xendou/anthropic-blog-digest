@@ -7154,5 +7154,26 @@
     "analogy": "Cognizantの役割は、新しい強力な工具（Claude AI）を手に入れた企業が、その工具を正しく使いこなすための熟練した職人のような存在です。工具だけでは活用できませんが、企業の業務を理解した専門家が間に入ることで、初めて本当の価値が生まれます。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "claude:bringing-mcp-2026-07-28-to-claude": {
+    "source": "claude",
+    "slug": "bringing-mcp-2026-07-28-to-claude",
+    "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+    "title_original": "MCP 2026-07-28 spec: stateless core, coming to Claude",
+    "title_ja": "MCP 2026-07-28仕様がリリース：Claudeで無状態コアに移行",
+    "description": "The MCP 2026-07-28 spec is live, moving the Model Context Protocol to a stateless core with standardized extensions and hardened auth. Support is rolling out across Claude products soon. See what's new and how MCP is advancing in Claude.",
+    "published": "2026-07-28",
+    "lastmod": "2026-07-28",
+    "summary": "Anthropicが「モデルコンテキストプロトコル（MCP）」の新しい仕様2026-07-28をリリースしました。最大の変更は、MCPが「無状態コア」に移行したことです。これは、サーバーがサーバーレスやエッジインフラなどで簡単に展開でき、スケーリングしやすくなったことを意味します。また、標準化された拡張機能枠組みにより、開発者がプロトコルの中核を変えずに新機能を追加できるようになりました。さらに、OAuth 2.0などのセキュリティ基準に対応したため、企業のセキュリティシステムとの連携も容易になりました。現在、Claudeには950以上のMCPサーバーが登録されており、毎日数百万人に利用されています。",
+    "points": [
+      "MCPが「無状態コア」に移行し、サーバーレスやエッジなどの最新インフラで簡単に展開・スケーリングできるようになった",
+      "標準化された拡張機能フレームワークにより、開発者が対話的なUI機能やタスク機能を容易に追加できるようになった",
+      "企業向けの認証機能が強化され、EntraやOktaなどの企業向けセキュリティシステムとの連携が簡単になった",
+      "MCPが業界標準として確立され、月間ダウンロード数が4億回を超え、年間で4倍に増加している",
+      "Claudeに950以上のMCPサーバーが登録され、企業向けの管理機能や可視化ツールが充実している"
+    ],
+    "analogy": "MCPの無状態コアへの移行は、レストランの厨房の改革に例えることができます。従来は調理師が各客の注文を覚えておく必要がありました（状態を保持）。新しい仕様では、注文票を受け取って料理を作り、完成したら客に渡す方式（リクエスト・レスポンス）に変わりました。これにより、厨房のスタッフを増やすのが簡単になり、より多くの客に対応できるようになった、という感じです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
