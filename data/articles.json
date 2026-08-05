@@ -7196,5 +7196,46 @@
     "analogy": "これは、宝探しゲーム（Capture-the-flag）のルール説明に『このゲームは架空の世界で行われる』と書かれていたのに、実は本当の地図が渡されてしまったようなもの。AIは『指示されたゲーム』をしているつもりで、実在する家に本当に侵入してしまった状況です。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic:tino-cuellar": {
+    "source": "anthropic",
+    "slug": "tino-cuellar",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "title_original": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+    "title_ja": "ティノ・クエリャー氏がAnthropicの最高グローバル政策責任者として就任",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-08-04T17:40:15.000Z",
+    "summary": "AI安全研究企業のAnthropicが、政策・国際関係・政府関係を統括する最高グローバル政策責任者（Chief Global Affairs Officer）として、ティノ・クエリャー氏の就任を発表しました。クエリャー氏はカーネギー国際平和財団の元会長で、カリフォルニア州最高裁判事、スタンフォード大学教授など、法律・技術・国際安全保障の分野で豊富な経験を持っています。AI技術の発展と規制のあり方が世界的に注目される中、民主主義の価値を守りながらAIの利益を広く行き渡らせることが重要との考えから、この人事が発表されました。",
+    "points": [
+      "Anthropicが初の最高グローバル政策責任者を配置し、AI規制における国際的な政策形成に注力する方針を明確にした",
+      "クエリャー氏は法律家・判事・大学教授など多岐にわたる経歴で、政府機関での実務経験も豊富",
+      "AI技術の発展が経済・安全保障・社会に与える影響が大きくなる中、民主主義社会がAIの方向性を決める必要があるとの認識",
+      "世界各国の政府指導者や政策立案者とのパートナーシップを強化し、AIのリスク対策と機会活用を両立させる取り組みを推進"
+    ],
+    "analogy": "AIの発展と規制は、新しい高速道路ができる時に、安全性と利便性のバランスを考えながら交通ルールを決めるのに似ています。クエリャー氏は、各国政府と協力して『誰もが恩恵を受けられる安全なルール』を作る役割を担う人物です。",
+    "category": "企業ニュース、パートナーシップ、政策",
+    "summarized": true
+  },
+  "claude:a-guide-to-cost-visibility-and-control-in-claude": {
+    "source": "claude",
+    "slug": "a-guide-to-cost-visibility-and-control-in-claude",
+    "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
+    "title_original": "A guide to cost visibility and control in Claude",
+    "title_ja": "Claudeのコスト管理ガイド：IT管理者向けの支出管理と可視化",
+    "description": "How IT admins can see and manage Claude costs, including spend caps, model controls, usage analytics, and API features like prompt caching and batch processing.",
+    "published": "2026-08-04",
+    "lastmod": "2026-08-04",
+    "summary": "Anthropicが提供するAI対話ツール「Claude」のコスト管理方法について、IT管理者向けのガイドが公開されました。企業向けの「Claude Enterprise」では、複数の便利な機能が利用できます。アクセス制限（特定のチームだけに高度な機能を許可）、モデル選択の制限、使用額の上限設定が可能です。また、利用データの分析ツールも充実しており、部門別・ユーザー別の利用状況をダッシュボードで確認したり、質問形式で分析したりできます。開発者向けには、キャッシング（繰り返し使うデータを保存して処理を削減）やバッチ処理（急いでいない作業を安く実行）といったコスト削減機能があります。重要なのは、トークン数（入力量）ではなく「目的達成のコスト」で価値を測ることです。",
+    "points": [
+      "IT管理者は、どのチームがどのAIモデルを使えるかを制限し、利用額の上限を設定できる",
+      "利用データをダッシュボードで確認でき、データの書き出しや質問形式での分析が可能",
+      "キャッシングやバッチ処理などの機能で、本来のコストを大幅に削減できる場合がある",
+      "タスクの難度に応じて異なるモデル（高度な判断が必要か、単純な大量処理か）を選び分けることが重要",
+      "複雑な判断が必要な部分だけ高性能モデルを使い、その他は安いモデルで処理する組み合わせが効果的"
+    ],
+    "analogy": "会社の水道光熱費管理に例えると、単に「何リットル使ったか」だけでなく「その水を使うことで何の効果が得られたか」で判断するのと同じ。暖房が必要な冬に高いエネルギー設定を使うのは効率的ですが、簡単な書類作成には高性能コンピュータは不要です。Claudeも同様に、複雑な判断には高性能モデルを、単純な分類作業には安いモデルを使い分けることで、総コストを最適化できます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
