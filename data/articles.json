@@ -7237,5 +7237,26 @@
     "analogy": "会社の水道光熱費管理に例えると、単に「何リットル使ったか」だけでなく「その水を使うことで何の効果が得られたか」で判断するのと同じ。暖房が必要な冬に高いエネルギー設定を使うのは効率的ですが、簡単な書類作成には高性能コンピュータは不要です。Claudeも同様に、複雑な判断には高性能モデルを、単純な分類作業には安いモデルを使い分けることで、総コストを最適化できます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:claude-enterprise-inference-hooks": {
+    "source": "claude",
+    "slug": "claude-enterprise-inference-hooks",
+    "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
+    "title_original": "Inference hooks: inline data loss prevention for Claude Enterprise",
+    "title_ja": "推論フック：Claude Enterprise向けのデータ流出防止機能",
+    "description": "Inference hooks lets your compliance team inspect and enforce policy on every prompt and tool call response before they reach Claude — across Claude Enterprise surfaces including chat, Claude Code, Claude Cowork, and more.",
+    "published": "2026-08-05",
+    "lastmod": "2026-08-05",
+    "summary": "Anthropicは「推論フック」という新機能をClaude Enterpriseに導入しました。これは、従業員がClaudeAIを使う際に、機密情報が外に漏れないようにするセキュリティ機能です。具体的には、ChatやClaudeコードなど、あらゆるClaudeの利用場面で、セキュリティチームが「この情報は送ってもいいか、ダメか」を瞬時にチェックできます。従来は個々の製品ごとにチェック機能を設定する必要がありましたが、この機能により一度の設定で全てのClaudeサービスに統一的に適用できるようになりました。既存のセキュリティシステム（NetskopeやPalo Alto Networksなど）とも連携でき、段階的な導入も可能です。",
+    "points": [
+      "全てのClaude Enterprise製品（チャット、コード、Coworkなど）で統一的にデータ保護が可能",
+      "セキュリティチームが情報の送受信を瞬時に検査・承認できる",
+      "既存のセキュリティツールとの連携に対応しており、統合がシンプル",
+      "影のモード（テスト運用）や段階的な展開など、柔軟な導入オプションがある",
+      "企業は一度の設定で全てのClaudeサービスに統一ルールを適用できる"
+    ],
+    "analogy": "推論フックは、会社の玄関に配置された警備員のようなものです。従来は各出入り口（Chatなど各機能）に別々の警備員を置く必要がありました。推論フックは、1人の賢い警備員が全ての出入り口を監視し、社外秘の情報が外に持ち出されないかチェックします。既存のセキュリティシステムとも連携でき、企業のセキュリティ基準に合わせて厳しさを調整できるイメージです。",
+    "category": "企業ニュース、セキュリティ、製品アップデート",
+    "summarized": true
   }
 }
