@@ -7258,5 +7258,46 @@
     "analogy": "推論フックは、会社の玄関に配置された警備員のようなものです。従来は各出入り口（Chatなど各機能）に別々の警備員を置く必要がありました。推論フックは、1人の賢い警備員が全ての出入り口を監視し、社外秘の情報が外に持ち出されないかチェックします。既存のセキュリティシステムとも連携でき、企業のセキュリティ基準に合わせて厳しさを調整できるイメージです。",
     "category": "企業ニュース、セキュリティ、製品アップデート",
     "summarized": true
+  },
+  "anthropic:improving-fable-5-s-biology-safeguards": {
+    "source": "anthropic",
+    "slug": "improving-fable-5-s-biology-safeguards",
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "title_original": "Improving Fable 5 Safeguards",
+    "title_ja": "Claude Fable 5の生物学関連の安全機能を改善",
+    "description": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks.",
+    "published": "",
+    "lastmod": "2026-08-07T02:18:43.000Z",
+    "summary": "Anthropicは、AI「Claude Fable 5」の生物学関連の質問に対する安全機能を改善しました。これにより、従来は誤ってブロックされていた一般的な健康や教育的な質問（検査結果の解釈、症状の理解など）が、85%の確率でスムーズに処理されるようになりました。改善前は、危険な悪用を防ぐため、生物学関連のほぼすべての質問をブロックしていました。一方、ウイルス学や分子設計など、軍事兵器に転用される可能性がある「デュアルユース」（正当な研究にも悪用にもなりうる）領域については、引き続き厳しく制限しています。AIの能力が高まるほど悪用のリスクも増すため、安全機能と利便性のバランスを取りながら、研究者が安全にアクセスできる仕組みの構築を進めています。",
+    "points": [
+      "生物学関連のブロック機能を85%削減し、健康や教育的な質問への回答が大幅に改善された",
+      "正当な医療研究と危険な悪用の区別が難しいため、AI自体が二重性（デュアルユース）のリスクを判定する分類器を使用している",
+      "ウイルス学や分子設計などの危険性が高い分野は引き続きブロックし、信頼できるアクセス経路を通じた利用に限定している",
+      "AIの強力な生物学能力は医療の発展に大きく寄与できる一方で、悪意ある人物に悪用される危険性もあるため、慎重な運用が必要"
+    ],
+    "analogy": "これは、図書館から医学書を貸し出す時の対応に似ています。初めは「危険な知識かもしれない」と医学書すべてを貸し出し禁止にしていましたが、実際には医学生や医者の正当な研究が多いことに気付きました。そこで、貸出基準を見直して一般人でも勉強できる本は貸し出すようにしつつ、生物兵器製造に直結する内容を含む本だけは専門家の許可が必要という、柔軟な対応を取り始めたということです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "claude:millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude": {
+    "source": "claude",
+    "slug": "millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+    "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+    "title_original": "Millennium and Anthropic are building a digital risk analyst with Claude",
+    "title_ja": "ミレニアムとAnthropicが「デジタルリスク分析官」をClaudeで共同開発",
+    "description": "Anthropic is working with Millennium to co-develop a digital risk analyst to surface new risk insights and form opinions on risk exposure across asset classes.",
+    "published": "2026-08-06",
+    "lastmod": "2026-08-06",
+    "summary": "大手投資運用会社のミレニアムとAI企業のAnthropicは、AI技術「Claude」を活用した「デジタルリスク分析官」を共同開発しています。この新しいAIツールは、投資リスク分析の専門家の仕事をサポートし、複数の資産クラス（株式や債券など異なる種類の投資商品）にわたるリスク分析を高速化・充実化させます。ミレニアムの社員は既にClaudeを取引やエンジニアリング、経営業務など幅広い部門で活用していますが、今回のデジタルリスク分析官は、これをさらに拡張するもの。AIが日々のリスク変化を説明し、人間の専門家がその分析結果を検証・承認する仕組みで、人間の判断を中心に据えながらAIの力を活用しています。",
+    "points": [
+      "ミレニアムがClaudeを使ったAI分析官を開発し、投資リスク評価を自動化・効率化する",
+      "AIは24時間リスク変化を監視・分析し、人間の専門家が最終判断を下す体制",
+      "セキュリティと透明性を重視し、AIの判断プロセスをすべて記録・監査可能にしている",
+      "ミレニアムは既に340以上の投資チームでClaudeを活用している実績がある",
+      "金融業界では「信頼できるAI」が不可欠で、人間と機械の協働が成功の鍵"
+    ],
+    "analogy": "デジタルリスク分析官は、医者の診断補助システムのようなもの。AIが患者の症状データを24時間分析して「この症状が出ているかもしれません」と医者に情報提供しますが、最終的な診断・治療判断は経験豊かな医者が下す。AIは人間の判断を早く、正確にするための道具です。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
