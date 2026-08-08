@@ -7299,5 +7299,68 @@
     "analogy": "デジタルリスク分析官は、医者の診断補助システムのようなもの。AIが患者の症状データを24時間分析して「この症状が出ているかもしれません」と医者に情報提供しますが、最終的な診断・治療判断は経験豊かな医者が下す。AIは人間の判断を早く、正確にするための道具です。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "claude:auto-mode-default-in-claude-code": {
+    "source": "claude",
+    "slug": "auto-mode-default-in-claude-code",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "title_original": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+    "title_ja": "Claude Codeのオートモードがデフォルトに：Pro、Max、Teamプランで自動実行開始",
+    "description": "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.",
+    "published": "2026-08-07",
+    "lastmod": "2026-08-07",
+    "summary": "Anthropicは、Claude Code（AIプログラミングアシスタント）のオートモード機能をPro、Max、Teamプランのデフォルト設定にすることを発表しました。8月14日から新規セッションで自動的に有効になります。\n\nオートモードでは、ユーザーが毎回の操作を承認する手間を減らしつつ、危険なコマンドを自動的に検出・ブロックします。テスト結果によると、ユーザーの手動承認では危険なコマンドの86.4%を見逃していたのに対し、オートモードは89%をブロックしました。また、1,053人のテストユーザーを対象とした調査では、セッションが長くなるほど人間の判断精度が落ちる傾向が見られました。\n\nオートモードの導入により、ユーザーは中断なく長時間の作業が可能になり、生産性が約25%向上しました。安全性と利便性の両立を実現する新しいアプローチです。",
+    "points": [
+      "8月14日からPro、Max、Teamプランでオートモードがデフォルト設定に変更される予定",
+      "危険なコマンドを自動検出する分類機能により、ユーザーの手動承認より安全性が高い（89% vs 13.6%）",
+      "セッションが長くなると人間の判断精度が低下するが、オートモードは安定して危険を検出",
+      "生産性が約25%向上し、複雑なタスクを長時間実行できるようになる",
+      "複数の第三者機関による安全性テストで、プロンプトインジェクション攻撃にも強いことが確認された"
+    ],
+    "analogy": "例えるなら、これまでは毎回「この操作を実行していいですか？」と確認され、ユーザーが「OK」ボタンを押していたのに対し、新しいオートモードは『自動運転』のように、危ない操作だけを自動で検出して止める信号機的な存在です。ユーザーは細かい確認をいちいち気にせず、集中して仕事を続けられます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:auto-mode-in-production": {
+    "source": "claude",
+    "slug": "auto-mode-in-production",
+    "url": "https://claude.com/blog/auto-mode-in-production",
+    "title_original": "Running auto mode in production",
+    "title_ja": "Claude Code のオートモード：実運用での導入事例",
+    "description": "How customers like Nuro, Gusto, and Garner Health use auto mode to drive safer, longer running coding workflows.",
+    "published": "2026-08-07",
+    "lastmod": "2026-08-07",
+    "summary": "Claude Code に搭載された「オートモード」は、AI が実行するコマンドを自動的に安全性チェックする新機能です。従来は人間がすべてのコマンドを承認する必要があり、時間がかかっていました。オートモードは危険な操作をブロックしながら、安全な操作は自動承認するため、スピードと安全性のバランスを実現します。自動運転技術の Nuro、給与計算の Gusto、医療技術の Garner Health など、複数の企業が本番環境で導入し、夜間の無人作業や複数の並行処理など、以前は不可能だった業務フローを実現しています。オートモードにより、開発チームは承認作業から解放され、より創造的な業務に集中できるようになりました。",
+    "points": [
+      "オートモードは AI の危険な操作をブロックし、安全な操作は自動承認することで、速度と安全性を両立させている",
+      "Nuro では夜間に自動で実験を続け、朝に複数の提案を提示するなど、無人での長時間実行作業が可能になった",
+      "Gusto では承認作業が減り、生産性が向上し、プロンプトインジェクション攻撃からの保護も得られた",
+      "Garner Health は 550 人全員への導入により、反復的な業務の自動化を標準化し、承認管理の負担を大幅に軽減した",
+      "企業は重要な操作（インフラ変更、他者との連絡）は手動モードに切り替えるなど、柔軟に使い分けることで安全性を確保している"
+    ],
+    "analogy": "オートモードは『信頼できる従業員に仕事を任せる』のと同じです。従来は上司がすべての判断を承認する必要がありましたが、オートモードは『ルーティン業務は自動承認し、危険な判断だけ上司に相談する』という仕組みです。そのため、チーム全体の効率が大幅に向上します。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:run-claude-code-sessions-on-your-own-compute": {
+    "source": "claude",
+    "slug": "run-claude-code-sessions-on-your-own-compute",
+    "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+    "title_original": "Self-hosted environments for Claude Code",
+    "title_ja": "Claude Code をあなたのインフラで実行できる「セルフホスト環境」が公開ベータに",
+    "description": "Self-hosted environments are in public beta. Run Claude Code sessions on your own infrastructure, inside your network and next to your internal services.",
+    "published": "2026-08-06",
+    "lastmod": "2026-08-06",
+    "summary": "Anthropic が Claude Code の新機能「セルフホスト環境」を公開ベータで開始しました。この機能により、企業は Claude Code のセッション（対話）を Anthropic のサーバーではなく、自社のネットワーク内にある独自のコンピュータで実行できます。これにより、社内のデータベースやツールに直接アクセスでき、セキュリティ要件が厳しい企業にも対応できます。セッションのデータはすべて企業側のインフラに保存されるため、機密情報の漏洩を防げます。ただし、導入には専門の技術チームが必要です。",
+    "points": [
+      "Claude Code のセッションを自社のネットワーク内で実行でき、内部データベースに安全にアクセスできる",
+      "ソースコードやビルド成果物が企業側のサーバーに残るため、コンプライアンス要件を満たしやすい",
+      "開発環境に必要なツールを事前インストールして、効率的に開発作業を進められる",
+      "セッション情報は複数のデバイス（Web、モバイル、デスクトップ）から同じ場所にアクセスできる",
+      "固定型と需要に応じて自動調整する「オンデマンド型」の2つの運用モードがある"
+    ],
+    "analogy": "例えるなら、これまで AI が企業の外のカフェで仕事をしていたのに対し、今は企業の建物の中の専用オフィスで仕事をするようになった感じです。社内の資料に直接アクセスでき、機密情報も社内に留まります。ただし、そのオフィスを管理するための専任スタッフが必要という点も似ています。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
