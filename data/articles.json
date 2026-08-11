@@ -7362,5 +7362,26 @@
     "analogy": "例えるなら、これまで AI が企業の外のカフェで仕事をしていたのに対し、今は企業の建物の中の専用オフィスで仕事をするようになった感じです。社内の資料に直接アクセスでき、機密情報も社内に留まります。ただし、そのオフィスを管理するための専任スタッフが必要という点も似ています。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale": {
+    "source": "claude",
+    "slug": "how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+    "url": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+    "title_original": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+    "title_ja": "Anthropicの営業開発チームがClaudeを使って大規模な営業活動を効率化",
+    "description": "A business development rep shares how his team uses Claude to research account books, draft customer replies, and handle ad-hoc data analysis requests.",
+    "published": "2026-08-07",
+    "lastmod": "2026-08-10",
+    "summary": "Anthropicの営業開発担当者ジョン・アルバートが、AI「Claude」を活用した営業業務の自動化について紹介しています。従来は1日5時間を費やしていたメール対応や顧客リサーチが、Claude Coworkというツール上に構築されたスキルと定期タスクにより大幅に削減されました。営業知識ベースの自動構築、受信メールへの自動返信案作成、営業機会の提案、発見コールの評価、ad-hocな分析リクエストへの対応など、繰り返しの多い業務をClaudeが担当します。これにより、営業チームはより戦略的な顧客理解と問題解決に時間を割けるようになりました。同時に、すべての送信前に人間による確認を保つなど、適切なガバナンスも維持されています。",
+    "points": [
+      "Claudeが営業知識ベースを自動構築し、よくある質問への回答案をメール受信で毎時間自動作成",
+      "営業開発担当者は従来5時間かけていたメール対応を大幅削減し、顧客理解に集中可能に",
+      "営業管理ツール（Salesforce、Gong等）と連携して顧客データを分析し、最適な営業戦略を提案",
+      "発見コールの自動評価、イベント招待の最適化、未発見利用機会の検出など多様な業務を自動化",
+      "人間による確認・承認プロセスを必ず組み込み、Claudeのフィードバックを継続的に学習"
+    ],
+    "analogy": "野菜の仕分けと配達に例えるなら、従来は営業担当者が野菜市場に行って仕入れ、分類、配送先リストアップ、配達メッセージ作成をすべて手作業していました。Claudeはこうした定型業務を自動で行い、営業担当者は『この顧客にはどの野菜が必要か、どう説明すべきか』という戦略立案に時間を使えるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
