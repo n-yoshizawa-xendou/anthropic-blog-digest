@@ -7383,5 +7383,26 @@
     "analogy": "野菜の仕分けと配達に例えるなら、従来は営業担当者が野菜市場に行って仕入れ、分類、配送先リストアップ、配達メッセージ作成をすべて手作業していました。Claudeはこうした定型業務を自動で行い、営業担当者は『この顧客にはどの野菜が必要か、どう説明すべきか』という戦略立案に時間を使えるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:compliance-api-cowork-and-claude-code": {
+    "source": "claude",
+    "slug": "compliance-api-cowork-and-claude-code",
+    "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
+    "title_original": "Compliance API coverage extends to Claude Cowork and Claude Code",
+    "title_ja": "Compliance API がClaudeの新機能に対応 — Cowork と Claude Code に拡大",
+    "description": "Claude's Compliance API now covers Cowork across the desktop app, web, and mobile, as well as Claude Code in the CLI and desktop app. Coverage is in beta for Claude Enterprise customers.",
+    "published": "2026-08-11",
+    "lastmod": "2026-08-11",
+    "summary": "Anthropic は、AI アシスタント「Claude」の企業向けセキュリティ機能「Compliance API」を拡張しました。これまでChaudeチャットの監視に使われていたこのツールが、新たに「Cowork」(複数人で協力する機能)と「Claude Code」(プログラミング機能)にも対応するようになりました。企業のセキュリティチームは、複雑な設定なしに、すべてのClaude利用の記録を一箇所で確認・監査できるようになります。ユーザーの入力内容や回答、使用状況などの情報が統一されたデータベースから取得できるため、コンプライアンス(法令遵守)対応や内部監査がより効率的になります。",
+    "points": [
+      "Compliance API が Cowork(デスクトップ・ウェブ・モバイル対応)と Claude Code(CLI・デスクトップ対応)に拡張された",
+      "すべての Claude 利用状況を一つのインターフェース(窓口)で監視・管理できるようになり、個別システム導入が不要",
+      "セッション内容(やり取り)とメタデータ(利用者情報・タイムスタンプなど)が統一形式で取得可能",
+      "企業向け Claude(Claude Enterprise)の顧客向けベータ機能で、既存の Compliance API キーで利用開始できる",
+      "Google Cloud や Amazon などの他プラットフォーム版はまだ対応していない"
+    ],
+    "analogy": "企業の複数の部署が異なるアプリで仕事をしている場合、従来は各アプリから個別に利用記録を集める必要がありました。今回のアップデートは、すべての記録を一つの監視室から確認できるようになったようなものです。セキュリティチームは別途システムを導入せず、既存のツールを使うだけで、誰がいつ何をしたかが透視できるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
