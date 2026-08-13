@@ -7404,5 +7404,26 @@
     "analogy": "企業の複数の部署が異なるアプリで仕事をしている場合、従来は各アプリから個別に利用記録を集める必要がありました。今回のアップデートは、すべての記録を一つの監視室から確認できるようになったようなものです。セキュリティチームは別途システムを導入せず、既存のツールを使うだけで、誰がいつ何をしたかが透視できるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:cowork-chrome-side-panel": {
+    "source": "claude",
+    "slug": "cowork-chrome-side-panel",
+    "url": "https://claude.com/blog/cowork-chrome-side-panel",
+    "title_original": "Claude Cowork comes to the Chrome side panel",
+    "title_ja": "Claude のChrome サイドパネルが Claude Cowork に進化",
+    "description": "The Claude in Chrome side panel is now a Claude Cowork session. Your conversations, skills, and connectors carry between the browser and the Claude apps.",
+    "published": "2026-08-12",
+    "lastmod": "2026-08-12",
+    "summary": "Claude の Chrome ブラウザ拡張機能が大きく進化しました。これまではブラウザ内の操作だけが可能でしたが、今後は「Claude Cowork」という機能を通じて、ブラウザでの会話と操作履歴がパソコン・スマートフォン・Web版のClaudeアプリ全体で同期されるようになります。つまり、ブラウザで始めた作業をスマートフォンで続ける、といったことが可能になります。また、Claudeが前後の文脈や状況を理解しながら、複数のステップが必要な作業を自動的に進められるようになります。セキュリティ面では、悪意のある指示が隠されたサイトにアクセスされるのを防ぐため、重要な操作（送信やダウンロードなど）を実行する前に確認機能が新しく搭載されました。Max・Teamプランでは既に利用可能で、Proプランのユーザーには数週間かけて展開される予定です。",
+    "points": [
+      "ブラウザ拡張機能がClaudeの各アプリと統合され、会話や作業がデバイス間で同期される",
+      "複数ステップの複雑な作業（複数のサイトから情報収集して資料作成など）を自動実行可能",
+      "セキュリティ対策として、重要な操作前に確認チェック機能を新たに追加",
+      "Max・Teamプランで即日利用可、Proプランへは段階的展開予定",
+      "Internal Dashboard や legacy システムなど、API 対応していないツールでも使用可能"
+    ],
+    "analogy": "これは例えば、学校の図書館で宿題に取り組んでいるときに、途中で家に帰ったり別の友達の家に行ったりしても、会話の流れや進捗をそのまま引き継いで続けられるような感じです。場所が変わってもコンテキスト（前後の文脈）が保たれるということです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
