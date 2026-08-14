@@ -7425,5 +7425,68 @@
     "analogy": "これは例えば、学校の図書館で宿題に取り組んでいるときに、途中で家に帰ったり別の友達の家に行ったりしても、会話の流れや進捗をそのまま引き継いで続けられるような感じです。場所が変わってもコンテキスト（前後の文脈）が保たれるということです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions": {
+    "source": "claude",
+    "slug": "self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+    "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+    "title_original": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+    "title_ja": "Anthropic が Slack で Claude Tag を使った自動データ分析を実現 — 誰もが専門家と同じ定義でデータ質問できる仕組み",
+    "description": "How Anthropic's data team uses Claude Tag for self-service data analytics with the same governed definitions analysts use.",
+    "published": "2026-08-13",
+    "lastmod": "2026-08-13",
+    "summary": "Anthropic のデータチームが、AI アシスタント「Claude Tag」を Slack に導入し、全社員が専門的なデータ分析を自分でできる仕組みを実現しました。重要な工夫は5つです：(1) 技能ファイル（skill files）をデータモデルと同じペースで常に最新に保つ、(2) データの場所だけでなく、分析者のような思考方法もAIに教える、(3) 経営会議の議事録や障害情報など、データ以外の文脈も活用、(4) アクセス権限を厳格に制限する、(5) 全ての回答を記録して正確性を測定する。この仕組みにより、複雑なデータ質問が数秒で解決でき、会議の代わりになるような対話が生まれています。",
+    "points": [
+      "スキルファイルはデータベースと同じ速度で更新する必要がある。古い情報だと自信満々に間違った答えを返すため、リアルタイム更新が必須",
+      "AIに『何のデータを使うか』だけでなく『分析者はどう考えるか』も教える。予測・コーホート分析・グラフ作成の作法をAIに明示することで、質問に対して本当に役立つ回答になる",
+      "データだけでは足りず、Slack の過去の議論や障害情報などの文脈を組み合わせることで、『なぜ落ちたのか』という因果関係まで説明できるようになる",
+      "全社員がアクセスできる仕組みだからこそ、アクセス権限を厳密に制御。個人情報は自動で検出・ブロックし、誰が何を聞いたかを記録する",
+      "週次レポートや異常監視などの定期的な作業をAIが自動で実行するループを作ることで、データチームの負担が大幅に減る"
+    ],
+    "analogy": "従来のデータ分析は、カーナビをもたない人が道を知っている専門ガイドに毎回聞かないといけない状態でした。Claude Tag は、カーナビ自体が常に最新の地図を持ち、周辺情報（工事情報や交通情報）も知っていて、『どこに行きたいのか』と漠然と聞いても、正しいルートを教えてくれるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-tag-now-reads-even-more-of-the-room": {
+    "source": "claude",
+    "slug": "claude-tag-now-reads-even-more-of-the-room",
+    "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+    "title_original": "Claude Tag now reads even more of the room",
+    "title_ja": "Claude Tag、さらに会話の流れを理解するように進化",
+    "description": "Claude has more context to decide when to proactively collaborate in Slack (and when not to)",
+    "published": "2026-08-13",
+    "lastmod": "2026-08-13",
+    "summary": "Anthropic社のAIアシスタント「Claude Tag」が、Slackチャンネル内での会話理解能力を大幅に向上させました。従来は1つのメッセージだけを見て判断していたのに対し、今はチャネル全体の文脈や記憶、設定された指示を考慮して、主体的に会話に参加するかどうかを判断できるようになりました。これにより、不要な発言を避けながら、本当に役立つタイミングで提案・質問に応じる精度が約30%向上。追加費用は発生せず、高度な判断能力を持つ頼りになるチームメンバーのような存在に進化しました。",
+    "points": [
+      "チャネル全体の文脈を理解することで、メンションなしでも自動的に適切なタイミングで発言できるようになった",
+      "単なる受動的な回答者から、能動的にチームの課題を発見して支援する参加者へと進化した",
+      "判断精度が約30%向上し、『話すべきでない時』の判断もより正確になった",
+      "自動応答を個別にオフにできるなど、チームの好みに合わせてカスタマイズ可能",
+      "追加費用なしで利用できるため、既存ユーザーに新しい価値が提供される"
+    ],
+    "analogy": "これまでのClaude Tagは、会議室の隅で待機していて、誰かが話しかけた時だけ返事する人でした。今回のアップデートは、その人が会議室の全体的な議論を聞き取り、必要な時に自分から「ここに専門知識が必要では？」と手を挙げられるようになった、という感じです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-jetbrains-evaluates-and-deploys-claude-fable-5": {
+    "source": "claude",
+    "slug": "how-jetbrains-evaluates-and-deploys-claude-fable-5",
+    "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+    "title_original": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+    "title_ja": "JetBrains が Claude Fable 5 をどのように評価・導入しているか：最先端モデルの安全性とデータ保護を中心に",
+    "description": "How JetBrains uses Claude Fable 5 and why they view safeguards and data retention as central to working with frontier models.",
+    "published": "2026-08-13",
+    "lastmod": "2026-08-13",
+    "summary": "開発ツール大手の JetBrains が、最新の AI モデル「Claude Fable 5」の導入について説明しています。同社は自社の非公開コードリポジトリで新モデルを厳密に評価し、実際の作業での性能を確認しています。Claude Fable 5 は Python コーディング課題での成功率が 44.3% に達し、前世代モデルの 28.2% から大幅に向上しました。また必要なステップ数も 22% 削減され、より効率的に動作することが示されました。セキュリティテストなど複雑な作業では Claude Fable 5 を選択し、一般的な業務では前世代モデルを使い分けています。同社は AI の安全性をモデル自体ではなく、導入時の基盤構造や運用管理で確保すべきと考えており、データ保護と安全装置（セーフガード）を最先端モデル活用の中心に据えています。",
+    "points": [
+      "Claude Fable 5 はコーディング性能で前世代比 16 ポイントの成功率向上を実現",
+      "複雑で長時間の作業ではステップ数 22% 削減により、試行錯誤を減らす効率化を達成",
+      "セキュリティテストや新機能開発など、高度な思考が必要な場面で Claude Fable 5 を活用",
+      "AI の安全性はモデル改変ではなく、導入環境の基盤構造で実現することが重要",
+      "データ保護とセーフガードは、最先端 AI 活用の必須要件として位置づけている"
+    ],
+    "analogy": "新しい AI モデルの導入は、才能ある新入社員を雇うようなものです。採用前に筆記試験（ベンチマーク）だけでなく、実際の業務サンプルでの評価を行い、得意分野と不得意分野を見極めます。JetBrains は前世代モデルを「信頼できる主力選手」として日常業務に、Claude Fable 5 を「難しい案件を解く専門家」として特殊な局面で活用する使い分けをしています。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
