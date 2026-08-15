@@ -7488,5 +7488,47 @@
     "analogy": "新しい AI モデルの導入は、才能ある新入社員を雇うようなものです。採用前に筆記試験（ベンチマーク）だけでなく、実際の業務サンプルでの評価を行い、得意分野と不得意分野を見極めます。JetBrains は前世代モデルを「信頼できる主力選手」として日常業務に、Claude Fable 5 を「難しい案件を解く専門家」として特殊な局面で活用する使い分けをしています。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:claude-text-watermark": {
+    "source": "anthropic",
+    "slug": "claude-text-watermark",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "title_original": "How Claude's text watermarking works",
+    "title_ja": "Claudeのテキスト透かし（ウォーターマーク）機能の仕組み",
+    "description": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
+    "published": "",
+    "lastmod": "2026-08-14T20:06:43.000Z",
+    "summary": "AnthropicのAIアシスタント「Claude」は、EU AI法への対応として、生成したテキストに目に見えない透かしを埋め込む機能を導入します。この透かしは、テキストがClaudeによって生成された可能性を判定するためのものです。透かしは、単語選択時に複数の選択肢がある場合に、特殊な暗号鍵を使ってランダムに選ぶ仕組みを採用しており、テキストの品質や意味には全く影響しません。検出も困難で、特定の個人や組織を特定することはできません。Anthropicを含む複数の大手AI企業が同じアプローチを採用しており、検出APIも近日公開予定です。",
+    "points": [
+      "Claudeの透かしは目に見えず、テキストの品質・内容・創造性に悪影響を与えない",
+      "暗号鍵を持つ者だけが、テキストがClaudeで生成された可能性を検出できる仕組み",
+      "コードや正確な情報が必要な箇所では透かしが機能しない（編集の余地がないため）",
+      "ユーザーのプライバシーは保護され、個人情報は一切埋め込まれない",
+      "EU AI法への準拠が導入の主な理由で、全世界で適用される"
+    ],
+    "analogy": "透かしの仕組みは、サイコロ振ってゲームを進めるMonopolyと同じですが、サイコロの代わりに円周率πの桁を使うようなもの。ゲーム進行には全く影響がありませんが、後から確認すればπが使われたことが判明する、といったイメージです。",
+    "category": "安全性, 規制対応, 製品アップデート",
+    "summarized": true
+  },
+  "claude:maximizing-the-value-of-your-claude-code-sessions": {
+    "source": "claude",
+    "slug": "maximizing-the-value-of-your-claude-code-sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "title_original": "Maximizing the value of your Claude Code sessions",
+    "title_ja": "Claude Codeセッションの効率を最大化する方法",
+    "description": "Practical tips for how to run efficient sessions that get the most value from every token.",
+    "published": "2026-08-14",
+    "lastmod": "2026-08-14",
+    "summary": "Claude Codeは、使用したトークン（AIが処理する情報単位）に応じて課金されます。同じ作業でも、進め方によってコストが大きく変わります。効率的に使うコツは、タスク間で「/clear」コマンドを使って不要な情報をクリアする、セッション開始時にモデルと処理レベルを設定する、ファイル名を@メンション（＠付き名前）で指定する、コマンド出力を整理するなどです。セッション中にモデルやレベルを変更するとキャッシュが破棄されて費用が増加するため避けましょう。長いセッションを複数に分割したり、/compactで会話を要約したりすることで、全体のコストを削減できます。",
+    "points": [
+      "セッション開始時に/modelと/effortを設定すると、途中での変更によるキャッシュ破棄を避けられる",
+      "ファイルを@メンション指定することで、読み込み処理（Read呼び出し）を削減できる",
+      "不要な情報は/clearでクリアし、完了したタスクの履歴は/compactで要約して次のタスクに持ち越さない",
+      "/contextで不要なツールやファイルを確認し、CLAUDE.mdから不必要な命令を削除する",
+      "1時間以上経過するとキャッシュが失効するため、長時間のループは新しいセッションで実行する"
+    ],
+    "analogy": "Claude Codeのコスト管理は、毎日持ち物を詰めたバックパックを背負って仕事に行くようなもの。不要な物を入れたままだと、重いまま移動し続け（毎ターンで再送信される）、時間がかかります。セッション終了時に荷物を整理（/compact）して、次の日は必要な物だけ持って行く（新しいセッションを開始）方が効率的です。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
