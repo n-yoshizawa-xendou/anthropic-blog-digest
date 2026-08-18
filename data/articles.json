@@ -7530,5 +7530,26 @@
     "analogy": "Claude Codeのコスト管理は、毎日持ち物を詰めたバックパックを背負って仕事に行くようなもの。不要な物を入れたままだと、重いまま移動し続け（毎ターンで再送信される）、時間がかかります。セッション終了時に荷物を整理（/compact）して、次の日は必要な物だけ持って行く（新しいセッションを開始）方が効率的です。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents": {
+    "source": "claude",
+    "slug": "how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+    "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+    "title_original": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
+    "title_ja": "ABC Legal社が全従業員をAIビルダーに変えた—Claude Managed Agentsの活用例",
+    "description": "ABC Legal transformed their organization’s AI adoption from scattered experiments to a governed fleet of specialized agents with Claude from Anthropic.",
+    "published": "2026-08-17",
+    "lastmod": "2026-08-17",
+    "summary": "米国の法律書類配送会社ABC Legal社は、Claude Managed Agentsを導入して、組織全体のAI活用を大きく変えました。CTO のブランドン・フラー氏は、AIエージェント（自動で仕事をこなすAIプログラム）を管理しやすいコードとして扱う仕組みを構築。全社1,100名のうち約310名が日常的にClaudeを使用し、50以上のAIエージェントが本番環境で稼働しています。法的書類の処理、融資申請、レビューなど様々な業務を自動化し、一部タスクのコストを約50%削減しました。重要なのは、開発者以外の従業員でもAIエージェントを構築できる仕組みにしたこと。プログラミング知識がなくても、設定ファイルと説明文を用意すれば、AIが必要なコードを生成してくれます。さらに、人間のフィードバック（Slack上の反応など）をAIが学習し、自動で改善される仕組みも実装しました。",
+    "points": [
+      "AIエージェントを「コード」として管理することで、バージョン管理やレビュー、監査に対応",
+      "ソフトウェア開発者でない従業員も簡単にAIエージェントを構築・運用できる仕組みを実現",
+      "50以上のAIエージェントが本番運用され、従業員の日々の作業効率が大幅に向上",
+      "人間のフィードバックをAIが自動で学習し、エージェント自体が継続的に改善される",
+      "AI導入のコストを削減しながら利用数を増やし、投資対効果を最大化"
+    ],
+    "analogy": "AIエージェントをコードで管理する方法は、レシピを書き溜めるのに似ています。調理師（AI）に『何をする料理か』を説明文（プロンプト）と『どの材料を使うか』の設定で教えれば、誰でも同じ料理を再現できます。さらに、食べた人の感想をメモに残しておけば、次の調理師はそれを参考に料理を改善できるという仕組みです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
