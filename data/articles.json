@@ -7551,5 +7551,47 @@
     "analogy": "AIエージェントをコードで管理する方法は、レシピを書き溜めるのに似ています。調理師（AI）に『何をする料理か』を説明文（プロンプト）と『どの材料を使うか』の設定で教えれば、誰でも同じ料理を再現できます。さらに、食べた人の感想をメモに残しておけば、次の調理師はそれを参考に料理を改善できるという仕組みです。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "claude:ai-ci-cd-on-call": {
+    "source": "claude",
+    "slug": "ai-ci-cd-on-call",
+    "url": "https://claude.com/blog/ai-ci-cd-on-call",
+    "title_original": "How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
+    "title_ja": "Claude Tag：Anthropicのシステム障害対応を自動化するAIエージェント",
+    "description": "An engineer on our Continuous Integration team walks through the agent he built that powers CI incident response at Anthropic.",
+    "published": "2026-08-18",
+    "lastmod": "2026-08-18",
+    "summary": "Anthropicは、システムの自動テスト実行失敗（CI/CD障害）に対応するAIエージェント「Claude Tag」を開発しました。このエージェントは障害検知から原因究明、修復まで自動で行います。従来は夜間に起こされて1時間以上かかっていた障害対応が、Claudeにより中央値14分で初期分析が完了するようになりました。複数の監視ツール（Grafana、Kubernetes等）に接続され、並列調査や自動修復まで実行可能です。Anthropicのエンジニアは、このシステムにより本当に重要な長期的な改善作業に集中できるようになったといいます。GitHubで公開されたセットアップキットを使えば、他の企業も同様のシステムを構築できます。",
+    "points": [
+      "AIエージェントが24時間体制でシステム障害を監視・分析し、中央値14分で原因を特定・報告する",
+      "複数の監視ツールに接続して並列調査を行い、問題解決までの時間（MTTR）を大幅に短縮",
+      "過去の障害データから学習し、同じパターンの問題に対して最初の推測精度を高める自己改善機能",
+      "エンジニアが人間にしかできない建築的な改善に注力できるようになり、生産性が向上",
+      "セットアップキット公開により、他企業も同様のシステムを数時間で構築可能"
+    ],
+    "analogy": "従来の障害対応は、夜間に呼び出された医者が患者の症状を聞いて、検査して診断し治療するプロセスでした。Claude Tagは24時間体制の専任医師のようなもので、常に患者を監視し、異常を検知したら即座に検査・診断・初期治療を行い、複雑なケースだけ人間の医者に報告する仕組みです。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "claude:the-claude-science-product-guide": {
+    "source": "claude",
+    "slug": "the-claude-science-product-guide",
+    "url": "https://claude.com/blog/the-claude-science-product-guide",
+    "title_original": "The Claude Science product guide",
+    "title_ja": "Claude Scienceの使い方ガイド：生命科学研究者向けAIワークベンチの完全解説",
+    "description": "We share how to use Claude Science, including setting up common workflows, new life sciences skills, and popular database connectors.",
+    "published": "2026-08-18",
+    "lastmod": "2026-08-18",
+    "summary": "Anthropic（AI企業）が、生命科学の研究現場向けの新しいAIツール「Claude Science」を発表しました。調査によると、製薬やバイオテク企業の78%がAIが重要だと考えていますが、実際に日常的に使っている企業は14%しかありません。理由は、科学者の79%が「信頼性と安定性」を最大の懸念としているからです。Claude Scienceは、研究データを安全に管理しながら、分析結果を追跡・再現・検証できるAIワークベンチとして設計されています。このガイドでは、生命科学組織がどのようにClaudeの各ツール（Science、Cowork、Codeなど）を使い分けるか、実装方法、段階的な導入プロセス、そして実際の活用事例を詳しく説明しています。",
+    "points": [
+      "生命科学企業の78%がAIを重要視しているのに、実装できているのは14%に留まっており、信頼性が課題",
+      "Claude Scienceは研究データをローカル環境に保持したまま、分析結果の追跡・再現・検証が可能な設計",
+      "Foundation（基礎）→Pilot（試験）→Scale（本格展開）という3段階の実装ロードマップを提供",
+      "Claude Cowork（文書作成）やClaude Code（プログラミング）など、複数のツールを用途に応じて組み合わせられる",
+      "単一細胞RNA解析や論文執筆など、実際の研究ワークフローに対応した具体的な使用例を掲載"
+    ],
+    "analogy": "Claude Scienceは、医師が医療記録を自分の病院に保管しながら、専門の診断助手に相談できるようなものです。データは社内に置いたまま、AI（診断助手）が分析・提案してくれ、その判断過程を追跡・確認できるので、重要な医療判断でも安心して利用できます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
