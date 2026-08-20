@@ -7593,5 +7593,26 @@
     "analogy": "Claude Scienceは、医師が医療記録を自分の病院に保管しながら、専門の診断助手に相談できるようなものです。データは社内に置いたまま、AI（診断助手）が分析・提案してくれ、その判断過程を追跡・確認できるので、重要な医療判断でも安心して利用できます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:turning-conversation-into-knowledge-how-slack-builds-human-agent-teams": {
+    "source": "claude",
+    "slug": "turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+    "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+    "title_original": "Turning conversation into knowledge: how Slack builds human-agent teams",
+    "title_ja": "会話を知識に変える：SlackがAIと人間のチームを構築する方法",
+    "description": "A conversation with Jaime DeLanghe, Chief Product Officer at Slack.",
+    "published": "2026-08-19",
+    "lastmod": "2026-08-19",
+    "summary": "SlackのCPOであるジェイミー・デランゲ氏へのインタビュー記事です。AI（Claude）と人間が効果的に協働するチームを作るための実践的な方法が紹介されています。主な内容は、会話履歴を知識ベースとして扱う、人間とAIの間で適切に仕事を分担する、AIを専門的な同僚として位置付ける、透明性を重視した公開チャネルの活用、そして導入成功には小さく始めることの重要性です。単なる作業速度の向上ではなく、仕事の進め方そのものを変える必要があることが強調されています。",
+    "points": [
+      "会話記録をAIが学習できる知識ベースとして活用し、判断の背景理由を記録することが重要",
+      "AIは準備作業や要約を担当し、人間が最終決定を行う『引き継ぎサイクル』で協働する",
+      "AIを『同僚』として明確な役割と目的を持たせることで、効果的に機能させられる",
+      "公開チャネルをデフォルトにして情報を透明に共有し、AIが学習できる情報量を増やす",
+      "導入は小規模グループで開始し、成功事例を共有することで自然に広がらせる"
+    ],
+    "analogy": "AIチームとの協働は、新入社員の教育に似ています。新入社員が成長するには、決定の『なぜ』を理解し、職場の文化や背景知識を学ぶ必要があります。同様にAIも、単なる命令ではなく、豊富な会話履歴や背景情報から学ぶことで、より頼りになるチームメンバーになるのです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
