@@ -7614,5 +7614,89 @@
     "analogy": "AIチームとの協働は、新入社員の教育に似ています。新入社員が成長するには、決定の『なぜ』を理解し、職場の文化や背景知識を学ぶ必要があります。同様にAIも、単なる命令ではなく、豊富な会話履歴や背景情報から学ぶことで、より頼りになるチームメンバーになるのです。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "claude:anthropics-approach-to-teaching-and-learning-ai": {
+    "source": "claude",
+    "slug": "anthropics-approach-to-teaching-and-learning-ai",
+    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "title_original": "Anthropic’s approach to teaching and learning AI",
+    "title_ja": "Anthropicが考えるAI教育アプローチ：Claude Academyの立ち上げ",
+    "description": "Claude Academy gives users the educational tools they need to learn how to use AI effectively. In this post, we highlight why we’re launching it and how our own approach to teaching and learning influenced its development.",
+    "published": "2026-08-20",
+    "lastmod": "2026-08-20",
+    "summary": "Anthropicは、一般ユーザー向けのAI学習プラットフォーム「Claude Academy」を立ち上げました。これは、自社社員向けの教育プログラムから得たノウハウをもとに設計されています。このプラットフォームでは、単にClaudeの機能を学ぶだけでなく、AIを安全かつ効果的に、そして意図的に活用するための幅広い知識を習得できます。重要な特徴として、AIとの対話だけでなく、どのタスクをAIに任せるべきか、どう倫理的に開示するかなど、AI利用の前後の判断も学べます。「今のAIが最高のAIだと思え」など、変化の速いAI分野で長く役立つマインドセットを重視しており、academy.claude.comで無料アクセス可能です。",
+    "points": [
+      "Anthropicの社員向け教育プログラムのノウハウを基に、Claude Academyが開発された",
+      "単なる機能学習ではなく、AI利用前後の判断やマインドセット形成を重視している",
+      "どのタスクをAIに委ねるべきか、倫理的な開示方法など、実務的な知識を習得できる",
+      "実践的な演習と反省を通じて、ユーザーが自分に合った使い方を発見できる設計",
+      "AIを学習パートナーとして活用することで、あらゆる分野のスキルアップが加速する"
+    ],
+    "analogy": "Claude Academyは、新しい工具を学ぶようなものです。ドライバーの使い方だけを教えるのではなく、どんなネジに使うべきか、どの場面では人間の判断が必要か、安全に使うにはどうするかといった総合的な知恵を教えてくれるのです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate": {
+    "source": "claude",
+    "slug": "how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+    "url": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+    "title_original": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+    "title_ja": "monday.comがAIエージェント中心のプラットフォームに大転換〜人間とAIが協働する新時代へ",
+    "description": "The monday team shares lessons from the transition to an agent-first product after they rebuilt the platform around Anthropic's Claude.",
+    "published": "2026-08-20",
+    "lastmod": "2026-08-20",
+    "summary": "プロジェクト管理プラットフォームのmonday.comは、AI機能を既存ツールに追加するだけの段階から脱却し、プラットフォーム全体をAIエージェント（人工知能の助手）を中心に再設計しました。Anthropic社のClaudeを核として、2026年5月のローンチ以来500万回以上のエージェント操作が行われています。IT業務の自動化から採用まで、様々な業務でAIが「同僚」として働くようになりました。同社は、AIを導入するだけでなく、信頼と透明性を軸にした根本的な設計変更が成功の鍵だったと指摘しています。",
+    "points": [
+      "既存機能へのAI追加から、プラットフォーム全体をAI中心に再設計へシフト。単なる『AI の装飾』から真の統合へ",
+      "ClaudeというAIを『名前と顔を持つ同僚』として設計し、チーム内で作業を割り振れるようにした工夫",
+      "採用面接のスケジューリング、営業向けの競合情報分析、経営層の会議準備など、200以上の実業務でAIエージェントが稼働中",
+      "信頼性とガバナンス（統制）がAI導入の鍵。パイロット段階に留まらず実運用に移すには、企業データへのアクセス管理と透明性が不可欠",
+      "根本的な発想の転換が技術より難しい。『現在の製品を改善する』から『将来に向けて再構築する』への組織的なマインドセット変化が重要"
+    ],
+    "analogy": "従来のAI導入は『既存の工場に最新の機械を数台追加する』ようなものでした。一方、monday.comの今回の取り組みは『工場全体を人間とロボットが協力して働く仕組みに再設計する』ようなものです。ロボット（AI）が単に手伝うのではなく、同僚として信頼関係を築き、一緒に仕事を進める方式に変えたということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-code-guide-for-startups": {
+    "source": "claude",
+    "slug": "claude-code-guide-for-startups",
+    "url": "https://claude.com/blog/claude-code-guide-for-startups",
+    "title_original": "The Claude Code Guide For Startups",
+    "title_ja": "スタートアップがClaudeコードで大規模企業のようなスピードで開発する5つのルール",
+    "description": "The five rules startups use with Claude Code to ship like teams 10x their size—Anthropic's guide to AI-native building, from everyone-ships culture to AI-native SDLCs.",
+    "published": "2026-08-20",
+    "lastmod": "2026-08-20",
+    "summary": "Anthropicのブログ記事は、AI技術（Claude Code）を使う急成長中のスタートアップ企業12社以上の事例から、開発効率を大幅に向上させる5つの運用ルールを紹介しています。これらのスタートアップは、自社の規模より10倍大きな企業並みの開発速度を実現しています。ルールは①全員が開発に参加する②退屈な作業を自動化する③自動化を検証する④再構築に向けた設計⑤プロトタイプ→実装という流れです。特に注目すべきは、エンジニア以外の社員（営業、法務、マーケティング担当者など）が直接コード変更できるようになり、問題を理解する人が最初のバージョンを作成できるという点です。また、日々の定型業務（コード審査、テスト、データ分析）を自動化エージェントに任せることで、エンジニアは判断が必要な重要な作業に集中できます。",
+    "points": [
+      "エンジニア以外の社員も直接機能を開発・提案できるようになり、問題を理解する人が最初のバージョンを作成することで意思疎通が劇的に改善される",
+      "コード審査、テスト、バグ対応などの定型業務を自動化エージェントに任せ、エンジニアは判断が必要な重要な仕事に集中できる",
+      "自動化されたプロセスは必ず検証・監視が必要で、信頼と確認のバランスが成功のカギになる",
+      "ClickHouseでは自動テスト改善エージェントがリポジトリ第2位の貢献者になるなど、AIネイティブな開発体制で組織全体の生産性が飛躍的に向上",
+      "社内ナレッジベース（スキル）を共有することで、新入社員のオンボーディング時間が短縮される"
+    ],
+    "analogy": "従来の開発は野球の外野手が誰かに野球ボールを投げてもらうようなもの—意見が何段階も経由してスピード低下や内容変質が起きていました。ClaudeCodeを使えば、問題を理解している人（野手本人）が直接ボールを投げられるようになり、正確で迅速になるということです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:computer-use-skills-api-files-api": {
+    "source": "claude",
+    "slug": "computer-use-skills-api-files-api",
+    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+    "title_original": "Build production agents with computer use, the Skills API, and the Files API",
+    "title_ja": "AIエージェント機能がより強力に。ソフトウェア操作、スキル管理、ファイル処理が統合",
+    "description": "Computer use, the Skills API, and the Files API are generally available on the Claude Platform today. Computer use also adds a new browser use tool for agents that work in web applications. Together they let you build agents that operate software, apply your team's expertise, and return finished files.",
+    "published": "2026-08-20",
+    "lastmod": "2026-08-20",
+    "summary": "Anthropicが「Claude Platform」で3つの新機能を正式リリースしました。1つ目の「Computer use（コンピュータ操作機能）」は、AIがパソコンの画面を見て、人間のようにマウスをクリックしたりキーボードで入力したりして、自動でソフトウェアを操作できるようにするものです。2つ目の「Skills API（スキルAPI）」は、会社独自のやり方や専門知識をAIに教える仕組みです。3つ目の「Files API（ファイルAPI）」は、PDFやExcelなどのファイルをアップロードして、AIに何度も使わせることができます。これらを組み合わせると、保険請求の処理など複雑な業務を自動化するAIが作れます。実際、ある企業では処理時間が32分から13分に短縮され、コストも30%削減されたとのことです。",
+    "points": [
+      "Computer useはAIがパソコン画面を見てマウス操作やキー入力ができるようになり、新たにウェブページの要素も認識できるようになった",
+      "Skills APIで会社の独自のやり方や手順をAIに学習させ、どの仕事でも再利用できるようにした",
+      "Files APIでファイルを一度アップロードすれば、何度も参照・利用でき、管理や処理が効率化された",
+      "保険や医療などの複雑な業務で実績があり、処理時間短縮とコスト削減を実現している",
+      "Google CloudやMicrosoftなど複数のプラットフォームで利用可能になった"
+    ],
+    "analogy": "料理の例で考えると、これまでのAIは『レシピを教えてもらう人』でしたが、今は『自分で包丁を握り、火を調整し、完成した料理を皿に盛り付ける人』になったようなものです。さらにSkills APIは『お店の秘伝のレシピ集』、Files APIは『保存した食材を何度も取り出して使える冷蔵庫』のようなものです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
