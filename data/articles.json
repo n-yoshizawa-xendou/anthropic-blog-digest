@@ -7698,5 +7698,47 @@
     "analogy": "料理の例で考えると、これまでのAIは『レシピを教えてもらう人』でしたが、今は『自分で包丁を握り、火を調整し、完成した料理を皿に盛り付ける人』になったようなものです。さらにSkills APIは『お店の秘伝のレシピ集』、Files APIは『保存した食材を何度も取り出して使える冷蔵庫』のようなものです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:bringing-claude-mythos-5-to-more-defenders": {
+    "source": "claude",
+    "slug": "bringing-claude-mythos-5-to-more-defenders",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "title_ja": "Claude Mythos 5のサイバーセキュリティ機能をより多くの防御者へ提供",
+    "description": "We’re sharing an update on our efforts to help more teams leverage frontier capabilities for cyber defense.",
+    "published": "2026-08-21",
+    "lastmod": "2026-08-21",
+    "summary": "Anthropicは、高性能なAIモデル「Claude Mythos 5」をサイバーセキュリティの専門家がより利用しやすくするための複数の施策を発表しました。Claude Securityでこのモデルが利用可能になり、セキュリティパートナーのツールにも統合される予定です。同時に、オープンソースソフトウェアのセキュリティ強化のための3500万ドル規模の基金を立ち上げ、検証済みのセキュリティ専門家向けプログラムも拡大します。重要な点は、ユーザーが直接モデルにアクセスするのではなく、脆弱性の修正案などの具体的な出力を受け取るというアプローチで、悪用のリスクを最小限に抑えながら強力な防御能力を提供することです。",
+    "points": [
+      "Claude Mythos 5がセキュリティツール「Claude Security」に統合され、エンタープライズユーザーがコード分析に利用可能に",
+      "セキュリティパートナーの製品にMythos 5を組み込み、既存ツール経由での利用を推進",
+      "オープンソースソフトウェアのセキュリティ向上のため、3500万ドル相当のクレジット基金（0xDAF）を新設",
+      "検証済みのセキュリティ専門家向けプログラムを拡大し、より多くの防御者がMythos級モデルにアクセス可能に",
+      "ユーザーが修正案など具体的な成果物のみを受け取る方式で、モデルへの直接アクセスは制限し、悪用を防止"
+    ],
+    "analogy": "銀行の両替窓口に例えるなら、以前は高度な金融知識を持つ人だけが奥の金庫室にアクセスできていました。今回は、専門家向けの窓口を作り、一般ユーザーは直接金庫には入れませんが、窓口を通じて必要な両替サービス（修正案やセキュリティ分析）を受け取れるようになった、という感じです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:the-ai-native-sdlc-playbook": {
+    "source": "claude",
+    "slug": "the-ai-native-sdlc-playbook",
+    "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+    "title_original": "The AI-Native SDLC playbook",
+    "title_ja": "AI時代のソフトウェア開発プロセス改革—段階別ガイド",
+    "description": "How to transform your software development lifecycle with AI—stage by stage.",
+    "published": "2026-08-21",
+    "lastmod": "2026-08-21",
+    "summary": "Anthropic社が提唱する「AI-Native SDLC（AIネイティブ開発ライフサイクル）」は、従来のソフトウェア開発プロセスをAIに対応させた新しい手法です。従来の開発では、コード作成が最も時間がかかるボトルネックでしたが、AIが高速でコードを生成するようになった今、計画・設計・テスト・デプロイ（配置）といった他の段階が新たなボトルネックになっています。このガイドでは、計画から保守まで6つの段階すべてにおいて、AIを活用しながら人間の判断を残す方法を提案しています。各段階で成果物（ドキュメントやコード）をバージョン管理し、次の段階がそれを読むことで自動的に流れが続く『ループ型プロセス』を実現します。これにより、承認待ちや手作業による引き継ぎが減り、開発スピードが大幅に向上します。",
+    "points": [
+      "従来はコード作成が時間がかかるボトルネックでしたが、AI利用により計画・テスト・デプロイなど他の段階が遅延のボトルネックに変わりました",
+      "AI-Native SDLCでは、各段階の最後に成果物（intent.md、spec.mdなど）をバージョン管理し、それが次の段階を自動トリガーするループ型プロセスを採用します",
+      "人間は『ループを開始する』『AIがフラグを立てた箇所をレビューする』『判断が必要な決定を下す』という限定的な役割に集中できます",
+      "組織の方針（セキュリティ、コンプライアンス、ブランドなど）を『スキル』としてコード化し、AIがそれに従って動作するようにします",
+      "段階的な導入が可能で、組織のニーズに応じて異なる段階から始めることができます"
+    ],
+    "analogy": "従来の開発プロセスは『工場の流れ作業』に例えられます。各部門が完成品を次の部門に手渡すまで、次のステップが待つ必要がありました。AI-Native SDLCは『自動組立ライン』のようなもので、各ステーション（段階）が完成品を見つけると自動的に処理を開始し、次のステーションに送ります。人間は品質に問題がないか監視する役割に集中できます。",
+    "category": "AI技術",
+    "summarized": true
   }
 }
