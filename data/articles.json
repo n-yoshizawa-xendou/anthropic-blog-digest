@@ -7740,5 +7740,26 @@
     "analogy": "従来の開発プロセスは『工場の流れ作業』に例えられます。各部門が完成品を次の部門に手渡すまで、次のステップが待つ必要がありました。AI-Native SDLCは『自動組立ライン』のようなもので、各ステーション（段階）が完成品を見つけると自動的に処理を開始し、次のステーションに送ります。人間は品質に問題がないか監視する役割に集中できます。",
     "category": "AI技術",
     "summarized": true
+  },
+  "claude:how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep": {
+    "source": "claude",
+    "slug": "how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+    "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+    "title_original": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+    "title_ja": "マーケターがAIを使って営業チーム全員に個別カスタマイズされた週刊レポートを自動配信",
+    "description": "Adam Ward, on Anthropic’s marketing team, shares how he uses Claude to turn one weekly sales report into a personalized Monday briefing for every account executive he supports.",
+    "published": "2026-08-24",
+    "lastmod": "2026-08-24",
+    "summary": "Anthropicのマーケティングチームのアダム・ワード氏が、AIアシスタント「Claude」を活用して、毎週日曜夜に手作業で作成していた営業チーム向けレポートを自動化した事例を紹介しています。従来は15分の朝礼で全員向けのスライドを配信していましたが、チーム拡大に伴い対応が困難に。Claudeに営業データベースを接続し、各営業担当者の担当地域や顧客に合わせた完全カスタマイズされたレポートを毎週月曜朝に自動配信する仕組みを構築しました。ユーザーフィードバックを基に9つのルールを追加調整し、現在は営業だけでなくカスタマーサクセスチームなど複数部門に展開。手作業は数時間削減され、より個人化された有用な情報提供が実現しています。",
+    "points": [
+      "週1回のマニュアル作業（日曜夜の数時間）を完全自動化し、月曜朝に全営業担当者へ個別対応したレポートを自動配信",
+      "営業データベースと連携させ、各担当者の担当顧客や地域に関連するイベント・コンテンツのみをフィルタリング",
+      "ユーザーからのフィードバックを具体的なルールに落とし込むことで、精度を継続改善（初回から9つのルール追加）",
+      "営業以外にもカスタマーサクセス・パートナーシップチームなど複数部門に拡大可能な再利用可能なプロセスを実現",
+      "コーディング知識がなくても、ビジネス課題を説明するだけでAIが実装してくれるプロンプト活用法"
+    ],
+    "analogy": "従来の作業は、毎週同じ内容を全員で共有する新聞配達のようなもの。AIを使った新システムは、各配達先の好みに合わせて記事を選別し、個別に届けるパーソナライズされた情報誌サービスのようなものです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
