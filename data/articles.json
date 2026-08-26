@@ -7761,5 +7761,68 @@
     "analogy": "従来の作業は、毎週同じ内容を全員で共有する新聞配達のようなもの。AIを使った新システムは、各配達先の好みに合わせて記事を選別し、個別に届けるパーソナライズされた情報誌サービスのようなものです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:wellbeing-research-grants": {
+    "source": "anthropic",
+    "slug": "wellbeing-research-grants",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "title_original": "Funding better evaluations of AI’s impact on wellbeing",
+    "title_ja": "AIが利用者の幸福度に与える影響を評価する研究に500万ドルの助成金を提供",
+    "description": "Anthropic is launching a $5 million grant program to fund independent research into how AI impacts users’ wellbeing.",
+    "published": "",
+    "lastmod": "2026-08-25T16:20:57.000Z",
+    "summary": "AIの企業Anthropicが、AIが人々の幸福度や精神的な健康にどのような影響を与えるかを研究する独立系の研究者向けに、500万ドル（約7億円）の助成金プログラムを開始しました。現在、AIは仕事や学習だけでなく、心が辛い時の相談相手としても利用されています。しかし、AIが人の心の健康に良い影響を与えているかどうかを測定する基準がまだ定まっていません。例えば、同じアドバイスでも、ある人には役に立つが、別の人には害になるかもしれません。このプログラムでは、医学専門家や心理学者など様々な分野の専門家に協力してもらい、AIの影響をより正しく評価する方法を開発することを目指しています。",
+    "points": [
+      "Anthropicが500万ドルの助成金プログラムを立ち上げ、AIが人々の精神的健康に与える影響を研究する独立系研究者を支援する",
+      "AIは人々の相談相手や感情的なサポート源になっているが、その影響を測定する明確な基準がまだない",
+      "同じAIの回答でも、個人の背景や文脈によっては有益にも有害にもなる可能性がある",
+      "医学専門家や心理学者など専門家の関与を含む、より厳密な評価方法の開発を目指している",
+      "9月21日までに申請でき、選ばれた申請者は10月5日までに通知される"
+    ],
+    "analogy": "AIの影響を評価することは、薬の効果を測定するのと似ています。同じ薬でも、患者によって効く場合と副作用が出る場合があるように、AIのアドバイスも個人の状況によって良くも悪くもなり得ます。医学的な方法で薬を検査するように、AIの影響も科学的で厳密な方法で評価する必要があるのです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "claude:bain-company-joins-the-claude-partner-network-as-a-global-premier-partner": {
+    "source": "claude",
+    "slug": "bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
+    "url": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
+    "title_original": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+    "title_ja": "経営コンサルティング大手ベイン・アンド・カンパニーがClaudeパートナーネットワークに参加",
+    "description": "Anthropic and Bain & Company are partnering to help enterprises deploy AI, building on Bain's rollout of Claude to its 19,000 employees.",
+    "published": "2026-08-25",
+    "lastmod": "2026-08-25",
+    "summary": "経営コンサルティング大手のベイン・アンド・カンパニーが、AI企業のAnthropicと提携しました。ベイン社は全従業員19,000人にAI助手「Claude」を導入済みで、この経験を活かして企業のAI導入を支援します。ベイン社の従業員はClaudeを使って複雑なデータ分析や複数のビジネスシナリオの検討を行っており、導入時の試験段階で7,000人以上が数週間で活用開始。この提携により、クライアント企業はClaudeの最先端AI技術とベイン社の豊富なビジネス経験を組み合わせたサービスが受けられます。既に複数の案件で生産性30～50%の向上を達成しており、今後さらに協業を拡大予定です。",
+    "points": [
+      "ベイン・アンド・カンパニーがAnthropicとの提携を発表し、Claudeパートナーネットワークの最上位パートナーとなった",
+      "ベイン社の全従業員19,000人がClaudeを導入済みで、AIの実践的な使用経験が豊富",
+      "企業向けのAI導入支援で、すでに複数案件で生産性30～50%の向上を実現",
+      "単なるAI技術提供ではなく、研修やサポート体制を含めた総合的な導入支援モデルを提供",
+      "AI戦略立案からシステム近代化まで、幅広いコンサルティングサービスを展開予定"
+    ],
+    "analogy": "これは、料理教室と食材メーカーが提携するようなもの。最先端の食材（Claude）と、その食材を使いこなすプロの技法・レシピ（ベイン社のコンサルティング経験）を組み合わせることで、お客さん（企業）が本当に美味しい料理（効果的なAI導入）を実現できるという関係です。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:claudes-memory-works-everywhere-and-you-decide-whats-in-it": {
+    "source": "claude",
+    "slug": "claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+    "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+    "title_original": "Claude's memory works everywhere, and you decide what's in it",
+    "title_ja": "Claudeのメモリ機能がどこでも使えるようになり、ユーザーが保存内容を完全に制御できるように",
+    "description": "Wherever you work with Claude from Anthropic, it starts from what it already knows about you.",
+    "published": "2026-08-25",
+    "lastmod": "2026-08-25",
+    "summary": "AI アシスタント「Claude」のメモリ機能が大幅にアップグレードされました。チャットとCowork（作業支援ツール）で同じメモリを共有するようになったため、どのプラットフォームから利用しても、Claudeはあなたについて既に知っていることから始められます。会話中に自動的にトピックが記憶され、健康情報や政治的信条などの機密情報はデフォルトでは保存されません。ただし、ユーザーが希望すれば、機密情報の記憶をオンにすることもできます。保存されたすべてのメモリは設定画面で確認・編集・削除が可能で、ユーザーが完全にコントロールできる仕様になっています。",
+    "points": [
+      "チャットとCoworkのメモリが統一され、どのプラットフォームからアクセスしても同じ情報を活用できるように",
+      "会話の中でリアルタイムに情報が記憶されるため、同じことを何度も説明する手間が省ける",
+      "健康情報や政治的信条などの機密情報はデフォルトで保存されず、ユーザーの選択で記憶させることが可能",
+      "メモリの内容は設定画面で完全に閲覧・編集・削除でき、プライバシーをユーザーが完全にコントロール",
+      "無料プランから利用可能で、iOS・Androidアプリも対応"
+    ],
+    "analogy": "このメモリ機能は、信頼できる秘書が持つ多機能のノートのようなものです。秘書は毎回同じ情報を聞き直すのではなく、あなたが一度話したことを記憶しており、別の仕事をするときもそれを活用します。ただし、あなたが「これは秘密にしておいて」と指示すれば、秘書はそれに従います。さらに、あなたはそのノートを見て、内容を修正したり、不要な記録を消したりすることができます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
