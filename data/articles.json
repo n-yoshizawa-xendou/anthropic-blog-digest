@@ -7824,5 +7824,68 @@
     "analogy": "このメモリ機能は、信頼できる秘書が持つ多機能のノートのようなものです。秘書は毎回同じ情報を聞き直すのではなく、あなたが一度話したことを記憶しており、別の仕事をするときもそれを活用します。ただし、あなたが「これは秘密にしておいて」と指示すれば、秘書はそれに従います。さらに、あなたはそのノートを見て、内容を修正したり、不要な記録を消したりすることができます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:claude-in-chrome-generally-available": {
+    "source": "claude",
+    "slug": "claude-in-chrome-generally-available",
+    "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+    "title_original": "Claude in Chrome is generally available",
+    "title_ja": "Claude in Chrome が全ユーザーに利用可能に——ブラウザ内での自動操作機能が実装",
+    "description": "Claude in Chrome is now available on every paid plan and can work through browser tasks without approving each step, with a safety check on every action. Here's how we tested it against prompt injection.",
+    "published": "2026-08-26",
+    "lastmod": "2026-08-26",
+    "summary": "Anthropic が開発する AI アシスタント「Claude」のブラウザ拡張機能「Claude in Chrome」が、すべての有料プランで一般提供開始されました。これまでの試験段階から本格運用へ移行し、大きな変更は Claude が人間の許可なしに自動でブラウザ操作を実行できるようになった点です。ただしセキュリティ対策として、すべてのアクション前に安全性チェック機能が働きます。特に重要なのは、ウェブサイトに隠された悪意のある指令（プロンプトインジェクション）から身を守るための防御強化です。Anthropic は複数層の防御メカニズムを実装：Claude の学習強化、ウェブコンテンツのスキャン機能、アクション検証システムなどにより、従来より大幅に攻撃耐性を高めました。テストでは、最新版 Claude Sonnet 5 と Opus 5 に対して悪意ある攻撃がほぼ成功しないことが確認されています。",
+    "points": [
+      "Claude in Chrome が全有料プランで一般提供開始——人間の承認待たずに自動でブラウザ操作可能に",
+      "隠された悪意のある指令（プロンプトインジェクション）攻撃への防御を大幅強化——複数層の安全チェックを実装",
+      "安全性分類器がすべてのアクションを検証——ユーザーの要求と一致しない操作は自動でブロック",
+      "最新モデル（Sonnet 5、Opus 5）では悪意ある攻撃がほぼ成功しない——テスト結果で実証済み",
+      "内部ダッシュボード等の非連携ツールへのアクセスが可能に——既存のログイン情報で操作可能"
+    ],
+    "analogy": "Claude in Chrome の安全対策は、銀行員が顧客から指示を受ける時の様なものです。顧客が『100万円引き出して』と言ったら、銀行員は『本当に本人の指示か？』と複数の確認を行い、その後『不審な指示が隠れていないか？』と書類をチェックしてから実行します。Claude も同じように、ブラウザ上での操作前に複数回の確認を自動で行うことで、詐欺的な指示から守られています。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:cowork-built-in-browser": {
+    "source": "claude",
+    "slug": "cowork-built-in-browser",
+    "url": "https://claude.com/blog/cowork-built-in-browser",
+    "title_original": "Claude Cowork gets a built-in browser: nothing to install",
+    "title_ja": "Claude Cowork にブラウザ機能が統合：インストール不要で Web 操作が可能に",
+    "description": "Claude now has its own browser inside the Cowork desktop app. It opens sites, reads pages, and works in them while you keep working. No extension, and your own tabs and logins stay out of it.",
+    "published": "2026-08-26",
+    "lastmod": "2026-08-26",
+    "summary": "Claude の デスクトップアプリ「Cowork」に独立したブラウザが組み込まれました。これまで Web サイトの操作には Chrome 拡張機能を使う必要がありましたが、新機能により Claude 専用のブラウザが搭載され、フォーム入力やデータ収集などの Web タスクを Claude に任せられるようになります。このブラウザは完全に独立しており、あなたの個人的なタブやログイン情報にアクセスしません。必要に応じて特定サイトのログイン情報のみ手動で共有できます。セキュリティ対策も実装されており、Pro・Max・Team プランで段階的に展開予定です。",
+    "points": [
+      "Claude 専用ブラウザがデスクトップアプリに統合され、Web タスクを自動実行可能に",
+      "個人情報を保護：あなたのブラウザとは完全に分離し、タブ・ブックマーク・パスワードは非表示",
+      "セットアップが簡単：拡張機能のインストール不要で、必要時にブラウザが自動で開く",
+      "安全性重視：悪意あるウェブサイトからの指令への対策機能を搭載",
+      "段階的展開：Pro・Max・Team プランで今週から利用可能、Enterprise プランは即時対応"
+    ],
+    "analogy": "これは「専用の秘書を雇う」ようなもの。これまでは自分の手帳や連絡先帳を秘書に見せながら仕事を進める必要がありました。今は秘書が自分用のスケジュール帳を持つようになったので、必要な情報だけを共有でき、あなたの個人情報は守られたままになります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-warp-builds-self-improving-agents-on-claude": {
+    "source": "claude",
+    "slug": "how-warp-builds-self-improving-agents-on-claude",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "title_original": "How Warp builds self-improving agents on Claude",
+    "title_ja": "Warpがクロードで自己改善型エージェントを構築する方法",
+    "description": "How Warp devised a simple development pattern that anyone can use to create self-improving agents.",
+    "published": "2026-08-26",
+    "lastmod": "2026-08-26",
+    "summary": "Warpは、AIエージェント（人間に代わって作業を行うAIプログラム）が時間とともに賢くなる仕組みを開発しました。その秘訣は「スキル」という知識ファイルを使うことです。エージェントが仕事をするたびに、人間からのフィードバック（良かった点や改善点）を集め、別の「改善エージェント」がそのフィードバックを分析して、元のエージェントの指示ファイルを自動で更新します。このサイクルにより、エージェントは学習し改善され、最初は80%の精度だったコードレビューなどのタスクがより正確になっていきます。Warpはこのパターンをコード審査やバグ分類など複数のタスクで実運用しており、約80万人の開発者に使われています。",
+    "points": [
+      "「スキル」という知識ファイルを使うことで、エージェントが学習・改善されるループを実現",
+      "人間からのフィードバックが自動で集まり、改善エージェントが新しい指示に変換してプルリクエストで提案",
+      "詳しく具体的なフィードバックほど、エージェントの改善に効果的",
+      "更新内容がコード審査ワークフローを通すため、人間が最終的に承認でき安全性を確保",
+      "シンプルなパターンのため誰でも応用でき、複数のタスクに対応可能"
+    ],
+    "analogy": "このシステムは、料理人の修行に似ています。一人前の料理人（エージェント）が料理を作って、お客さん（人間）から『この味付けが薄い』『このテクニックは良かった』というフィードバックをもらいます。その評価を料理長（改善エージェント）が分析して『塩を少し多くしよう』と修行人の教科書（スキルファイル）を更新します。この繰り返しで、若い料理人は経験を積んで上達していくわけです。",
+    "category": "AI技術",
+    "summarized": true
   }
 }
