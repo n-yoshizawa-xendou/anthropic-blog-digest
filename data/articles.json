@@ -7887,5 +7887,47 @@
     "analogy": "このシステムは、料理人の修行に似ています。一人前の料理人（エージェント）が料理を作って、お客さん（人間）から『この味付けが薄い』『このテクニックは良かった』というフィードバックをもらいます。その評価を料理長（改善エージェント）が分析して『塩を少し多くしよう』と修行人の教科書（スキルファイル）を更新します。この繰り返しで、若い料理人は経験を積んで上達していくわけです。",
     "category": "AI技術",
     "summarized": true
+  },
+  "anthropic:model-hardware-standard-research-preview": {
+    "source": "anthropic",
+    "slug": "model-hardware-standard-research-preview",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "title_original": "Previewing the Model Hardware Standard",
+    "title_ja": "AI が実験機器を安全に操作できる新しい標準「モデルハードウェア標準」を発表",
+    "description": "Anthropic is opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "published": "",
+    "lastmod": "2026-08-28T02:15:31.000Z",
+    "summary": "Anthropic は、AI（人工知能）が実験機器や製造装置を安全に操作するための共通ルール「モデルハードウェア標準（MHS）」の研究版を公開しました。これまで、顕微鏡やロボットアーム、液体分注装置など異なる機器は個別に設定する必要があり、何週間もかかることがありました。MHS を使うと、この準備時間が数時間に短縮されます。AI が複数の機器を同時に操作し、実験の各段階で判断を下し、リアルタイムでパラメーター調整ができるため、研究者や技術者は自動化された実験を24時間実施できるようになります。遺伝子検査やレーザー調整など、様々な分野の研究機関や企業がすでに試験中で、良好な結果を得ています。",
+    "points": [
+      "異なる機器の統合に要する時間が数週間から数時間に短縮される",
+      "AI が複数の機器を並行操作でき、リアルタイム調整と自動エラー回復が可能",
+      "ジェネンテック、カーネギーメロン大学など名門研究機関が実証成功",
+      "オープンソース化前に、安全性評価と運用ガイドラインを業界パートナーと開発中",
+      "AWS や Tecan など大手ベンダーが対応ドライバーを開発予定"
+    ],
+    "analogy": "MHS は、バラバラなコンセント形式の電化製品に統一された延長コードを提供するようなもの。これまで各機器ごとに専門家が繋ぎ込まねばならなかったのが、標準化により誰でも簡単に接続でき、AI がそれらを一括制御できるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "anthropic:expanding-support-for-scientists": {
+    "source": "anthropic",
+    "slug": "expanding-support-for-scientists",
+    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "title_original": "Expanding our support for scientists",
+    "title_ja": "科学者向けのサポートを大幅に拡大 - Anthropic、研究者向けの無料・割引Claude利用を開始",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-08-27T19:19:47.000Z",
+    "summary": "AI企業のAnthropicは、科学研究を支援するための取り組みを大幅に拡大すると発表しました。世界中の科学者1万人を対象に、AI助手「Claude」のサブスクリプション（定期利用）を1年間無料または割引価格（月額15ドル）で提供します。また、高度な研究に使用するための無料クレジット（最大5万ドル分）の配布範囲も拡大しており、従来の生物学分野に加えて、数学やタンパク質設計など他の科学分野の研究者も対象になります。これらの施策により、Anthropicは科学的発見を加速させることを目指しています。",
+    "points": [
+      "世界中の科学者1万人がClaudeを1年間無料または月額15ドルで利用可能",
+      "研究者向けの無料クレジット（最大5万ドル分）の対象分野を拡大",
+      "生物学だけでなく数学やタンパク質設計など複数の科学分野をサポート",
+      "Claude Scienceなど科学研究向けの専用ツールも提供",
+      "大学や非営利研究機関の研究代表者が登録資格を持つ"
+    ],
+    "analogy": "これは、図書館が研究者向けに貴重な参考書の利用を無料で提供し始めたようなものです。以前は限られた分野の研究者だけが利用できていた高度なツールが、今ではより多くの科学者が手軽にアクセスできるようになり、様々な研究分野での発見が加速することが期待されています。",
+    "category": "パートナーシップ、社会貢献",
+    "summarized": true
   }
 }
