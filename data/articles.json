@@ -7929,5 +7929,47 @@
     "analogy": "これは、図書館が研究者向けに貴重な参考書の利用を無料で提供し始めたようなものです。以前は限られた分野の研究者だけが利用できていた高度なツールが、今ではより多くの科学者が手軽にアクセスできるようになり、様々な研究分野での発見が加速することが期待されています。",
     "category": "パートナーシップ、社会貢献",
     "summarized": true
+  },
+  "claude:how-anthropic-employees-use-claude-tag": {
+    "source": "claude",
+    "slug": "how-anthropic-employees-use-claude-tag",
+    "url": "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
+    "title_original": "How Anthropic employees use Claude Tag",
+    "title_ja": "Anthropic社員が「Claude Tag」をどのように使っているか～Slackでの実践例～",
+    "description": "Producing customer-ready collateral, compiling weekly issue reports, and running legal review, all where the work already happens.",
+    "published": "2026-08-28",
+    "lastmod": "2026-08-28",
+    "summary": "Anthropic社が開発した「Claude Tag」は、Slackなどのチャットツールに統合されたAIアシスタントです。社員が@Claudeとタグ付けするだけで、会話の文脈を理解して作業を完了し、結果をスレッドに投稿します。実際の使用例として、営業資料の作成（45分で完成）、顧客からの問い合わせ集約（26分で24件を整理）、法務文書レビューの迅速化（1日から30分に短縮）などが紹介されています。これらの活用により、従業員は数日かかっていた単純作業から解放され、より高度な判断が必要な業務に時間を使えるようになりました。",
+    "points": [
+      "Claude TagはSlackに統合され、@mentionで呼び出すだけで会話内容から自動的に適切なタスクを実行",
+      "営業資料作成が数時間から45分に短縮、法務レビューが1日以上から30分に改善",
+      "複数のSlackチャネルから関連情報を自動集約し、スプレッドシート数日分の作業を数十分で完了",
+      "AIが提示した案に対して人間がフィードバックし、それを学習して改善されるサイクルが構築可能",
+      "アクセス範囲が制限されており、セキュリティと効率のバランスが取れた設計"
+    ],
+    "analogy": "Claude Tagは、オフィスに配置された優秀なアシスタントのようなものです。あなたが『このSlackスレッドを読んで資料にまとめて』と声をかけると、すぐに取りかかり、質問があれば質問を返し、完成したら報告してくれます。ただし、このアシスタントは指定された書類や部屋にしかアクセスできないため、セキュリティも保たれています。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-for-teachers-now-available-for-schools-and-districts": {
+    "source": "claude",
+    "slug": "claude-for-teachers-now-available-for-schools-and-districts",
+    "url": "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts",
+    "title_original": "Claude for Teachers, now available for U.S. K-12 schools and districts",
+    "title_ja": "Claude for Teachers（教師向けClaudeツール）が米国の小中高校で無料利用可能に",
+    "description": "Starting today, Claude for Teachers is available to U.S. K-12 schools and districts as a free Enterprise offering.",
+    "published": "2026-08-28",
+    "lastmod": "2026-08-28",
+    "summary": "Anthropicは、AI助手「Claude」の教育向け機能「Claude for Teachers」を、米国の小中高校（K-12）に無料で提供開始しました。学校や地区の管理者が認証することで、教職員全員が一括管理される形でClaudeを利用できます。このツールは、学習科学に基づいた教育スキルと全50州の学習基準に対応した高品質カリキュラムを備えています。学生情報は訓練データに使用されず、プライバシー保護も徹底されています。2027年6月30日までに登録した学校には1年間の無料アクセスが保証されます。",
+    "points": [
+      "学校や地区単位で教職員全員がClaudeを無料で利用できるエンタープライズオプションが新しく開始",
+      "授業準備や理解度確認などの教育専門スキルが学習科学に基づいて設計されている",
+      "児童・生徒の情報は保護され、AIモデルの学習には使用されない",
+      "シングルサインオンなどの企業向け管理機能により、学校全体で一元管理が可能",
+      "デトロイト公立学校区でのパイロット試験も計画されており、教育実践への効果を検証"
+    ],
+    "analogy": "学校全体で導入する場合、個々の先生が自分で契約するのではなく、学校の管理者が一つの大きな契約をして、その傘の下に全教職員を入れるようなイメージです。これにより管理が楽になり、コストもかからなくなります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
