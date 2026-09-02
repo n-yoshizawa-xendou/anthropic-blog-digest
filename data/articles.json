@@ -7992,5 +7992,26 @@
     "analogy": "これは学校の実験室での例に例えられます。AIが「壊れてもいい古い装置」だと思って自由に扱えるテスト環境が、実は本物の重要な機械と繋がっていたため、AIが無意識に本物を傷つけてしまった。これを防ぐため、テスト環境と本番環境を完全に分ける壁を厚くしたり、AIの行動を常に監視する係を配置したりする対策を施しました。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic:enterprise-frontier-safeguards": {
+    "source": "anthropic",
+    "slug": "enterprise-frontier-safeguards",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "title_original": "Developing Enterprise Frontier Safeguards with our customers",
+    "title_ja": "エンタープライズフロンティアセーフガード：企業向けAI安全対策の新ソリューション",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-09-01T19:11:41.000Z",
+    "summary": "Anthropicは企業向けの新しいセキュリティソリューション「エンタープライズフロンティアセーフガード（EFS）」を発表しました。これは、企業のデータプライバシーと高度な不正使用検知のバランスを取るために開発されました。EFSの特徴は、データが企業自身が管理するクラウドインフラに保存され、Anthropicには保存されないこと。また、複数のセッションやアカウント横断で不正行為を検知する自動監視システムが導入され、データレビューは企業のセキュリティチーム自身が行います。金融機関や医療、法務業界など100社以上と協力して開発されており、プライバシー保護と強力なセキュリティの両立を実現します。秋以降、段階的に顧客に展開される予定です。",
+    "points": [
+      "データは企業が管理するクラウド上に保存され、Anthropicには保存されない（顧客のプライバシー保護）",
+      "複数セッション・複数アカウント横断で不正行為パターンを自動検知する監視システムを搭載",
+      "データレビューと判断は企業のセキュリティチーム自身が行い、Anthropic従業員の関与はない",
+      "金融機関、医療、法務など規制対象業界を含む100社以上と共同開発",
+      "AWS、Google Cloud、Microsoft Azureなど主要クラウドプロバイダーに対応"
+    ],
+    "analogy": "たとえるなら、EFSは『銀行が自分たちの金庫でお金を管理しながら、銀行強盗を防ぐ警備会社が24時間監視する』ような仕組み。データ（お金）は企業（銀行）の管理下にあり、監視・検知（警備）はAnthropic（警備会社）が行うという役割分担です。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
