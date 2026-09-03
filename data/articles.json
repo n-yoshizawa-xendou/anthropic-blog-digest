@@ -8013,5 +8013,47 @@
     "analogy": "たとえるなら、EFSは『銀行が自分たちの金庫でお金を管理しながら、銀行強盗を防ぐ警備会社が24時間監視する』ような仕組み。データ（お金）は企業（銀行）の管理下にあり、監視・検知（警備）はAnthropic（警備会社）が行うという役割分担です。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:the-anatomy-of-effective-commerce-agents": {
+    "source": "claude",
+    "slug": "the-anatomy-of-effective-commerce-agents",
+    "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+    "title_original": "A guide to the anatomy of effective commerce agents",
+    "title_ja": "オンライン商取引を効率化するAIエージェントの実装ガイド",
+    "description": "The architecture, latency & cost techniques, and eval practices for agents that make it easier to buy and sell online.",
+    "published": "2026-09-02",
+    "lastmod": "2026-09-02",
+    "summary": "Anthropicが公開した、オンライン販売・購入を簡単にするAIエージェントの構築方法に関するガイドです。小売業やマーケットプレイス、旅行業など様々な企業がClaudeを使った商取引エージェントを本番環境で運用し、カートの増加や業務効率化を実現しています。このガイドでは、効果的なエージェントの基本設計から、処理速度とコストの最適化、本番運用まで3つの段階に分けて解説されています。単一のAIモデルにスキル（専門機能）とツール（外部システムとの連携）を組み合わせた「標準的なエージェントループ」が推奨されており、複数の小さなAIに仕事を振り分ける従来の方法より品質が高く、処理も高速だということが実績から明らかになっています。",
+    "points": [
+      "複数の専門的なサブエージェントではなく、単一のAIモデルに複数のスキルを組み込む設計が効果的。サブエージェント間の情報受け渡しでの情報損失や遅延を回避できます",
+      "UIコンポーネント（商品表示、旅程表示など）をツール化することで、会話履歴が標準形式で保存され、過去の対話を効率的に管理できます",
+      "処理速度を改善するには『処理ターン数を減らす』『ツール自体を高速化』『トークン生成を高速化』の3つの工夫を組み合わせることが重要です",
+      "ユーザーが既に見ているページの情報を事前に読み込むなど、必要な文脈を前もって用意することで、追加の処理ステップを削減できます",
+      "安全性ルールや重要な指示は常にシステムプロンプトに配置し、使用頻度の低い機能はスキルとして後から読み込むという使い分けが効率的です"
+    ],
+    "analogy": "従来の複数のサブエージェント設計は、大型プロジェクトで各専門家チームが情報を受け渡しながら進める方式に似ています。一方、推奨される単一エージェント＋スキル設計は、プロジェクト全体の文脈を常に持った優秀なプロジェクトマネージャーが、必要に応じて各専門スキルを発揮する方式に相当します。情報の受け渡しロスがなく、より効率的に進められるのです。",
+    "category": "AI技術",
+    "summarized": true
+  },
+  "claude:claude-for-commerce-agents": {
+    "source": "claude",
+    "slug": "claude-for-commerce-agents",
+    "url": "https://claude.com/blog/claude-for-commerce-agents",
+    "title_original": "Building Commerce Agents with Claude",
+    "title_ja": "Claude で商取引AIエージェントを構築するための新しいテンプレートがリリース",
+    "description": "We're launching a blueprint to help build commerce agents on Claude. It contains the harnesses, patterns, and guardrails an engineering team needs to get a commerce agent running in days.",
+    "published": "2026-09-02",
+    "lastmod": "2026-09-02",
+    "summary": "Anthropic は、オンラインショッピングを支援する AI エージェント（AI店員のような存在）を簡単に構築できるテンプレート「コマース・ブループリント」をリリースしました。このテンプレートを使用している大手小売企業では、顧客のカート内の商品が 35% 増加し、購入完了率が 60% 上昇しているとのこと。テンプレートには、顧客向けの「ショッピングエージェント」と店舗スタッフ向けの「マーチャントエージェント」の 2 種類が含まれており、数日で導入できるよう設計されています。顧客は「週末キャンプ用のテント、寝袋、ストーブが必要」と自然な言葉で話しかけるだけで、AI が商品を検索・比較・購入支援してくれます。店舗スタッフ向けには、売上分析や在庫管理、マーケティング支援機能が提供されます。",
+    "points": [
+      "ShopifyやPriceLine などの大手企業が既に Claude ベースの商取引エージェントで成果を上げており、カート額 35% 増・購入完了率 60% 増を実現",
+      "テンプレートには「ショッピングエージェント」（顧客向け）と「マーチャントエージェント」（店舗スタッフ向け）の 2 種類を装備",
+      "顧客は自然言葉で複数商品の検索・比較・購入ができ、AI は推奨事項を会話内に表示してチェックアウトまで支援",
+      "店舗スタッフは「前シーズンの在庫処分にはどの商品を値下げすべき？」といった質問に AI が自店データに基づいて回答・提案",
+      "Visa、Mastercard、Accenture、Wix、Square などの大手企業がパートナーとして採用・推奨、数時間で導入可能な実績も報告"
+    ],
+    "analogy": "このテンプレートは、オンラインショップ向けの「優秀な店員の育成マニュアル」だと考えられます。マニュアルに従うことで、企業は 1 から店員を鍛える代わりに、すぐに有能な AI 店員を配置でき、顧客は『どんなテントが欲しい』と一声かけるだけで、AI 店員が商品を見つけ、他の選択肢と比較し、カゴに入れるまでを自動でやってくれるようになります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
