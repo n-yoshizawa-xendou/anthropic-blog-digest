@@ -8055,5 +8055,26 @@
     "analogy": "このテンプレートは、オンラインショップ向けの「優秀な店員の育成マニュアル」だと考えられます。マニュアルに従うことで、企業は 1 から店員を鍛える代わりに、すぐに有能な AI 店員を配置でき、顧客は『どんなテントが欲しい』と一声かけるだけで、AI 店員が商品を見つけ、他の選択肢と比較し、カゴに入れるまでを自動でやってくれるようになります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:reducing-cost-and-improving-performance-with-claude-platform": {
+    "source": "claude",
+    "slug": "reducing-cost-and-improving-performance-with-claude-platform",
+    "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
+    "title_original": "Reducing cost and improving performance with Claude Platform",
+    "title_ja": "Claude プラットフォームのコスト削減と性能向上の方法",
+    "description": "Tuning prompt caching, instructions, and effort can reduce Claude's cost without sacrificing application performance.",
+    "published": "2026-09-08",
+    "lastmod": "2026-09-08",
+    "summary": "Anthropic は Claude AI の使用コストを削減しながら性能を維持・向上させる3つの方法を発表しました。第一に「プロンプトキャッシング（ひな形の再利用）」により、同じ情報を何度も処理する無駄を削減します。第二に「古い指示文の削除」で、新しい Claude モデルに不要な複雑な指示を取り除きます。第三に「作業量の調整」により、タスクの難易度に合わせて AI の思考時間を最適化します。実験では、これらの対策で平均 14.6% のコスト削減と 5.3% の精度向上を実現。さらに自動化ツール「cost-optimize」を提供し、ユーザーは複数ベンチマークで 52～73% のコスト削減を達成しました。",
+    "points": [
+      "プロンプトキャッシングで同じ内容の再処理を避け、入力コストを大幅削減できる",
+      "新しいモデルへの移行時に古い指示文（「二重チェックせよ」など）を削除するだけで精度が向上し、コストも削減される",
+      "タスクの難易度に合わせて AI の思考レベルを調整することで、過剰な計算を避けられる",
+      "新しいモデルは低い設定でも古いモデルの高い設定と同等の性能を持ち、コスト効率が大幅に改善される",
+      "自動化ツールで複数の最適化を一度に検査でき、平均 50% 以上のコスト削減が実現可能"
+    ],
+    "analogy": "学生が同じ問題を何度も解く場合、一度目は時間がかかりますが、二度目以降は覚えているため早く解けます（プロンプトキャッシング）。また、教科書に書かれた古い解き方を無視し、新しい方法で解けば、より早く正確に解ける（古い指示文の削除）のと同じです。さらに、簡単な問題は早く解き、難しい問題だけ深く考える（作業量の調整）ことで、全体的に効率が良くなります。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
