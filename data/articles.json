@@ -8076,5 +8076,47 @@
     "analogy": "学生が同じ問題を何度も解く場合、一度目は時間がかかりますが、二度目以降は覚えているため早く解けます（プロンプトキャッシング）。また、教科書に書かれた古い解き方を無視し、新しい方法で解けば、より早く正確に解ける（古い指示文の削除）のと同じです。さらに、簡単な問題は早く解き、難しい問題だけ深く考える（作業量の調整）ことで、全体的に効率が良くなります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:t-rowe-price-brings-more-of-claude-to-its-investment-process": {
+    "source": "claude",
+    "slug": "t-rowe-price-brings-more-of-claude-to-its-investment-process",
+    "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
+    "title_original": "T. Rowe Price brings more of Claude to its investment process",
+    "title_ja": "T. Rowe Priceが投資プロセスにClaudeをさらに統合",
+    "description": "How T. Rowe Price is using Claude across the business, from driving fundamental research to building investment tools.",
+    "published": "2026-09-10",
+    "lastmod": "2026-09-10",
+    "summary": "大手投資管理企業のT. Rowe Priceが、AI技術「Claude」を投資業務に本格的に導入しました。ポートフォリオマネージャーと分析担当者は、膨大な情報を整理・分析する際にClaudeを活用し、投資家向けツール開発にも利用しています。従来は投資判断の根拠となる調査に多くの時間を費やしていましたが、Claudeが複雑な情報を自動で要約することで、専門家はより深い分析や議論に集中できるようになります。同社は透明性と人間の判断を重視しながら、AI導入を進める方針で、投資管理業界全体でAIの活用をリードすることを目指しています。",
+    "points": [
+      "投資調査の複雑な情報をClaudeが自動で整理し、専門家が深い分析に時間を使えるようになった",
+      "ポートフォリオマネージャー、分析担当者、開発チームの3段階で活用を展開している",
+      "投資判断など重要な決定では人間の判断を常に中心に置き、AI任せにしない姿勢を貫いている",
+      "従来は事務作業から始まるAI導入が多いが、T. Rowe Priceは投資意思決定の最前線から導入を開始した（業界的に珍しい）",
+      "社員研修や責任あるAI活用ガイドラインを整備しながら、段階的にAI導入を進めている"
+    ],
+    "analogy": "これまで投資家は、毎日大量の新聞や企業情報から重要な情報を手作業で抜き出していました。Claudeはちょうど優秀なアシスタントのように、その下準備の仕事をこなしてくれるので、投資家は本来の仕事である『その情報が本当に価値があるか判断する』という創造的な作業に集中できるようになったわけです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:what-1-000-small-business-owners-taught-us-about-ai": {
+    "source": "claude",
+    "slug": "what-1-000-small-business-owners-taught-us-about-ai",
+    "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+    "title_original": "What 1,000 small business owners taught us about AI",
+    "title_ja": "1,000人の中小企業経営者から学んだAIの現実",
+    "description": "Lina Ochman, Head of U.S. SMB at Anthropic, shares what she learned during our Claude Small Business Tour, and what’s next for the program.",
+    "published": "2026-09-10",
+    "lastmod": "2026-09-10",
+    "summary": "Anthropicは2026年5月、中小企業向けの「Claude for Small Business」をリリースし、全米10都市でワークショップツアーを開催しました。1,000人以上の経営者が参加し、5つの重要な教訓が得られました。第1に、AIは非技術的な経営者でも活用でき、業務の自動化や時間短縮が可能です。第2に、AIを重要な業務に使う一方で、精度への懸念が課題となっています。第3に、データセキュリティとプライバシーが導入の最大の障壁です。第4に、初めてAIワークフローを構築すると、経営者は自信をもって次のステップに進みます。第5に、経営者同士が学び合うコミュニティが最も効果的です。今後、新たなトレーナープログラムと秋のツアー継続を予定しています。",
+    "points": [
+      "AIは技術知識がない中小企業経営者でも使え、給与計算や見積作成などの実務を効率化できる",
+      "経営者はAIの精度に不安を感じており、結果を検証するスキル習得が重要",
+      "データ保護とセキュリティへの懸念が、AI導入の最大の障害になっている",
+      "実践的な1回目のワークフロー構築を経験すると、経営者は自信を持ってAI活用を広げられる",
+      "同じ課題を持つ経営者仲間から学ぶことが、最も効果的なAI導入方法"
+    ],
+    "analogy": "AIの導入は、新しい従業員を雇うようなものです。最初は指示を明確に出し、その従業員が正しく仕事をしているか確認する必要があります。何度も一緒に仕事をしていくうちに信頼が深まり、より複雑な業務も任せられるようになるのと同じです。",
+    "category": "パートナーシップ・コミュニティプログラム",
+    "summarized": true
   }
 }
