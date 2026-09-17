@@ -8265,5 +8265,26 @@
     "analogy": "営業チームでのAI導入は、野球チームが優秀なコーチを雇うようなもの。最初は一人のプレイヤーが個人レッスンで効果を感じますが、そのコーチが全選手をサポートするように体制を整えると、チーム全体のパフォーマンスが大幅に向上し、試合での勝利につながります。",
     "category": "エンタープライズAI / 企業ニュース",
     "summarized": true
+  },
+  "claude:cowork-is-now-claude": {
+    "source": "claude",
+    "slug": "cowork-is-now-claude",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "title_original": "Claude Cowork and chat are now one Claude",
+    "title_ja": "Claude CoworkとClaude Chatが統合 - 質問から大型プロジェクトまで1つのAIで対応",
+    "description": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.",
+    "published": "2026-09-16",
+    "lastmod": "2026-09-16",
+    "summary": "Anthropicは、これまで別々だった「Claude Cowork」（大型タスク用）と「Claude Chat」（チャット用）を統合しました。これにより、ユーザーはどちらを使うか選ぶ必要がなくなります。新たに「Claude Docs」と「Claude Slides」も追加され、会話の中で文書作成やプレゼン資料作成ができるようになりました。ユーザーは「報告書を作成して5枚のスライドを作る」といった複合的な指示をClaudeに与えると、AIが自動的に適切な形式で完成させます。ユーザーは常に最終決定権を保持し、Claudeの進捗を確認したり、作成物を編集できます。Pro・Maxプランから展開開始されます。",
+    "points": [
+      "Claude CoworkとClaude Chatが統合され、ユーザーがツールを選ぶ必要がなくなった",
+      "Claude DocsとSlides機能が新登場し、会話内で文書やプレゼン資料を直接作成できる",
+      "複数のタスク（報告書作成＋スライド作成）を1つの指示で実行可能に",
+      "ユーザーは進捗確認・編集・最終承認など常にコントロール権を保持",
+      "Web・デスクトップ・モバイルで利用可能、Pro・Maxプランから段階的に展開"
+    ],
+    "analogy": "これまでは、短いメモは『チャットアプリ』に、報告書作成は『文書作成ツール』に、と別々の場所を行き来する必要がありました。今は、1つのAIアシスタントに『報告書を書いて、5分で読める要約スライドも作って』と頼むだけで、すべてを完成させてくれるようになったイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
