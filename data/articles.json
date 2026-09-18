@@ -8286,5 +8286,68 @@
     "analogy": "これまでは、短いメモは『チャットアプリ』に、報告書作成は『文書作成ツール』に、と別々の場所を行き来する必要がありました。今は、1つのAIアシスタントに『報告書を書いて、5分で読める要約スライドも作って』と頼むだけで、すべてを完成させてくれるようになったイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:life-sciences-verification-program": {
+    "source": "anthropic",
+    "slug": "life-sciences-verification-program",
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "title_original": "Introducing the Life Sciences Verification Program",
+    "title_ja": "生命科学研究者向けAI検証プログラムを開始",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "",
+    "lastmod": "2026-09-17T20:15:21.000Z",
+    "summary": "Anthropicは、生命科学の研究者や機関を対象とした「生命科学検証プログラム（LSVP）」を開始しました。このプログラムでは、審査に合格した組織に対して、AI医薬品開発や臨床研究などの生命科学関連の作業に特化した、より許容度の高い安全対策を備えたAIモデルへのアクセスを提供します。参加者は「標準利用」と「高リスク利用」の2つのタイプから選択でき、大学や医薬品企業、スタートアップなど様々な組織が対象です。セキュリティと倫理的な監視を重視した設計により、悪意のある利用や内部による悪用を防ぎながら、正当な研究をサポートします。",
+    "points": [
+      "生命科学研究者向けの特別なAIアクセスプログラムが開始され、医薬品開発や基礎研究など幅広い作業に対応",
+      "申請者は研究資格やセキュリティ基準、倫理的な監視体制について審査を受ける必要がある",
+      "「標準利用」は日常的な研究業務向け、「高リスク利用」は危険度の高い特定プロジェクト向けの2種類のアクセスを提供",
+      "リアルタイム監視から継続的な監視へ移行し、悪質な利用パターンをより効果的に検出できるよう改善",
+      "現在はベータ版で、数百の組織の参加を予定している"
+    ],
+    "analogy": "このプログラムは、図書館が信頼できる研究者には通常利用者より多くの資料へのアクセスを許可しながら、その利用状況を見守るのと似ています。審査に合格した研究者は制限が少ないAIツールを使えますが、その使用方法は継続的に監視され、不正な使い方が検出されると管理者に報告される仕組みです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "claude:working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5": {
+    "source": "claude",
+    "slug": "working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+    "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+    "title_original": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+    "title_ja": "大手投資企業が最新AI「Claude Fable 5」をどう活用・管理しているか",
+    "description": "We spoke with BAM's Chief AI Officer about why the firm uses Claude Fable 5 and the role of safeguards in deploying frontier intelligence safely and reliably.",
+    "published": "2026-09-17",
+    "lastmod": "2026-09-17",
+    "summary": "資産運用大手のBalyasny Asset Management（BAM）が、最新のAIモデル「Claude Fable 5」を導入・運用している事例を紹介しています。2026年は「検索するAI」から「仕事をするAI」へと進化し、複雑な金融分析を自動化できるようになりました。例えば、企業の買収案件分析は従来3～5日かかっていた作業が、30分程度で完了するようになり、その後の人間による審査で精度を確保しています。BAMは数千の実際の金融タスクで新しいモデルを厳密に評価し、89.4%の成功率を確認しました。同社は安全性を製品設計の最初から組み込み、AIが使える データやツールを制限し、重要な判断は人間が最終承認する仕組みを構築。将来的には複数のAIエージェント（自動で判断・行動するAI）が人間のチームメイトとして協働することを目指しています。",
+    "points": [
+      "複雑な金融分析タスクが数日から30分に短縮され、AIが「単に情報を処理する」から「実際の仕事を完結させる」段階へ進化した",
+      "バックテストの一種として、実際の金融タスク数千件で新モデルを厳密に評価し、客観的データに基づいて導入判断を実施",
+      "安全性は「モデル選択時の検討」ではなく、運用全体の仕組みとして、AIが使えるデータ・ツール・権限を限定し人間の承認プロセスを確保",
+      "社内開発プラットフォーム「BAMAgent」により、複数のAIが24時間並行して自動で分析・研究業務を遂行し、人間が結果をレビューする体制を構築",
+      "今後はAIが人間のチームメイトとして継続的に成長し、これまで想像できなかった新しい業務改善の可能性が広がっていく見通し"
+    ],
+    "analogy": "これまでのAIは「優秀な検索エンジン」でしたが、新しいAIは「優秀な同僚」に進化しました。あなたが「明日の会議資料を作ってほしい」と指示すれば、同僚は必要なデータを探し、分析して、最終的な資料として完成させます。ただし、提出前に必ずあなたが内容をチェックするように、AIの出力も人間が必ず確認・承認する仕組みになっています。",
+    "category": "企業ニュース",
+    "summarized": true
+  },
+  "claude:projects-redesigned": {
+    "source": "claude",
+    "slug": "projects-redesigned",
+    "url": "https://claude.com/blog/projects-redesigned",
+    "title_original": "Projects redesigned: from folder to conversation",
+    "title_ja": "Claude プロジェクト機能が大幅リニューアル：フォルダ型から会話型へ進化",
+    "description": "A new experience for Claude projects, now available in beta in Claude Code",
+    "published": "2026-09-17",
+    "lastmod": "2026-09-17",
+    "summary": "Anthropic が Claude のプロジェクト機能を大きく改良し、ベータ版提供を開始しました。従来はユーザーが複数のセッションを手作業で管理する必要がありましたが、新しいプロジェクトではユーザーが目標を伝えるだけで Claude が自動的に作業を管理します。複数の「スレッド」（平行した作業経路）を同時に実行し、それぞれが独立したタスクに取り組みながら、全体を統合されます。例えば、アプリの速度改善が目標なら、複数のエンドポイント分析を並行実施して結果をまとめることが可能。長期的には Claude がプロジェクトの詳細を記憶し、より効率的に作業を進められます。現在は Claude Pro/Max ユーザーの一部に提供中で、段階的に拡大予定です。",
+    "points": [
+      "ユーザーが目標を設定するだけで、Claude が複数の作業を自動で管理・調整する仕組みに進化",
+      "複数の「スレッド」（作業経路）を平行実行でき、コード変更や テスト実行も自動で実施",
+      "プロジェクトの文脈や過去の決定事項を記憶し、時間とともに作業の効率が向上",
+      "スマートフォンからでも進捗を監視・操作でき、コンピュータを離れても作業が継続",
+      "現在ベータ版で Claude Code のクラウドセッション利用ユーザー向けに段階的に展開中"
+    ],
+    "analogy": "これまでのプロジェクト管理は、複数の部下に指示を出して、それぞれの仕事を追跡し、結果をまとめる経営者のような大変さがありました。新しいプロジェクト機能は、優秀なマネージャーを雇うようなもの。あなたが「このアプリを高速化して」と目標を伝えるだけで、マネージャー（Claude）が誰にどんな仕事をさせるか判断し、複数の部下を指揮して、結果をまとめてくれるイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
