@@ -8349,5 +8349,26 @@
     "analogy": "これまでのプロジェクト管理は、複数の部下に指示を出して、それぞれの仕事を追跡し、結果をまとめる経営者のような大変さがありました。新しいプロジェクト機能は、優秀なマネージャーを雇うようなもの。あなたが「このアプリを高速化して」と目標を伝えるだけで、マネージャー（Claude）が誰にどんな仕事をさせるか判断し、複数の部下を指揮して、結果をまとめてくれるイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:accenture-embedded-evaluation": {
+    "source": "anthropic",
+    "slug": "accenture-embedded-evaluation",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "title_original": "Partnering with Accenture on embedded evaluation",
+    "title_ja": "Anthropicがアクセンチュアと提携し、AI評価体制を強化",
+    "description": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+    "published": "",
+    "lastmod": "2026-09-18T20:02:00.000Z",
+    "summary": "AI企業のAnthropicは、大手コンサルティング企業アクセンチュアと協力して、開発中のAIモデルを独立した立場から評価する新しい制度を導入します。この「埋め込み評価」では、アクセンチュアの評価者がAnthropicの社内に常駐し、モデルの開発過程を監視したり、安全性をチェックしたりします。両社合わせて5年間で10億ドル以上を投資し、この評価体制を構築する予定です。従来の外部評価と異なり、埋め込み評価者は社員並みのアクセス権を持つことで、AIの開発過程における透明性を大幅に向上させることができます。ただし、標準的な評価方法やルールはまだ確立されていないため、実施しながら改善していく予定です。",
+    "points": [
+      "Anthropicがアクセンチュアと提携し、AI開発の過程を常時監視する『埋め込み評価』制度を導入",
+      "評価者は社内に常駐でき、開発過程や意思決定をリアルタイムで確認でき、透明性が向上",
+      "両社が5年間で合計10億ドル以上投資して、この新しい評価体制の構築を進める",
+      "独立した評価により企業の説明責任が強化されるが、AIの安全性確保は企業の責任のまま",
+      "評価の標準ルールはまだ未確立で、他の評価機関との協力も進める予定"
+    ],
+    "analogy": "この『埋め込み評価』は、学校の教室に常に教育委員会の視察官が居て、授業の進め方や成績評価が適切かをチェックする仕組みに似ています。教室の中を見守ることで、より信頼性のある教育が提供されているかを直接確認できるのです。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
