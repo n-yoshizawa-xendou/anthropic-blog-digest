@@ -8391,5 +8391,88 @@
     "analogy": "スマートフォンの通信料金に例えると、『キャッシュ』は通勤時間に使う定額プランのようなもの。毎日同じデータを使うので、何度読み込んでも安い。一方『新しい出力』は都度課金制のようなもので、新しい情報を取得するたびに料金がかかります。通勤ルートが決まっている人ほどキャッシュの恩恵を受けられるのと同じく、繰り返しの多い作業ほどコストが安くなります。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:claude-discovers-novel-enzyme-system": {
+    "source": "anthropic",
+    "slug": "claude-discovers-novel-enzyme-system",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "title_original": "Claude discovers a novel enzyme system",
+    "title_ja": "ClaudeがCRISPRのような特性を持つ新しい酵素システムを発見",
+    "description": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+    "published": "",
+    "lastmod": "2026-09-23T20:05:57.000Z",
+    "summary": "Anthropicは新しい生命科学研究室を設立し、AI「Claude」を使ったDNA研究を開始しました。Claudeが自動的に発見した「ART（配列関連逆転写酵素）」という新しい酵素システムについて発表しました。この発見は、バクテリオファージ（細菌に感染するウイルス）に存在し、DNAの繰り返し配列パターンを持つもので、遺伝子編集で知られるCRISPRに似た特性を持っています。研究チームは初期指示のみを与え、Claudeが200万トークンを使って950個のエージェントで21時間かけてDNAデータベースを検索させ、この新システムを発見しました。機能はまだ不明ですが、遺伝子操作ツールとしての活用の可能性があり、より多くの科学者がAI支援研究に関心を持つことを期待しています。",
+    "points": [
+      "Claudeが大規模なDNAデータベース検索を自動実行し、人間の科学者が数週間かかる分析を短時間で完了した",
+      "発見された「ART」は、DNAの繰り返し配列パターンと逆転写酵素の組み合わせで、CRISPRと同様のプログラム可能な生物学的ツールになる可能性がある",
+      "人間の科学者は初期プロンプト提示と実験室での検証のみを担当し、AIが仮説生成から分析まで主導的に実行した",
+      "MITのCRISPR研究の第一人者であるFeng Zhangも、この発見がAIの生物学研究への貢献を示す例として高く評価している"
+    ],
+    "analogy": "これは、図書館で本を探す作業に例えられます。従来は科学者が膨大な本の中から手作業で関連情報を探していましたが、Claudeという助手が目次や索引を効率的に読み込んで『この本に注目してください』と指摘することで、発見のプロセスが大幅に短縮されました。",
+    "category": "研究",
+    "summarized": true
+  },
+  "claude:how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace": {
+    "source": "claude",
+    "slug": "how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+    "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+    "title_original": "CodeRabbit, Power Digital, ThoughtSpot on Claude Marketplace",
+    "title_ja": "CodeRabbit、Power Digital、ThoughtSpotがClaudeマーケットプレイスでスノーフレークとベルセルを活用して成長",
+    "description": "CodeRabbit expanded its Vercel plan through Claude Marketplace, and Power Digital and ThoughtSpot put their Snowflake spend on their Anthropic commitment. See how companies building on Claude use budget they've already committed to pay for the tools they run on.",
+    "published": "2026-09-23",
+    "lastmod": "2026-09-23",
+    "summary": "Anthropicが「Claudeマーケットプレイス」というサービスを開始しました。これは、企業がClaudeに投資した予算の一部を、SnowflakeやVercelといった他のツールの購入に充てられるというものです。つまり、すでに承認された予算から追加の請求なしに、チームが使っている様々なツールをまとめて管理できるようになります。CodeRabbitはVercelへの支出をこれで拡大し、Power DigitalとThoughtSpotはSnowflakeの利用をこの方式で増やしました。企業側は予算申請の手続きを減らしながら、必要なツールを素早くスケール（規模拡大）できるようになります。",
+    "points": [
+      "Claudeマーケットプレイスにより、企業は既に承認されたAnthropicへの投資から、SnowflakeやVercelなどのパートナー製品への支出に充当できる",
+      "Power Digitalは5年のSnowflake顧客で、この仕組みにより12名から800人以上へのClaudeユーザー拡大をサポート",
+      "ThoughtSpotはSnowflakeの推論APIをこの方式で購入し、既存の承認予算から新たな申請なく導入を開始",
+      "CodeRabbitは従来の従量課金のVercelプランから、確定的なコミットメントプランへ1週間で移行できた",
+      "Snowflakeとrancid のような企業にとって、既存のClaudeユーザーへの販売経路として機能し、顧客獲得コストが削減される"
+    ],
+    "analogy": "これは、すでに支払っている携帯電話の月額料金の一部を、同じキャリアが提供する音楽配信サービスやクラウドストレージに割り当てられるようなイメージです。別途申し込みをするのではなく、既に払っているお金の範囲内でサービスを組み合わせて使えるということです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:how-to-prepare-for-ai-driven-code-modernization-projects": {
+    "source": "claude",
+    "slug": "how-to-prepare-for-ai-driven-code-modernization-projects",
+    "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+    "title_original": "How to prepare for AI-driven code modernization projects",
+    "title_ja": "AI駆動型のコード刷新プロジェクトに向けた準備方法",
+    "description": "Agents can finish code modernizations in months, but change management still sets the pace. Six steps to define the target, certificate, and promotion policy.",
+    "published": "2026-09-23",
+    "lastmod": "2026-09-23",
+    "summary": "銀行システムなど重要な業務システムのコード刷新（古いプログラミング言語や技術を新しいものに更新する作業）は、AIエージェント（自動で判断・実行するプログラム）により数ヶ月で完了できるようになりました。しかし実際の導入では、技術的な作業よりも「組織全体をどう動かすか」が重要です。Anthropicのエンジニアが実際のプロジェクトから学んだ6つのステップを紹介します。①目標を明確にする（どのような最新技術に更新するか）、②基準を決める（完成したコードが満たすべき条件）、③承認ルートを設定する（変更を本番環境に反映させる手順）、④環境を整備する、⑤AI自動化ワークフローを構築する、⑥実行する。企業の規制要件や既存プロセスに合わせながら、事前にステークホルダー間の合意を形成することが成功の鍵です。",
+    "points": [
+      "AIエージェントはコード刷新を数ヶ月で完了可能にしたが、組織の承認プロセスが新たなボトルネック（制約）になる",
+      "刷新前に目標・基準・承認ルートの3つを明確に定義し、ステークホルダー間で合意を形成する必要がある",
+      "セキュリティテストや動作確認など、自動でチェック可能な基準を設定することで、人間による細かい審査を減らせる",
+      "規制が厳しい業界では事前のリーダーシップ判断と組織横断的な準備が特に重要",
+      "既存テストが不足している場合は、AIを活用してテストを先に整備することが後の効率化につながる"
+    ],
+    "analogy": "家の大規模リノベーションを考えてください。工事自体が数ヶ月で終わるようになったとしても、家族全員の合意、銀行融資の承認、建築確認申請など、事前の手続きと調整に時間がかかります。同じように、AIが自動でコードを書く時間は短くなっても、企業全体での『このコード変更でいいね』という判断と承認プロセスが、プロジェクト全体の速度を決めるわけです。",
+    "category": "企業AI",
+    "summarized": true
+  },
+  "claude:claude-marketplace": {
+    "source": "claude",
+    "slug": "claude-marketplace",
+    "url": "https://claude.com/blog/claude-marketplace",
+    "title_original": "Claude Marketplace: plugins and connectors, products and agents, and service partners",
+    "title_ja": "Claude マーケットプレイス：プラグイン、エージェント、パートナーサービスが一堂に",
+    "description": "The Claude Marketplace brings plugins, connectors, agents, and service partners into one place. Find the tools and services to do more with Claude, or list what you've built to reach teams using Claude.",
+    "published": "2026-09-23",
+    "lastmod": "2026-09-23",
+    "summary": "Anthropic は「Claude マーケットプレイス」を立ち上げました。これは Claude（AI アシスタント）をさらに便利にするツールやサービスをまとめた場所です。ユーザーは Google や Salesforce、Notion など 2,000 以上のプラグイン（拡張機能）から選べます。また、AI を活用した製品の購入や、Accenture などのコンサルティング企業への相談も可能です。開発者やパートナー企業にとっても、Claude ユーザーに自分たちのサービスを紹介しやすくなりました。要は、Claude を中心にした「ツールと企業の集合場所」ができたということです。",
+    "points": [
+      "Claude マーケットプレイスは、2,000 以上のプラグイン（拡張機能）とコネクタ（連携ツール）を一つの場所で検索・利用できる",
+      "ユーザーは既存予算の一部を使って、AI を活用した製品やコンサルティングサービスを購入できる",
+      "Atlassian、Salesforce、Snowflake など大手企業が参加し、Claude との連携を強化している",
+      "開発者やパートナー企業にとって、Claude ユーザーに到達しやすくなるプラットフォームが実現した",
+      "MCP（Model Context Protocol）などのオープン規格を活用した統一的な拡張体系を採用"
+    ],
+    "analogy": "例えるなら、Claude マーケットプレイスはショッピングモールのようなものです。従来は「Google 連携はここ、Salesforce 連携はあそこ」と探し回る必要がありましたが、今はモール内に全て揃っているので、欲しいサービスが一度に見つかる感じです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
