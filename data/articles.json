@@ -8474,5 +8474,47 @@
     "analogy": "例えるなら、Claude マーケットプレイスはショッピングモールのようなものです。従来は「Google 連携はここ、Salesforce 連携はあそこ」と探し回る必要がありましたが、今はモール内に全て揃っているので、欲しいサービスが一度に見つかる感じです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:claude-tag-now-supports-personal-connectors-in-channels": {
+    "source": "claude",
+    "slug": "claude-tag-now-supports-personal-connectors-in-channels",
+    "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
+    "title_original": "Claude Tag now supports personal connectors in channels",
+    "title_ja": "Claude Tag が個人用コネクタをチャネルで利用可能に",
+    "description": "Claude Tag can now use your connectors for requests you make in a channel. Nobody else can use them, and you're in control of how to present the output.",
+    "published": "2026-09-24",
+    "lastmod": "2026-09-24",
+    "summary": "ClaudeをSlackチャネルに追加できる「Claude Tag」が、アップデートされました。これまでは管理者が設定した共有ツールしか使えませんでしたが、今後は個人のGoogleドライブやカレンダーなど、あなた個人が接続したツール（コネクタ）もチャネル内で利用できるようになります。あなたのツールなので、他のチームメンバーは使用できません。Claudeが個人ツールにアクセスするときは、応答内容を確認してから投稿するか、自動投稿するかを選べます。企業プランでは管理者が確認を義務付けることも可能。セキュリティログは個人のアカウント名義で記録され、チャネル全体の安全性も保たれます。",
+    "points": [
+      "個人用ツール（カレンダー、ドライブ、CRMなど）をチャネル内で直接利用可能に",
+      "他のチームメンバーはあなたの個人ツールにはアクセスできない完全プライベート",
+      "自動モード（内容確認後自動投稿）と確認モード（手動投稿）から選択可能",
+      "すべてのアクセス記録はあなた個人のアカウント名義で記録される",
+      "Team プランから順次展開、Enterprise プランへも対応予定"
+    ],
+    "analogy": "これまでは図書館（チャネル）の本棚（共有ツール）から情報を取ってくるだけでしたが、今後は自分の家（個人アカウント）にある資料も図書館で見せることができるようになった感じです。ただし、自分の家の資料は自分だけが見せるかどうか決められます。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:claude-opus-5-5-built-for-coding-sessions-that-use-more-context": {
+    "source": "claude",
+    "slug": "claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "title_original": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+    "title_ja": "Claude Opus 5.5：長時間のコーディングセッションに対応した新モデル",
+    "description": "Our latest Opus model is priced and trained to optimize costs for how developers code now.",
+    "published": "2026-09-24",
+    "lastmod": "2026-09-24",
+    "summary": "Anthropicが新しいAIモデル「Claude Opus 5.5」をリリースしました。このモデルは、開発者が実際にコーディングをする方法に合わせて設計されています。最大の特徴は、前のバージョンより約40%安い費用で利用できること。開発者のデータから、最近6ヶ月でコーディングセッションが長くなり、より多くの情報（コンテキスト）を使うようになったことが分かりました。Opus 5.5は「キャッシュ」（よく使う情報を一時保存する機能）を60%安くすることで、この傾向に対応しています。また、同じタスクをこなすために必要な工程が減ったため、さらに効率的になっています。",
+    "points": [
+      "Opus 5.5は前のバージョンより約40%安い費用で利用可能",
+      "開発者のコーディングセッションが長くなり、使う情報量が2.6倍に増加している傾向に対応",
+      "キャッシュ（情報の一時保存）の読み込みコストを60%削減",
+      "複雑なタスクで必要な工程が削減され、単純なタスクと同等の効率を維持",
+      "出力速度が30%以上高速化され、長時間の処理がより快適に"
+    ],
+    "analogy": "これは電力会社の料金プラン変更に例えられます。従来は、電気をたくさん使う大きな工場には割引がありませんでしたが、新しいプランでは『何度も使う常時接続の機器（キャッシュ）』を大幅に安くしました。工場が最近より複雑な作業をするようになったので、このプラン変更は工場の使い方にぴったり合っているわけです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
