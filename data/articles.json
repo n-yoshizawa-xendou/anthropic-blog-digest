@@ -8516,5 +8516,26 @@
     "analogy": "これは電力会社の料金プラン変更に例えられます。従来は、電気をたくさん使う大きな工場には割引がありませんでしたが、新しいプランでは『何度も使う常時接続の機器（キャッシュ）』を大幅に安くしました。工場が最近より複雑な作業をするようになったので、このプラン変更は工場の使い方にぴったり合っているわけです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:build-plugins-for-claude": {
+    "source": "claude",
+    "slug": "build-plugins-for-claude",
+    "url": "https://claude.com/blog/build-plugins-for-claude",
+    "title_original": "Build plugins for Claude with the directory submission portal",
+    "title_ja": "Claudeプラグイン開発者向け新ポータル公開、ディレクトリへの登録がより簡単に",
+    "description": "Submit plugins to the Claude directory through a new directory submission portal. Package MCP connectors and Agent Skills, track your plugin through review, and see how it's used and found once it's live",
+    "published": "2026-09-25",
+    "lastmod": "2026-09-25",
+    "summary": "Anthropic社のクロード（Claude）は、開発者がプラグイン（拡張機能）をクロードディレクトリに登録できる新しいポータルをオープンしました。開発者は単一のMCPコネクタ（データを接続する部品）またはプラグインバンドルを提出できます。ポータルでは自動検証、安全性スキャン、審査状況の追跡が可能です。承認後は使用統計が見られ、インストール数や検索経由の流入などの分析により、プラグインの改善に役立てられます。MCP 2.0という最新規格に対応し、チャット内の対話的なUIやエンタープライズユーザー向けの認証機能なども利用できるようになっています。",
+    "points": [
+      "クロードディレクトリに登録するための専用ポータルが開設され、開発者は簡単にプラグインを提出・審査追跡できるようになった",
+      "提出時に自動検証と安全性スキャンが実施され、問題を早期に発見できる仕組みが用意されている",
+      "プラグイン公開後、ユーザー数、インストール数、検索キーワードなどの詳細な使用分析が得られる",
+      "MCP 2.0対応により、チャット内での高度なUI表示やエンタープライズ向けの認証機能が実装可能",
+      "既存のスキルやコネクタも継続利用でき、将来的にはそれらをプラグイン化できる予定"
+    ],
+    "analogy": "これは、アプリストア（App StoreやGoogle Playなど）で開発者がアプリを登録・公開するプロセスに似ています。開発者は新しい入口（ポータル）を通じてアプリを提出し、審査を受けて承認されると公開され、その後の利用状況をリアルタイムで確認できるという流れが同じです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
