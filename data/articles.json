@@ -8537,5 +8537,26 @@
     "analogy": "これは、アプリストア（App StoreやGoogle Playなど）で開発者がアプリを登録・公開するプロセスに似ています。開発者は新しい入口（ポータル）を通じてアプリを提出し、審査を受けて承認されると公開され、その後の利用状況をリアルタイムで確認できるという流れが同じです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:giving-companies-more-control-over-their-ai-agents-with-nvidia": {
+    "source": "claude",
+    "slug": "giving-companies-more-control-over-their-ai-agents-with-nvidia",
+    "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+    "title_original": "Giving companies more control over their AI agents, with NVIDIA",
+    "title_ja": "NVIDIAとの協力で、企業がAIエージェント（自動作業システム）をより安全に管理できるように",
+    "description": "Anthropic has collaborated with NVIDIA to bring additional layers of security and control to the agent stack of its Open Agent Safety Platform.",
+    "published": "2026-09-28",
+    "lastmod": "2026-09-28",
+    "summary": "AnthropicがNVIDIAと協力し、企業がAIエージェント（人間に代わって自動的に仕事を行うAI）をより安全に管理できるシステムを発表しました。新しい「Claude Managed Agents」は、パスワードなどの重要な情報を別の金庫に保管してAIが見られないようにします。また、NVIDIAの「OpenShell」というソフトウェアを組み合わせることで、AIが何をできるか、何をしたかを細かく制御・確認できます。例えば、NotionやAsanaなどのツールを使う企業では、AIに複数の業務を同時に任せながら、その行動を安全に監視できるようになります。",
+    "points": [
+      "パスワードなどの認証情報を金庫に保管し、AIエージェントが直接見られないようにする仕組みが導入される",
+      "複数の安全保障層を用意することで、単一の仕組みに頼らず、より堅牢なセキュリティを実現している",
+      "OpenShellで「最小限の権限の原則」を採用し、必要最小限のアクセス権限のみを与えることができる",
+      "Notion、Rakuten、Asanaなど実際の企業がこの技術を使って、複数のAIエージェントを並行運用している",
+      "OpenShellはオープンソース（無料で改変・利用可能）として提供され、誰でも利用できる"
+    ],
+    "analogy": "このシステムは、銀行の金庫システムに似ています。銀行員（AIエージェント）に金庫の鍵を持たせず、上司（OpenShell）が『この銀行員は今日はA階の北側にだけアクセス可能』という指示を出し、銀行員がやることをすべて記録・確認する感じです。これにより、銀行員が不正をしたくてもできない仕組みになっています。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
