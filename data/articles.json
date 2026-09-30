@@ -8558,5 +8558,26 @@
     "analogy": "このシステムは、銀行の金庫システムに似ています。銀行員（AIエージェント）に金庫の鍵を持たせず、上司（OpenShell）が『この銀行員は今日はA階の北側にだけアクセス可能』という指示を出し、銀行員がやることをすべて記録・確認する感じです。これにより、銀行員が不正をしたくてもできない仕組みになっています。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "claude:agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude": {
+    "source": "claude",
+    "slug": "agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+    "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+    "title_original": "Agents you can coach: how Asana builds human-agent teams with Claude",
+    "title_ja": "Asanaが実現するAIエージェント：人間とAIが一緒に働くチームの構築方法",
+    "description": "Arnab Bose, Chief Product Officer at Asana, on how Asana runs Claude-powered AI agents as teammates with scoped roles, shared memory, and work that everyone can see.",
+    "published": "2026-09-29",
+    "lastmod": "2026-09-29",
+    "summary": "Asanaは、Claude（AI）を使ったAIエージェント（人工知能アシスタント）を人間の同僚のようにチームに組み込む方法を発表しました。重要なポイントは、AIエージェントに明確な役割を与え、アクセス権を制限し、全員が作業内容を見られるようにすることです。例えば、顧客サポートの質問に自動で答えたり、経営陣向けのレポートを毎日作成したり、エンジニアリング計画を支援したりしています。人間がAIエージェントを指導・訓練できる仕組みや、すべての作業が透明に記録される仕組みを整備することで、AIと人間が効果的に協力できるチームが実現しました。",
+    "points": [
+      "AIエージェントに明確な役割、アクセス権、責任者を設定し、人間の同僚と同じように管理する",
+      "AIエージェントの作業は全員が見られるようにして、透明性と説明責任を確保する",
+      "管理者のみがAIの学習内容を永続的に記録・修正でき、一般ユーザーはフィードバックのみ提供できる分離構造",
+      "Asanaの実例：顧客質問への自動回答、経営幹部向け日報作成、エンジニアリング計画管理にAIを活用",
+      "不明確な情報をClaudeで整理してから、構造化された形でAsanaに登録することで、AIエージェントが効果的に動作する"
+    ],
+    "analogy": "AIエージェントは、新入社員の育成に似ています。最初は上司が仕事内容や判断基準を教え（訓練）、その後は独立して仕事をこなします。ただし、重要な判断は上司が確認し、間違いがあれば指導します。全員が新入社員の作業プロセスを見られるため、チーム全体で成長を促進できます。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
