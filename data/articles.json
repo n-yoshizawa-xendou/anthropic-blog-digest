@@ -8579,5 +8579,47 @@
     "analogy": "AIエージェントは、新入社員の育成に似ています。最初は上司が仕事内容や判断基準を教え（訓練）、その後は独立して仕事をこなします。ただし、重要な判断は上司が確認し、間違いがあれば指導します。全員が新入社員の作業プロセスを見られるため、チーム全体で成長を促進できます。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "claude:claude-for-government-is-now-generally-available": {
+    "source": "claude",
+    "slug": "claude-for-government-is-now-generally-available",
+    "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+    "title_original": "Claude for Government is now generally available",
+    "title_ja": "政府機関向けClaudeが一般利用可能に、セキュリティと管理機能を強化",
+    "description": "Claude Code CLI and Claude for Microsoft 365 also now available in early access.",
+    "published": "2026-09-30",
+    "lastmod": "2026-09-30",
+    "summary": "Anthropicは政府機関向けの「Claude for Government」を一般公開しました。FedRAMP High（政府のセキュリティ認証）の要件を満たしながら、AIアシスタント「Claude」の機能を提供します。政府職員は文書作成やプログラミング、データ分析などの業務をこなせます。特徴は充実した管理機能で、部門ごとに予算上限を設定したり、システムアクセスを監視したり、使用状況を追跡できます。支払いは従量制で、予算を超えない仕組みになっています。同時に「Claude Code」（プログラミング支援ツール）と「Microsoft 365向けClaude」も先行公開が始まりました。",
+    "points": [
+      "FedRAMP High認証を取得した政府機関向けClaudeが正式リリース。7月からのベータ期間を経て一般利用可能に",
+      "部門ごとの予算管理、ユーザー権限設定、監査ログ記録など、政府機関のニーズに合わせた管理機能を装備",
+      "従量課金制で支出額に上限を設定できるため、予算を超過する心配がない",
+      "会話データはユーザーのパソコンに保存されるため、機密情報の取り扱いが厳格",
+      "新機能の「Claude Code CLI」とMicrosoft 365連携も先行アクセスで利用可能"
+    ],
+    "analogy": "銀行の子会社管理システムと同じように、本社（中央政府）が各支店（各部門）の予算枠を設定し、支店長が部下の権限を管理でき、すべての取引記録が監査できる仕組みです。",
+    "category": "製品アップデート",
+    "summarized": true
+  },
+  "claude:how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents": {
+    "source": "claude",
+    "slug": "how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+    "url": "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+    "title_original": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
+    "title_ja": "Anthropic営業チームがクロード管理エージェントで顧客対応を革新",
+    "description": "How a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works",
+    "published": "2026-09-30",
+    "lastmod": "2026-09-30",
+    "summary": "Anthropicの営業チームは、AI（人工知能）を活用した「購入エージェント」を導入し、顧客対応プロセスを大幅に改善しました。従来は数千件の顧客問い合わせに対応しきれず、返答に数日かかっていましたが、エージェントが24時間体制で基本的な質問に即座に答えるようになりました。その結果、営業担当者に転送される顧客は従来の2倍以上の成約率を達成し、契約成立が約5日間早まりました。エージェントは価格やセキュリティなどの質問に自動回答し、複雑な案件だけを営業担当者に引き継ぐため、営業チームはより戦略的な顧客対話に時間を使えるようになっています。",
+    "points": [
+      "AI購入エージェントが毎日数千の顧客会話を処理し、24時間体制で即座に回答を提供",
+      "営業チームへ転送された顧客の成約率が従来の2倍以上に向上し、契約締結が約5日間短縮",
+      "営業担当者はより教育的で準備の整った顧客と接するため、効率が2.5倍向上した事例も報告",
+      "エージェントは顧客にとって最適なプランを提案し、過度な営業を避けることで顧客満足度が向上",
+      "シンプルなプロンプトと目標設定が複雑な指示より効果的であることが判明"
+    ],
+    "analogy": "従来の営業プロセスは、受付係が全ての来客対応をしていたようなもので、基本的な案内や説明で時間がかかっていました。今は、自動案内機（エージェント）が簡単な質問に答え、複雑な相談だけ営業担当者に繋ぐことで、全員の時間が有効活用されるようになったイメージです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
