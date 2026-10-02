@@ -8621,5 +8621,47 @@
     "analogy": "従来の営業プロセスは、受付係が全ての来客対応をしていたようなもので、基本的な案内や説明で時間がかかっていました。今は、自動案内機（エージェント）が簡単な質問に答え、複雑な相談だけ営業担当者に繋ぐことで、全員の時間が有効活用されるようになったイメージです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:barclays-scales-claude": {
+    "source": "anthropic",
+    "slug": "barclays-scales-claude",
+    "url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "title_original": "Barclays scales Claude to upgrade operations and improve client experience",
+    "title_ja": "バークレイズ銀行、Claude AIを導入して業務効率化と顧客サービス向上を実現",
+    "description": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+    "published": "2026-10-01T15:19:00.000Z",
+    "lastmod": "2026-10-01T09:16:50.000Z",
+    "summary": "イギリスの大手銀行バークレイズが、AI企業Anthropicと戦略的提携を拡大し、Claude（クロード）というAIシステムを全世界の業務に統合しています。ソフトウェア開発の高速化や顧客対応の改善に活用されており、16,000人以上の従業員がすでにClaudeを使用する知識検索ツールを利用。毎日12万件のメール処理も自動化しています。2027年までに大多数のソフトウェアエンジニアがClaudeを使用する予定で、セキュリティと適切な監視のもとで責任あるAI導入を進めています。",
+    "points": [
+      "バークレイズが従業員向けの知識検索ツールにClaudeを導入、16,000人以上が利用して顧客サービスを迅速化",
+      "毎日12万件のメール処理をClaudeで自動分類・最適ルーティングして、業務効率を向上",
+      "2026年末までにソフトウェア開発者の50%、2027年までに大多数がClaudeを採用する計画",
+      "セキュリティと人間による監視を重視し、金融機関として高い基準でAIを責任を持って導入",
+      "複雑なシステム近代化や顧客体験向上など、実際のビジネス成果を重視した活用を展開"
+    ],
+    "analogy": "バークレイズのClaudeの導入は、従来の図書館司書が本を探すのに時間がかかっていたのに対し、優秀な秘書が瞬時に必要な情報を見つけて提供するようなものです。また、膨大なメール処理は、郵便局で手作業で仕分けしていた作業が、スマートな自動仕分け機で効率化されるイメージに近いです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "claude:claude-code-mods": {
+    "source": "claude",
+    "slug": "claude-code-mods",
+    "url": "https://claude.com/blog/claude-code-mods",
+    "title_original": "Customize Claude Code with mods in TypeScript",
+    "title_ja": "Claude CodeをTypeScriptの「mod」でカスタマイズ可能に",
+    "description": "Mods are small TypeScript functions that change how Claude Code works. Rewrite prompts, block risky commands, add custom UI, or replace built-in features. Write one yourself or ask Claude Code to write it, then share it as a plugin.",
+    "published": "2026-10-01",
+    "lastmod": "2026-10-01",
+    "summary": "Anthropicは、Claude Code（AI開発アシスタント）を自由にカスタマイズできる「mod」機能を発表しました。Modは小さなTypeScript関数で、プロンプト（指示文）の書き換え、危険なコマンドのブロック、UIの追加、機能の置き換えなどが可能です。ユーザーが自分で作成することもできますし、Claude Code自体に作成させることもできます。複数のmodを組み合わせて使用でき、チームや企業向けにはセキュリティ管理機能も用意されています。プラグイン形式で配布・共有でき、Claude CodeのCLI版とデスクトップ版で利用できます。",
+    "points": [
+      "小さなTypeScript関数「mod」でClaude Codeの動作をカスタマイズでき、プロンプト書き換えやUI追加が可能",
+      "ユーザーが自作することも、Claude Code自身に作成させることも可能で、プラグインとして共有できる",
+      "複数のmodを組み合わせて使用でき、異なる作成者のmodもスタックして動作できる",
+      "企業向けには『security default』というセキュリティ機能が用意され、管理者が危険な操作をブロックできる",
+      "将来的には現在の組み込み機能もmodに移行予定で、ユーザーが必要な機能だけを選べるようになる予定"
+    ],
+    "analogy": "modは、スマートフォンのアプリ開発キットのような存在です。スマートフォンの基本機能（電話、メール）はそのままですが、ユーザーやアプリ開発者がアプリをインストールして機能を追加・カスタマイズするように、Claude Codeも基本機能に加えてユーザーが小さな関数（mod）を組み込んで自分好みにカスタマイズできるようになったということです。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
