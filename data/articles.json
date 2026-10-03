@@ -8663,5 +8663,26 @@
     "analogy": "modは、スマートフォンのアプリ開発キットのような存在です。スマートフォンの基本機能（電話、メール）はそのままですが、ユーザーやアプリ開発者がアプリをインストールして機能を追加・カスタマイズするように、Claude Codeも基本機能に加えてユーザーが小さな関数（mod）を組み込んで自分好みにカスタマイズできるようになったということです。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:claude-frontier-academy": {
+    "source": "anthropic",
+    "slug": "claude-frontier-academy",
+    "url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "title_original": "Claude Frontier Academy: $100M to train 10,000 engineers",
+    "title_ja": "Claude Frontier Academy：1億ドルで1万人のエンジニアを育成",
+    "description": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+    "published": "2026-10-02T23:01:00.000Z",
+    "lastmod": "2026-10-02T17:12:50.000Z",
+    "summary": "AI企業のAnthropicが、企業向けのAI人材不足を解決するため「Claude Frontier Academy」を立ち上げました。2027年末までに1万人の「Frontier Deployed Engineers（フロンティア展開エンジニア）」を育成する1億ドル規模の投資です。医学部の研修制度をモデルにした教育プログラムで、実際の企業課題に取り組みながら学びます。最初の研修生はアクセンチュア、ベイン、デロイト、マッキンゼーなど世界大手企業から参加しており、修了者には認定バッジが授与されます。このプログラムは、AIを実際のビジネスに導入できる高度なスキルを持つ人材の育成を目指しており、AI企業による初めての本格的な才能育成投資とされています。",
+    "points": [
+      "Anthropicが1億ドルを投じて、2027年末までに1万人のAIエンジニアを育成する",
+      "医学部の研修制度をモデルにした実践的なプログラムで、理論と実践を組み合わせた学習を実現",
+      "最初の研修は数日間の集中講座の後、12週間の実務研修を行い、修了時に認定バッジを授与",
+      "アクセンチュア、デロイト、マッキンゼーなど世界大手企業が初期の研修に参加",
+      "企業のAI導入を加速させる高度なスキルを持つ人材の確保が目的"
+    ],
+    "analogy": "医学部の学生が座学だけでなく、実際の患者さんの治療に携わりながら医者になっていくように、このプログラムではAIエンジニアが企業の実際のAI導入プロジェクトに関わりながら、実践的なスキルを身につけていきます。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
