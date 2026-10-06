@@ -8684,5 +8684,26 @@
     "analogy": "医学部の学生が座学だけでなく、実際の患者さんの治療に携わりながら医者になっていくように、このプログラムではAIエンジニアが企業の実際のAI導入プロジェクトに関わりながら、実践的なスキルを身につけていきます。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "claude:how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk": {
+    "source": "claude",
+    "slug": "how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+    "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+    "title_original": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+    "title_ja": "Crestaが顧客体験の専門知識をClaudeエージェントビルダーに活かす方法",
+    "description": "See how Cresta built Conductor, an agent that builds other agents, on the Claude Agent SDK, and how the team evaluates it with every new Claude model.",
+    "published": "2026-10-05",
+    "lastmod": "2026-10-05",
+    "summary": "Crestaは、顧客サービス分野での豊富な経験を活かして「Conductor」というツールを開発しました。これは、AIエージェント（自動対応するプログラム）を作成するための支援ツールです。Conductorは、複雑なビジネスルールを理解して、初期配置時間をおよそ半分に短縮できます。Crestaは、Claude Agent SDK（開発用の基盤システム）を使用することで、チームが効率的にエージェントを構築・改善できるようにしました。重要な特徴は、導入後も継続的にテストと改善を行う仕組みが組み込まれていることです。つまり、顧客対応ロボットがビジネスルール変更に対応して進化し続ける設計になっています。",
+    "points": [
+      "Conductorは『エージェントを作るエージェント』で、開発チームが自動対応プログラムを素早く構築できるツール",
+      "Claude Agent SDKを基盤として使用し、カスタマーサービス分野での専門知識を組み込んだ",
+      "導入時間をおよそ50%削減でき、United Airlines、CVS、Marriottなど大企業で実際に活用されている",
+      "柔軟な対応が必要な場面と厳密なルール適用が必要な場面を自動判断する仕組みを搭載",
+      "継続的な評価と改善システムが組み込まれ、新しいClaudeモデル導入時も安全に検証できる"
+    ],
+    "analogy": "Conductorは『レシピ本を使って料理するのではなく、AIシェフが料理人に代わって『どんな料理を作るか』を聞きながら、最適な手順を自動で組み立ててくれるようなもの』です。さらに、その料理人の経験を学習して、次の料理作りに活かす賢さも持っています。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
