@@ -8705,5 +8705,26 @@
     "analogy": "Conductorは『レシピ本を使って料理するのではなく、AIシェフが料理人に代わって『どんな料理を作るか』を聞きながら、最適な手順を自動で組み立ててくれるようなもの』です。さらに、その料理人の経験を学習して、次の料理作りに活かす賢さも持っています。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:cyber-verification-program": {
+    "source": "anthropic",
+    "slug": "cyber-verification-program",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "title_original": "Expanding the Cyber Verification Program",
+    "title_ja": "サイバーセキュリティ専門家向けの検証プログラムを大幅拡大",
+    "description": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+    "published": "2026-10-06T19:00:00.000Z",
+    "lastmod": "2026-10-06T19:39:32.000Z",
+    "summary": "Anthropicは、セキュリティ専門家向けの「サイバー検証プログラム」を拡大し、3つのアクセスレベルを導入しました。これにより、セキュリティチームが自分たちの仕事に合わせた高度なAI機能を利用できるようになります。防御的な作業に使う「ディフェンスアクセス」、ペネトレーションテスト向けの「レッドチームアクセス」、重要インフラ保護向けの「スペシャライズドアクセス」の3段階があります。過去6ヶ月間のパイロットプログラムでは、AIが12万9000以上の脆弱性（システムの弱点）発見を支援し、セキュリティチームの作業効率が数ヶ月から数年分向上したとのことです。悪用を防ぎながらも、防御側に必要な強力なツールを提供するバランスを取ろうとしています。",
+    "points": [
+      "3段階のアクセスレベルで、セキュリティチームが必要な機能を申請できるようになった",
+      "過去6ヶ月で12万9000以上の脆弱性発見を支援し、セキュリティ向上に大きく貢献",
+      "悪意のある利用を防ぐため、リアルタイム監視と段階的な安全措置を実施",
+      "一般向けAIには強い制限がありますが、認定セキュリティ専門家にはより強力な機能を開放",
+      "データ保護機能「EFS」で組織のプライバシーと安全性の両立を目指す"
+    ],
+    "analogy": "これは「正規の警察官には武装を認めるが、一般市民には規制する」というのと同じ考え方です。セキュリティ専門家は悪いことから守るために強力なツールが必要ですが、悪用する人には与えてはいけません。Anthropicは専門家かどうかを厳しく確認することで、その区別をしています。",
+    "category": "企業ニュース、セキュリティ、製品アップデート",
+    "summarized": true
   }
 }
