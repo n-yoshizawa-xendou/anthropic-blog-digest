@@ -8726,5 +8726,68 @@
     "analogy": "これは「正規の警察官には武装を認めるが、一般市民には規制する」というのと同じ考え方です。セキュリティ専門家は悪いことから守るために強力なツールが必要ですが、悪用する人には与えてはいけません。Anthropicは専門家かどうかを厳しく確認することで、その区別をしています。",
     "category": "企業ニュース、セキュリティ、製品アップデート",
     "summarized": true
+  },
+  "anthropic:anthropic-cyber-mission": {
+    "source": "anthropic",
+    "slug": "anthropic-cyber-mission",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "title_original": "Introducing the Anthropic Cyber Mission",
+    "title_ja": "Anthropic、社会を支えるシステムを守るための「サイバーミッション」を発表",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-08T09:04:16.632Z",
+    "lastmod": "2026-10-08T19:00:45.000Z",
+    "summary": "AI企業のAnthropicは、電力網や水道システムなどの重要インフラと、多くのソフトウェアの基盤となるオープンソースコードを守るための「Anthropic Cyber Mission」を開始しました。重要インフラ向けには「Critical Infrastructure Defense Program」を立ち上げ、最先端のAI技術と専門エンジニアを派遣して脆弱性を発見・修復します。オープンソース向けには「OSS Scanner」というサービスを無料提供し、AIが自動的にセキュリティ脆弱性をスキャンして修正案を提示します。サイバー攻撃者がAIを悪用する時代において、防御側も同等の力を持つ必要があることが背景にあります。",
+    "points": [
+      "重要インフラ（電力・水道・交通など）を守るため、大手セキュリティ企業と連携して最先端AIと専門家を投入する",
+      "オープンソースソフトウェアの脆弱性を自動スキャンして、保守者に無料でレポートする「OSS Scanner」を開始",
+      "現在、攻撃者はAIで高速に脆弱性を探す一方、防御側のツールはまだ行き渡っていない状況を改善することが目標",
+      "2年後にはAIが防御に有利になると予測し、その時までにセキュリティの基盤を強化したい考え",
+      "今後、政府や民間企業とも協力して、セキュリティ対策を拡大していく予定"
+    ],
+    "analogy": "例えるなら、銀行の金庫がハイテク盗難技術に狙われている状況と似ています。泥棒がドローンで金庫を探す時代になったら、銀行も同じドローン技術を使ってスキを塞ぐ必要があるということ。Anthropicは「防御側にも最新技術を無料で使わせよう」というアプローチを取っています。",
+    "category": "安全性、パートナーシップ、研究",
+    "summarized": true
+  },
+  "anthropic:2026-usage-policy-update": {
+    "source": "anthropic",
+    "slug": "2026-usage-policy-update",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "title_original": "2026 Usage Policy update",
+    "title_ja": "2026年の利用ポリシー更新：AIの悪用防止ルールを強化",
+    "description": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+    "published": "2026-10-08T17:00:00.000Z",
+    "lastmod": "2026-10-08T17:00:30.000Z",
+    "summary": "AI企業のAnthropicは、会話型AI「Claude」の利用ポリシーを更新しました。今回の主な変更は、Claudeの能力が進化する中で、既存のルールをより明確にしたものです。偽アカウントを使った情報操作キャンペーン、武器開発ソフトウェア、監視システムの悪用といった新たな脅威に対応するため、禁止事項を整理・強化しました。また、医療や金融など人々の生活に大きな影響を与える分野では、人間による確認を必須にするなど、リスク管理を徹底しています。11月12日から新ポリシーが適用されます。",
+    "points": [
+      "偽アカウントや虚偽情報を使った影響力操作キャンペーンを禁止する新セクションを設置",
+      "選挙関連のルールを明確化し、投票者への欺瞞や民主的プロセスの妨害に絞った禁止に変更",
+      "武器製造ソフトウェアやドローン制御システムなど、兵器開発に関わる技術支援を明確に禁止",
+      "市民的自由を脅かす監視システムの構築を明確に禁止する一方、正当な追跡活動（詐欺防止など）は許可",
+      "医療・金融などの重要な意思決定では、AI提案を人間が検証・承認することを必須化"
+    ],
+    "analogy": "これは医療における「セカンドオピニオン」のようなもの。重要な判断（治療方針や融資決定など）については、AIが提案した内容を、資格を持つ人間が必ず確認して最終判断することで、間違いや不正使用を防ごうという考え方です。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic:genesis-mission-commitment": {
+    "source": "anthropic",
+    "slug": "genesis-mission-commitment",
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "title_original": "Building on our commitment to American scientific discovery",
+    "title_ja": "米国の科学研究を支援：Anthropicが3年間で1億5000万ドルをGenesis Missionに投資",
+    "description": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+    "published": "2026-10-08T13:00:00.000Z",
+    "lastmod": "2026-10-08T15:49:10.000Z",
+    "summary": "AI企業のAnthropicは、米国政府の科学研究促進プロジェクト「Genesis Mission」に3年間で1億5000万ドルの投資を約束しました。この資金は、NASAや国立衛生研究所など15以上の政府機関の科学者たちがAnthropicの会話型AI「Claude」を利用できるようにするためのものです。具体的には、数百のプロジェクトに対してClaudeやAPIクレジット（利用料金）を提供し、融合エネルギーや量子コンピュータといった重要な科学分野でのサポートを行います。さらに、研究者向けの訓練やサポートも実施。これにより、米国の科学者たちが最先端のAI技術を活用して、より難しい科学的課題の解決を目指します。",
+    "points": [
+      "Anthropicが米国政府のGenesis Missionに3年間で1億5000万ドルを投資",
+      "NASA等15以上の政府機関の科学者がClaudeを利用可能に",
+      "数百のプロジェクトに対してAIツールとAPIクレジットを提供",
+      "融合エネルギーや量子コンピュータなど政府の最優先科学課題をサポート",
+      "研究者への訓練やサポート体制も整備"
+    ],
+    "analogy": "これは、優秀なアシスタント（Claude）をたくさんの大学の研究室に配置するようなもの。これまで大学や研究所の科学者たちが一人で困難な問題を解いていたのに対し、今後はAIという「頭の良いパートナー」がデータ分析や実験設計などで手助けすることで、研究スピードが大幅に向上します。",
+    "category": "パートナーシップ",
+    "summarized": true
   }
 }
