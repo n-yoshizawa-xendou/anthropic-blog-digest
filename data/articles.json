@@ -8789,5 +8789,47 @@
     "analogy": "これは、優秀なアシスタント（Claude）をたくさんの大学の研究室に配置するようなもの。これまで大学や研究所の科学者たちが一人で困難な問題を解いていたのに対し、今後はAIという「頭の良いパートナー」がデータ分析や実験設計などで手助けすることで、研究スピードが大幅に向上します。",
     "category": "パートナーシップ",
     "summarized": true
+  },
+  "anthropic:2026-us-midterms": {
+    "source": "anthropic",
+    "slug": "2026-us-midterms",
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "title_original": "Preparing for the 2026 US midterms",
+    "title_ja": "2026年米国中間選挙に向けたAIの安全対策強化",
+    "description": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+    "published": "2026-10-14T18:33:00.000Z",
+    "lastmod": "2026-10-14T21:01:13.000Z",
+    "summary": "AI企業のAnthropicは、Chatbot「Claude」が2026年の米国中間選挙で悪用されないよう、様々な安全対策を強化しました。調査によると、Claudeとの会話の約5.75%が政治関連で、選挙投票の勧誘はわずか0.01%と極めて稀です。Anthropicは政治的偏見がないか厳しくテストし、有権者登録や投票所情報など信頼できる情報への直接リンクを提供。さらに、虚偽情報の拡散やなりすまし行為などの不正利用を検出する自動分類システムを導入しました。独立した研究機関との協力で、フェイクニュースサイト運営や選挙詐欺などの多段階的な不正使用にも対応。外国勢力による選挙干渉の試みも複数検出・阻止しています。",
+    "points": [
+      "Claudeとの会話の5.75%が政治関連だが、投票勧誘要求は0.01%未満と極めて稀",
+      "信頼できる投票情報を会話内に直接統合し、有権者が正確な選挙情報にアクセス可能に",
+      "3つの独立研究機関との協力で政治的偏見をテストし、最新モデルは政治的中立性で99%達成",
+      "虚偽情報拡散やなりすまし、フェイクサイト構築などの不正利用を検出する新しい自動分類システムを導入",
+      "外国勢力による選挙干渉の試みを複数検出・防止し、関連アカウントを停止"
+    ],
+    "analogy": "Claudeの不正利用対策は、空港のセキュリティゲートのようなものです。直接的な危険行為は検出しやすいですが、危険な爆発物を複数の無害な部品に分けて持ち込もうとする行為も防ぐため、複数段階での検査システムを用意する必要があります。Anthropicも、ステップバイステップで組み立てられる悪質なキャンペーン全体を見張る新しいシステムを導入しました。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic:singapore-office-opening": {
+    "source": "anthropic",
+    "slug": "singapore-office-opening",
+    "url": "https://www.anthropic.com/news/singapore-office-opening",
+    "title_original": "Singapore office and government MOU",
+    "title_ja": "Anthropic、シンガポールに5番目のアジア太平洋オフィスを開設し、政府とAI安全協力の覚書に署名",
+    "description": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+    "published": "2026-10-14T08:30:00.000Z",
+    "lastmod": "2026-10-14T08:31:43.000Z",
+    "summary": "AI企業のAnthropicがシンガポール経済開発庁にオフィスを開設し、シンガポール政府とAI安全性・評価・責任ある導入に関する覚書（MOU）に署名しました。シンガポールはAnthropicにとって最も活動的な市場の一つで、AI助手「Claude」はGovTech Singapore、Grab、DBSなど数百万人が利用するサービスを支援しています。今回の契約により、AIの安全性テスト、人材育成、中小企業のAI導入支援、政府のAIスキル強化などで協力。シンガポール国民の人口比でのClaudeの利用率は世界2位で、予測の6倍という高い利用実績があります。",
+    "points": [
+      "Anthropicがシンガポールにアジア太平洋地域で5番目のオフィスを開設し、シンガポール政府とAI安全に関する覚書に署名",
+      "GovTech Singapore、Grab、DBSなど大手企業・政府機関がClaudeを活用し、効率化と業務改善を実現",
+      "AI安全性評価、テスト基準の策定、人材育成、中小企業のAI導入支援で政府と協力",
+      "シンガポール国民1人当たりのClaudeの利用率は世界2位で、人口からの予測の6倍という高い水準",
+      "デベロッパーコミュニティとの連携強化、Builder Summit開催など、開発者向けサポートも充実"
+    ],
+    "analogy": "これはちょうど、大手自動車メーカーが新しい国に工場を建設し、その国の運輸局と安全基準に関する協力協定を結ぶようなもの。地域の需要が高いので拠点を設置し、政府と一緒に安全で責任ある導入を進めることで、より多くの企業や市民がサービスを信頼して使えるようにするのです。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
