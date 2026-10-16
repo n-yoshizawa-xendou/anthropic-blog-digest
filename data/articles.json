@@ -8831,5 +8831,26 @@
     "analogy": "これはちょうど、大手自動車メーカーが新しい国に工場を建設し、その国の運輸局と安全基準に関する協力協定を結ぶようなもの。地域の需要が高いので拠点を設置し、政府と一緒に安全で責任ある導入を進めることで、より多くの企業や市民がサービスを信頼して使えるようにするのです。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:an-update-on-independent-evaluators": {
+    "source": "anthropic",
+    "slug": "an-update-on-independent-evaluators",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "title_original": "Anthropic update on independent evaluators",
+    "title_ja": "Anthropic、独立した外部評価者の受け入れを発表 - AI安全性の透明性向上へ",
+    "description": "Anthropic announces updates to embedding independent evaluators",
+    "published": "2026-10-15T17:20:00.000Z",
+    "lastmod": "2026-10-15T23:35:48.000Z",
+    "summary": "Anthropic（AI企業）は、自社のAIモデルと安全対策を評価する独立した外部評価者の受け入れを開始しました。NPO団体「METR」の6名のチームに、社員と同等のアクセス権を付与し、Anthropicの内部システムや安全対策を詳しく調査できるようにしています。公開できない情報（顧客データなど）を除き、評価結果は自由に公開でき、会社は結果を握りつぶせません。これは銀行の監視体制に似た仕組みで、自社だけでは見えないリスクを第三者に評価してもらう狙いです。SecureBioやAccentureなど複数の評価パートナーと段階的に協力を進め、業界全体の安全性向上に貢献する方針です。",
+    "points": [
+      "独立した外部評価者（METR）に社員並みのアクセス権を付与し、AIの安全性リスクを評価する仕組みを構築",
+      "評価結果の公開を企業が阻止できず、情報透明性と公開責任を強化",
+      "銀行監督と同じ論理で、第三者による深い監視を通じてAI業界全体の安全性向上を目指す",
+      "複数の評価パートナー（SecureBio、Accenture、Hugging Faceなど）と段階的に協力関係を構築中",
+      "白宮のAI超知能協定に署名し、業界全体でこのような独立評価の導入を推奨"
+    ],
+    "analogy": "これは銀行の監視制度と同じです。銀行は自分たちのリスク状況を最もよく知っていますが、外部の危険性は見落とす可能性があります。そこで規制当局が銀行内に検査官を駐在させて、内部から問題がないか監視します。同じように、Anthropicは自社のAIの危険性を最もよく知っていますが、中立的な第三者に内部に入ってもらい、見落としているリスクがないか検査してもらおうという考え方です。",
+    "category": "安全性",
+    "summarized": true
   }
 }
