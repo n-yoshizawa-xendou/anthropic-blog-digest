@@ -8852,5 +8852,26 @@
     "analogy": "これは銀行の監視制度と同じです。銀行は自分たちのリスク状況を最もよく知っていますが、外部の危険性は見落とす可能性があります。そこで規制当局が銀行内に検査官を駐在させて、内部から問題がないか監視します。同じように、Anthropicは自社のAIの危険性を最もよく知っていますが、中立的な第三者に内部に入ってもらい、見落としているリスクがないか検査してもらおうという考え方です。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic:public-benefit-fund": {
+    "source": "anthropic",
+    "slug": "public-benefit-fund",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "title_original": "Investing in the public benefit",
+    "title_ja": "社会貢献を重視：AnthropicがAI企業として利益を社会に還元する新基金を設立",
+    "description": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+    "published": "2026-10-18T16:49:35.513Z",
+    "lastmod": "2026-10-18T18:05:05.000Z",
+    "summary": "AI企業のAnthropicは、利益の社会還元を実現するため「Anthropic公共利益基金」を設立しました。現在5%の会社株を基金に充てることを承認申請中で、会社の価値が50%増えるたびに追加2%を加える独自の仕組みになっています。これは、経営幹部への報酬として株を配分する一般的な企業慣行ではなく、その代わりに社会貢献に充てるという転換です。創業者は80%の株式寄付を約束済みで、従業員の約50%も寄付マッチプログラムに参加しており、全体で約20%の株がすでに社会貢献に使われます。AI導入による労働市場への影響対策など、より大胆な取り組みが必要とされる課題に対して柔軟に対応できる仕組みです。",
+    "points": [
+      "Anthropicは会社の成長に応じて増える仕組みで、最大で会社株の約20%以上を社会貢献に充てます",
+      "これまでの経営幹部への株式報酬をやめ、代わりに社会利益を優先する価値観を実践します",
+      "AIが引き起こす労働者への悪影響対策など、研究機関や市民団体への寄付に活用する予定です",
+      "創業者と従業員の既存の寄付約束と合わせることで、計画的な社会還元を実現しています",
+      "基金は政治活動やロビイング活動には使わず、公益に限定される設計になっています"
+    ],
+    "analogy": "これはちょうど、利益が出るたびに株主配当を増やす代わりに、その分を社会福祉や教育に使うという家計の選択に似ています。会社が成功するほど、社会貢献できる額が自動的に増える仕組みは、成功と社会への責任をつなぎとめる賢い工夫です。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
