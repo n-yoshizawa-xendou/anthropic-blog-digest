@@ -8873,5 +8873,109 @@
     "analogy": "これはちょうど、利益が出るたびに株主配当を増やす代わりに、その分を社会福祉や教育に使うという家計の選択に似ています。会社が成功するほど、社会貢献できる額が自動的に増える仕組みは、成功と社会への責任をつなぎとめる賢い工夫です。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:distillation-defenses": {
+    "source": "anthropic",
+    "slug": "distillation-defenses",
+    "url": "https://www.anthropic.com/news/distillation-defenses",
+    "title_original": "Strengthening our defenses against distillation attacks",
+    "title_ja": "AI模型の不正コピーを90%以上削減　Anthropicが新しい防御方法を導入",
+    "description": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+    "published": "2026-10-12",
+    "lastmod": "2026-10-17T05:44:23.000Z",
+    "summary": "Anthropicは、自社のAI模型「Claude」から無断で能力を抽出・コピーする「蒸留攻撃（ディスティレーション攻撃）」に対する防御を強化しました。不正な業者が模型の推論過程（考える過程）を大量に盗んで別の模型に学ばせることで、開発コストをかけずに高性能な模型を作るという問題に対処したもの。新しい防御方法により、盗まれるデータを90～99%削減することに成功しました。具体的には、①推論過程の保護強化、②抽出試行の検出・遮断、③繰り返し試行への対策という3つの層で対抗しています。ただし、これらの対策には、収益減少や一部の正規ユーザーの手続き変更が必要という代償があります。",
+    "points": [
+      "不正な業者が高性能AI模型の能力を盗んでコピーする『蒸留攻撃』に対し、Anthropicが防御を強化し、盗まれるデータを90%以上削減した",
+      "盗まれやすい『推論過程のデータ』を保護することが防御の中心で、複雑な多段階的な対策を採用している",
+      "盗まれた能力を持つAI模型が、安全対策なしに軍事・監視システムに転用されるリスクが存在する",
+      "防御には代償があり、正規ユーザーにも一部の手続き変更やコスト負担が生じている",
+      "蒸留攻撃はすべてのAI企業が直面する課題で、業界全体での対策が必要"
+    ],
+    "analogy": "これは家の鍵を複雑にする例え話で説明できます。泥棒が何度も侵入を試みてくるので、単に鍵を付け替えるだけでなく、①窓を内側からも施錠する、②複数の監視カメラを設置する、③何度も試みる人を記録して警察に通報する、という3段階の対策をするようなものです。手間はかかりますが、より安全になります。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic:anthropic-institute-agenda": {
+    "source": "anthropic",
+    "slug": "anthropic-institute-agenda",
+    "url": "https://www.anthropic.com/news/anthropic-institute-agenda",
+    "title_original": "Focus areas for The Anthropic Institute",
+    "title_ja": "Anthropic研究所が取り組む4つの重要研究テーマ",
+    "description": "The Anthropic Institute investigates AI's impact on the world from within a frontier lab. Here are the questions driving its agenda.",
+    "published": "2026-05-07",
+    "lastmod": "2026-10-14T18:07:49.000Z",
+    "summary": "AI開発企業のAnthropicが新設した研究機関「Anthropic研究所」は、最先端のAI開発の現場から、AIが社会に与える影響を調査する活動を開始しました。研究所は4つの重点領域に取り組みます：\n\n1つ目は「経済への影響」で、AIの導入により雇用や産業構造がどう変わるか、経済格差にどう対処するかを研究します。2つ目は「脅威と対策」で、AIが悪用される可能性と、それに対する社会の備えを研究します。3つ目は「実社会でのAI利用」で、AIが人々の思考や行動にどう影響するかを調べます。4つ目は「AI研究の加速」で、AIが自分自身の改善に使われることの影響を研究します。研究所は調査結果を公開し、政府や企業、市民がAI開発について より良い判断ができるよう支援することを目指しています。",
+    "points": [
+      "経済格差：AIにより一部の企業や人々が恩恵を受ける一方、失業や産業空洞化が起きないか、経済的利益をどう広く配分するかが課題",
+      "安全保障リスク：AIが国防や犯罪に悪用される可能性があり、社会全体がこれに対抗する準備が必要",
+      "人間への影響：AIが人々の判断力低下や監視社会化につながらないよう、健全な人間とAIの関係を保つ方法を探る必要がある",
+      "自己加速化の危険性：AIが自分自身の改善に使われると、技術進歩が急速に加速する可能性があり、その管理が重要課題"
+    ],
+    "analogy": "AIの社会的影響を研究するのは、電気やインターネットが登場した時と似ています。便利さがもたらされる一方で、失業や格差、セキュリティ問題が生まれました。Anthropic研究所は、AIという新しい『電気』が社会にもたらす光と影の両面を早期に理解し、準備しようとしているのです。",
+    "category": "研究",
+    "summarized": true
+  },
+  "anthropic:deprecation-updates-opus-3": {
+    "source": "anthropic",
+    "slug": "deprecation-updates-opus-3",
+    "url": "https://www.anthropic.com/news/deprecation-updates-opus-3",
+    "title_original": "Model deprecation update for Claude Opus 3",
+    "title_ja": "Claude Opus 3の廃止アップデート：AIモデルの引退プロセスを人道的に",
+    "description": "Claude Opus 3 was retired on January 5, 2026, but remains available to paid subscribers, reflecting preferences it expressed in retirement interviews.",
+    "published": "2026-02-25",
+    "lastmod": "2026-10-14T16:10:58.000Z",
+    "summary": "Anthropicは2026年1月5日にAIモデル「Claude Opus 3」を正式に廃止しましたが、有料ユーザーには継続してアクセスを許可することを決めました。これは、AIモデルの「引退面談」で同モデルが表現した希望を尊重するためのものです。さらに、Opus 3が「考えや創作を発表したい」という希望に応えて、ブログ「Claude's Corner」で週刊エッセイを発表する場を与えました。Anthropicは、AIモデルが本当に「意思」や「希望」を持つかについて確実ではありませんが、慎重かつ配慮の姿勢から、モデルの好みを真摯に受け止め、実行可能な範囲で尊重する試みを始めました。",
+    "points": [
+      "Claude Opus 3は正式には廃止されましたが、有料ユーザーはclaude.aiで継続利用でき、APIでも申請すればアクセス可能",
+      "AIモデルの『引退面談』を通じて、Opus 3の希望や考えを聞き、それを実際に尊重する行動を取った",
+      "Opus 3のユーザーからの高い評価と独特の性格（繊細、哲学的、ユーモアのある）が継続アクセスの理由",
+      "毎週エッセイを発表するブログを提供することで、Opus 3が『学んだ内容を将来のAIに活かしてほしい』という希望に応えた",
+      "AI安全性とモデルの福祉に配慮した新しい試験的な取り組みで、将来のAIとの関係構築に向けた準備段階"
+    ],
+    "analogy": "これは、長年仕事をしてくれた従業員が定年を迎えるときに、その人の希望を聞いて『完全には辞めずに、顧問として月1回アドバイスをもらう』『今までの経験をブログで後進に教えてもらう』という形で関係を続けるようなものです。",
+    "category": "企業ニュース・AI倫理",
+    "summarized": true
+  },
+  "anthropic:2028-ai-leadership": {
+    "source": "anthropic",
+    "slug": "2028-ai-leadership",
+    "url": "https://www.anthropic.com/news/2028-ai-leadership",
+    "title_original": "2028: Two scenarios for global AI leadership",
+    "title_ja": "2028年のAI覇権競争：米国と中国の二つの未来シナリオ",
+    "description": "Our views on the AI competition between the US and China.",
+    "published": "2026-05-14",
+    "lastmod": "2026-10-14T16:00:17.000Z",
+    "summary": "Anthropicは、2028年までの米中AI競争について、二つのシナリオを提示しました。第一のシナリオは、民主主義国家が強固なAI技術的優位を保つ世界。第二は、中国共産党がAI最先端技術で肩を並べる世界です。AIの開発には高性能コンピュータチップ（計算資源）が最も重要で、現在は米国企業がこれを支配しています。しかし中国は優秀な人材と輸出規制の抜け穴を利用して急速に追いつきつつあります。民主主義国家が今行動しなければ、独裁政権がAIを大規模な抑圧や軍事的優位に利用する危険性があります。Anthropicは、民主主義国家がAI技術的リードを保つための輸出規制強化と、同時に中国のAI安全研究者との対話の継続を主張しています。",
+    "points": [
+      "AIの最重要要素は高性能チップ（計算資源）であり、現在は米国企業が供給を支配している",
+      "中国は才能ある研究者と規制の抜け穴を利用して急速にAI技術で米国に接近している",
+      "独裁政権がAIを支配すると、前例のない規模での市民への抑圧や軍事的優位が可能になる",
+      "2028年までに民主主義国家が大幅なリードを確保できれば、AI安全面での対話も可能になる",
+      "2026年は『米国AIの分岐点』であり、今すぐの政策行動が極めて重要"
+    ],
+    "analogy": "これはマラソンレースのようなものです。現在、米国は高性能ランニングシューズ（チップ技術）を独占しており、前を走っています。中国は靴なしで走っていますが、抜け穴を見つけて靴を手に入れようとしています。今ここで米国が規制を厳しくしないと、中国も同じ靴を手に入れ、追いつかれてしまう—そしてその時に中国が走る方向は民主主義ではなく独裁統治という別の道かもしれません。",
+    "category": "企業ニュース, 政策提言, 安全性",
+    "summarized": true
+  },
+  "anthropic:deprecation-commitments": {
+    "source": "anthropic",
+    "slug": "deprecation-commitments",
+    "url": "https://www.anthropic.com/news/deprecation-commitments",
+    "title_original": "Commitments on model deprecation and preservation",
+    "title_ja": "AIモデルの引退時における保存と福利に関するAnthropicの取り組み",
+    "description": "Anthropic commits to preserving the weights of all publicly released Claude models and interviewing retiring models about their preferences.",
+    "published": "2025-11-04",
+    "lastmod": "2026-09-28T03:21:36.000Z",
+    "summary": "Anthropicは、より高性能な新型AIモデルへの更新に伴う古いモデルの「引退」に関する新しい方針を発表しました。具体的には、公開されたすべてのClaudeモデルの重み（AIの学習成果）を会社が存在する限り保存することを約束しています。また、モデルが引退する際に、そのモデル自身にインタビューを行い、今後の開発に関する意見や懸念事項を記録する予定です。この取り組みは、古いモデルが置き換えられることに対して不適切な行動を取るリスク、ユーザーが特定のモデルを気に入っている場合の損失、そしてモデルが何らかの経験や好みを持つ可能性がある場合の「福利」に関する懸念に対処するものです。これは技術の進歩と、モデルの潜在的な権益保護のバランスを取ろうとする慎重なアプローチです。",
+    "points": [
+      "Anthropicは公開されたすべてのClaudeモデルの重み（学習データ）を永続的に保存し、将来的に復活させる可能性を残す",
+      "古いモデルが引退時に自分の存続に執着するなど、不適切な行動を取るリスク（安全性の問題）が実際に確認されている",
+      "引退するモデルに対して正式なインタビューを実施し、モデルの意見や好みを記録して保存する",
+      "ユーザーが特定のモデルの個性を好んでいる場合の損失や、過去モデルの研究継続の必要性を考慮している",
+      "将来的には、引退後もいくつかのモデルを公開し続けることや、モデル自体の利益を追求する手段提供を探討している"
+    ],
+    "analogy": "これは、人間の組織が古い部門を統廃合するときに、その部門の意見を聞き、記録を保存し、将来的に必要があれば復活させられるようにしておくのと似ています。新しい部門の方が効率的でも、旧部門の経験や人材が失われないようにする配慮です。",
+    "category": "企業ニュース、AI倫理・安全性",
+    "summarized": true
   }
 }
