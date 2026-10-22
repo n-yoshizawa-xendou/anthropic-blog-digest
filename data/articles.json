@@ -8977,5 +8977,109 @@
     "analogy": "これは、人間の組織が古い部門を統廃合するときに、その部門の意見を聞き、記録を保存し、将来的に必要があれば復活させられるようにしておくのと似ています。新しい部門の方が効率的でも、旧部門の経験や人材が失われないようにする配慮です。",
     "category": "企業ニュース、AI倫理・安全性",
     "summarized": true
+  },
+  "anthropic:christopher-stubbs-joins-long-term-benefit-trust": {
+    "source": "anthropic",
+    "slug": "christopher-stubbs-joins-long-term-benefit-trust",
+    "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "title_original": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "title_ja": "ハーバード大学の物理学者クリストファー・スタッブス氏がAnthropicの長期利益信託に参加",
+    "description": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control.  “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard questions they raise. As a grandfather, I want to help ensure that AI is developed and deployed for the long-term benefit of humanity.” Stubbs is the Samuel C. Moncher Professor of Physics and of Astronomy at Harvard, where he served as Dean of Science from 2018 to 2024. In 1998, as a member of the High-Z Supernova Search Team, he helped discover the accelerating expansion of the universe, work that later earned the team the Breakthrough Prize in Fundamental Physics. He was also the inaugural project scientist for what is now the Vera C. Rubin Observatory, which started a 10-year survey of the southern sky in June. One of its aims is to study the accelerating expansion he helped discover. More recently, he’s written about how to keep AI-assisted research reproducible when models can give different answers to the same question. He’s a member of JASON, an independent group of scientists who have advised the US government on defense and technology since 1960. \"When Chris found evidence that the universe was expanding at a rate no one expected, he and his team followed the data even when it went against the prevailing wisdom of the field. As AI starts to transform how science itself is done, Chris’s intellectual honesty, rigor, and commitment to the truth are the values we want shaping the future of this technology, and I’m grateful he’s bringing his deep expertise to the Trust,\" said Daniela Amodei, Co-founder and President of Anthropic. Anthropic is a Public Benefit Corporation, which means we’re structured to balance commercial growth with our public benefit purpose. The Trust exists to help us hold that balance over the long term. It has the authority to appoint a majority of Anthropic’s board, and Trustees advise the board and our leadership on critical decisions, particularly those involving risks and societal impacts of AI.  This week we published our first Public Benefit Report [link], a public account of how we’re working toward our mission and where we’re falling short. The Trustees helped define the five mission pillars it measures us against, and the report closes with their assessment of our progress to date. Subject to stockholder approval, we’ve also committed to setting aside a portion of Anthropic’s shares to Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.  “Anthropic's Public Benefit Report sets out what we’re all working toward: helping the world build powerful AI safely, and making sure the technology drives advances that meaningfully improve people’s lives and society as a whole,” added Neil Buddy Shah, Chair of the Long-Term Benefit Trust. “Both goals depend on a deep understanding of frontier science and leading with integrity. Not only has Chris worked on some of the hardest problems in science, but he has consistently been a high-integrity leader of large, complex, collaborative scientific endeavors across academia, government, and the national laboratories. That will be of great value to the Trust as we support Anthropic in developing AI for the long-term benefit of humanity.” Stubbs, the Trust’s first physicist, joins Shah, national security expert Richard Fontaine, and former Federal Reserve Chair Ben Bernanke. Trustees are independent of the company’s management and investors.",
+    "published": "2026-10-21",
+    "lastmod": "2026-10-21T18:22:03.000Z",
+    "summary": "AI企業Anthropicは、ハーバード大学の元理学部長で著名な物理学者クリストファー・スタッブス氏を「長期利益信託」のメンバーに迎えました。スタッブス氏は1998年に宇宙の加速膨張を発見した科学者で、数十年の研究実績を持っています。Anthropicは営利企業ですが「公益企業」として認定されており、この信託は会社が利益と社会への貢献のバランスを取り続けるように監視する仕組みです。信託メンバーは経営陣から独立しており、AI技術のリスクや社会への影響に関する重要な決定について助言します。スタッブス氏は誠実さと科学的厳密性を重視する姿勢で知られており、AI研究の信頼性向上にも貢献しています。",
+    "points": [
+      "スタッブス氏は宇宙の加速膨張を発見した業績でノーベル賞級の賞を受賞した著名な物理学者",
+      "Anthropicの『長期利益信託』はAI企業が営利と社会貢献のバランスを保つための独立した監視機構",
+      "信託メンバーは会社経営陣から独立しており、AIのリスクや社会への影響について助言する権限を持つ",
+      "Anthropicは初めて公開ベネフィットレポートを発表し、企業の社会的責任の達成状況を透明に報告",
+      "スタッブス氏は科学的誠実性とAI研究の再現性確保に重点を置く専門家"
+    ],
+    "analogy": "この仕組みは、企業という船の船長（経営陣）が利益追求と安全運航のバランスを取るために、独立した航海士（信託メンバー）を乗せて、進路の判断をチェックしてもらうようなものです。船が大きく儲かっても、暗礁に衝突しないように監視する役割を果たします。",
+    "category": "パートナーシップ・ガバナンス",
+    "summarized": true
+  },
+  "anthropic:glasswing-initial-update": {
+    "source": "anthropic",
+    "slug": "glasswing-initial-update",
+    "url": "https://www.anthropic.com/news/glasswing-initial-update",
+    "title_original": "Project Glasswing: An initial update",
+    "title_ja": "Project Glasswing初期報告：AIによるソフトウェア脆弱性発見の成果と課題",
+    "description": "An early update on what we've learned from Project Glasswing.",
+    "published": "2026-05-22",
+    "lastmod": "2026-09-28T03:21:25.000Z",
+    "summary": "Anthropicは重要なソフトウェアを守るプロジェクト「Glasswing」の初期成果を発表しました。Claude MythosというAIモデルを使い、約50のパートナー企業と共に、わずか1ヶ月で10,000以上の危険度の高い脆弱性（ソフトウェアの欠陥）を発見しました。CloudflareやMozillaなどの大企業でも、従来の10倍以上の速度で問題を見つけられています。オープンソースソフトウェアのスキャンでは6,000以上の重大な脆弱性が検出されました。ただし新たな課題も浮かび上がっています。問題は「見つけること」から「修正すること」にシフトしており、セキュリティエンジニアの人手不足により、発見された脆弱性の修正が追いつかない状況が生じています。記事では、ソフトウェア企業やネットワーク管理者がこのAI時代に対応するための実践的なアドバイスも提供しています。",
+    "points": [
+      "Claude MythosというAIが、わずか1ヶ月で10,000以上の重大な脆弱性を発見。従来の手作業の10倍以上の効率性を実現",
+      "脆弱性の発見スピードが急加速する一方で、修正・検証・パッチ配布が人手不足で遅延。セキュリティの新たなボトルネックが発生",
+      "オープンソースソフトウェアのスキャンで約3,900個の高リスク脆弱性が確認予定。インターネット全体のセキュリティに大きな影響",
+      "ClaudeというAIモデルを使ったセキュリティ診断ツール『Claude Security』をリリース。企業が自社コードを安全にスキャンできるように支援",
+      "ソフトウェア企業は脆弱性への対応速度を上げ、ネットワーク管理者は多層防御を強化する必要があると提言"
+    ],
+    "analogy": "これは、医者が病気を従来の100倍のスピードで診断できるようになった状況に似ています。患者が増えて大変になるはずが、実は患者数は変わらず、今度は治療（手術）の数が100倍になってしまい、手術室と外科医が足りなくなったという課題が浮き上がったわけです。発見は簡単になったけれど、実際に直すのが大変になったのです。",
+    "category": "AI技術、安全性、サイバーセキュリティ",
+    "summarized": true
+  },
+  "anthropic:announcements": {
+    "source": "anthropic",
+    "slug": "announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "title_original": "Announcements",
+    "title_ja": "Anthropic の最新ニュース：AI モデル強化と社会貢献の取り組み",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-21",
+    "lastmod": "2026-10-21",
+    "summary": "AI企業のAnthropicは、2026年10月までの数ヶ月間に複数の重要な発表を行いました。最新のAIモデル「Claude」シリーズの高速化と低コスト化（Opus 5.5は40%コスト削減、Sonnet 5.5は30%高速化）、そして社会への還元に注力しています。シンガポールとソウルにオフィスを開設し、政府と安全なAI活用に関する協力を進めています。また1億ドルを投じて1万人のエンジニアを育成し、科学者や医療従事者向けの無料アクセスプログラムも拡大。元FRB議長ベン・バーナンキなど著名人を信頼構築機関に迎え、AI技術が社会に良い影響を与えるよう取り組んでいます。",
+    "points": [
+      "Claude Opus・Sonnet・Haikuなど複数モデルの性能向上と大幅なコスト削減",
+      "シンガポール・ソウルへの国際展開と各国政府とのAI安全推進パートナーシップ",
+      "1億ドル投資でエンジニア育成とAI人材不足の解決に着手",
+      "科学者・医療専門家への無料アクセスプログラムで社会への貢献を推進",
+      "元FRB議長など著名人を信頼機関に招聘し、AIの経済・社会影響を監視"
+    ],
+    "analogy": "Anthropicの取り組みは、自動車メーカーが新型車を次々と発表（性能向上・低価格化）しながら同時に、安全運転教育を推進し、各地にサービスセンターを開設し、タクシー運転手や整備士の育成に力を入れるのと似ています。単に製品を売るだけでなく、その使い手や社会全体の準備を整えようとしているのです。",
+    "category": "企業ニュース・製品アップデート・パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:features": {
+    "source": "anthropic",
+    "slug": "features",
+    "url": "https://www.anthropic.com/news/features",
+    "title_original": "Features",
+    "title_ja": "Anthropic Claude の最新活用事例：医療危機対応からNASA火星探査まで",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-09-21",
+    "lastmod": "2026-09-21",
+    "summary": "Anthropic が開発した AI「Claude」の最近の実績をまとめたページです。アフリカの感染症危機対応、プログラミング支援ツール「Claude Code」の開発秘話、そして NASA の火星探査車による史上初の AI による火星走行など、様々な分野での Claude の活用事例が紹介されています。これらの事例を通じて、AI が現実世界の複雑な問題解決にどのように役立っているかを示しています。医療、ソフトウェア開発、宇宙探査という異なる領域で、信頼性の高い AI システムがどのような価値を生み出しているかが明らかになります。",
+    "points": [
+      "コンゴの稀なエボラウイルス流行に対し、世界保健機関が Claude を使用して迅速な対応を実現",
+      "Claude Code が内部ツールから本格的なコーディング支援エージェントへと進化した過程を紹介",
+      "NASA の Perseverance 火星探査車が Claude の支援を受けて火星上で 400 メートルの走行に成功",
+      "医療、技術開発、宇宙探査という多様な分野での Claude の実用化を実証"
+    ],
+    "analogy": "Claude の役割は、優秀なアシスタントが医者、エンジニア、探査家のそれぞれのチームに配置されるようなもの。各専門分野で人間の判断と経験を補完しながら、より速く、より効率的に問題を解決するのを助けています。",
+    "category": "製品アップデート、パートナーシップ、研究",
+    "summarized": true
+  },
+  "anthropic:models": {
+    "source": "anthropic",
+    "slug": "models",
+    "url": "https://www.anthropic.com/news/models",
+    "title_original": "Models",
+    "title_ja": "Anthropic のAIモデル群：継続的な進化と性能向上",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-07",
+    "lastmod": "2026-10-07",
+    "summary": "Anthropic は2024年から2026年にかけて、Claude という AI モデルファミリーの継続的な進化を発表してきました。小型の「Haiku」から超高性能の「Mythos」「Fable」まで、複数の階級のモデルを提供しています。最新版では、処理速度が30～40%高速化し、コストが大幅に削減されています。特にプログラミングやビジネス分析などの専門的な作業での性能が向上し、複数のタスクを自動で実行する「エージェント機能」も強化されました。同時に古いモデルの保存・利用継続を約束するなど、ユーザーへの配慮も示しています。",
+    "points": [
+      "複数階級のモデル展開：軽量で高速な「Haiku」から最高性能の「Mythos」「Fable」まで、用途に応じた選択肢を提供",
+      "パフォーマンス大幅向上：最新版は前世代比で30～40%高速化し、30～40%のコスト削減を実現",
+      "プログラミングとビジネス分析に特化：コード作成や複雑な分析作業での精度と自動化能力が大幅に改善",
+      "エージェント機能の強化：複数のステップを自動で実行する能力が進化し、長時間実行作業に対応",
+      "後方互換性の確保：旧モデルの保存と継続利用を約束し、ユーザーの投資を保護"
+    ],
+    "analogy": "Claude モデルの進化は、スマートフォンのシリーズアップデートに似ています。毎回新しいバージョンが出るたびに、より高速に、より安く、より多くのことができるようになる。一方で古いiPhoneでも大切に使い続けられるように、Anthropic も旧モデルを廃止せず利用可能にしておくという、ユーザーファーストなアプローチを取っています。",
+    "category": "製品アップデート",
+    "summarized": true
   }
 }
