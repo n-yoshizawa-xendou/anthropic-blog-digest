@@ -9081,5 +9081,110 @@
     "analogy": "Claude モデルの進化は、スマートフォンのシリーズアップデートに似ています。毎回新しいバージョンが出るたびに、より高速に、より安く、より多くのことができるようになる。一方で古いiPhoneでも大切に使い続けられるように、Anthropic も旧モデルを廃止せず利用可能にしておくという、ユーザーファーストなアプローチを取っています。",
     "category": "製品アップデート",
     "summarized": true
+  },
+  "anthropic:open-call-guest-investigators-life-sciences": {
+    "source": "anthropic",
+    "slug": "open-call-guest-investigators-life-sciences",
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "title_original": "Open call for guest investigators in the life sciences",
+    "title_ja": "生命科学の研究者を募集：Anthropicとの共同プロジェクト参加者を募る",
+    "description": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+    "published": "2026-10-22",
+    "lastmod": "2026-10-22T21:59:15.000Z",
+    "summary": "Anthropic（AI企業）は、生命科学の研究者を対象とした共同プロジェクト「ゲスト研究者プログラム」の参加者を募集しています。大学や非営利団体、政府の研究機関に所属する研究者が、Claudeという高度なAIを使用して、病気の治療法や新しい薬の発見に関する研究を行うことができます。プロジェクト期間は8〜12週間で、Anthropicの研究チームが無料でサポートを提供します。研究成果は論文として発表し、データやコードはオープンソース化される予定です。研究者は自分たちのデータの所有権を完全に保持でき、研究結果から得られた独立した研究への権利も持ちます。",
+    "points": [
+      "大学や研究機関の科学者がAnthropicのAI技術を無料で使用できる共同研究プログラム",
+      "8～12週間の短期集中プロジェクトで、医学や創薬などの生命科学分野の課題に取り組む",
+      "研究成果は公開され、研究者は自分のデータと研究結果の完全な所有権を保持",
+      "応募期間は約14日間、採用者には14日以内にメールで通知予定",
+      "Anthropicは生命科学への投資を拡大し、研究コミュニティをサポートする複数のプログラムを運営中"
+    ],
+    "analogy": "このプログラムは、レストランのシェフと食材会社が協力するようなもの。研究者（シェフ）が研究課題（新しい料理）を持ってAnthropicの高度なAIツール（高品質な食材と調理設備）を借りて、一定期間で成果を作り上げます。その結果をレシピ（論文）として世界に公開し、使用した食材の情報（データ）もシェアするという仕組みです。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:donating-agent-skills-to-the-agentic-ai-foundation": {
+    "source": "anthropic",
+    "slug": "donating-agent-skills-to-the-agentic-ai-foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "title_original": "Donating Agent Skills to the Agentic AI Foundation",
+    "title_ja": "Anthropic、AI エージェント向けスキル標準を業界団体に寄付",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-22",
+    "lastmod": "2026-10-22T17:48:51.000Z",
+    "summary": "Anthropic は、AI エージェント（自動化プログラム）に特定の知識や作業手順を教えるための開放標準「Agent Skills」を、業界団体の Agentic AI Foundation に寄付しました。この標準は、ChatGPT や GitHub Copilot など 70 以上のプラットフォームで採用されており、これまでに 100 万個以上のスキルが公開され、2 億 8 千万回以上インストールされています。寄付により、Agent Skills は特定企業に依存しない中立的な管理下に置かれ、開発者コミュニティがその発展に参加できるようになります。Anthropic は過去に同じ団体へ Model Context Protocol も寄付しており、一貫して技術の民主化を推進しています。",
+    "points": [
+      "Agent Skills は AI エージェントに特定の作業を効率的に学ばせるための標準で、ChatGPT など 70 以上のプラットフォームで使用されている",
+      "100 万個以上のスキルが開発者により公開され、広く採用されている実績がある",
+      "Anthropic が Linux Foundation 傘下の Agentic AI Foundation に寄付することで、ベンダー中立的な管理体制が実現される",
+      "Google や OpenAI など複数企業のエンジニアが協力して標準を維持・発展させる",
+      "開発者は AAIF に参加しなくても引き続き標準を使用・改善に貢献できる"
+    ],
+    "analogy": "Agent Skills は、AI エージェントのための「スキル本」のような存在です。料理人が様々な料理本を活用して技能を磨くように、AI エージェントもこれらのスキルを組み合わせることで、複雑な業務タスクを効率的にこなせるようになります。Anthropic がこの『スキル本』の管理を業界全体で行う組織に委ねたことで、誰もが自由にスキルを書いたり活用したりできるようになりました。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:partnerships": {
+    "source": "anthropic",
+    "slug": "partnerships",
+    "url": "https://www.anthropic.com/news/partnerships",
+    "title_original": "Partnerships",
+    "title_ja": "Anthropicのパートナーシップ戦略：世界中での急速な展開",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-08",
+    "lastmod": "2026-10-08",
+    "summary": "AI企業Anthropicは、自社のAIアシスタント「Claude（クロード）」を世界中に広げるため、大規模なパートナーシップ戦略を展開しています。PwC、KPMG、TCSなどの大手企業と協力し、数万人の従業員にClaudeを提供・導入。さらに政府機関（英国、オーストラリア、アルバータ州政府など）とも提携し、公共サービスや科学研究の効率化を実現しています。医療、教育、金融など多岐にわたる分野で、AIを活用した革新的なソリューション開発に取り組んでいます。Anthropicは大学教育、国際的な科学研究、社会課題解決にも投資し、AIの安全性と信頼性を重視しながら、グローバルな影響力を急速に拡大させています。",
+    "points": [
+      "大手コンサルティング企業（PwC、KPMG、TCS、DXC）との戦略的パートナーシップで、数十万人の従業員にClaudeを展開",
+      "政府機関（英国、オーストラリア、ルワンダ、アルバータ州など）と協力し、公共サービスや行政効率化を推進",
+      "医療・科学研究分野で100億ドル規模の投資（米国エネルギー省、Gates Foundation、医学研究機関など）",
+      "教育機関との提携で20,000人以上の学生にAI技術を提供し、次世代人材育成に注力",
+      "AIの安全性評価体制の構築（Accentureとの1000億円規模の共同投資）"
+    ],
+    "analogy": "Anthropicのパートナーシップ戦略は、スマートフォンOSのアプリエコシステムのようなものです。Apple iPhoneが様々なアプリ開発企業と協力して便利なアプリを増やしたように、Anthropicも多くの企業や機関と協力してClaudeを様々な場所に導入し、より多くの人の仕事や生活を助けるツールにしようとしています。",
+    "category": "パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:policy": {
+    "source": "anthropic",
+    "slug": "policy",
+    "url": "https://www.anthropic.com/news/policy",
+    "title_original": "Policy",
+    "title_ja": "Anthropic のポリシー・ニュースセンター：AI の安全性と責任ある開発への取り組み",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-15",
+    "lastmod": "2026-10-15",
+    "summary": "Anthropic は、AI システムの安全性と信頼性を確保するための積極的なポリシー活動を展開しています。独立した評価機関（METR など）に自社のシステムへのアクセスを提供し、透明性を確保。また、電力消費による消費者への影響をカバーすることを約束し、政策立案者と協力して AI の急速な発展に対応するための新しい制度設計を提案しています。さらに、教育支援や民主的な利益の保護、公共部門での活用促進など、社会全体の利益を考慮した取り組みを行っており、信頼できる AI 企業として責任ある発展を目指す姿勢が伝わってきます。",
+    "points": [
+      "独立した第三者評価機関（METR など）にアクセスを提供し、システムの安全性を透明性をもって評価",
+      "データセンターの電力コスト増加を企業が負担する約束など、社会への影響を自発的に管理",
+      "AI の急速な発展に制度が追いつかない問題に対し、政策提案を通じて対応",
+      "AI 教育支援や民主的利益の保護など、社会全体の利益を考慮した活動を展開",
+      "使用ポリシーの定期的な更新や遵守フレームワークの公開により、ルール作りに主体的に関与"
+    ],
+    "analogy": "Anthropic の取り組みは、新しい橋を建設する建築会社が、設計図を独立した検査官に見せて安全性をチェックしてもらい、橋の建設で近所の電気代が上がったら負担するようなもの。ただ利益を追求するのではなく、社会全体に悪影響が出ないよう主体的に責任を取っている姿勢です。",
+    "category": "企業ニュース、ポリシー、安全性、パートナーシップ",
+    "summarized": true
+  },
+  "anthropic:product": {
+    "source": "anthropic",
+    "slug": "product",
+    "url": "https://www.anthropic.com/news/product",
+    "title_original": "Product",
+    "title_ja": "Anthropic製品ニュース - AI Claudeの多様な活用拡大",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-22",
+    "lastmod": "2026-10-22",
+    "summary": "Anthropic（AI技術企業）は、AI技術「Claude」を様々な業界や用途に対応させるための大規模な製品展開を行っています。金融サービス、医療、教育、非営利団体など、特定の業界向けにカスタマイズされたClaudeのバージョンを提供中です。また、「Agent Skills」という標準規格を開発し、ChatGPTやGitHub Copilotなど70以上のAIプラットフォームに統合されました。Claudeは単なるチャットツールから、コード開発支援、デザイン制作、科学研究など、多くの専門的な作業をサポートするツールへと進化しています。SpaceXとの計算資源提携により、サービス提供能力も大幅に強化されています。",
+    "points": [
+      "Claudeが金融・医療・教育・クリエイティブなど特定業界向けに特化したバージョンを続々リリース中",
+      "「Agent Skills」という共通規格が70以上のAIプラットフォームに統合され、AI間の相互運用性が向上",
+      "教育者向けの無料プログラムや非営利団体向け割引など、社会への貢献も強化",
+      "コード開発やデザイン制作など、プロフェッショナル向けの高度な機能が次々と追加されている",
+      "SpaceXとの提携で処理能力が向上し、より多くのユーザーがClaudeを利用可能に"
+    ],
+    "analogy": "Claudeの多様化は、一台の汎用車から、タクシー、救急車、配送トラック、クレーン車など、用途別の専門車両が次々と開発されるようなものです。基本的な技術は同じですが、それぞれの業界や職業のニーズに合わせてカスタマイズされることで、より多くの人や組織に価値を提供しています。",
+    "category": "製品アップデート、パートナーシップ",
+    "summarized": true
   }
 }
