@@ -9186,5 +9186,47 @@
     "analogy": "Claudeの多様化は、一台の汎用車から、タクシー、救急車、配送トラック、クレーン車など、用途別の専門車両が次々と開発されるようなものです。基本的な技術は同じですが、それぞれの業界や職業のニーズに合わせてカスタマイズされることで、より多くの人や組織に価値を提供しています。",
     "category": "製品アップデート、パートナーシップ",
     "summarized": true
+  },
+  "anthropic:safeguards": {
+    "source": "anthropic",
+    "slug": "safeguards",
+    "url": "https://www.anthropic.com/news/safeguards",
+    "title_original": "Safeguards",
+    "title_ja": "Anthropic、AIの安全性確保に向けた包括的なセーフガード戦略を展開",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-14",
+    "lastmod": "2026-10-14",
+    "summary": "Anthropicは、AI技術（ChatGPTのような会話型AI）の安全性を確保するため、複数の対策を継続的に強化しています。2026年の米国中間選挙への対応、不正なモデル複製への対抗、企業向けのプライバシー保護ソリューション、サイバー攻撃対策、核関連情報の悪用防止など、多角的なセーフガード（安全装置）を実施しています。特に、不正な複製を90%以上削減、核関連の危険な会話を96%の精度で検知するなど、具体的な成果を上げています。政府機関との協力や外部の専門家による独立した検証も行い、透明性と信頼性を重視した体制を構築しています。",
+    "points": [
+      "選挙での不正利用防止、核情報悪用防止、サイバー攻撃対策など、多様な脅威に対する段階的なセーフガードを実装",
+      "不正なモデル複製を90%以上削減し、AI技術の無許可コピーを防止",
+      "企業向けの新ソリューション『Enterprise Frontier Safeguards』で、プライバシーと安全性を両立",
+      "政府機関（CAISI、AISI等）や外部セキュリティ企業（HackerOne等）と協力し、独立した検証と改善を継続",
+      "テキスト透かし技術の導入やバグ報告プログラムを通じて、透明性と継続的な改善体制を確立"
+    ],
+    "analogy": "AIのセーフガードは、銀行のセキュリティ対策と似ています。複数の警備員（検知システム）が出入口（各種悪用リスク）を守り、定期的に防犯訓練（セキュリティテスト）を実施し、外部の監査人（政府機関）が検査する──という多層防御によって、初めて安全が保たれるのです。",
+    "category": "安全性",
+    "summarized": true
+  },
+  "anthropic:security": {
+    "source": "anthropic",
+    "slug": "security",
+    "url": "https://www.anthropic.com/news/security",
+    "title_original": "Security",
+    "title_ja": "Anthropic のセキュリティ戦略：AI時代のサイバー防御を強化",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-08",
+    "lastmod": "2026-10-08",
+    "summary": "Anthropic は、AI技術（人工知能）の悪用防止と社会インフラのセキュリティ強化に取り組んでいます。2026年に「Anthropic Cyber Mission」を立ち上げ、長期的なセキュリティ対策に注力しています。同社は独自のAI「Claude」が悪意のある目的で使われるのを検出・阻止したり、他の企業が自社のAIを盗もうとする不正な行為を防いだりしています。また「Project Glasswing」という世界中の重要なソフトウェアを守る取り組みを150以上の組織に拡大し、Firefoxなどのセキュリティ改善にも協力しています。Anthropic は、AIが強力になるほど悪用のリスクも高まることを認識し、防御者側にも最新技術を提供することで、業界全体のセキュリティ水準を高める方針を示しています。",
+    "points": [
+      "Anthropic Cyber Mission で、AIの悪用防止と社会インフラ保護に長期的に取り組む",
+      "Claude の不正利用を検出・阻止し、サイバー脅威に対抗する体制を構築",
+      "Project Glasswing により、世界の重要なソフトウェアをAI時代に対応させる",
+      "Mozillaなど外部企業と協力し、防御技術を業界全体に広める",
+      "Claude自体の盗用を防ぎ、AI倫理と安全性を守る"
+    ],
+    "analogy": "Anthropic のセキュリティ対策は、銀行のシステムに例えるとわかりやすいです。強力な金庫（AI）を作ったら、それが盗まれないように監視し、不正使用を防ぎ、さらには他の銀行にも防御方法を教えることで、業界全体の安全性を高めるようなものです。",
+    "category": "安全性",
+    "summarized": true
   }
 }
