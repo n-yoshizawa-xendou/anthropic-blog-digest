@@ -9228,5 +9228,26 @@
     "analogy": "Anthropic のセキュリティ対策は、銀行のシステムに例えるとわかりやすいです。強力な金庫（AI）を作ったら、それが盗まれないように監視し、不正使用を防ぎ、さらには他の銀行にも防御方法を教えることで、業界全体の安全性を高めるようなものです。",
     "category": "安全性",
     "summarized": true
+  },
+  "anthropic:s1-sec": {
+    "source": "anthropic",
+    "slug": "s1-sec",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "title_original": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "title_ja": "Anthropic、新規株式公開（IPO）に向けてSEC に申請書を提出",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-26",
+    "lastmod": "2026-10-26T15:04:18.000Z",
+    "summary": "AI安全性研究企業のAnthropicが、アメリカの金融監視機関（SEC）に新規株式公開（IPO）の申請書を提出しました。NasdaqにANTというティッカーシンボルで上場予定です。IPOとは、これまで非公開だった企業が初めて株式を一般投資家に販売することを指します。具体的な株数や価格はまだ決まっていません。この動きは、Anthropicが成長を続け、より多くの資金を調達する必要があることを意味します。Goldman SachsとMorgan Stanleyが引受け業者として関わっています。実際の株式販売は、SECの承認後に始まります。",
+    "points": [
+      "AnthropicがNASDAQへの上場を目指してSECに正式な申請書を提出した",
+      "株式シンボルは「ANT」となる予定",
+      "具体的な公開株数と価格はまだ決定されていない",
+      "Goldman SachsとMorgan Stanleyが主幹事企業として協力している",
+      "SECの承認を得るまでは、実際の株式販売は開始されない"
+    ],
+    "analogy": "これは家族で経営してきた店が、大きく成長したので銀行から融資を受ける代わりに、誰でも店の一部を買って所有者になれるようにするのと似ています。そうすることで必要な資金を集めて、さらに大きく成長することができます。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
