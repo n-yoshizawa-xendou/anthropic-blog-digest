@@ -9249,5 +9249,26 @@
     "analogy": "これは家族で経営してきた店が、大きく成長したので銀行から融資を受ける代わりに、誰でも店の一部を買って所有者になれるようにするのと似ています。そうすることで必要な資金を集めて、さらに大きく成長することができます。",
     "category": "企業ニュース",
     "summarized": true
+  },
+  "anthropic:expanding-partnership-gsa": {
+    "source": "anthropic",
+    "slug": "expanding-partnership-gsa",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "title_original": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "title_ja": "Anthropicが米国政府向けClaudeサービスを大幅に拡充～40%割引と専用支援プログラムを導入",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "published": "2026-10-27",
+    "lastmod": "2026-10-27T22:21:46.000Z",
+    "summary": "AI企業のAnthropicは、米国政府機関向けにAIアシスタント「Claude」の提供を大幅に拡充しました。政府一般調達局（GSA）との新しい提携により、連邦・州・地方・部族政府は40%の割引価格でClaudeを購入できるようになります。最低利用額の義務がなく、使用量に応じた支払いが可能です。現在、約500の政府機関がClaudeを使用しており、この割引により政府全体で年間約10億ドルの節約が見込まれています。また、民間企業向けのベストプラクティスを政府機関に提供する専用支援プログラムも開始され、ソフトウェア開発や サイバーセキュリティ対応など、様々な業務の効率化に成功しています。",
+    "points": [
+      "GSA提携により、政府機関が40%割引でClaudeを購入可能。最低支出義務なしで柔軟に利用できる",
+      "約500の政府機関が既に利用中で、利用者数は2月比で約8倍に、年間では約20倍に増加",
+      "年間約10億ドルの政府支出削減を見込む",
+      "FedRAMP High認可取得など、政府の厳格なセキュリティ要件に対応",
+      "ソフトウェア開発やサイバーセキュリティ対応など、具体的な業務改善の成果が報告されている"
+    ],
+    "analogy": "政府機関がClaudeを導入するのは、企業が新しい社員研修プログラムを導入するようなもの。最初は試験的に導入（割引で低コスト開始）し、使い方を学ぶ支援（専用プログラム）を受けることで、段階的に業務効率を高めていく過程と同じです。",
+    "category": "パートナーシップ・企業ニュース",
+    "summarized": true
   }
 }
