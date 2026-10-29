@@ -9270,5 +9270,26 @@
     "analogy": "政府機関がClaudeを導入するのは、企業が新しい社員研修プログラムを導入するようなもの。最初は試験的に導入（割引で低コスト開始）し、使い方を学ぶ支援（専用プログラム）を受けることで、段階的に業務効率を高めていく過程と同じです。",
     "category": "パートナーシップ・企業ニュース",
     "summarized": true
+  },
+  "anthropic:ai-for-science-expands-foundations-research-institutions": {
+    "source": "anthropic",
+    "slug": "ai-for-science-expands-foundations-research-institutions",
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "title_original": "AI for Science expands to foundations and institutions",
+    "title_ja": "AI for Science プログラムが世界中の研究機関へ拡大",
+    "description": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+    "published": "2026-10-28",
+    "lastmod": "2026-10-28T23:59:00.000Z",
+    "summary": "Anthropic は AI科学研究支援プログラム「AI for Science」の拡大を発表しました。このプログラムは、高い影響力を持つ科学プロジェクトに取り組む研究者に無料で Claude（AI）を提供しています。今回、世界中の20の科学財団・研究機関・研究グループとのパートナーシップを発表。生物学、医学、物理、化学、気候科学、数学など様々な分野の研究者が Claude を使って、仮説の生成、実験設計、データ分析、成果発表を加速させています。さらに、NASAの宇宙望遠鏡データ分析、ゲノム研究、がん治療法の開発など、大きな社会的インパクトを持つ20の具体的なプロジェクトも支援していきます。このようにAIと人間の科学者が協力することで、人類の最大の課題解決に向けた科学の進展が加速すると期待されています。",
+    "points": [
+      "AI for Science プログラムが20の科学財団・研究機関と提携し、世界規模で拡大",
+      "研究者が Claude を使い、仮説生成、実験設計、データ分析を高速化",
+      "NASAの宇宙望遠鏡、ゲノム研究、がん治療など社会インパクトの大きい20の具体的プロジェクトを支援",
+      "研究成果はオープンデータセット、オープンソースソフトウェア等として全科学者が利用可能に",
+      "AI と研究機関の協力により、科学的発見と人類の課題解決が加速"
+    ],
+    "analogy": "これは、図書館が本の検索から論文の執筆支援まで、研究者の作業全体をサポートするようなもの。個々の研究者だけでなく、大学や研究機関全体が AI というアシスタントを手に入れることで、より複雑で大規模な研究プロジェクトに取り組める環境が整ったということです。",
+    "category": "AI技術, パートナーシップ, 研究",
+    "summarized": true
   }
 }
