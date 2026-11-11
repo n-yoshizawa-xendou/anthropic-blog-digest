@@ -9291,5 +9291,26 @@
     "analogy": "これは、図書館が本の検索から論文の執筆支援まで、研究者の作業全体をサポートするようなもの。個々の研究者だけでなく、大学や研究機関全体が AI というアシスタントを手に入れることで、より複雑で大規模な研究プロジェクトに取り組める環境が整ったということです。",
     "category": "AI技術, パートナーシップ, 研究",
     "summarized": true
+  },
+  "anthropic:roadshow-launch": {
+    "source": "anthropic",
+    "slug": "roadshow-launch",
+    "url": "https://www.anthropic.com/news/roadshow-launch",
+    "title_original": "Anthropic launches roadshow for proposed initial public offering",
+    "title_ja": "Anthropicが新規公開株式公募（IPO）のロードショーを開始",
+    "description": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+    "published": "2026-11-10",
+    "lastmod": "2026-11-10T11:32:16.000Z",
+    "summary": "AI企業のAnthropicが株式公開（IPO）に向けた本格的な活動を開始しました。約8億2,500万株の株式を公開予定で、予定価格は1株70～78ドル。2026年内の上場を目指しており、Nasdaqで「ANT」というティッカーシンボルでの上場を予定しています。この資金調達により、Anthropicはクロード（Claude）などのAI技術の開発をさらに加速させることが期待されています。",
+    "points": [
+      "Anthropicが約8億2,500万株の新規株式公開を計画中",
+      "予定価格は1株70～78ドル、Nasdaqで上場予定",
+      "ゴールドマン・サックスとモルガン・スタンレーが主幹事企業として関与",
+      "株式公開により、AI開発の研究費や人材確保が加速する見通し",
+      "正式な公開前の準備段階（ロードショー）を現在実施中"
+    ],
+    "analogy": "IPOは、これまで限られた投資家だけが所有していた会社を、一般の投資家も購入できるようにする「家の売却」のようなものです。会社という『家』の所有権の一部を小分けにして、多くの人に販売することで、大きな資金を集める手段です。",
+    "category": "企業ニュース",
+    "summarized": true
   }
 }
